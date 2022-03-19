@@ -4,34 +4,34 @@ This is a list of repositories starred by [lemon-mint](https://github.com/lemon-
 
 # Table of Contents
 
-* [Assembly](#itt5jmsii2oxh7pnkhpk46ty)
-* [C](#nmr4bvptlunrd6nwqpylbjqx)
-* [C#](#aqbcrbdovvfedfiul7qisnb4)
-* [C++](#6hplox5cdu6epjxhurmwpn47)
-* [CSS](#wwa6iycczp53bl2fikufqb42)
-* [Dart](#ljod65plz3isckp47vjzdzia)
-* [Dockerfile](#3uwa5nxklt6gys6u5lbqsnhc)
-* [Go](#ntefdg4rlbhixvbv2yzudyed)
-* [HTML](#a4rz3pjkdio5pe56sbrkebpl)
-* [Java](#yg5gbtqtlbsqhiq2axu66c5z)
-* [JavaScript](#wj5na3ishrqul65h5eqxuth3)
-* [Jupyter Notebook](#zgfwagimbry7jbnnry7fv6ip)
-* [Kotlin](#y6hwzf4sh2a2f4cpbhc6q63j)
-* [PHP](#bjvbknc22dd6g3wz3q7mtsgo)
-* [Python](#dcef6j5vv6ibfxyz4slemd4s)
-* [Rust](#3gvit7orllk4ihm4ckh677u6)
-* [Sage](#l6vhcotv253apc264l622zpe)
-* [Shell](#u4zsqveg2vbygj6dpl3on2ck)
-* [Starlark](#awx5ue4ax2ebytltckfjwm7v)
-* [TypeScript](#5ucqj5ykjd76t3ix47o64avh)
-* [V](#3zng66arn3fgfv74ltqvtur2)
-* [Vim script](#jxmfozn2aqhahyzap4ycrraz)
-* [Vue](#wei2fiqylsxnpbmqt4oveyqh)
-* [Unknown](#w5sm3qhkw4jxizzbcjzpuu47)
+* [Assembly](#v-itt5jmsii2oxh7pnkhpk46ty)
+* [C](#v-nmr4bvptlunrd6nwqpylbjqx)
+* [C#](#v-aqbcrbdovvfedfiul7qisnb4)
+* [C++](#v-6hplox5cdu6epjxhurmwpn47)
+* [CSS](#v-wwa6iycczp53bl2fikufqb42)
+* [Dart](#v-ljod65plz3isckp47vjzdzia)
+* [Dockerfile](#v-3uwa5nxklt6gys6u5lbqsnhc)
+* [Go](#v-ntefdg4rlbhixvbv2yzudyed)
+* [HTML](#v-a4rz3pjkdio5pe56sbrkebpl)
+* [Java](#v-yg5gbtqtlbsqhiq2axu66c5z)
+* [JavaScript](#v-wj5na3ishrqul65h5eqxuth3)
+* [Jupyter Notebook](#v-zgfwagimbry7jbnnry7fv6ip)
+* [Kotlin](#v-y6hwzf4sh2a2f4cpbhc6q63j)
+* [PHP](#v-bjvbknc22dd6g3wz3q7mtsgo)
+* [Python](#v-dcef6j5vv6ibfxyz4slemd4s)
+* [Rust](#v-3gvit7orllk4ihm4ckh677u6)
+* [Sage](#v-l6vhcotv253apc264l622zpe)
+* [Shell](#v-u4zsqveg2vbygj6dpl3on2ck)
+* [Starlark](#v-awx5ue4ax2ebytltckfjwm7v)
+* [TypeScript](#v-5ucqj5ykjd76t3ix47o64avh)
+* [V](#v-3zng66arn3fgfv74ltqvtur2)
+* [Vim script](#v-jxmfozn2aqhahyzap4ycrraz)
+* [Vue](#v-wei2fiqylsxnpbmqt4oveyqh)
+* [Unknown](#v-w5sm3qhkw4jxizzbcjzpuu47)
 
 # Assembly
 
-<a name="itt5jmsii2oxh7pnkhpk46ty"></a>
+<a name="v-itt5jmsii2oxh7pnkhpk46ty"></a>
 ## [bytedance/sonic](https://github.com/bytedance/sonic)
 
 Author: [bytedance](https://github.com/bytedance)
@@ -59,7 +59,7 @@ Reed-Solomon Erasure Coding in Go
 
 # C
 
-<a name="nmr4bvptlunrd6nwqpylbjqx"></a>
+<a name="v-nmr4bvptlunrd6nwqpylbjqx"></a>
 ## [DataDog/zstd](https://github.com/DataDog/zstd)
 
 Author: [DataDog](https://github.com/DataDog)
@@ -207,7 +207,7 @@ go wrapper for zstd
 
 # C#
 
-<a name="aqbcrbdovvfedfiul7qisnb4"></a>
+<a name="v-aqbcrbdovvfedfiul7qisnb4"></a>
 ## [JasonStein/Notepads](https://github.com/JasonStein/Notepads)
 
 Author: [JasonStein](https://github.com/JasonStein)
@@ -251,7 +251,7 @@ Stars: 317
 
 # C++
 
-<a name="6hplox5cdu6epjxhurmwpn47"></a>
+<a name="v-6hplox5cdu6epjxhurmwpn47"></a>
 ## [System-Glitch/SHA256](https://github.com/System-Glitch/SHA256)
 
 Author: [System-Glitch](https://github.com/System-Glitch)
@@ -351,7 +351,7 @@ Fast, typo tolerant, fuzzy search engine for building delightful search experien
 
 # CSS
 
-<a name="wwa6iycczp53bl2fikufqb42"></a>
+<a name="v-wwa6iycczp53bl2fikufqb42"></a>
 ## [jyo925/Spring-Project-PMService](https://github.com/jyo925/Spring-Project-PMService)
 
 Author: [jyo925](https://github.com/jyo925)
@@ -363,7 +363,7 @@ Stars: 3
 
 # Dart
 
-<a name="ljod65plz3isckp47vjzdzia"></a>
+<a name="v-ljod65plz3isckp47vjzdzia"></a>
 ## [hybs310/FirstFlutter](https://github.com/hybs310/FirstFlutter)
 
 Author: [hybs310](https://github.com/hybs310)
@@ -375,7 +375,7 @@ Stars: 1
 
 # Dockerfile
 
-<a name="3uwa5nxklt6gys6u5lbqsnhc"></a>
+<a name="v-3uwa5nxklt6gys6u5lbqsnhc"></a>
 ## [lemon-mint/lemons-dockers](https://github.com/lemon-mint/lemons-dockers)
 
 Author: [lemon-mint](https://github.com/lemon-mint)
@@ -395,7 +395,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 
 # Go
 
-<a name="ntefdg4rlbhixvbv2yzudyed"></a>
+<a name="v-ntefdg4rlbhixvbv2yzudyed"></a>
 ## [3dentlabs/3dent](https://github.com/3dentlabs/3dent)
 
 Author: [3dentlabs](https://github.com/3dentlabs)
@@ -2552,7 +2552,7 @@ The world’s most powerful template engine and Go embeddable interpreter
 
 Author: [panjf2000](https://github.com/panjf2000)
 
-Stars: 6181
+Stars: 6182
 
 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 
@@ -2760,7 +2760,7 @@ The unix-way web crawler
 
 Author: [samber](https://github.com/samber)
 
-Stars: 3679
+Stars: 3680
 
 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
@@ -3359,7 +3359,7 @@ A modern and intuitive terminal-based text editor
 
 # HTML
 
-<a name="a4rz3pjkdio5pe56sbrkebpl"></a>
+<a name="v-a4rz3pjkdio5pe56sbrkebpl"></a>
 ## [WebReflection/linkedom](https://github.com/WebReflection/linkedom)
 
 Author: [WebReflection](https://github.com/WebReflection)
@@ -3443,7 +3443,7 @@ Shipment tracking library for Golang.
 
 # Java
 
-<a name="yg5gbtqtlbsqhiq2axu66c5z"></a>
+<a name="v-yg5gbtqtlbsqhiq2axu66c5z"></a>
 ## [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
 
 Author: [Konloch](https://github.com/Konloch)
@@ -3503,12 +3503,12 @@ Non-Blocking Reactive Foundation for the JVM
 
 # JavaScript
 
-<a name="wj5na3ishrqul65h5eqxuth3"></a>
+<a name="v-wj5na3ishrqul65h5eqxuth3"></a>
 ## [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
 Author: [30-seconds](https://github.com/30-seconds)
 
-Stars: 93228
+Stars: 93227
 
 Short JavaScript code snippets for all your development needs
 
@@ -3628,7 +3628,7 @@ The AMP web component framework.
 
 Author: [anuraghazra](https://github.com/anuraghazra)
 
-Stars: 38804
+Stars: 38805
 
 :zap: Dynamically generated stats for your github readmes
 
@@ -3652,7 +3652,7 @@ Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 
 Author: [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
-Stars: 80493
+Stars: 80494
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -3987,7 +3987,7 @@ Stars: 12
 
 # Jupyter Notebook
 
-<a name="zgfwagimbry7jbnnry7fv6ip"></a>
+<a name="v-zgfwagimbry7jbnnry7fv6ip"></a>
 ## [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)
 
 Author: [deepmind](https://github.com/deepmind)
@@ -3999,7 +3999,7 @@ This repository contains implementations and illustrative code to accompany Deep
 
 # Kotlin
 
-<a name="y6hwzf4sh2a2f4cpbhc6q63j"></a>
+<a name="v-y6hwzf4sh2a2f4cpbhc6q63j"></a>
 ## [pple-link/pple-assets](https://github.com/pple-link/pple-assets)
 
 Author: [pple-link](https://github.com/pple-link)
@@ -4011,7 +4011,7 @@ Stars: 10
 
 # PHP
 
-<a name="bjvbknc22dd6g3wz3q7mtsgo"></a>
+<a name="v-bjvbknc22dd6g3wz3q7mtsgo"></a>
 ## [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
 
 Author: [BookStackApp](https://github.com/BookStackApp)
@@ -4063,7 +4063,7 @@ Which is the fastest web framework?
 
 # Python
 
-<a name="dcef6j5vv6ibfxyz4slemd4s"></a>
+<a name="v-dcef6j5vv6ibfxyz4slemd4s"></a>
 ## [3b1b/manim](https://github.com/3b1b/manim)
 
 Author: [3b1b](https://github.com/3b1b)
@@ -4252,7 +4252,7 @@ Small, fast HTTP client library for Python. Features persistent connections, cac
 
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 12797
+Stars: 12798
 
 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 
@@ -4260,7 +4260,7 @@ Stars: 12797
 
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 59598
+Stars: 59599
 
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
@@ -4427,7 +4427,7 @@ implement classification for CAPTCHA in TensorFlow
 
 # Rust
 
-<a name="3gvit7orllk4ihm4ckh677u6"></a>
+<a name="v-3gvit7orllk4ihm4ckh677u6"></a>
 ## [AcrylicShrimp/clr-parser-generator](https://github.com/AcrylicShrimp/clr-parser-generator)
 
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
@@ -4600,7 +4600,7 @@ Stars: 12579
 
 Author: [denoland](https://github.com/denoland)
 
-Stars: 80943
+Stars: 80945
 
 A modern runtime for JavaScript and TypeScript.
 
@@ -4760,7 +4760,7 @@ Empowering everyone to build reliable and efficient software.
 
 Author: [rustdesk](https://github.com/rustdesk)
 
-Stars: 15974
+Stars: 15975
 
 Yet another remote desktop software
 
@@ -4816,7 +4816,7 @@ Rust-based platform for the Web
 
 Author: [tauri-apps](https://github.com/tauri-apps)
 
-Stars: 34979
+Stars: 34980
 
 Build smaller, faster, and more secure desktop applications with a web frontend.
 
@@ -4847,7 +4847,7 @@ A web browser engine for the space age :rocket:
 
 # Sage
 
-<a name="l6vhcotv253apc264l622zpe"></a>
+<a name="v-l6vhcotv253apc264l622zpe"></a>
 ## [lducas/SchnorrGate](https://github.com/lducas/SchnorrGate)
 
 Author: [lducas](https://github.com/lducas)
@@ -4859,7 +4859,7 @@ Testing Schnorr's factorization claim in Sage
 
 # Shell
 
-<a name="u4zsqveg2vbygj6dpl3on2ck"></a>
+<a name="v-u4zsqveg2vbygj6dpl3on2ck"></a>
 ## [angristan/wireguard-install](https://github.com/angristan/wireguard-install)
 
 Author: [angristan](https://github.com/angristan)
@@ -4895,7 +4895,7 @@ Node version management
 
 # Starlark
 
-<a name="awx5ue4ax2ebytltckfjwm7v"></a>
+<a name="v-awx5ue4ax2ebytltckfjwm7v"></a>
 ## [googleapis/googleapis](https://github.com/googleapis/googleapis)
 
 Author: [googleapis](https://github.com/googleapis)
@@ -4907,7 +4907,7 @@ Public interface definitions of Google APIs.
 
 # TypeScript
 
-<a name="5ucqj5ykjd76t3ix47o64avh"></a>
+<a name="v-5ucqj5ykjd76t3ix47o64avh"></a>
 ## [AcrylicShrimp/devlog-backend](https://github.com/AcrylicShrimp/devlog-backend)
 
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
@@ -5168,7 +5168,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 Author: [supabase](https://github.com/supabase)
 
-Stars: 29700
+Stars: 29701
 
 The open source Firebase alternative. Follow to stay updated about our public Beta.
 
@@ -5216,14 +5216,14 @@ Build fast websites, faster. 🚀🧑‍🚀✨
 
 Author: [xtermjs](https://github.com/xtermjs)
 
-Stars: 12538
+Stars: 12539
 
 A terminal for the web
 
 
 # V
 
-<a name="3zng66arn3fgfv74ltqvtur2"></a>
+<a name="v-3zng66arn3fgfv74ltqvtur2"></a>
 ## [vlang/v](https://github.com/vlang/v)
 
 Author: [vlang](https://github.com/vlang)
@@ -5235,7 +5235,7 @@ Simple, fast, safe, compiled language for developing maintainable software. Comp
 
 # Vim script
 
-<a name="jxmfozn2aqhahyzap4ycrraz"></a>
+<a name="v-jxmfozn2aqhahyzap4ycrraz"></a>
 ## [Azabell1993/Linux_Setting](https://github.com/Azabell1993/Linux_Setting)
 
 Author: [Azabell1993](https://github.com/Azabell1993)
@@ -5255,7 +5255,7 @@ Ready to use, fully configured for Go development.
 
 # Vue
 
-<a name="wei2fiqylsxnpbmqt4oveyqh"></a>
+<a name="v-wei2fiqylsxnpbmqt4oveyqh"></a>
 ## [enqueuezero/site](https://github.com/enqueuezero/site)
 
 Author: [enqueuezero](https://github.com/enqueuezero)
@@ -5275,7 +5275,7 @@ Stars: 140
 
 # Unknown
 
-<a name="w5sm3qhkw4jxizzbcjzpuu47"></a>
+<a name="v-w5sm3qhkw4jxizzbcjzpuu47"></a>
 ## [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents)
 
 Author: [Integerous](https://github.com/Integerous)
