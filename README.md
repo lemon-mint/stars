@@ -1836,7 +1836,7 @@ Fortio load testing library, command line tool, advanced echo server and web UI 
 
 Author: [foxcpp](https://github.com/foxcpp)
 
-Stars: 2950
+Stars: 2949
 
 ✉️ Composable all-in-one mail server.
 
@@ -2097,7 +2097,7 @@ Supports live reloading for Go
 
 Author: [gofiber](https://github.com/gofiber)
 
-Stars: 19029
+Stars: 19030
 
 ⚡️ Express inspired web framework written in Go
 
@@ -4158,7 +4158,7 @@ XXH3 algorithm in Go
 
 Author: [zeromicro](https://github.com/zeromicro)
 
-Stars: 15623
+Stars: 15624
 
 A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 
@@ -4610,7 +4610,7 @@ Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 
 Author: [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
-Stars: 80498
+Stars: 80499
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -4619,7 +4619,7 @@ A list of Free Software network services and web applications which can be hoste
 
 Author: [badges](https://github.com/badges)
 
-Stars: 16421
+Stars: 16422
 
 Concise, consistent, and legible badges in SVG and raster format
 
@@ -4808,7 +4808,7 @@ A general purpose internationalization library in 292 bytes
 
 Author: [mui](https://github.com/mui)
 
-Stars: 76733
+Stars: 76734
 
 MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 
@@ -5251,7 +5251,7 @@ Stars: 2544
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 132432
+Stars: 132433
 
 All Algorithms implemented in Python
 
@@ -5794,7 +5794,7 @@ Stars: 12579
 
 Author: [denoland](https://github.com/denoland)
 
-Stars: 80950
+Stars: 80951
 
 A modern runtime for JavaScript and TypeScript.
 
@@ -6124,7 +6124,7 @@ A small set of simple scripts to manage virtual environment on *Alpine Linux* fo
 
 Author: [tj](https://github.com/tj)
 
-Stars: 16026
+Stars: 16027
 
 Node version management
 
