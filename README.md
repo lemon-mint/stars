@@ -136,7 +136,7 @@ OSv, a new operating system for the cloud.
 
 Author: [facebook](https://github.com/facebook)
 
-Stars: 16597
+Stars: 16598
 
 Zstandard - Fast real-time compression algorithm
 
@@ -379,7 +379,7 @@ A Very Low-Bitrate Codec for Speech Compression
 
 Author: [google](https://github.com/google)
 
-Stars: 12202
+Stars: 12203
 
 Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 
@@ -790,6 +790,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [shaj13/raft](#repo-i2ixusgc5kd7oudxqkauwftu)
 * [shr0048/gocsv](#repo-qr5gxher72howqcncy3wajnp)
 * [six-ddc/plow](#repo-eaqv6235y76dg46hpdlxfwms)
+* [slackhq/nebula](#repo-jvv4c25bhafouxvqppvfhnrt)
 * [snowmerak/pipe](#repo-hisiioy2l3w557kx3jdtqqo5)
 * [snowmerak/prew](#repo-xultwpxsl66aiikh32btqtd5)
 * [snowmerak/ref](#repo-wnl4xdzbi6aoog4ajh3wst5p)
@@ -1493,7 +1494,7 @@ A Kubernetes ingress controller for Cloudflare's Argo Tunnels
 
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 232
+Stars: 233
 
 Stable Go with Cloudflare (experimental) patches and backports from tip
 
@@ -1547,7 +1548,7 @@ The aim of this project is to publish and archive newsletters to a target email 
 
 Author: [coocood](https://github.com/coocood)
 
-Stars: 3783
+Stars: 3785
 
 A cache library for Go with zero GC overhead.
 
@@ -1952,7 +1953,7 @@ Stars: 512
 
 Author: [go-sql-driver](https://github.com/go-sql-driver)
 
-Stars: 11991
+Stars: 11992
 
 Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 
@@ -2150,7 +2151,7 @@ Leveled execution logs for Go
 
 Author: [golang](https://github.com/golang)
 
-Stars: 96845
+Stars: 96846
 
 The Go programming language
 
@@ -2483,7 +2484,7 @@ A high-performance 100% compatible drop-in replacement of "encoding/json"
 
 Author: [juicedata](https://github.com/juicedata)
 
-Stars: 5000
+Stars: 5001
 
 JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
@@ -3014,7 +3015,7 @@ Stars: 8
 
 Author: [lesismal](https://github.com/lesismal)
 
-Stars: 605
+Stars: 606
 
 Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 
@@ -3311,7 +3312,7 @@ Stars: 123
 
 Author: [photoprism](https://github.com/photoprism)
 
-Stars: 19533
+Stars: 19534
 
 Photos App powered by Go and Google TensorFlow 🌈 ✨
 
@@ -3518,7 +3519,7 @@ The unix-way web crawler
 
 Author: [samber](https://github.com/samber)
 
-Stars: 3681
+Stars: 3683
 
 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
@@ -3584,6 +3585,15 @@ Author: [six-ddc](https://github.com/six-ddc)
 Stars: 2902
 
 A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
+
+<a name="repo-jvv4c25bhafouxvqppvfhnrt"></a>
+## [slackhq/nebula](https://github.com/slackhq/nebula)
+
+Author: [slackhq](https://github.com/slackhq)
+
+Stars: 9423
+
+A scalable overlay networking tool with a focus on performance, simplicity and security
 
 <a name="repo-hisiioy2l3w557kx3jdtqqo5"></a>
 ## [snowmerak/pipe](https://github.com/snowmerak/pipe)
@@ -3869,7 +3879,7 @@ Yaegi is Another Elegant Go Interpreter
 
 Author: [tsenart](https://github.com/tsenart)
 
-Stars: 19231
+Stars: 19233
 
 HTTP load testing tool and library. It's over 9000!
 
@@ -4573,7 +4583,7 @@ The AMP web component framework.
 
 Author: [anuraghazra](https://github.com/anuraghazra)
 
-Stars: 38805
+Stars: 38806
 
 :zap: Dynamically generated stats for your github readmes
 
@@ -4591,7 +4601,7 @@ Stars: 11276
 
 Author: [appwrite](https://github.com/appwrite)
 
-Stars: 16957
+Stars: 16959
 
 Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 
@@ -4600,7 +4610,7 @@ Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 
 Author: [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
-Stars: 80496
+Stars: 80498
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -5110,6 +5120,7 @@ Which is the fastest web framework?
 * [neuml/txtai](#repo-ws3igyywdsaoavio6hhtd5q4)
 * [pahkey/djangobook](#repo-xnpgxr2ngv6c2skeswl4lsfj)
 * [python-trio/trio](#repo-g3yrzfdmrqezgauru3zkdk5v)
+* [pytorch/data](#repo-hzyeqi5k7jcgfpysi4lygfvq)
 * [r9y9/nnsvs](#repo-njvrtlxm6mxpyuucfvujumgy)
 * [src-d/sparkpickle](#repo-ybnj7vryvedgwxmfmx3ldbis)
 * [tkrajina/gpxpy](#repo-5oeo577jjb5ssdm2zwe7b5i4)
@@ -5240,7 +5251,7 @@ Stars: 2544
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 132431
+Stars: 132432
 
 All Algorithms implemented in Python
 
@@ -5303,7 +5314,7 @@ Free, open source crypto trading bot
 
 Author: [google-research](https://github.com/google-research)
 
-Stars: 30690
+Stars: 30691
 
 TensorFlow code and pre-trained models for BERT
 
@@ -5330,7 +5341,7 @@ Small, fast HTTP client library for Python. Features persistent connections, cac
 
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 12798
+Stars: 12799
 
 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 
@@ -5339,7 +5350,7 @@ Stars: 12798
 
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 59600
+Stars: 59603
 
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
@@ -5348,7 +5359,7 @@ Stars: 59600
 
 Author: [iperov](https://github.com/iperov)
 
-Stars: 31744
+Stars: 31745
 
 DeepFaceLab is the leading software for creating deepfakes.
 
@@ -5459,6 +5470,15 @@ Author: [python-trio](https://github.com/python-trio)
 Stars: 4574
 
 Trio – a friendly Python library for async concurrency and I/O
+
+<a name="repo-hzyeqi5k7jcgfpysi4lygfvq"></a>
+## [pytorch/data](https://github.com/pytorch/data)
+
+Author: [pytorch](https://github.com/pytorch)
+
+Stars: 585
+
+A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 
 <a name="repo-njvrtlxm6mxpyuucfvujumgy"></a>
 ## [r9y9/nnsvs](https://github.com/r9y9/nnsvs)
@@ -5702,7 +5722,7 @@ Stars: 197
 
 Author: [boa-dev](https://github.com/boa-dev)
 
-Stars: 2743
+Stars: 2744
 
 Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 
@@ -5774,7 +5794,7 @@ Stars: 12579
 
 Author: [denoland](https://github.com/denoland)
 
-Stars: 80947
+Stars: 80950
 
 A modern runtime for JavaScript and TypeScript.
 
@@ -5945,7 +5965,7 @@ Create book from markdown files. Like Gitbook but implemented in Rust
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 64475
+Stars: 64476
 
 Empowering everyone to build reliable and efficient software.
 
@@ -6017,7 +6037,7 @@ Rust-based platform for the Web
 
 Author: [tauri-apps](https://github.com/tauri-apps)
 
-Stars: 34981
+Stars: 34983
 
 Build smaller, faster, and more secure desktop applications with a web frontend.
 
@@ -6077,7 +6097,7 @@ Testing Schnorr's factorization claim in Sage
 
 Author: [angristan](https://github.com/angristan)
 
-Stars: 3033
+Stars: 3035
 
 WireGuard VPN installer for Linux servers
 
@@ -6334,7 +6354,7 @@ Stars: 20
 
 Author: [kamranahmedse](https://github.com/kamranahmedse)
 
-Stars: 189215
+Stars: 189218
 
 Roadmap to becoming a developer in 2022
 
@@ -6460,7 +6480,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 Author: [supabase](https://github.com/supabase)
 
-Stars: 29702
+Stars: 29703
 
 The open source Firebase alternative. Follow to stay updated about our public Beta.
 
@@ -6667,7 +6687,7 @@ Thoughts on Go performance optimization
 
 Author: [firstcontributions](https://github.com/firstcontributions)
 
-Stars: 22553
+Stars: 22554
 
 🚀✨ Help beginners to contribute to open source projects
 
