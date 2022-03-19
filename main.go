@@ -115,8 +115,8 @@ func BuildMarkdown(stars []Star) string {
 		h := sha256.Sum256([]byte(v.Key))
 		h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
 
-		sb.WriteString(fmt.Sprintf("# %s\n\n", v.Key))
 		sb.WriteString("<a name=\"v-" + h32 + "\"></a>\n")
+		sb.WriteString(fmt.Sprintf("# %s\n\n", v.Key))
 		for _, star := range v.Value {
 			sb.WriteString(fmt.Sprintf("## [%s](%s)\n\n", star.FullName, star.HTMLURL))
 			sb.WriteString(fmt.Sprintf("Author: [%s](%s)\n\n", star.Owner.Login, star.Owner.HTMLURL))
