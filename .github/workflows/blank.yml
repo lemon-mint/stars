@@ -21,9 +21,4 @@ jobs:
         run: |
           go run . > README.md
       - name: commit and push
-        run: |
-          git config --global user.email "55233766+lemon-mint@users.noreply.github.com"
-          git config --global user.name "Update Star List Bot"
-          git add .
-          git commit -m "chore: update star list"
-          git push 
+      - uses: stefanzweifel/git-auto-commit-action@v4
