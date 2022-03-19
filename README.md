@@ -29,9 +29,9 @@ This is a list of repositories starred by [lemon-mint](https://github.com/lemon-
 * [Vue](#v-wei2fiqylsxnpbmqt4oveyqh)
 * [Unknown](#v-w5sm3qhkw4jxizzbcjzpuu47)
 
+<a name="v-itt5jmsii2oxh7pnkhpk46ty"></a>
 # Assembly
 
-<a name="v-itt5jmsii2oxh7pnkhpk46ty"></a>
 ## [bytedance/sonic](https://github.com/bytedance/sonic)
 
 Author: [bytedance](https://github.com/bytedance)
@@ -57,9 +57,9 @@ Stars: 1407
 Reed-Solomon Erasure Coding in Go
 
 
+<a name="v-nmr4bvptlunrd6nwqpylbjqx"></a>
 # C
 
-<a name="v-nmr4bvptlunrd6nwqpylbjqx"></a>
 ## [DataDog/zstd](https://github.com/DataDog/zstd)
 
 Author: [DataDog](https://github.com/DataDog)
@@ -205,9 +205,9 @@ Stars: 320
 go wrapper for zstd
 
 
+<a name="v-aqbcrbdovvfedfiul7qisnb4"></a>
 # C#
 
-<a name="v-aqbcrbdovvfedfiul7qisnb4"></a>
 ## [JasonStein/Notepads](https://github.com/JasonStein/Notepads)
 
 Author: [JasonStein](https://github.com/JasonStein)
@@ -249,9 +249,9 @@ Stars: 317
 식탁보 프로젝트
 
 
+<a name="v-6hplox5cdu6epjxhurmwpn47"></a>
 # C++
 
-<a name="v-6hplox5cdu6epjxhurmwpn47"></a>
 ## [System-Glitch/SHA256](https://github.com/System-Glitch/SHA256)
 
 Author: [System-Glitch](https://github.com/System-Glitch)
@@ -349,9 +349,9 @@ Stars: 9223
 Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 
 
+<a name="v-wwa6iycczp53bl2fikufqb42"></a>
 # CSS
 
-<a name="v-wwa6iycczp53bl2fikufqb42"></a>
 ## [jyo925/Spring-Project-PMService](https://github.com/jyo925/Spring-Project-PMService)
 
 Author: [jyo925](https://github.com/jyo925)
@@ -361,9 +361,9 @@ Stars: 3
 
 
 
+<a name="v-ljod65plz3isckp47vjzdzia"></a>
 # Dart
 
-<a name="v-ljod65plz3isckp47vjzdzia"></a>
 ## [hybs310/FirstFlutter](https://github.com/hybs310/FirstFlutter)
 
 Author: [hybs310](https://github.com/hybs310)
@@ -373,9 +373,9 @@ Stars: 1
 
 
 
+<a name="v-3uwa5nxklt6gys6u5lbqsnhc"></a>
 # Dockerfile
 
-<a name="v-3uwa5nxklt6gys6u5lbqsnhc"></a>
 ## [lemon-mint/lemons-dockers](https://github.com/lemon-mint/lemons-dockers)
 
 Author: [lemon-mint](https://github.com/lemon-mint)
@@ -393,9 +393,9 @@ Stars: 3
 Docker image for easy cross compilation for pytorch library for Raspberry PI 3 SBC
 
 
+<a name="v-ntefdg4rlbhixvbv2yzudyed"></a>
 # Go
 
-<a name="v-ntefdg4rlbhixvbv2yzudyed"></a>
 ## [3dentlabs/3dent](https://github.com/3dentlabs/3dent)
 
 Author: [3dentlabs](https://github.com/3dentlabs)
@@ -1008,7 +1008,7 @@ The aim of this project is to publish and archive newsletters to a target email 
 
 Author: [coocood](https://github.com/coocood)
 
-Stars: 3782
+Stars: 3783
 
 A cache library for Go with zero GC overhead.
 
@@ -3357,9 +3357,9 @@ Stars: 19054
 A modern and intuitive terminal-based text editor
 
 
+<a name="v-a4rz3pjkdio5pe56sbrkebpl"></a>
 # HTML
 
-<a name="v-a4rz3pjkdio5pe56sbrkebpl"></a>
 ## [WebReflection/linkedom](https://github.com/WebReflection/linkedom)
 
 Author: [WebReflection](https://github.com/WebReflection)
@@ -3441,9 +3441,9 @@ Stars: 259
 Shipment tracking library for Golang.
 
 
+<a name="v-yg5gbtqtlbsqhiq2axu66c5z"></a>
 # Java
 
-<a name="v-yg5gbtqtlbsqhiq2axu66c5z"></a>
 ## [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
 
 Author: [Konloch](https://github.com/Konloch)
@@ -3501,9 +3501,9 @@ Stars: 4017
 Non-Blocking Reactive Foundation for the JVM
 
 
+<a name="v-wj5na3ishrqul65h5eqxuth3"></a>
 # JavaScript
 
-<a name="v-wj5na3ishrqul65h5eqxuth3"></a>
 ## [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
 Author: [30-seconds](https://github.com/30-seconds)
@@ -3652,7 +3652,7 @@ Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 
 Author: [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
-Stars: 80494
+Stars: 80495
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -3985,9 +3985,9 @@ Stars: 12
 
 
 
+<a name="v-zgfwagimbry7jbnnry7fv6ip"></a>
 # Jupyter Notebook
 
-<a name="v-zgfwagimbry7jbnnry7fv6ip"></a>
 ## [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)
 
 Author: [deepmind](https://github.com/deepmind)
@@ -3997,9 +3997,9 @@ Stars: 9859
 This repository contains implementations and illustrative code to accompany DeepMind publications
 
 
+<a name="v-y6hwzf4sh2a2f4cpbhc6q63j"></a>
 # Kotlin
 
-<a name="v-y6hwzf4sh2a2f4cpbhc6q63j"></a>
 ## [pple-link/pple-assets](https://github.com/pple-link/pple-assets)
 
 Author: [pple-link](https://github.com/pple-link)
@@ -4009,9 +4009,9 @@ Stars: 10
 
 
 
+<a name="v-bjvbknc22dd6g3wz3q7mtsgo"></a>
 # PHP
 
-<a name="v-bjvbknc22dd6g3wz3q7mtsgo"></a>
 ## [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
 
 Author: [BookStackApp](https://github.com/BookStackApp)
@@ -4061,9 +4061,9 @@ Stars: 6240
 Which is the fastest web framework?
 
 
+<a name="v-dcef6j5vv6ibfxyz4slemd4s"></a>
 # Python
 
-<a name="v-dcef6j5vv6ibfxyz4slemd4s"></a>
 ## [3b1b/manim](https://github.com/3b1b/manim)
 
 Author: [3b1b](https://github.com/3b1b)
@@ -4425,9 +4425,9 @@ Stars: 60
 implement classification for CAPTCHA in TensorFlow
 
 
+<a name="v-3gvit7orllk4ihm4ckh677u6"></a>
 # Rust
 
-<a name="v-3gvit7orllk4ihm4ckh677u6"></a>
 ## [AcrylicShrimp/clr-parser-generator](https://github.com/AcrylicShrimp/clr-parser-generator)
 
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
@@ -4845,9 +4845,9 @@ Stars: 1545
 A web browser engine for the space age :rocket:
 
 
+<a name="v-l6vhcotv253apc264l622zpe"></a>
 # Sage
 
-<a name="v-l6vhcotv253apc264l622zpe"></a>
 ## [lducas/SchnorrGate](https://github.com/lducas/SchnorrGate)
 
 Author: [lducas](https://github.com/lducas)
@@ -4857,9 +4857,9 @@ Stars: 285
 Testing Schnorr's factorization claim in Sage
 
 
+<a name="v-u4zsqveg2vbygj6dpl3on2ck"></a>
 # Shell
 
-<a name="v-u4zsqveg2vbygj6dpl3on2ck"></a>
 ## [angristan/wireguard-install](https://github.com/angristan/wireguard-install)
 
 Author: [angristan](https://github.com/angristan)
@@ -4893,9 +4893,9 @@ Stars: 16026
 Node version management
 
 
+<a name="v-awx5ue4ax2ebytltckfjwm7v"></a>
 # Starlark
 
-<a name="v-awx5ue4ax2ebytltckfjwm7v"></a>
 ## [googleapis/googleapis](https://github.com/googleapis/googleapis)
 
 Author: [googleapis](https://github.com/googleapis)
@@ -4905,9 +4905,9 @@ Stars: 4455
 Public interface definitions of Google APIs.
 
 
+<a name="v-5ucqj5ykjd76t3ix47o64avh"></a>
 # TypeScript
 
-<a name="v-5ucqj5ykjd76t3ix47o64avh"></a>
 ## [AcrylicShrimp/devlog-backend](https://github.com/AcrylicShrimp/devlog-backend)
 
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
@@ -5128,7 +5128,7 @@ Headless Chrome Node.js API
 
 Author: [remix-run](https://github.com/remix-run)
 
-Stars: 14153
+Stars: 14154
 
 Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
@@ -5221,9 +5221,9 @@ Stars: 12539
 A terminal for the web
 
 
+<a name="v-3zng66arn3fgfv74ltqvtur2"></a>
 # V
 
-<a name="v-3zng66arn3fgfv74ltqvtur2"></a>
 ## [vlang/v](https://github.com/vlang/v)
 
 Author: [vlang](https://github.com/vlang)
@@ -5233,9 +5233,9 @@ Stars: 27202
 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 
 
+<a name="v-jxmfozn2aqhahyzap4ycrraz"></a>
 # Vim script
 
-<a name="v-jxmfozn2aqhahyzap4ycrraz"></a>
 ## [Azabell1993/Linux_Setting](https://github.com/Azabell1993/Linux_Setting)
 
 Author: [Azabell1993](https://github.com/Azabell1993)
@@ -5253,9 +5253,9 @@ Stars: 573
 Ready to use, fully configured for Go development.
 
 
+<a name="v-wei2fiqylsxnpbmqt4oveyqh"></a>
 # Vue
 
-<a name="v-wei2fiqylsxnpbmqt4oveyqh"></a>
 ## [enqueuezero/site](https://github.com/enqueuezero/site)
 
 Author: [enqueuezero](https://github.com/enqueuezero)
@@ -5273,9 +5273,9 @@ Stars: 140
 📝 The official Vue.js blog
 
 
+<a name="v-w5sm3qhkw4jxizzbcjzpuu47"></a>
 # Unknown
 
-<a name="v-w5sm3qhkw4jxizzbcjzpuu47"></a>
 ## [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents)
 
 Author: [Integerous](https://github.com/Integerous)
