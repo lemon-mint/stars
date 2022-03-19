@@ -5024,7 +5024,7 @@ Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 Author: [facebook](https://github.com/facebook)
 
-Stars: 31533
+Stars: 31534
 
 Easy to maintain open source documentation websites.
 
@@ -5056,7 +5056,7 @@ Stars: 20
 
 Author: [kamranahmedse](https://github.com/kamranahmedse)
 
-Stars: 189213
+Stars: 189214
 
 Roadmap to becoming a developer in 2022
 
