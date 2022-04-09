@@ -45,7 +45,7 @@ This is a list of repositories starred by [lemon-mint](https://github.com/lemon-
 
 Author: [bytedance](https://github.com/bytedance)
 
-Stars: 2674
+Stars: 2673
 
 A blazingly fast JSON serializing & deserializing library
 
@@ -106,7 +106,7 @@ Zstd wrapper for Go
 
 Author: [ThakeeNathees](https://github.com/ThakeeNathees)
 
-Stars: 1304
+Stars: 1307
 
 A lightweight, fast embeddable scripting language.
 
@@ -115,7 +115,7 @@ A lightweight, fast embeddable scripting language.
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 12933
+Stars: 12935
 
 Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 
@@ -133,7 +133,7 @@ Very fast, high-quality hash function (non-cryptographic, C) + PRNG
 
 Author: [brendan-rius](https://github.com/brendan-rius)
 
-Stars: 1731
+Stars: 1732
 
 JWT brute force cracker written in C
 
@@ -142,7 +142,7 @@ JWT brute force cracker written in C
 
 Author: [cloudius-systems](https://github.com/cloudius-systems)
 
-Stars: 3671
+Stars: 3672
 
 OSv, a new operating system for the cloud.
 
@@ -160,7 +160,7 @@ Zstandard - Fast real-time compression algorithm
 
 Author: [google](https://github.com/google)
 
-Stars: 10976
+Stars: 10977
 
 Brotli compression format
 
@@ -196,7 +196,7 @@ FourQlib is an efficient and portable cryptographic library that provides functi
 
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 6543
+Stars: 6545
 
 mimalloc is a compact general purpose allocator with excellent performance.
 
@@ -214,7 +214,7 @@ Win32 APIs for WebAuthN standard
 
 Author: [obsproject](https://github.com/obsproject)
 
-Stars: 37475
+Stars: 37482
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
@@ -223,7 +223,7 @@ OBS Studio - Free and open source software for live streaming and screen recordi
 
 Author: [openwrt](https://github.com/openwrt)
 
-Stars: 11115
+Stars: 11117
 
 This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 
@@ -289,7 +289,7 @@ go wrapper for zstd
 
 Author: [JasonStein](https://github.com/JasonStein)
 
-Stars: 6242
+Stars: 6244
 
 A modern, lightweight text editor with a minimalist design.
 
@@ -307,7 +307,7 @@ Stars: 15
 
 Author: [dotnet](https://github.com/dotnet)
 
-Stars: 8648
+Stars: 8652
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
@@ -316,7 +316,7 @@ Stars: 8648
 
 Author: [hellzerg](https://github.com/hellzerg)
 
-Stars: 1781
+Stars: 1786
 
 Make Windows faster and more secure
 
@@ -351,6 +351,7 @@ Stars: 326
 <a name="v-6hplox5cdu6epjxhurmwpn47"></a>
 # C++
 
+* [SieR-VR/shaderpp](#repo-xsdqggdbdwqbkpwk7ujjpdfc)
 * [System-Glitch/SHA256](#repo-mqtdetzuqxyt6qm3zuhrt6g2)
 * [cztomczak/cefpython](#repo-5tygk2v4xrfa3ldhufa3cyn6)
 * [drogonframework/drogon](#repo-2sqf577pmmtu4feri4ajstay)
@@ -365,6 +366,15 @@ Stars: 326
 * [rethinkdb/rethinkdb](#repo-glkk7t4vkbhxjdkfxn5kvoki)
 * [shedskin/shedskin](#repo-cppvea243eo7oqwkgrv4ad43)
 * [typesense/typesense](#repo-3iondv7qxxytiy7hbi7isia5)
+
+<a name="repo-xsdqggdbdwqbkpwk7ujjpdfc"></a>
+## [SieR-VR/shaderpp](https://github.com/SieR-VR/shaderpp)
+
+Author: [SieR-VR](https://github.com/SieR-VR)
+
+Stars: 4
+
+Shader generation for C++
 
 <a name="repo-mqtdetzuqxyt6qm3zuhrt6g2"></a>
 ## [System-Glitch/SHA256](https://github.com/System-Glitch/SHA256)
@@ -389,7 +399,7 @@ Python bindings for the Chromium Embedded Framework (CEF)
 
 Author: [drogonframework](https://github.com/drogonframework)
 
-Stars: 7069
+Stars: 7071
 
 Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 
@@ -398,7 +408,7 @@ Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macO
 
 Author: [google](https://github.com/google)
 
-Stars: 13766
+Stars: 13768
 
 Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 
@@ -407,7 +417,7 @@ Filament is a real-time physically based rendering engine for Android, iOS, Wind
 
 Author: [google](https://github.com/google)
 
-Stars: 5208
+Stars: 5207
 
 C++ implementation of the Google logging module
 
@@ -416,7 +426,7 @@ C++ implementation of the Google logging module
 
 Author: [google](https://github.com/google)
 
-Stars: 3005
+Stars: 3006
 
 A Very Low-Bitrate Codec for Speech Compression
 
@@ -443,7 +453,7 @@ Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 6519
+Stars: 6521
 
 ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
@@ -452,7 +462,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 Author: [nasa](https://github.com/nasa)
 
-Stars: 8804
+Stars: 8805
 
 F' - A flight software and embedded systems framework
 
@@ -461,7 +471,7 @@ F' - A flight software and embedded systems framework
 
 Author: [redpanda-data](https://github.com/redpanda-data)
 
-Stars: 3757
+Stars: 3761
 
 Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 
@@ -470,7 +480,7 @@ Redpanda is a streaming data platform for developers. Kafka API compatible. 10x 
 
 Author: [rethinkdb](https://github.com/rethinkdb)
 
-Stars: 25313
+Stars: 25312
 
 The open-source database for the realtime web.
 
@@ -488,7 +498,7 @@ Shed Skin is a Python to C++ compiler. Read the introduction below to learn abou
 
 Author: [typesense](https://github.com/typesense)
 
-Stars: 9493
+Stars: 9500
 
 Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
@@ -518,7 +528,7 @@ Stars: 3
 
 Author: [NVlabs](https://github.com/NVlabs)
 
-Stars: 5828
+Stars: 5841
 
 Instant neural graphics primitives: lightning fast NeRF and more
 
@@ -545,7 +555,7 @@ All Algorithms implemented in Dart
 
 Author: [firebase](https://github.com/firebase)
 
-Stars: 6446
+Stars: 6448
 
 🔥 A collection of Firebase plugins for Flutter apps.
 
@@ -554,7 +564,7 @@ Stars: 6446
 
 Author: [flame-engine](https://github.com/flame-engine)
 
-Stars: 6113
+Stars: 6115
 
 A minimalist Flutter game engine
 
@@ -920,6 +930,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [msoap/tcg](#repo-32kkbugtc7twyjz35k3icttx)
 * [mudler/edgevpn](#repo-bhndvdiqvsy6rtbfdtvdyiwa)
 * [mudler/poco](#repo-3bawalq6sqoa5asu6d5nxc3g)
+* [mudler/poco-github-action](#repo-3zoejlpmdi5ppne3iug2xn4o)
 * [muesli/reflow](#repo-7wnnhjw6mrdhjmgxv73kldxw)
 * [muesli/termenv](#repo-3a2frp4hj6nc6khjylo2splz)
 * [mvdan/dockexec](#repo-s5j7wpd3z2b5kav2kafw3waj)
@@ -1153,7 +1164,7 @@ an image server which automatically optimize non webp and avif images to webp an
 
 Author: [Dreamacro](https://github.com/Dreamacro)
 
-Stars: 25735
+Stars: 25746
 
 A rule-based tunnel in Go.
 
@@ -1162,7 +1173,7 @@ A rule-based tunnel in Go.
 
 Author: [FiloSottile](https://github.com/FiloSottile)
 
-Stars: 34561
+Stars: 34578
 
 A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
@@ -1189,7 +1200,7 @@ Single producer and multi-reader lockless ring buffer in go using generics from 
 
 Author: [HyNetwork](https://github.com/HyNetwork)
 
-Stars: 1548
+Stars: 1551
 
 Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
 
@@ -1198,7 +1209,7 @@ Hysteria is a feature-packed network utility optimized for networks of poor qual
 
 Author: [IceWhaleTech](https://github.com/IceWhaleTech)
 
-Stars: 3506
+Stars: 3507
 
 CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 
@@ -1225,7 +1236,7 @@ Stars: 339
 
 Author: [MrMarble](https://github.com/MrMarble)
 
-Stars: 106
+Stars: 107
 
 Record, share and export your terminal as a animated SVG image.
 
@@ -1297,7 +1308,7 @@ go/template is a tool for jumpstarting production-ready Golang projects quickly.
 
 Author: [StarpTech](https://github.com/StarpTech)
 
-Stars: 213
+Stars: 214
 
 Modern Web Application with Golang
 
@@ -1306,7 +1317,7 @@ Modern Web Application with Golang
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 9531
+Stars: 9533
 
 Algorithms implemented in Go for beginners, following best practices.
 
@@ -1315,7 +1326,7 @@ Algorithms implemented in Go for beginners, following best practices.
 
 Author: [TomWright](https://github.com/TomWright)
 
-Stars: 2935
+Stars: 2939
 
 Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 
@@ -1324,7 +1335,7 @@ Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a sing
 
 Author: [WireGuard](https://github.com/WireGuard)
 
-Stars: 1236
+Stars: 1237
 
 Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 
@@ -1369,7 +1380,7 @@ Go Solution for LeetCode algorithms problems, 100% coverage.
 
 Author: [abiosoft](https://github.com/abiosoft)
 
-Stars: 3571
+Stars: 3575
 
 Container runtimes on macOS (and Linux) with minimal setup
 
@@ -1405,7 +1416,7 @@ Build hotwire apps using go
 
 Author: [alecthomas](https://github.com/alecthomas)
 
-Stars: 3102
+Stars: 3103
 
 A general purpose syntax highlighter in pure Go 
 
@@ -1432,7 +1443,7 @@ Local file-based atomic cache manager
 
 Author: [alecthomas](https://github.com/alecthomas)
 
-Stars: 2410
+Stars: 2412
 
 A parser library for Go
 
@@ -1549,7 +1560,7 @@ Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 
 Author: [authzed](https://github.com/authzed)
 
-Stars: 2034
+Stars: 2035
 
 Inspired by Google's Zanzibar paper, SpiceDB is an open source database system for managing security-critical application permissions.
 
@@ -1576,7 +1587,7 @@ A tiny cross-platform cross-platform terminal color library that supports enabli
 
 Author: [berty](https://github.com/berty)
 
-Stars: 5585
+Stars: 5587
 
 Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 
@@ -1657,7 +1668,7 @@ One of the fastest alternative JSON parser for Go that does not require schema
 
 Author: [burrowers](https://github.com/burrowers)
 
-Stars: 1626
+Stars: 1627
 
 Obfuscate Go builds
 
@@ -1711,7 +1722,7 @@ Go WebSocket client for Centrifugo and Centrifuge library
 
 Author: [cespare](https://github.com/cespare)
 
-Stars: 2588
+Stars: 2591
 
 Run a command when files change
 
@@ -1747,7 +1758,7 @@ TUI components for Bubble Tea 🍡
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 9675
+Stars: 9686
 
 A powerful little TUI framework 🏗
 
@@ -1765,7 +1776,7 @@ Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 4021
+Stars: 4022
 
 Style definitions for nice terminal layouts 👄
 
@@ -1774,7 +1785,7 @@ Style definitions for nice terminal layouts 👄
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 1851
+Stars: 1854
 
 A tasty, self-hostable Git server for the command line🍦
 
@@ -1810,7 +1821,7 @@ Interactive Assembler for Go
 
 Author: [cilium](https://github.com/cilium)
 
-Stars: 11391
+Stars: 11393
 
 eBPF-based Networking, Security, and Observability
 
@@ -1891,7 +1902,7 @@ Oblivious DoH server in Go
 
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 2128
+Stars: 2129
 
 Graceful process restarts in Go
 
@@ -1900,7 +1911,7 @@ Graceful process restarts in Go
 
 Author: [cloudwego](https://github.com/cloudwego)
 
-Stars: 2490
+Stars: 2491
 
 A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 
@@ -1909,7 +1920,7 @@ A high-performance non-blocking I/O networking framework, which focused on RPC s
 
 Author: [cockroachdb](https://github.com/cockroachdb)
 
-Stars: 431
+Stars: 432
 
 Arbitrary-precision decimals for Go
 
@@ -1927,7 +1938,7 @@ The aim of this project is to publish and archive newsletters to a target email 
 
 Author: [coocood](https://github.com/coocood)
 
-Stars: 4010
+Stars: 4011
 
 A cache library for Go with zero GC overhead.
 
@@ -1936,7 +1947,7 @@ A cache library for Go with zero GC overhead.
 
 Author: [cornelk](https://github.com/cornelk)
 
-Stars: 1087
+Stars: 1086
 
 A Golang lock-free thread-safe HashMap optimized for fastest read access.
 
@@ -1945,7 +1956,7 @@ A Golang lock-free thread-safe HashMap optimized for fastest read access.
 
 Author: [create-go-app](https://github.com/create-go-app)
 
-Stars: 1339
+Stars: 1340
 
 ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 
@@ -1981,7 +1992,7 @@ List your dependencies capabilities and monitor if updates require more  capabil
 
 Author: [d5](https://github.com/d5)
 
-Stars: 2651
+Stars: 2652
 
 A fast script language for Go
 
@@ -1999,7 +2010,7 @@ korean analyzer utility tools
 
 Author: [dapr](https://github.com/dapr)
 
-Stars: 17494
+Stars: 17497
 
 Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
@@ -2017,7 +2028,7 @@ Output tree🌳 or Make directories(files)📁 from Markdown or Programmatically
 
 Author: [debevv](https://github.com/debevv)
 
-Stars: 26
+Stars: 27
 
 A lightweight, persistent, hierarchical key-value store, written in Go
 
@@ -2062,7 +2073,7 @@ A full-featured regex engine in pure Go based on the .NET engine
 
 Author: [dominikh](https://github.com/dominikh)
 
-Stars: 4579
+Stars: 4581
 
 Staticcheck - The advanced Go linter
 
@@ -2170,7 +2181,7 @@ handling 1M websockets connections in Go
 
 Author: [ergo-services](https://github.com/ergo-services)
 
-Stars: 1342
+Stars: 1343
 
 an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
 
@@ -2197,7 +2208,7 @@ Some Go and Linux magic 👻
 
 Author: [etcd-io](https://github.com/etcd-io)
 
-Stars: 39430
+Stars: 39432
 
 Distributed reliable key-value store for the most critical data of a distributed system
 
@@ -2242,7 +2253,7 @@ Stars: 98
 
 Author: [flower-corp](https://github.com/flower-corp)
 
-Stars: 612
+Stars: 614
 
 Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.
 
@@ -2260,7 +2271,7 @@ Fortio load testing library, command line tool, advanced echo server and web UI 
 
 Author: [foxcpp](https://github.com/foxcpp)
 
-Stars: 2984
+Stars: 2985
 
 ✉️ Composable all-in-one mail server.
 
@@ -2269,7 +2280,7 @@ Stars: 2984
 
 Author: [frankban](https://github.com/frankban)
 
-Stars: 413
+Stars: 414
 
 Quick helpers for testing Go applications
 
@@ -2296,7 +2307,7 @@ CircleHash is a family of fast hashes -- CircleHash64 is ideal for short inputs,
 
 Author: [geohot](https://github.com/geohot)
 
-Stars: 2268
+Stars: 2269
 
 A distributed key value store in under 1000 lines. Used in production at comma.ai
 
@@ -2341,7 +2352,7 @@ A secure, flexible, rapid Go web framework
 
 Author: [go-critic](https://github.com/go-critic)
 
-Stars: 1266
+Stars: 1267
 
 The most opinionated Go source code linter for code audit.
 
@@ -2350,7 +2361,7 @@ The most opinionated Go source code linter for code audit.
 
 Author: [go-delve](https://github.com/go-delve)
 
-Stars: 18235
+Stars: 18238
 
 Delve is a debugger for the Go programming language.
 
@@ -2359,7 +2370,7 @@ Delve is a debugger for the Go programming language.
 
 Author: [go-goyave](https://github.com/go-goyave)
 
-Stars: 963
+Stars: 973
 
 🍐 Elegant Golang REST API Framework
 
@@ -2377,7 +2388,7 @@ win32 ole implementation for golang
 
 Author: [go-pdf](https://github.com/go-pdf)
 
-Stars: 123
+Stars: 124
 
 A PDF document generator with high level support for text, drawing and images
 
@@ -2494,7 +2505,7 @@ Stars: 145
 
 Author: [gobuffalo](https://github.com/gobuffalo)
 
-Stars: 6671
+Stars: 6672
 
 Rapid Web Development w/ Go
 
@@ -2521,7 +2532,7 @@ Tiny WebSocket library for Go.
 
 Author: [goccy](https://github.com/goccy)
 
-Stars: 47
+Stars: 48
 
 JIT compile library for Go
 
@@ -2530,7 +2541,7 @@ JIT compile library for Go
 
 Author: [goccy](https://github.com/goccy)
 
-Stars: 1415
+Stars: 1416
 
 Fast JSON encoder/decoder compatible with encoding/json for Go
 
@@ -2566,7 +2577,7 @@ Supports live reloading for Go
 
 Author: [gofiber](https://github.com/gofiber)
 
-Stars: 19406
+Stars: 19415
 
 ⚡️ Express inspired web framework written in Go
 
@@ -2584,7 +2595,7 @@ Stars: 33
 
 Author: [golang-design](https://github.com/golang-design)
 
-Stars: 187
+Stars: 188
 
 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 
@@ -2602,7 +2613,7 @@ Stars: 60
 
 Author: [golang-migrate](https://github.com/golang-migrate)
 
-Stars: 8404
+Stars: 8412
 
 Database migrations. CLI and Golang library.
 
@@ -2611,7 +2622,7 @@ Database migrations. CLI and Golang library.
 
 Author: [golang](https://github.com/golang)
 
-Stars: 3150
+Stars: 3149
 
 Leveled execution logs for Go
 
@@ -2620,7 +2631,7 @@ Leveled execution logs for Go
 
 Author: [golang](https://github.com/golang)
 
-Stars: 97531
+Stars: 97549
 
 The Go programming language
 
@@ -2638,7 +2649,7 @@ Go compiler frontend (gccgo)
 
 Author: [golang](https://github.com/golang)
 
-Stars: 11290
+Stars: 11291
 
 groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 
@@ -2647,7 +2658,7 @@ groupcache is a caching and cache-filling library, intended as a replacement for
 
 Author: [golang](https://github.com/golang)
 
-Stars: 2529
+Stars: 2530
 
 [mirror] Go supplementary network libraries
 
@@ -2674,7 +2685,7 @@ Stars: 893
 
 Author: [golang](https://github.com/golang)
 
-Stars: 2852
+Stars: 2854
 
 Go Project Design Documents
 
@@ -2692,7 +2703,7 @@ Golang Korea 발표 자료 저장소
 
 Author: [gomarkdown](https://github.com/gomarkdown)
 
-Stars: 659
+Stars: 660
 
 markdown parser and HTML renderer for Go
 
@@ -2710,7 +2721,7 @@ Fast, portable, non-Turing complete expression evaluation with gradual typing (G
 
 Author: [google](https://github.com/google)
 
-Stars: 466
+Stars: 467
 
 Reports on the licenses used by a Go package and its dependencies.
 
@@ -2719,7 +2730,7 @@ Reports on the licenses used by a Go package and its dependencies.
 
 Author: [google](https://github.com/google)
 
-Stars: 4748
+Stars: 4749
 
 Provides packet processing capabilities for Go
 
@@ -2728,7 +2739,7 @@ Provides packet processing capabilities for Go
 
 Author: [google](https://github.com/google)
 
-Stars: 10457
+Stars: 10458
 
 Grumpy is a Python to Go source code transcompiler and runtime.
 
@@ -2737,7 +2748,7 @@ Grumpy is a Python to Go source code transcompiler and runtime.
 
 Author: [google](https://github.com/google)
 
-Stars: 12575
+Stars: 12578
 
 Application Kernel for Containers
 
@@ -2746,7 +2757,7 @@ Application Kernel for Containers
 
 Author: [google](https://github.com/google)
 
-Stars: 4327
+Stars: 4329
 
 Build and deploy Go applications on Kubernetes
 
@@ -2773,7 +2784,7 @@ Safe HTML for Go
 
 Author: [google](https://github.com/google)
 
-Stars: 2966
+Stars: 2967
 
 A transparent, highly scalable and cryptographically verifiable data store.
 
@@ -2863,7 +2874,7 @@ Kubernetes Rollout Operator
 
 Author: [gwuhaolin](https://github.com/gwuhaolin)
 
-Stars: 7752
+Stars: 7753
 
 live video streaming server in golang
 
@@ -2881,7 +2892,7 @@ Hangulize transcribes non-Korean words into Hangul
 
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 5797
+Stars: 5798
 
 Golang implementation of the Raft consensus protocol
 
@@ -2899,7 +2910,7 @@ Raft backend implementation using BoltDB
 
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 23884
+Stars: 23888
 
 A tool for secrets management, encryption as a service, and privileged access management
 
@@ -2928,7 +2939,7 @@ Author: [ignite-hq](https://github.com/ignite-hq)
 
 Stars: 709
 
-Ignite CLI is the all-in-one platform to build, launch and maintain any crypto application on a sovereign and secured blockchain
+Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 
 <a name="repo-wfkd57bp2wm7c4zxgembgjah"></a>
 ## [imbue11235/humanize](https://github.com/imbue11235/humanize)
@@ -2944,7 +2955,7 @@ A collection of utility functions, with built-in localization, for humanizing va
 
 Author: [inancgumus](https://github.com/inancgumus)
 
-Stars: 13137
+Stars: 13139
 
 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 
@@ -2971,7 +2982,7 @@ Faster alternative to `syscall/js`. Up to 2x faster than native syscall/js.
 
 Author: [istio](https://github.com/istio)
 
-Stars: 29934
+Stars: 29935
 
 Connect, secure, control, and observe services.
 
@@ -3016,7 +3027,7 @@ A tool to analyze and troubleshoot a Go binary size.
 
 Author: [json-iterator](https://github.com/json-iterator)
 
-Stars: 10669
+Stars: 10671
 
 A high-performance 100% compatible drop-in replacement of "encoding/json"
 
@@ -3025,7 +3036,7 @@ A high-performance 100% compatible drop-in replacement of "encoding/json"
 
 Author: [juicedata](https://github.com/juicedata)
 
-Stars: 5123
+Stars: 5127
 
 JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
@@ -3034,7 +3045,7 @@ JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
 Author: [julienschmidt](https://github.com/julienschmidt)
 
-Stars: 13888
+Stars: 13891
 
 A high performance HTTP request router that scales well
 
@@ -3043,7 +3054,7 @@ A high performance HTTP request router that scales well
 
 Author: [junegunn](https://github.com/junegunn)
 
-Stars: 43378
+Stars: 43387
 
 :cherry_blossom: A command-line fuzzy finder
 
@@ -3106,7 +3117,7 @@ Stars: 53
 
 Author: [klauspost](https://github.com/klauspost)
 
-Stars: 2682
+Stars: 2685
 
 Optimized Go Compression Packages
 
@@ -3169,7 +3180,7 @@ Easy to use Raft library to make your app distributed, highly available and faul
 
 Author: [kubemq-io](https://github.com/kubemq-io)
 
-Stars: 437
+Stars: 438
 
 KubeMQ is a Kubernetes native message queue broker
 
@@ -3178,7 +3189,7 @@ KubeMQ is a Kubernetes native message queue broker
 
 Author: [kubernetes](https://github.com/kubernetes)
 
-Stars: 87190
+Stars: 87203
 
 Production-Grade Container Scheduling and Management
 
@@ -3205,7 +3216,7 @@ Golang SSR-first Frontend Library
 
 Author: [kyroy](https://github.com/kyroy)
 
-Stars: 93
+Stars: 96
 
 A k-d tree implementation in Go.
 
@@ -3619,7 +3630,7 @@ Unicode-aware string utilities for Go
 
 Author: [liamg](https://github.com/liamg)
 
-Stars: 5081
+Stars: 5083
 
 :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 
@@ -3628,7 +3639,7 @@ Stars: 5081
 
 Author: [lib](https://github.com/lib)
 
-Stars: 7215
+Stars: 7217
 
 Pure Go Postgres driver for database/sql
 
@@ -3646,7 +3657,7 @@ libp2p implementation in Go
 
 Author: [libp2p](https://github.com/libp2p)
 
-Stars: 525
+Stars: 526
 
 reuse tcp/udp ports in golang
 
@@ -3655,7 +3666,7 @@ reuse tcp/udp ports in golang
 
 Author: [lima-vm](https://github.com/lima-vm)
 
-Stars: 7714
+Stars: 7719
 
 Linux virtual machines, typically on macOS, for running containerd
 
@@ -3673,7 +3684,7 @@ Library for interacting with LLVM IR in pure Go.
 
 Author: [loov](https://github.com/loov)
 
-Stars: 685
+Stars: 686
 
 Go Dependency Analysis toolkit
 
@@ -3691,7 +3702,7 @@ High resolution timing and benchmarking for Go
 
 Author: [lucas-clemente](https://github.com/lucas-clemente)
 
-Stars: 6498
+Stars: 6500
 
 A QUIC implementation in pure go
 
@@ -3736,7 +3747,7 @@ Crash your app in style (Golang)
 
 Author: [mattn](https://github.com/mattn)
 
-Stars: 1218
+Stars: 1219
 
 Scriptable interpreter written in golang
 
@@ -3826,7 +3837,7 @@ An extremely fast Non-crypto-safe AES Based Hash algorithm for Big Data
 
 Author: [mickael-kerjean](https://github.com/mickael-kerjean)
 
-Stars: 6095
+Stars: 6103
 
 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
@@ -3871,7 +3882,7 @@ TCG - terminal cell graphics library
 
 Author: [mudler](https://github.com/mudler)
 
-Stars: 78
+Stars: 79
 
 :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 
@@ -3883,6 +3894,15 @@ Author: [mudler](https://github.com/mudler)
 Stars: 54
 
 :ship: poCo - portable Containers. Create statically linked, portable binaries from container images (daemonless)
+
+<a name="repo-3zoejlpmdi5ppne3iug2xn4o"></a>
+## [mudler/poco-github-action](https://github.com/mudler/poco-github-action)
+
+Author: [mudler](https://github.com/mudler)
+
+Stars: 1
+
+Github action for poco app bundler
 
 <a name="repo-7wnnhjw6mrdhjmgxv73kldxw"></a>
 ## [muesli/reflow](https://github.com/muesli/reflow)
@@ -3898,7 +3918,7 @@ A collection of (ANSI-sequence aware) text reflow operations & algorithms
 
 Author: [muesli](https://github.com/muesli)
 
-Stars: 991
+Stars: 992
 
 Advanced ANSI style & color support for your terminal applications
 
@@ -3934,7 +3954,7 @@ goi - The “Quite OK Image” format encoder / decoder for Go.
 
 Author: [nginxinc](https://github.com/nginxinc)
 
-Stars: 3668
+Stars: 3670
 
 NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 
@@ -3952,7 +3972,7 @@ Minimal and idiomatic WebSocket library for Go
 
 Author: [nikki93](https://github.com/nikki93)
 
-Stars: 34
+Stars: 35
 
 A Go->C++transpiler meant for data-oriented gameplay and application programming especially for WebAssembly. Using this mostly in the context of specific personal projects and heavily focusing the feature set on those. Used in my Raylib gamejam project: https://github.com/nikki93/raylib-5k -- also being used to develop a private longer term game project and a note-taking app.
 
@@ -3961,7 +3981,7 @@ A Go->C++transpiler meant for data-oriented gameplay and application programming
 
 Author: [njones](https://github.com/njones)
 
-Stars: 8
+Stars: 9
 
 A Modern SocketIO library for go
 
@@ -3997,7 +4017,7 @@ The world’s most powerful template engine and Go embeddable interpreter
 
 Author: [osrg](https://github.com/osrg)
 
-Stars: 2749
+Stars: 2756
 
 BGP implemented in the Go Programming Language
 
@@ -4006,7 +4026,7 @@ BGP implemented in the Go Programming Language
 
 Author: [panjf2000](https://github.com/panjf2000)
 
-Stars: 6273
+Stars: 6276
 
 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 
@@ -4033,7 +4053,7 @@ Stars: 124
 
 Author: [photoprism](https://github.com/photoprism)
 
-Stars: 19897
+Stars: 19901
 
 Photos App powered by Go and Google TensorFlow 🌈 ✨
 
@@ -4087,7 +4107,7 @@ walkmgr example project
 
 Author: [pluveto](https://github.com/pluveto)
 
-Stars: 227
+Stars: 228
 
 Another Typora image uploader
 
@@ -4150,7 +4170,7 @@ Stars: 2546
 
 Author: [quackduck](https://github.com/quackduck)
 
-Stars: 1203
+Stars: 1204
 
 The devs are over here at devzat, chat over SSH!
 
@@ -4186,7 +4206,7 @@ Its a simple cloud
 
 Author: [rclone](https://github.com/rclone)
 
-Stars: 32132
+Stars: 32140
 
 "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 
@@ -4222,7 +4242,7 @@ golang timewheel similar to glang std timer
 
 Author: [rh12503](https://github.com/rh12503)
 
-Stars: 3701
+Stars: 3702
 
 Generate high-quality triangulated and polygonal art from images.
 
@@ -4240,7 +4260,7 @@ Stars: 24
 
 Author: [rjeczalik](https://github.com/rjeczalik)
 
-Stars: 338
+Stars: 340
 
 Code generation tools for Go.
 
@@ -4267,7 +4287,7 @@ Super lightweight Go bindings for react.js
 
 Author: [rodrigo-brito](https://github.com/rodrigo-brito)
 
-Stars: 956
+Stars: 957
 
 A fast cryptocurrency platform for trading bot in Go. 
 
@@ -4276,7 +4296,7 @@ A fast cryptocurrency platform for trading bot in Go.
 
 Author: [rs](https://github.com/rs)
 
-Stars: 6101
+Stars: 6104
 
 Zero Allocation JSON Logger
 
@@ -4303,7 +4323,7 @@ The unix-way web crawler
 
 Author: [samber](https://github.com/samber)
 
-Stars: 4551
+Stars: 4566
 
 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
@@ -4330,7 +4350,7 @@ OpenMPI bindings for the Go programming language
 
 Author: [securego](https://github.com/securego)
 
-Stars: 5966
+Stars: 5968
 
 Golang security checker
 
@@ -4375,7 +4395,7 @@ simple csv parsing lib for golang
 
 Author: [siderolabs](https://github.com/siderolabs)
 
-Stars: 2759
+Stars: 2762
 
 Talos Linux is a modern Linux distribution built for Kubernetes.
 
@@ -4393,7 +4413,7 @@ A high-performance HTTP benchmarking tool with real-time web UI and terminal dis
 
 Author: [slackhq](https://github.com/slackhq)
 
-Stars: 9535
+Stars: 9541
 
 A scalable overlay networking tool with a focus on performance, simplicity and security
 
@@ -4501,7 +4521,7 @@ Roshi is a large-scale CRDT set implementation for timestamped events.
 
 Author: [sourcegraph](https://github.com/sourcegraph)
 
-Stars: 5903
+Stars: 5906
 
 Universal code search (self-hosted)
 
@@ -4519,7 +4539,7 @@ Fast trigram based code search
 
 Author: [spf13](https://github.com/spf13)
 
-Stars: 4356
+Stars: 4357
 
 A FileSystem Abstraction System for Go
 
@@ -4528,7 +4548,7 @@ A FileSystem Abstraction System for Go
 
 Author: [spf13](https://github.com/spf13)
 
-Stars: 1742
+Stars: 1743
 
 Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 
@@ -4627,7 +4647,7 @@ Golang->Haxe->CPP/CSharp/Java/JavaScript transpiler
 
 Author: [tdewolff](https://github.com/tdewolff)
 
-Stars: 946
+Stars: 947
 
 Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
 
@@ -4681,7 +4701,7 @@ Fast and efficient data reconstruction Erasure code, saving about 30% I/O in rec
 
 Author: [tetratelabs](https://github.com/tetratelabs)
 
-Stars: 873
+Stars: 876
 
 wazero lets you run WebAssembly modules with zero platform dependencies
 
@@ -4699,7 +4719,7 @@ Highly available Prometheus setup with long term storage capabilities. A CNCF In
 
 Author: [tidwall](https://github.com/tidwall)
 
-Stars: 5303
+Stars: 5304
 
 Fast event-loop networking for Go
 
@@ -4717,7 +4737,7 @@ Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS 
 
 Author: [traefik](https://github.com/traefik)
 
-Stars: 37502
+Stars: 37507
 
 The Cloud Native Application Proxy
 
@@ -4735,7 +4755,7 @@ Tiny Go webserver that prints os information and HTTP request to output
 
 Author: [traefik](https://github.com/traefik)
 
-Stars: 4261
+Stars: 4262
 
 Yaegi is Another Elegant Go Interpreter
 
@@ -4753,7 +4773,7 @@ Ternary syntax for Go; you're welcome
 
 Author: [trufflesecurity](https://github.com/trufflesecurity)
 
-Stars: 7508
+Stars: 7614
 
 Find credentials all over the place
 
@@ -4762,7 +4782,7 @@ Find credentials all over the place
 
 Author: [tsenart](https://github.com/tsenart)
 
-Stars: 19337
+Stars: 19343
 
 HTTP load testing tool and library. It's over 9000!
 
@@ -4834,7 +4854,7 @@ Schema-free, document-oriented streaming database that optimized for monitoring 
 
 Author: [valyala](https://github.com/valyala)
 
-Stars: 846
+Stars: 847
 
 Anti-memory-waste byte buffer pool
 
@@ -4843,7 +4863,7 @@ Anti-memory-waste byte buffer pool
 
 Author: [valyala](https://github.com/valyala)
 
-Stars: 17487
+Stars: 17489
 
 Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 
@@ -4870,7 +4890,7 @@ Simple and fast template engine for Go
 
 Author: [valyala](https://github.com/valyala)
 
-Stars: 2380
+Stars: 2381
 
 Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 
@@ -4924,7 +4944,7 @@ Vugu: A modern UI library for Go+WebAssembly (experimental)
 
 Author: [wader](https://github.com/wader)
 
-Stars: 3785
+Stars: 3786
 
 jq for binary formats
 
@@ -4942,7 +4962,7 @@ Golang-based WebAssembly Host Runtime for waPC-compliant modules
 
 Author: [wasmerio](https://github.com/wasmerio)
 
-Stars: 1899
+Stars: 1901
 
 🐹🕸️ WebAssembly runtime for Go
 
@@ -5077,7 +5097,7 @@ XXH3 algorithm in Go
 
 Author: [zeromicro](https://github.com/zeromicro)
 
-Stars: 16420
+Stars: 16425
 
 A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 
@@ -5113,7 +5133,7 @@ A collection of generic data structures written in Go.
 
 Author: [zyedidia](https://github.com/zyedidia)
 
-Stars: 19216
+Stars: 19222
 
 A modern and intuitive terminal-based text editor
 
@@ -5148,7 +5168,7 @@ artem is a small cli program written in rust to easily convert images to ascii a
 
 Author: [WebReflection](https://github.com/WebReflection)
 
-Stars: 778
+Stars: 779
 
 A triple-linked lists based DOM implementation.
 
@@ -5175,7 +5195,7 @@ Stars: 4
 
 Author: [go101](https://github.com/go101)
 
-Stars: 4334
+Stars: 4336
 
 An online book focusing on Go syntax/semantics and runtime related things
 
@@ -5202,7 +5222,7 @@ Create HyperText with JavaScript.
 
 Author: [leaningtech](https://github.com/leaningtech)
 
-Stars: 919
+Stars: 920
 
 Source code for the page webvm.io
 
@@ -5270,7 +5290,7 @@ A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debug
 
 Author: [NationalSecurityAgency](https://github.com/NationalSecurityAgency)
 
-Stars: 32010
+Stars: 32013
 
 Ghidra is a software reverse engineering (SRE) framework
 
@@ -5324,7 +5344,7 @@ A fast dependency injector for Android and Java.
 
 Author: [kestra-io](https://github.com/kestra-io)
 
-Stars: 2078
+Stars: 2129
 
 Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 
@@ -5333,7 +5353,7 @@ Kestra is an infinitely scalable orchestration and scheduling platform, creating
 
 Author: [reactor](https://github.com/reactor)
 
-Stars: 4049
+Stars: 4050
 
 Non-Blocking Reactive Foundation for the JVM
 
@@ -5414,7 +5434,7 @@ Non-Blocking Reactive Foundation for the JVM
 
 Author: [30-seconds](https://github.com/30-seconds)
 
-Stars: 93780
+Stars: 93801
 
 Short JavaScript code snippets for all your development needs
 
@@ -5450,7 +5470,7 @@ A browser extension that encrypts your communications with many websites that of
 
 Author: [GoogleChrome](https://github.com/GoogleChrome)
 
-Stars: 10676
+Stars: 10678
 
 📦 Workbox: JavaScript libraries for Progressive Web Apps
 
@@ -5459,7 +5479,7 @@ Stars: 10676
 
 Author: [KaTeX](https://github.com/KaTeX)
 
-Stars: 15017
+Stars: 15018
 
 Fast math typesetting for the web.
 
@@ -5522,7 +5542,7 @@ three.js based, unity like game engine for browser
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 19306
+Stars: 19321
 
 Algorithms implemented in JavaScript for beginners, following best practices.
 
@@ -5531,7 +5551,7 @@ Algorithms implemented in JavaScript for beginners, following best practices.
 
 Author: [Unitech](https://github.com/Unitech)
 
-Stars: 36745
+Stars: 36748
 
 Node.js Production Process Manager with a built-in Load Balancer.
 
@@ -5540,7 +5560,7 @@ Node.js Production Process Manager with a built-in Load Balancer.
 
 Author: [acornjs](https://github.com/acornjs)
 
-Stars: 8202
+Stars: 8203
 
 A small, fast, JavaScript-based JavaScript parser
 
@@ -5567,7 +5587,7 @@ The AMP web component framework.
 
 Author: [anuraghazra](https://github.com/anuraghazra)
 
-Stars: 39682
+Stars: 39698
 
 :zap: Dynamically generated stats for your github readmes
 
@@ -5585,7 +5605,7 @@ Stars: 11342
 
 Author: [appwrite](https://github.com/appwrite)
 
-Stars: 20370
+Stars: 20400
 
 Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
@@ -5594,7 +5614,7 @@ Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% ope
 
 Author: [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
-Stars: 84129
+Stars: 84184
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -5603,7 +5623,7 @@ A list of Free Software network services and web applications which can be hoste
 
 Author: [badges](https://github.com/badges)
 
-Stars: 16588
+Stars: 16597
 
 Concise, consistent, and legible badges in SVG and raster format
 
@@ -5612,7 +5632,7 @@ Concise, consistent, and legible badges in SVG and raster format
 
 Author: [blitz-js](https://github.com/blitz-js)
 
-Stars: 11158
+Stars: 11164
 
 ⚡️The Fullstack React Framework — built on Next.js
 
@@ -5621,7 +5641,7 @@ Stars: 11158
 
 Author: [cleanlock](https://github.com/cleanlock)
 
-Stars: 681
+Stars: 687
 
 Blocks Ads on Twitch.tv.
 
@@ -5630,7 +5650,7 @@ Blocks Ads on Twitch.tv.
 
 Author: [conwnet](https://github.com/conwnet)
 
-Stars: 20813
+Stars: 20814
 
 One second to read GitHub code with VS Code.
 
@@ -5639,7 +5659,7 @@ One second to read GitHub code with VS Code.
 
 Author: [denysdovhan](https://github.com/denysdovhan)
 
-Stars: 25925
+Stars: 25929
 
 🤪 A list of funny and tricky JavaScript examples
 
@@ -5648,7 +5668,7 @@ Stars: 25925
 
 Author: [developit](https://github.com/developit)
 
-Stars: 7503
+Stars: 7504
 
 Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
@@ -5702,7 +5722,7 @@ This project show how fast we can deploy react app in s3 and cloudfront. Try it 
 
 Author: [gionkunz](https://github.com/gionkunz)
 
-Stars: 12782
+Stars: 12783
 
 Simple responsive charts
 
@@ -5729,7 +5749,7 @@ Stars: 1524
 
 Author: [iamkun](https://github.com/iamkun)
 
-Stars: 38489
+Stars: 38498
 
 ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 
@@ -5810,7 +5830,7 @@ A general purpose internationalization library in 292 bytes
 
 Author: [mui](https://github.com/mui)
 
-Stars: 77282
+Stars: 77299
 
 MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 
@@ -5900,7 +5920,7 @@ Automatically AJAXify plain HTML with the power of React. It's magic!
 
 Author: [responsively-org](https://github.com/responsively-org)
 
-Stars: 15816
+Stars: 15821
 
 A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
@@ -5918,7 +5938,7 @@ Universal SSR renderer powered by JSDOM
 
 Author: [sindresorhus](https://github.com/sindresorhus)
 
-Stars: 828
+Stars: 829
 
 Convert bytes to a human readable string: 1337 → 1.34 kB
 
@@ -5927,7 +5947,7 @@ Convert bytes to a human readable string: 1337 → 1.34 kB
 
 Author: [svg](https://github.com/svg)
 
-Stars: 17505
+Stars: 17508
 
 ⚙️ Node.js tool for optimizing SVG files
 
@@ -5936,7 +5956,7 @@ Stars: 17505
 
 Author: [systemjs](https://github.com/systemjs)
 
-Stars: 12053
+Stars: 12055
 
 Dynamic ES module loader
 
@@ -5945,7 +5965,7 @@ Dynamic ES module loader
 
 Author: [testing-library](https://github.com/testing-library)
 
-Stars: 812
+Stars: 813
 
 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices.
 
@@ -5963,7 +5983,7 @@ A starter app for your needs in 2021
 
 Author: [vercel](https://github.com/vercel)
 
-Stars: 20207
+Stars: 20225
 
 Package your Node.js project into an executable
 
@@ -6023,7 +6043,7 @@ Stars: 12
 
 Author: [JuliaLang](https://github.com/JuliaLang)
 
-Stars: 38821
+Stars: 38828
 
 The Julia Programming Language
 
@@ -6041,7 +6061,7 @@ The Julia Programming Language
 
 Author: [AI4Finance-Foundation](https://github.com/AI4Finance-Foundation)
 
-Stars: 4606
+Stars: 4612
 
 FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥
 
@@ -6050,7 +6070,7 @@ FinRL: The first open-source project for financial reinforcement learning. Pleas
 
 Author: [deepmind](https://github.com/deepmind)
 
-Stars: 9967
+Stars: 9974
 
 This repository contains implementations and illustrative code to accompany DeepMind publications
 
@@ -6059,7 +6079,7 @@ This repository contains implementations and illustrative code to accompany Deep
 
 Author: [google-research](https://github.com/google-research)
 
-Stars: 1243
+Stars: 1245
 
 A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 
@@ -6068,7 +6088,7 @@ A data generation pipeline for creating semi-realistic synthetic multi-object vi
 
 Author: [saic-mdal](https://github.com/saic-mdal)
 
-Stars: 3361
+Stars: 3435
 
 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 
@@ -6103,7 +6123,7 @@ Stars: 10
 
 Author: [BookStackApp](https://github.com/BookStackApp)
 
-Stars: 9020
+Stars: 9022
 
 A platform to create documentation/wiki content built with PHP & Laravel
 
@@ -6112,7 +6132,7 @@ A platform to create documentation/wiki content built with PHP & Laravel
 
 Author: [google](https://github.com/google)
 
-Stars: 3190
+Stars: 3191
 
 PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 
@@ -6214,7 +6234,7 @@ Which is the fastest web framework?
 
 Author: [3b1b](https://github.com/3b1b)
 
-Stars: 43660
+Stars: 43672
 
 Animation engine for explanatory math videos
 
@@ -6268,7 +6288,7 @@ Opensource Library Management Service
 
 Author: [EleutherAI](https://github.com/EleutherAI)
 
-Stars: 6197
+Stars: 6199
 
 An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 
@@ -6295,7 +6315,7 @@ pyscard smartcard library for python
 
 Author: [PySimpleGUI](https://github.com/PySimpleGUI)
 
-Stars: 9751
+Stars: 9755
 
 Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.
 
@@ -6322,7 +6342,7 @@ An easy-to-use HTTP API of XenAPI for Web Application Developers.
 
 Author: [TensorSpeech](https://github.com/TensorSpeech)
 
-Stars: 2597
+Stars: 2598
 
 :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
 
@@ -6331,7 +6351,7 @@ Stars: 2597
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 134228
+Stars: 134258
 
 All Algorithms implemented in Python
 
@@ -6376,7 +6396,7 @@ NumPy & SciPy for GPU
 
 Author: [davidhalter](https://github.com/davidhalter)
 
-Stars: 5115
+Stars: 5116
 
 Awesome autocompletion, static analysis and refactoring library for python
 
@@ -6385,7 +6405,7 @@ Awesome autocompletion, static analysis and refactoring library for python
 
 Author: [encode](https://github.com/encode)
 
-Stars: 8539
+Stars: 8542
 
 A next generation HTTP client for Python. 🦋
 
@@ -6394,7 +6414,7 @@ A next generation HTTP client for Python. 🦋
 
 Author: [freqtrade](https://github.com/freqtrade)
 
-Stars: 16976
+Stars: 16984
 
 Free, open source crypto trading bot
 
@@ -6403,7 +6423,7 @@ Free, open source crypto trading bot
 
 Author: [google-research](https://github.com/google-research)
 
-Stars: 30884
+Stars: 30887
 
 TensorFlow code and pre-trained models for BERT
 
@@ -6421,7 +6441,7 @@ Python QR Code and Micro QR Code encoder
 
 Author: [home-assistant](https://github.com/home-assistant)
 
-Stars: 51535
+Stars: 51550
 
 :house_with_garden: Open source home automation that puts local control and privacy first.
 
@@ -6439,7 +6459,7 @@ Small, fast HTTP client library for Python. Features persistent connections, cac
 
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 12956
+Stars: 12961
 
 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 
@@ -6448,7 +6468,7 @@ Stars: 12956
 
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 60668
+Stars: 60688
 
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
@@ -6457,7 +6477,7 @@ Stars: 60668
 
 Author: [iperov](https://github.com/iperov)
 
-Stars: 32051
+Stars: 32056
 
 DeepFaceLab is the leading software for creating deepfakes.
 
@@ -6475,7 +6495,7 @@ An ultra fast WSGI server for Python 3
 
 Author: [jina-ai](https://github.com/jina-ai)
 
-Stars: 14225
+Stars: 14227
 
 Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 
@@ -6529,7 +6549,7 @@ An ASCII Header Generator for Network Protocols
 
 Author: [mherrmann](https://github.com/mherrmann)
 
-Stars: 3364
+Stars: 3366
 
 Create Python GUIs with Qt in minutes
 
@@ -6538,7 +6558,7 @@ Create Python GUIs with Qt in minutes
 
 Author: [mozilla](https://github.com/mozilla)
 
-Stars: 2304
+Stars: 2303
 
 Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 
@@ -6547,7 +6567,7 @@ Bleach is an allowed-list-based HTML sanitizing library that escapes or strips m
 
 Author: [mvt-project](https://github.com/mvt-project)
 
-Stars: 6876
+Stars: 6877
 
 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 
@@ -6583,7 +6603,7 @@ A community effort to develop an open standard library for Medical Physics in Py
 
 Author: [pyodide](https://github.com/pyodide)
 
-Stars: 7665
+Stars: 7668
 
 Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 
@@ -6601,7 +6621,7 @@ Trio – a friendly Python library for async concurrency and I/O
 
 Author: [pytorch](https://github.com/pytorch)
 
-Stars: 641
+Stars: 642
 
 A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 
@@ -6637,7 +6657,7 @@ gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file fo
 
 Author: [unit8co](https://github.com/unit8co)
 
-Stars: 3878
+Stars: 3882
 
 A python library for easy manipulation and forecasting of time series.
 
@@ -6870,7 +6890,7 @@ Korean IME
 
 Author: [SergioBenitez](https://github.com/SergioBenitez)
 
-Stars: 16927
+Stars: 16934
 
 A web framework for Rust.
 
@@ -6879,7 +6899,7 @@ A web framework for Rust.
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 6771
+Stars: 6774
 
  All Algorithms implemented in Rust 
 
@@ -6888,7 +6908,7 @@ Stars: 6771
 
 Author: [Wilfred](https://github.com/Wilfred)
 
-Stars: 8686
+Stars: 8724
 
 a diff that understands syntax 🟥🟩
 
@@ -6897,7 +6917,7 @@ a diff that understands syntax 🟥🟩
 
 Author: [actix](https://github.com/actix)
 
-Stars: 7014
+Stars: 7015
 
 Actor framework for Rust.
 
@@ -6906,7 +6926,7 @@ Actor framework for Rust.
 
 Author: [actix](https://github.com/actix)
 
-Stars: 13778
+Stars: 13780
 
 Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
@@ -6915,7 +6935,7 @@ Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
 Author: [alacritty](https://github.com/alacritty)
 
-Stars: 38465
+Stars: 38484
 
 A cross-platform, OpenGL terminal emulator.
 
@@ -6933,7 +6953,7 @@ Rust API for loading, scaling, positioning and rasterizing OpenType font glyphs
 
 Author: [aptos-labs](https://github.com/aptos-labs)
 
-Stars: 382
+Stars: 383
 
 A layer 1 for everyone!
 
@@ -6969,7 +6989,7 @@ The WebAssembly Pre-Initializer
 
 Author: [bytedance](https://github.com/bytedance)
 
-Stars: 1126
+Stars: 1125
 
 Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
 
@@ -7014,7 +7034,7 @@ Concurrent Data Structure for Rust
 
 Author: [copy](https://github.com/copy)
 
-Stars: 13663
+Stars: 13666
 
 x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
@@ -7023,7 +7043,7 @@ x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
 Author: [cube-js](https://github.com/cube-js)
 
-Stars: 12714
+Stars: 12716
 
 📊  Cube — Headless Business Intelligence for Building Data Applications
 
@@ -7032,7 +7052,7 @@ Stars: 12714
 
 Author: [denoland](https://github.com/denoland)
 
-Stars: 81460
+Stars: 81465
 
 A modern runtime for JavaScript and TypeScript.
 
@@ -7059,7 +7079,7 @@ FaF Web Server
 
 Author: [facebook](https://github.com/facebook)
 
-Stars: 16823
+Stars: 16825
 
 Relay is a JavaScript framework for building data-driven React applications.
 
@@ -7077,7 +7097,7 @@ A fast bump allocation arena for Rust
 
 Author: [flamegraph-rs](https://github.com/flamegraph-rs)
 
-Stars: 2427
+Stars: 2428
 
 Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 
@@ -7086,7 +7106,7 @@ Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 
 Author: [gfx-rs](https://github.com/gfx-rs)
 
-Stars: 4354
+Stars: 4357
 
 Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 
@@ -7131,7 +7151,7 @@ JSON serialization/deserialization (full-featured, modern, streaming, direct int
 
 Author: [josephg](https://github.com/josephg)
 
-Stars: 583
+Stars: 584
 
 The world's fastest CRDT. WIP.
 
@@ -7140,7 +7160,7 @@ The world's fastest CRDT. WIP.
 
 Author: [kdy1](https://github.com/kdy1)
 
-Stars: 325
+Stars: 326
 
 Yet another web server framework for rust
 
@@ -7149,7 +7169,7 @@ Yet another web server framework for rust
 
 Author: [kognise](https://github.com/kognise)
 
-Stars: 1194
+Stars: 1196
 
 Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 
@@ -7167,7 +7187,7 @@ struct RGB for sharing pixels between crates
 
 Author: [krustlet](https://github.com/krustlet)
 
-Stars: 2799
+Stars: 2800
 
 Kubernetes Rust Kubelet
 
@@ -7176,7 +7196,7 @@ Kubernetes Rust Kubelet
 
 Author: [lapce](https://github.com/lapce)
 
-Stars: 9766
+Stars: 9786
 
 Lightning-fast and Powerful Code Editor written in Rust
 
@@ -7221,7 +7241,7 @@ The fastest font renderer in the world, written in pure rust.
 
 Author: [o2sh](https://github.com/o2sh)
 
-Stars: 5086
+Stars: 5091
 
 Git repository summary on your terminal
 
@@ -7266,7 +7286,7 @@ The best memes and stickers about #rust #rustlang - listed here for easy use on 
 
 Author: [rust-analyzer](https://github.com/rust-analyzer)
 
-Stars: 8986
+Stars: 8989
 
 A Rust compiler front-end for IDEs
 
@@ -7275,7 +7295,7 @@ A Rust compiler front-end for IDEs
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 1581
+Stars: 1582
 
 Rust port of Google's SwissTable hash map
 
@@ -7284,7 +7304,7 @@ Rust port of Google's SwissTable hash map
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 9146
+Stars: 9144
 
 Create book from markdown files. Like Gitbook but implemented in Rust
 
@@ -7293,7 +7313,7 @@ Create book from markdown files. Like Gitbook but implemented in Rust
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 65315
+Stars: 65334
 
 Empowering everyone to build reliable and efficient software.
 
@@ -7302,7 +7322,7 @@ Empowering everyone to build reliable and efficient software.
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 23329
+Stars: 23340
 
 :crab: Small exercises to get you used to reading and writing Rust code!
 
@@ -7311,7 +7331,7 @@ Stars: 23329
 
 Author: [rustdesk](https://github.com/rustdesk)
 
-Stars: 16257
+Stars: 16260
 
 Yet another remote desktop software
 
@@ -7374,7 +7394,7 @@ pure rust io_uring library, built on libc, thread & async friendly, misuse resis
 
 Author: [starship](https://github.com/starship)
 
-Stars: 24405
+Stars: 24420
 
 ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
@@ -7383,7 +7403,7 @@ Stars: 24405
 
 Author: [swc-project](https://github.com/swc-project)
 
-Stars: 21452
+Stars: 21461
 
 Rust-based platform for the Web
 
@@ -7392,7 +7412,7 @@ Rust-based platform for the Web
 
 Author: [tauri-apps](https://github.com/tauri-apps)
 
-Stars: 35989
+Stars: 36016
 
 Build smaller, faster, and more secure desktop applications with a web frontend.
 
@@ -7410,7 +7430,7 @@ aHash is a non-cryptographic hashing algorithm that uses the AES hardware instru
 
 Author: [tokio-rs](https://github.com/tokio-rs)
 
-Stars: 15680
+Stars: 15681
 
 A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
@@ -7419,7 +7439,7 @@ A runtime for writing reliable asynchronous applications with Rust. Provides I/O
 
 Author: [twilco](https://github.com/twilco)
 
-Stars: 1546
+Stars: 1547
 
 A web browser engine for the space age :rocket:
 
@@ -7428,7 +7448,7 @@ A web browser engine for the space age :rocket:
 
 Author: [wasmerio](https://github.com/wasmerio)
 
-Stars: 11879
+Stars: 11890
 
 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
@@ -7443,7 +7463,7 @@ Stars: 11879
 
 Author: [material-components](https://github.com/material-components)
 
-Stars: 3212
+Stars: 3215
 
 Material Design Web Components
 
@@ -7473,7 +7493,7 @@ Testing Schnorr's factorization claim in Sage
 
 Author: [lichess-org](https://github.com/lichess-org)
 
-Stars: 11380
+Stars: 11385
 
 ♞ lichess.org: the forever free, adless and open source chess server ♞
 
@@ -7492,7 +7512,7 @@ Stars: 11380
 
 Author: [angristan](https://github.com/angristan)
 
-Stars: 3160
+Stars: 3165
 
 WireGuard VPN installer for Linux servers
 
@@ -7528,7 +7548,7 @@ Automatically Commit changed Files back to GitHub with GitHub Actions for the 80
 
 Author: [tj](https://github.com/tj)
 
-Stars: 16112
+Stars: 16114
 
 Node version management
 
@@ -7543,7 +7563,7 @@ Node version management
 
 Author: [googleapis](https://github.com/googleapis)
 
-Stars: 4516
+Stars: 4515
 
 Public interface definitions of Google APIs.
 
@@ -7633,7 +7653,7 @@ Text-based MIDI writing language and its compiler
 
 Author: [James-Yu](https://github.com/James-Yu)
 
-Stars: 8275
+Stars: 8276
 
 Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
@@ -7669,7 +7689,7 @@ SyncedStore CRDT is an easy-to-use library for building live, collaborative appl
 
 Author: [aidenybai](https://github.com/aidenybai)
 
-Stars: 633
+Stars: 634
 
 🙋‍♀️ 3kb library for tiny web apps
 
@@ -7678,7 +7698,7 @@ Stars: 633
 
 Author: [aidenybai](https://github.com/aidenybai)
 
-Stars: 1893
+Stars: 1897
 
 Virtual DOM into the future! 💥🦁✨
 
@@ -7714,7 +7734,7 @@ jsii allows code in any language to naturally interact with JavaScript classes. 
 
 Author: [axe312ger](https://github.com/axe312ger)
 
-Stars: 3213
+Stars: 3214
 
 "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
 
@@ -7723,7 +7743,7 @@ Stars: 3213
 
 Author: [chakra-ui](https://github.com/chakra-ui)
 
-Stars: 25062
+Stars: 25071
 
 ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
@@ -7732,7 +7752,7 @@ Stars: 25062
 
 Author: [coder](https://github.com/coder)
 
-Stars: 52733
+Stars: 52748
 
 VS Code in the browser
 
@@ -7750,7 +7770,7 @@ Common Voice is part of Mozilla's initiative to help teach machines how real peo
 
 Author: [eclipse-theia](https://github.com/eclipse-theia)
 
-Stars: 16662
+Stars: 16663
 
 Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
@@ -7759,7 +7779,7 @@ Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 Author: [facebook](https://github.com/facebook)
 
-Stars: 32146
+Stars: 32159
 
 Easy to maintain open source documentation websites.
 
@@ -7777,7 +7797,7 @@ Stars: 19160
 
 Author: [giscus](https://github.com/giscus)
 
-Stars: 1742
+Stars: 1746
 
 A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 
@@ -7813,7 +7833,7 @@ Stars: 22
 
 Author: [ionic-team](https://github.com/ionic-team)
 
-Stars: 10557
+Stars: 10559
 
 A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 
@@ -7831,7 +7851,7 @@ An AssemblyScript API layer for WASI system calls.
 
 Author: [kamranahmedse](https://github.com/kamranahmedse)
 
-Stars: 191171
+Stars: 191216
 
 Roadmap to becoming a developer in 2022
 
@@ -7840,7 +7860,7 @@ Roadmap to becoming a developer in 2022
 
 Author: [master-co](https://github.com/master-co)
 
-Stars: 542
+Stars: 545
 
 A Virtual CSS language with enhanced syntax ( less than 13KB )
 
@@ -7885,7 +7905,7 @@ Stars: 5120
 
 Author: [nhn](https://github.com/nhn)
 
-Stars: 14486
+Stars: 14489
 
 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
@@ -7912,7 +7932,7 @@ Stars: 1
 
 Author: [puppeteer](https://github.com/puppeteer)
 
-Stars: 77198
+Stars: 77214
 
 Headless Chrome Node.js API
 
@@ -7921,7 +7941,7 @@ Headless Chrome Node.js API
 
 Author: [react-auth-kit](https://github.com/react-auth-kit)
 
-Stars: 142
+Stars: 143
 
 Easily manage Authentication state of users in React-based Apps using Hooks and Higher-order components 
 
@@ -7930,7 +7950,7 @@ Easily manage Authentication state of users in React-based Apps using Hooks and 
 
 Author: [remix-run](https://github.com/remix-run)
 
-Stars: 15101
+Stars: 15119
 
 Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
@@ -7966,7 +7986,7 @@ A template repository for TypeScript backend server
 
 Author: [solidjs](https://github.com/solidjs)
 
-Stars: 16467
+Stars: 16477
 
 A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
@@ -7975,7 +7995,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 Author: [supabase](https://github.com/supabase)
 
-Stars: 30804
+Stars: 30817
 
 The open source Firebase alternative. Follow to stay updated about our public Beta.
 
@@ -8011,7 +8031,7 @@ Turbolinks makes navigating your web application faster
 
 Author: [unjs](https://github.com/unjs)
 
-Stars: 680
+Stars: 682
 
 Minimal h(ttp) framework built for high performance and portability ⚡️
 
@@ -8020,7 +8040,7 @@ Minimal h(ttp) framework built for high performance and portability ⚡️
 
 Author: [vercel](https://github.com/vercel)
 
-Stars: 8552
+Stars: 8555
 
 Develop. Preview. Ship.
 
@@ -8029,7 +8049,7 @@ Develop. Preview. Ship.
 
 Author: [withastro](https://github.com/withastro)
 
-Stars: 11153
+Stars: 11169
 
 Build fast websites, faster. 🚀🧑‍🚀✨
 
@@ -8038,7 +8058,7 @@ Build fast websites, faster. 🚀🧑‍🚀✨
 
 Author: [xtermjs](https://github.com/xtermjs)
 
-Stars: 12641
+Stars: 12642
 
 A terminal for the web
 
@@ -8063,7 +8083,7 @@ Go => V source code translator
 
 Author: [vlang](https://github.com/vlang)
 
-Stars: 27982
+Stars: 27989
 
 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 
@@ -8147,7 +8167,7 @@ Stars: 142
 
 Author: [Integerous](https://github.com/Integerous)
 
-Stars: 5730
+Stars: 5732
 
 { 고퀄리티 :zap: 개발 컨텐츠 모음 }
 
@@ -8192,7 +8212,7 @@ Stars: 288
 
 Author: [dgryski](https://github.com/dgryski)
 
-Stars: 9752
+Stars: 9753
 
 Thoughts on Go performance optimization
 
@@ -8201,7 +8221,7 @@ Thoughts on Go performance optimization
 
 Author: [firstcontributions](https://github.com/firstcontributions)
 
-Stars: 22760
+Stars: 22764
 
 🚀✨ Help beginners to contribute to open source projects
 
@@ -8318,7 +8338,7 @@ Stars: 3
 
 Author: [stackblitz](https://github.com/stackblitz)
 
-Stars: 2031
+Stars: 2032
 
 
 
