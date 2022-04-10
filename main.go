@@ -103,12 +103,11 @@ func GetAnchorLink(title string) string {
 			if strings.IndexRune(nonWord, r) < 0 {
 				return r
 			}
-			// Replace with a UNICODE REPLACEMENT CHARACTER
-			return 0xFFFD
+			return '@'
 		},
 		title,
 	)
-	title = strings.ReplaceAll(title, "\xFFFD", "")
+	title = strings.ReplaceAll(title, "@", "")
 	// (remove HTML tags)
 	title = HTMLTagRegex.ReplaceAllString(title, "")
 
