@@ -99,7 +99,7 @@ func GetAnchorLink(title string) string {
 	//title = strings.Trim(title, )
 	title = strings.Map(
 		func(r rune) rune {
-			nonWord := "!@#$%^&*()-_+={}[]|\\:;'<>?,./\""
+			nonWord := "!@#$%^&*()_+={}[]|\\:;'<>?,./\""
 			if strings.IndexRune(nonWord, r) < 0 {
 				return r
 			}
