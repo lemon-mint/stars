@@ -175,7 +175,7 @@ func BuildMarkdown(stars []Star) string {
 		//h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
 		//sb.WriteString(fmt.Sprintf("* [%s](#v-%s)\n", v.Key, h32))
 
-		sb.WriteString(fmt.Sprintf("* [%s](#v-%s)\n", v.Key, GetAnchorLink(v.Key)))
+		sb.WriteString(fmt.Sprintf("* [%s](#%s)\n", v.Key, GetAnchorLink(v.Key)))
 	}
 	sb.WriteString("\n")
 
@@ -198,7 +198,9 @@ func BuildMarkdown(stars []Star) string {
 			h := sha256.Sum256([]byte(star.FullName))
 			h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
 			sb.WriteString(fmt.Sprintf("<a name=\"repo-%s\"></a>\n", h32))
-			sb.WriteString(fmt.Sprintf("## [%s](%s)\n\n", star.FullName, star.HTMLURL))
+			//sb.WriteString(fmt.Sprintf("## [%s](%s)\n\n", star.FullName, star.HTMLURL))
+			sb.WriteString(fmt.Sprintf("## %s\n\n", star.FullName))
+			sb.WriteString(fmt.Sprintf("Repository: [%s](%s)\n", star.FullName, star.HTMLURL))
 			sb.WriteString(fmt.Sprintf("Author: [%s](%s)\n\n", star.Owner.Login, star.Owner.HTMLURL))
 			sb.WriteString(fmt.Sprintf("Stars: %d\n\n", star.StargazersCount))
 			sb.WriteString(star.Description)
