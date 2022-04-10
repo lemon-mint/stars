@@ -96,7 +96,19 @@ func GetAnchorLink(title string) string {
 	title = strings.ToLower(title)
 
 	// Remove any non-word characters
-	title = strings.Trim(title, "!@#$%^&*()-_+={}[]|\\:;'<>?,./\"")
+	//title = strings.Trim(title, )
+	title = strings.Map(
+		func(r rune) rune {
+			nonWord := "!@#$%^&*()-_+={}[]|\\:;'<>?,./\""
+			if strings.IndexRune(nonWord, r) < 0 {
+				return r
+			}
+			// Replace with a UNICODE REPLACEMENT CHARACTER
+			return 0xFFFD
+		},
+		title,
+	)
+	title = strings.ReplaceAll(title, "\xFFFD", "")
 	// (remove HTML tags)
 	title = HTMLTagRegex.ReplaceAllString(title, "")
 
@@ -175,7 +187,7 @@ func BuildMarkdown(stars []Star) string {
 		//h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
 		//sb.WriteString(fmt.Sprintf("* [%s](#v-%s)\n", v.Key, h32))
 
-		sb.WriteString(fmt.Sprintf("* [%s](#%s)\n", v.Key, GetAnchorLink(v.Key)))
+		sb.WriteString(fmt.Sprintf("* [%s](%s)\n", v.Key, GetAnchorLink(v.Key)))
 	}
 	sb.WriteString("\n")
 
