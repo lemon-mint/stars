@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"regexp"
 	"sort"
 	"strings"
 )
@@ -82,6 +83,45 @@ func (s starSorter) Swap(i, j int) {
 	s[i], s[j] = s[j], s[i]
 }
 
+var LinkCounter map[string]int = make(map[string]int)
+
+var HTMLTagRegex = regexp.MustCompile(`<[^>]*>`)
+var duplicateHyphenRegex = regexp.MustCompile(`-+`)
+
+func GetAnchorLink(title string) string {
+	// Remove any leading or trailing whitespace
+	title = strings.TrimSpace(title)
+
+	// Convert to lowercase
+	title = strings.ToLower(title)
+
+	// Remove any non-word characters
+	title = strings.Trim(title, "!@#$%^&*()-_+={}[]|\\:;'<>?,./\"")
+	// (remove HTML tags)
+	title = HTMLTagRegex.ReplaceAllString(title, "")
+
+	// Replace spaces with hyphens
+	title = strings.Replace(title, " ", "-", -1)
+
+	// Remove any duplicate hyphens
+
+	// Duplicate hyphens REGEX
+	title = duplicateHyphenRegex.ReplaceAllString(title, "-")
+
+	// Remove any leading or trailing hyphens
+	title = strings.Trim(title, "-")
+
+	// Add the counter
+	LinkCounter[title]++
+
+	if LinkCounter[title] > 1 {
+		title = fmt.Sprintf("#%s-%d", title, LinkCounter[title]-1)
+		return title
+	}
+
+	return "#" + title
+}
+
 type KV[T any] struct {
 	Key   string
 	Value T
@@ -131,10 +171,11 @@ func BuildMarkdown(stars []Star) string {
 	sb.WriteString("# Table of Contents\n\n")
 	for _, v := range languages {
 		// Table of contents
-		h := sha256.Sum256([]byte(v.Key))
-		h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
+		//h := sha256.Sum256([]byte(v.Key))
+		//h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
+		//sb.WriteString(fmt.Sprintf("* [%s](#v-%s)\n", v.Key, h32))
 
-		sb.WriteString(fmt.Sprintf("* [%s](#v-%s)\n", v.Key, h32))
+		sb.WriteString(fmt.Sprintf("* [%s](#v-%s)\n", v.Key, GetAnchorLink(v.Key)))
 	}
 	sb.WriteString("\n")
 
@@ -146,9 +187,10 @@ func BuildMarkdown(stars []Star) string {
 		sb.WriteString(fmt.Sprintf("# %s\n\n", v.Key))
 
 		for _, star := range v.Value {
-			h := sha256.Sum256([]byte(star.FullName))
-			h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
-			sb.WriteString(fmt.Sprintf("* [%s](#repo-%s)\n", star.FullName, h32))
+			//h := sha256.Sum256([]byte(star.FullName))
+			//h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
+			//sb.WriteString(fmt.Sprintf("* [%s](#repo-%s)\n", star.FullName, h32))
+			sb.WriteString(fmt.Sprintf("* [%s](%s)\n", star.FullName, GetAnchorLink(star.FullName)))
 		}
 		sb.WriteString("\n")
 
