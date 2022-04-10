@@ -90,9 +90,9 @@ Reed-Solomon Erasure Coding in Go
 * [obsproject/obs-studio](#obsprojectobs-studio)
 * [openwrt/openwrt](#openwrtopenwrt)
 * [powturbo/Turbo-Base64](#powturboturbo-base64)
-* [shuveb/io_uring-by-example](#shuvebiouring-by-example)
+* [shuveb/io_uring-by-example](#shuvebio_uring-by-example)
 * [sitano/gsysint](#sitanogsysint)
-* [trombik/esp_wireguard](#trombikespwireguard)
+* [trombik/esp_wireguard](#trombikesp_wireguard)
 * [valyala/gozstd](#valyalagozstd)
 
 <a name="repo-r66eq5s6vqpdhdhitbnflg46"></a>
@@ -121,7 +121,7 @@ A lightweight, fast embeddable scripting language.
 Repository: [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 12942
+Stars: 12941
 
 Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 
@@ -702,7 +702,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [WireGuard/wireguard-go](#wireguardwireguard-go)
 * [Workiva/go-datastructures](#workivago-datastructures)
 * [Yash-Handa/logo-ls](#yash-handalogo-ls)
-* [YoNoSoyVictor/Go_Snake_Game_CLI](#yonosoyvictorgosnakegamecli)
+* [YoNoSoyVictor/Go_Snake_Game_CLI](#yonosoyvictorgo_snake_game_cli)
 * [aQuaYi/LeetCode-in-Go](#aquayileetcode-in-go)
 * [abiosoft/colima](#abiosoftcolima)
 * [ailidani/paxi](#ailidanipaxi)
@@ -731,7 +731,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [berty/berty](#bertyberty)
 * [binwiederhier/ntfy](#binwiederhierntfy)
 * [bjwbell/gensimd](#bjwbellgensimd)
-* [blluv/seed_go](#blluvseedgo)
+* [blluv/seed_go](#blluvseed_go)
 * [bradfitz/jndi](#bradfitzjndi)
 * [brendonmatos/golive](#brendonmatosgolive)
 * [brentp/intintmap](#brentpintintmap)
@@ -766,7 +766,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [cloudflare/tableflip](#cloudflaretableflip)
 * [cloudwego/netpoll](#cloudwegonetpoll)
 * [cockroachdb/apd](#cockroachdbapd)
-* [codingpot/newsletter_awesome_articles](#codingpotnewsletterawesomearticles)
+* [codingpot/newsletter_awesome_articles](#codingpotnewsletter_awesome_articles)
 * [coocood/freecache](#coocoodfreecache)
 * [cornelk/hashmap](#cornelkhashmap)
 * [create-go-app/cli](#create-go-appcli)
@@ -881,7 +881,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [imbue11235/humanize](#imbue11235humanize)
 * [inancgumus/learngo](#inancgumuslearngo)
 * [inelpandzic/imdgo](#inelpandzicimdgo)
-* [inkeliz/go_inkwasm](#inkelizgoinkwasm)
+* [inkeliz/go_inkwasm](#inkelizgo_inkwasm)
 * [istio/istio](#istioistio)
 * [ixy-languages/ixy.go](#ixy-languagesixygo)
 * [jackc/tern](#jackctern)
@@ -893,7 +893,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [julienschmidt/httprouter](#julienschmidthttprouter)
 * [junegunn/fzf](#junegunnfzf)
 * [karlseguin/ccache](#karlseguinccache)
-* [kavu/go_reuseport](#kavugoreuseport)
+* [kavu/go_reuseport](#kavugo_reuseport)
 * [kevburnsjr/skipfilter](#kevburnsjrskipfilter)
 * [kevinburke/nacl](#kevinburkenacl)
 * [keybase/saltpack](#keybasesaltpack)
@@ -1007,7 +1007,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [pion/ion-sfu](#pionion-sfu)
 * [pirogom/walk](#pirogomwalk)
 * [pirogom/walkmgr](#pirogomwalkmgr)
-* [pirogom/walkmgr_example](#pirogomwalkmgrexample)
+* [pirogom/walkmgr_example](#pirogomwalkmgr_example)
 * [pluveto/upgit](#pluvetoupgit)
 * [pmh-only/gohttpfs](#pmh-onlygohttpfs)
 * [polarspetroll/LiquidCrystalRPI](#polarspetrollliquidcrystalrpi)
@@ -3340,7 +3340,7 @@ A high performance HTTP request router that scales well
 Repository: [junegunn/fzf](https://github.com/junegunn/fzf)
 Author: [junegunn](https://github.com/junegunn)
 
-Stars: 43419
+Stars: 43420
 
 :cherry_blossom: A command-line fuzzy finder
 
@@ -5668,7 +5668,7 @@ A modern and intuitive terminal-based text editor
 * [leaningtech/webvm](#leaningtechwebvm)
 * [lemon-mint/clearblog](#lemon-mintclearblog)
 * [lemon-mint/flask-event-server](#lemon-mintflask-event-server)
-* [pirogom/fun_stock](#pirogomfunstock)
+* [pirogom/fun_stock](#pirogomfun_stock)
 * [purpleworks/delibird](#purpleworksdelibird)
 
 <a name="repo-tkxfbo5z3fadpury325gf4t4"></a>
@@ -6143,7 +6143,7 @@ The AMP web component framework.
 Repository: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 Author: [anuraghazra](https://github.com/anuraghazra)
 
-Stars: 39754
+Stars: 39755
 
 :zap: Dynamically generated stats for your github readmes
 
@@ -7112,7 +7112,7 @@ Stars: 12967
 Repository: [huggingface/transformers](https://github.com/huggingface/transformers)
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 60742
+Stars: 60743
 
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
@@ -7425,7 +7425,7 @@ implement classification for CAPTCHA in TensorFlow
 * [oxidy-rs/oxidy](#oxidy-rsoxidy)
 * [rkyv/rkyv](#rkyvrkyv)
 * [roapi/roapi](#roapiroapi)
-* [rochacbruno/rust_memes](#rochacbrunorustmemes)
+* [rochacbruno/rust_memes](#rochacbrunorust_memes)
 * [rust-analyzer/rust-analyzer](#rust-analyzerrust-analyzer)
 * [rust-lang/hashbrown](#rust-langhashbrown)
 * [rust-lang/mdBook](#rust-langmdbook)
@@ -8063,7 +8063,7 @@ Stars: 23365
 Repository: [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 Author: [rustdesk](https://github.com/rustdesk)
 
-Stars: 16277
+Stars: 16278
 
 Yet another remote desktop software
 
@@ -8173,7 +8173,7 @@ aHash is a non-cryptographic hashing algorithm that uses the AES hardware instru
 Repository: [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
 Author: [tokio-rs](https://github.com/tokio-rs)
 
-Stars: 15694
+Stars: 15695
 
 A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
@@ -8363,7 +8363,7 @@ Public interface definitions of Google APIs.
 * [kamranahmedse/developer-roadmap](#kamranahmedsedeveloper-roadmap)
 * [master-co/styles](#master-costyles)
 * [msanvarov/nest-rest-mongo-boilerplate](#msanvarovnest-rest-mongo-boilerplate)
-* [myyrakle/MOVED__rustywiki-front](#myyraklemovedrustywiki-front)
+* [myyrakle/MOVED__rustywiki-front](#myyraklemoved__rustywiki-front)
 * [myyrakle/eojuk](#myyrakleeojuk)
 * [naver/billboard.js](#naverbillboardjs)
 * [nhn/tui.editor](#nhntuieditor)
@@ -8906,7 +8906,7 @@ Simple, fast, safe, compiled language for developing maintainable software. Comp
 <a name="v-jxmfozn2aqhahyzap4ycrraz"></a>
 # Vim script
 
-* [Azabell1993/Linux_Setting](#azabell1993linuxsetting)
+* [Azabell1993/Linux_Setting](#azabell1993linux_setting)
 * [farazdagi/vim-go-ide](#farazdagivim-go-ide)
 
 <a name="repo-uwx4urwhiggkohrxwogeiitl"></a>
@@ -8972,7 +8972,7 @@ Stars: 143
 * [lemon-mint/lemon-mint](#lemon-mintlemon-mint)
 * [lindelof/awesome-web-effect](#lindelofawesome-web-effect)
 * [mkrl/misbrands](#mkrlmisbrands)
-* [myyrakle/MOVED__rustywiki-editor](#myyraklemovedrustywiki-editor)
+* [myyrakle/MOVED__rustywiki-editor](#myyraklemoved__rustywiki-editor)
 * [nikolaydubina/go-recipes](#nikolaydubinago-recipes)
 * [rheehot/react-learnit-s3](#rheehotreact-learnit-s3)
 * [rheehot/webauthn-demo-client](#rheehotwebauthn-demo-client)
