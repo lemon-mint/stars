@@ -4,48 +4,48 @@ This is a list of repositories starred by [lemon-mint](https://github.com/lemon-
 
 # Table of Contents
 
-* [Assembly](#v-itt5jmsii2oxh7pnkhpk46ty)
-* [C](#v-nmr4bvptlunrd6nwqpylbjqx)
-* [C#](#v-aqbcrbdovvfedfiul7qisnb4)
-* [C++](#v-6hplox5cdu6epjxhurmwpn47)
-* [CSS](#v-wwa6iycczp53bl2fikufqb42)
-* [Cuda](#v-zoeowhhddkjbumezzimpcw4k)
-* [Dart](#v-ljod65plz3isckp47vjzdzia)
-* [Dockerfile](#v-3uwa5nxklt6gys6u5lbqsnhc)
-* [Go](#v-ntefdg4rlbhixvbv2yzudyed)
-* [HTML](#v-a4rz3pjkdio5pe56sbrkebpl)
-* [Java](#v-yg5gbtqtlbsqhiq2axu66c5z)
-* [JavaScript](#v-wj5na3ishrqul65h5eqxuth3)
-* [Julia](#v-5cp6mlwimnd4fnipjkdux5wm)
-* [Jupyter Notebook](#v-zgfwagimbry7jbnnry7fv6ip)
-* [Kotlin](#v-y6hwzf4sh2a2f4cpbhc6q63j)
-* [PHP](#v-bjvbknc22dd6g3wz3q7mtsgo)
-* [Python](#v-dcef6j5vv6ibfxyz4slemd4s)
-* [Rust](#v-3gvit7orllk4ihm4ckh677u6)
-* [SCSS](#v-vdrqaji2u26q2oafv6ezlwnx)
-* [Sage](#v-l6vhcotv253apc264l622zpe)
-* [Scala](#v-r7grqnxlvaehkamk4w5r6xqh)
-* [Shell](#v-u4zsqveg2vbygj6dpl3on2ck)
-* [Starlark](#v-awx5ue4ax2ebytltckfjwm7v)
-* [TypeScript](#v-5ucqj5ykjd76t3ix47o64avh)
-* [V](#v-3zng66arn3fgfv74ltqvtur2)
-* [Vim script](#v-jxmfozn2aqhahyzap4ycrraz)
-* [Vue](#v-wei2fiqylsxnpbmqt4oveyqh)
-* [Unknown](#v-w5sm3qhkw4jxizzbcjzpuu47)
+* [Assembly](#v-#assembly)
+* [C](#v-#c)
+* [C#](#v-#c-1)
+* [C++](#v-#c-2)
+* [CSS](#v-#css)
+* [Cuda](#v-#cuda)
+* [Dart](#v-#dart)
+* [Dockerfile](#v-#dockerfile)
+* [Go](#v-#go)
+* [HTML](#v-#html)
+* [Java](#v-#java)
+* [JavaScript](#v-#javascript)
+* [Julia](#v-#julia)
+* [Jupyter Notebook](#v-#jupyter-notebook)
+* [Kotlin](#v-#kotlin)
+* [PHP](#v-#php)
+* [Python](#v-#python)
+* [Rust](#v-#rust)
+* [SCSS](#v-#scss)
+* [Sage](#v-#sage)
+* [Scala](#v-#scala)
+* [Shell](#v-#shell)
+* [Starlark](#v-#starlark)
+* [TypeScript](#v-#typescript)
+* [V](#v-#v)
+* [Vim script](#v-#vim-script)
+* [Vue](#v-#vue)
+* [Unknown](#v-#unknown)
 
 <a name="v-itt5jmsii2oxh7pnkhpk46ty"></a>
 # Assembly
 
-* [bytedance/sonic](#repo-wfs344yzhzqovsiuntiu3e6j)
-* [chenzhuoyu/base64x](#repo-ybem5ko4vhr3ut53hust3pcn)
-* [klauspost/reedsolomon](#repo-knfrzab6lyfxx47chwvrmaiz)
+* [bytedance/sonic](#bytedance/sonic)
+* [chenzhuoyu/base64x](#chenzhuoyu/base64x)
+* [klauspost/reedsolomon](#klauspost/reedsolomon)
 
 <a name="repo-wfs344yzhzqovsiuntiu3e6j"></a>
 ## [bytedance/sonic](https://github.com/bytedance/sonic)
 
 Author: [bytedance](https://github.com/bytedance)
 
-Stars: 2674
+Stars: 2675
 
 A blazingly fast JSON serializing & deserializing library
 
@@ -71,26 +71,26 @@ Reed-Solomon Erasure Coding in Go
 <a name="v-nmr4bvptlunrd6nwqpylbjqx"></a>
 # C
 
-* [DataDog/zstd](#repo-r66eq5s6vqpdhdhitbnflg46)
-* [ThakeeNathees/pocketlang](#repo-qvelhlkerexdya2kzi5khcjb)
-* [TheAlgorithms/C](#repo-bvcfplpsfkrm3urvs35nwphk)
-* [avaneev/komihash](#repo-prb54cjtc64isr7iyla7pq5k)
-* [brendan-rius/c-jwt-cracker](#repo-wbowmxxyeyqxqsi3dblhzith)
-* [cloudius-systems/osv](#repo-kjlaz7hv2jcvyj2bnxikehlo)
-* [facebook/zstd](#repo-ex3pwaf2gewnxxdjjb4gr2vp)
-* [google/brotli](#repo-lyga4fi4mrylyb3gqatqfvkn)
-* [h2o/picohttpparser](#repo-5mwh7eamon6vjpdbanc6jxn5)
-* [jeremycw/httpserver.h](#repo-u5zygfv2h73a7ly6bqcx7br6)
-* [microsoft/FourQlib](#repo-pomrf2auzgbqdjyrlyyofmyr)
-* [microsoft/mimalloc](#repo-faosvbekhy2o4omsrb2ve5s4)
-* [microsoft/webauthn](#repo-3276ehlm5vswgbxwpsjgsrwi)
-* [obsproject/obs-studio](#repo-jd6wyvx2hvz2ttigx6znyepx)
-* [openwrt/openwrt](#repo-wrvuxyfjbg6ae7v57gan5zjb)
-* [powturbo/Turbo-Base64](#repo-j3fv767zanp2wip7vcrzwt4q)
-* [shuveb/io_uring-by-example](#repo-5e4yacajlz6nd47fy5wy5bkd)
-* [sitano/gsysint](#repo-ixtvv32ezvebagwiogtqe2q5)
-* [trombik/esp_wireguard](#repo-2dgtl6fu2ukqf453logjwxjx)
-* [valyala/gozstd](#repo-kvdabhmjfrgf3fx2dzj63fyv)
+* [DataDog/zstd](#datadog/zstd)
+* [ThakeeNathees/pocketlang](#thakeenathees/pocketlang)
+* [TheAlgorithms/C](#thealgorithms/c)
+* [avaneev/komihash](#avaneev/komihash)
+* [brendan-rius/c-jwt-cracker](#brendan-rius/c-jwt-cracker)
+* [cloudius-systems/osv](#cloudius-systems/osv)
+* [facebook/zstd](#facebook/zstd)
+* [google/brotli](#google/brotli)
+* [h2o/picohttpparser](#h2o/picohttpparser)
+* [jeremycw/httpserver.h](#jeremycw/httpserver.h)
+* [microsoft/FourQlib](#microsoft/fourqlib)
+* [microsoft/mimalloc](#microsoft/mimalloc)
+* [microsoft/webauthn](#microsoft/webauthn)
+* [obsproject/obs-studio](#obsproject/obs-studio)
+* [openwrt/openwrt](#openwrt/openwrt)
+* [powturbo/Turbo-Base64](#powturbo/turbo-base64)
+* [shuveb/io_uring-by-example](#shuveb/io_uring-by-example)
+* [sitano/gsysint](#sitano/gsysint)
+* [trombik/esp_wireguard](#trombik/esp_wireguard)
+* [valyala/gozstd](#valyala/gozstd)
 
 <a name="repo-r66eq5s6vqpdhdhitbnflg46"></a>
 ## [DataDog/zstd](https://github.com/DataDog/zstd)
@@ -106,7 +106,7 @@ Zstd wrapper for Go
 
 Author: [ThakeeNathees](https://github.com/ThakeeNathees)
 
-Stars: 1307
+Stars: 1308
 
 A lightweight, fast embeddable scripting language.
 
@@ -115,7 +115,7 @@ A lightweight, fast embeddable scripting language.
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 12938
+Stars: 12941
 
 Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 
@@ -196,7 +196,7 @@ FourQlib is an efficient and portable cryptographic library that provides functi
 
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 6545
+Stars: 6546
 
 mimalloc is a compact general purpose allocator with excellent performance.
 
@@ -214,7 +214,7 @@ Win32 APIs for WebAuthN standard
 
 Author: [obsproject](https://github.com/obsproject)
 
-Stars: 37502
+Stars: 37506
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
@@ -276,20 +276,20 @@ go wrapper for zstd
 <a name="v-aqbcrbdovvfedfiul7qisnb4"></a>
 # C#
 
-* [JasonStein/Notepads](#repo-lzbzgxne6uhn5wasncp5z5cw)
-* [RyuaNerin/Hanyu](#repo-6ngj4l4lgofuxqczhxei6eqi)
-* [dotnet/runtime](#repo-nyjyj53xo6u3caiuunxflafe)
-* [hellzerg/optimizer](#repo-5nymq35pipqomzurdbpfcy6m)
-* [mat1jaczyyy/Zetris](#repo-75pgwlckualfutw4txone6bh)
-* [planetarium/libplanet](#repo-fjbsr2cbmd7hl5c4544txxme)
-* [yourtablecloth/TableCloth](#repo-qimlnf7bf6z6733jmrzqcrdd)
+* [JasonStein/Notepads](#jasonstein/notepads)
+* [RyuaNerin/Hanyu](#ryuanerin/hanyu)
+* [dotnet/runtime](#dotnet/runtime)
+* [hellzerg/optimizer](#hellzerg/optimizer)
+* [mat1jaczyyy/Zetris](#mat1jaczyyy/zetris)
+* [planetarium/libplanet](#planetarium/libplanet)
+* [yourtablecloth/TableCloth](#yourtablecloth/tablecloth)
 
 <a name="repo-lzbzgxne6uhn5wasncp5z5cw"></a>
 ## [JasonStein/Notepads](https://github.com/JasonStein/Notepads)
 
 Author: [JasonStein](https://github.com/JasonStein)
 
-Stars: 6252
+Stars: 6253
 
 A modern, lightweight text editor with a minimalist design.
 
@@ -307,7 +307,7 @@ Stars: 15
 
 Author: [dotnet](https://github.com/dotnet)
 
-Stars: 8659
+Stars: 8664
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
@@ -316,7 +316,7 @@ Stars: 8659
 
 Author: [hellzerg](https://github.com/hellzerg)
 
-Stars: 1797
+Stars: 1801
 
 Make Windows faster and more secure
 
@@ -351,21 +351,21 @@ Stars: 326
 <a name="v-6hplox5cdu6epjxhurmwpn47"></a>
 # C++
 
-* [SieR-VR/shaderpp](#repo-xsdqggdbdwqbkpwk7ujjpdfc)
-* [System-Glitch/SHA256](#repo-mqtdetzuqxyt6qm3zuhrt6g2)
-* [cztomczak/cefpython](#repo-5tygk2v4xrfa3ldhufa3cyn6)
-* [drogonframework/drogon](#repo-2sqf577pmmtu4feri4ajstay)
-* [google/filament](#repo-dai5l2g6iowrqqdvampdnrnk)
-* [google/glog](#repo-mfj4udg23qwxeyudxlayjtem)
-* [google/lyra](#repo-nj75yacsoctzmgzxjdpdgyau)
-* [google/tink](#repo-qmthi4lnhwuoncqyn53dkbm2)
-* [microsoft/SEAL](#repo-pvgwirpuc3yh53fg6r7cpuga)
-* [microsoft/onnxruntime](#repo-4pxyqccvtqhdr5czewn26lrl)
-* [nasa/fprime](#repo-bsc3shnrirhutvmn5dq6il5w)
-* [redpanda-data/redpanda](#repo-2xwnccintr7pgucbxnhmxlrp)
-* [rethinkdb/rethinkdb](#repo-glkk7t4vkbhxjdkfxn5kvoki)
-* [shedskin/shedskin](#repo-cppvea243eo7oqwkgrv4ad43)
-* [typesense/typesense](#repo-3iondv7qxxytiy7hbi7isia5)
+* [SieR-VR/shaderpp](#sier-vr/shaderpp)
+* [System-Glitch/SHA256](#system-glitch/sha256)
+* [cztomczak/cefpython](#cztomczak/cefpython)
+* [drogonframework/drogon](#drogonframework/drogon)
+* [google/filament](#google/filament)
+* [google/glog](#google/glog)
+* [google/lyra](#google/lyra)
+* [google/tink](#google/tink)
+* [microsoft/SEAL](#microsoft/seal)
+* [microsoft/onnxruntime](#microsoft/onnxruntime)
+* [nasa/fprime](#nasa/fprime)
+* [redpanda-data/redpanda](#redpanda-data/redpanda)
+* [rethinkdb/rethinkdb](#rethinkdb/rethinkdb)
+* [shedskin/shedskin](#shedskin/shedskin)
+* [typesense/typesense](#typesense/typesense)
 
 <a name="repo-xsdqggdbdwqbkpwk7ujjpdfc"></a>
 ## [SieR-VR/shaderpp](https://github.com/SieR-VR/shaderpp)
@@ -408,7 +408,7 @@ Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macO
 
 Author: [google](https://github.com/google)
 
-Stars: 13771
+Stars: 13772
 
 Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 
@@ -426,7 +426,7 @@ C++ implementation of the Google logging module
 
 Author: [google](https://github.com/google)
 
-Stars: 3008
+Stars: 3009
 
 A Very Low-Bitrate Codec for Speech Compression
 
@@ -435,7 +435,7 @@ A Very Low-Bitrate Codec for Speech Compression
 
 Author: [google](https://github.com/google)
 
-Stars: 12256
+Stars: 12257
 
 Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 
@@ -453,7 +453,7 @@ Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 6526
+Stars: 6528
 
 ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
@@ -462,7 +462,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 
 Author: [nasa](https://github.com/nasa)
 
-Stars: 8804
+Stars: 8805
 
 F' - A flight software and embedded systems framework
 
@@ -506,7 +506,7 @@ Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSe
 <a name="v-wwa6iycczp53bl2fikufqb42"></a>
 # CSS
 
-* [jyo925/Spring-Project-PMService](#repo-nc6ww5252eeu3xjrfcpslppq)
+* [jyo925/Spring-Project-PMService](#jyo925/spring-project-pmservice)
 
 <a name="repo-nc6ww5252eeu3xjrfcpslppq"></a>
 ## [jyo925/Spring-Project-PMService](https://github.com/jyo925/Spring-Project-PMService)
@@ -521,14 +521,14 @@ Stars: 3
 <a name="v-zoeowhhddkjbumezzimpcw4k"></a>
 # Cuda
 
-* [NVlabs/instant-ngp](#repo-lillfq2l65pub2ifi3x2w7qw)
+* [NVlabs/instant-ngp](#nvlabs/instant-ngp)
 
 <a name="repo-lillfq2l65pub2ifi3x2w7qw"></a>
 ## [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)
 
 Author: [NVlabs](https://github.com/NVlabs)
 
-Stars: 5852
+Stars: 5858
 
 Instant neural graphics primitives: lightning fast NeRF and more
 
@@ -536,10 +536,10 @@ Instant neural graphics primitives: lightning fast NeRF and more
 <a name="v-ljod65plz3isckp47vjzdzia"></a>
 # Dart
 
-* [TheAlgorithms/Dart](#repo-pbp35z7dbikedbohfafh5qho)
-* [firebase/flutterfire](#repo-5c5cw5tsopfmuvkoiuvikjap)
-* [flame-engine/flame](#repo-bcwnfaybhucqleo34rycmep2)
-* [hybs310/FirstFlutter](#repo-ij6sgoln57f57botvoedkqyc)
+* [TheAlgorithms/Dart](#thealgorithms/dart)
+* [firebase/flutterfire](#firebase/flutterfire)
+* [flame-engine/flame](#flame-engine/flame)
+* [hybs310/FirstFlutter](#hybs310/firstflutter)
 
 <a name="repo-pbp35z7dbikedbohfafh5qho"></a>
 ## [TheAlgorithms/Dart](https://github.com/TheAlgorithms/Dart)
@@ -555,7 +555,7 @@ All Algorithms implemented in Dart
 
 Author: [firebase](https://github.com/firebase)
 
-Stars: 6452
+Stars: 6453
 
 🔥 A collection of Firebase plugins for Flutter apps.
 
@@ -564,7 +564,7 @@ Stars: 6452
 
 Author: [flame-engine](https://github.com/flame-engine)
 
-Stars: 6123
+Stars: 6124
 
 A minimalist Flutter game engine
 
@@ -581,9 +581,9 @@ Stars: 1
 <a name="v-3uwa5nxklt6gys6u5lbqsnhc"></a>
 # Dockerfile
 
-* [hmmhmmhm/railway-filestash](#repo-7mfqqitylixf6quztgjqlkn7)
-* [lemon-mint/lemons-dockers](#repo-qiscajxfu76rzh274h7nvafg)
-* [wizath/pytorch-raspberry-crosscompile](#repo-zsjrg2dxhjn4tw2og3prt7gf)
+* [hmmhmmhm/railway-filestash](#hmmhmmhm/railway-filestash)
+* [lemon-mint/lemons-dockers](#lemon-mint/lemons-dockers)
+* [wizath/pytorch-raspberry-crosscompile](#wizath/pytorch-raspberry-crosscompile)
 
 <a name="repo-7mfqqitylixf6quztgjqlkn7"></a>
 ## [hmmhmmhm/railway-filestash](https://github.com/hmmhmmhm/railway-filestash)
@@ -616,458 +616,459 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 <a name="v-ntefdg4rlbhixvbv2yzudyed"></a>
 # Go
 
-* [3dentlabs/3dent](#repo-hokuox5zjtmwtkdcxu6djkor)
-* [APiercey/RygelDB](#repo-ckgeihctuaacokc5im7odvn5)
-* [AcrylicShrimp/devlog-golang](#repo-35jdq4gu4i45l6w4aw2mijqx)
-* [AlexStocks/getty](#repo-gsaopdzzzoovasdxddzkjrnm)
-* [Allenxuxu/gev](#repo-u6mwywdshhb7kbul53wosbn6)
-* [AmadeusITGroup/cpubench1A](#repo-ka7tgkj4osdskus4um5herzu)
-* [BWbwchen/MapReduce](#repo-tjmmgebvkp3j7xuug6tgfg2a)
-* [Code-Hex/gqldoc](#repo-3vyej5ln63g2brt772laupd3)
-* [DarthPestilane/easytcp](#repo-sgjvrolpc7fpioleqxs5msen)
-* [DeltaLaboratory/go-imageserver](#repo-yj52stinixpaoicsqsdar4je)
-* [Dreamacro/clash](#repo-vf7xo655m6dfba23ft6lybsv)
-* [FiloSottile/mkcert](#repo-ayj4mxs4xrwpzfntu3upekao)
-* [FlowerWrong/tun2socks](#repo-u22xhf2m4p3w5glaqstz7ysd)
-* [GavinClarke0/lockless-generic-ring-buffer](#repo-xfoaruhap234pmmbaf6u5i53)
-* [HyNetwork/hysteria](#repo-dxrareqz6yqlopsgqr6wxqyt)
-* [IceWhaleTech/CasaOS](#repo-klpdevq4tcrf63de5ppzftgp)
-* [Jigsaw-Code/outline-go-tun2socks](#repo-cgqwh4m7ilz6xflt5tvs6ayk)
-* [JohannesKaufmann/html-to-markdown](#repo-4frqkbtupaprtitmlmwj26j5)
-* [MrMarble/termsvg](#repo-xzw43uctpxhaytr7kttzacbm)
-* [Narasimha1997/sig-716i](#repo-ruogqw7dgjf2inrldsrg4mil)
-* [PeernetOfficial/core](#repo-o4otpxhvai4zwzgnrtoh3y55)
-* [PierreKieffer/http-tanker](#repo-t56eeywwa5s4a43jukxuixrv)
-* [RebirthLee/godeep](#repo-pymdlraddlaokmv2o4wwkwmi)
-* [RussellLuo/slidingwindow](#repo-e3hah75vruaqffifwzepyeho)
-* [RussellLuo/timingwheel](#repo-xhsmgbq7lndiakjka6rvlrc5)
-* [SchwarzIT/go-template](#repo-i4bw2g6vl6llrwbtmuasjkia)
-* [StarpTech/go-web](#repo-thberxznp6kwcxi6z23qgf4v)
-* [TheAlgorithms/Go](#repo-r2zukr4divpo2juxzjkydzfo)
-* [TomWright/dasel](#repo-25zdc7x7zsjd4aqniyr6kt5y)
-* [WireGuard/wireguard-go](#repo-2p6p2pvzhjbxz2zv4ndqkghm)
-* [Workiva/go-datastructures](#repo-ipr54izuk6ucspleasjfzedt)
-* [Yash-Handa/logo-ls](#repo-m66ojtsvhsdlecpp3dtnsspa)
-* [YoNoSoyVictor/Go_Snake_Game_CLI](#repo-ftsavlf4xixrat66ub5hprmy)
-* [aQuaYi/LeetCode-in-Go](#repo-fsnj7oj44ibo5do76j33uay7)
-* [abiosoft/colima](#repo-sbuotgb4fh2jb434nvvzntua)
-* [ailidani/paxi](#repo-7azhpnnnzmajuivzkswadusq)
-* [ajstarks/svgo](#repo-uh5otjyspudu3uwd4qzd2hji)
-* [akmittal/turbo-go](#repo-ofo2af4xwszc2twuyecci3yc)
-* [alecthomas/chroma](#repo-sqjnc4dwjtqidr6uh4zrhm3v)
-* [alecthomas/esfmt](#repo-qtr2zrbu7puvipvvuebioybe)
-* [alecthomas/localcache](#repo-7iyad4vn3v22c6s3ddksuhye)
-* [alecthomas/participle](#repo-tixbae3daeo55okdcne4u3q7)
-* [alevinval/sse](#repo-xjhmvvmbns2rcwo5jn5onh5d)
-* [alexliesenfeld/health](#repo-wdg2mtuqvs3xekmperzosokp)
-* [alitto/pond](#repo-c3ev5drruqoul56sjfohzyy7)
-* [amenzhinsky/go-memexec](#repo-jcvds3xjkhlqba6ls5bjexpq)
-* [andybalholm/brotli](#repo-f64r3tgi36ca4k3ebaekqzws)
-* [ankithans/secureX](#repo-zzxto3a2hhpaun4peifj35v3)
-* [anoriqq/couch](#repo-3wzddstyaeg57a7vneqcvgv5)
-* [aofei/r2](#repo-ii3sosycr35gtijqrhi3bbjo)
-* [aperturerobotics/bifrost](#repo-dvswvmzzxnocibunldvi5uc2)
-* [armfazh/h2c-go-ref](#repo-y7gvg2pqwnaq6mlg7rqvcbkn)
-* [arriqaaq/art](#repo-eq3udytzqa7dmvvbceievieb)
-* [arriqaaq/flashdb](#repo-5mz42fkt332jfiaxxksemypm)
-* [asticode/go-astilectron](#repo-4j47rzz4cka7vxn7y4wda64d)
-* [authzed/spicedb](#repo-hzfovmlel3u23gwpkcz6rxry)
-* [basemachina/bridge](#repo-y73glhyl2qcimgm2a736te57)
-* [bbkane/gocolor](#repo-iddenepeg7mmgzovl2a3otcp)
-* [berty/berty](#repo-iivrduwdpnrn6wb5kkxrg22t)
-* [binwiederhier/ntfy](#repo-n5lk5co2s2crafilanqewpw5)
-* [bjwbell/gensimd](#repo-o64iq5oeusc72l64uq4lv26m)
-* [blluv/seed_go](#repo-wsxmxcvr5vajkg45ynear7o3)
-* [bradfitz/jndi](#repo-epjzzfqwxtgzw5fm7ahsee7a)
-* [brendonmatos/golive](#repo-pwfjq3dg2vjy2bum2dnxidmj)
-* [brentp/intintmap](#repo-kqauxjfltxl7mggb3rhuofqg)
-* [bspaans/jit-compiler](#repo-wnfvhgne6c254b4rdrzdq2gm)
-* [buger/jsonparser](#repo-iulolf3ujpazorqmnj5noci6)
-* [burrowers/garble](#repo-t5czsrvp6oq5e47i7zuno7li)
-* [bytecodealliance/wasmtime-go](#repo-rk63qvmh5gn7hblzkg2bgejy)
-* [bytedance/gopkg](#repo-ubdf3davy3hpihpt5qywkgc6)
-* [capnproto/go-capnproto2](#repo-t7g5y7du2h3jtkv4txsklhgf)
-* [centrifugal/centrifuge](#repo-afnwcxkxy7ji4qgbvsro4dap)
-* [centrifugal/centrifuge-go](#repo-4unfltouqxcsgrjshu3koa6a)
-* [cespare/reflex](#repo-2gtwg7f6mq7apudn6dmf3y3i)
-* [chanify/chanify](#repo-kgh7iab4yfgqh7kb2kf7kqrq)
-* [chaos-mesh/chaos-mesh](#repo-asf4xxtc43xpyuon7bchqqx3)
-* [charmbracelet/bubbles](#repo-ilhxdxyorwiw7euat2oam6qk)
-* [charmbracelet/bubbletea](#repo-av7kcu2fwdcf5x5t7h2aunkj)
-* [charmbracelet/glamour](#repo-ynt7lj3uofv6u3ipp5dz2d6h)
-* [charmbracelet/lipgloss](#repo-uzgnbicnrpcx67fmhltbwnjr)
-* [charmbracelet/soft-serve](#repo-3gfq7zxzjg63dbph5xerovqg)
-* [charmbracelet/wish](#repo-xsjkx3d2lweso32h76e7ewac)
-* [charmbracelet/wishlist](#repo-ggsjwswklfuzrkcqcxeleq3v)
-* [chenzhuoyu/iasm](#repo-kmgbqdk5qyjbmn36s3vd2flv)
-* [cilium/cilium](#repo-uzebt3llydlgr75u3kthcytk)
-* [clarkmcc/go-evmap](#repo-sk6jqo3ghddxjmlrvdl2ewic)
-* [client9/misspell](#repo-lw2fwqyp42m6n76lj2t4xhos)
-* [cloudflare/bn256](#repo-sdgisrp7sazhmodbffcnpgqy)
-* [cloudflare/circl](#repo-tfrzaezc7ovwmy7przirg7bh)
-* [cloudflare/cloudflare-go](#repo-jn5bqluvi6tnotsil4nmdohn)
-* [cloudflare/cloudflare-ingress-controller](#repo-rmnpbdv5fxzcp2ebyf7qdwoq)
-* [cloudflare/go](#repo-fwp5cz2ddmn7phoviqwupyox)
-* [cloudflare/odoh-server-go](#repo-sqbwua2ploqumakke4znjdfi)
-* [cloudflare/tableflip](#repo-cbkfluo4x7wpcrvvjtccdyz7)
-* [cloudwego/netpoll](#repo-wss7atsoqfrnhc3g7owuonyr)
-* [cockroachdb/apd](#repo-f72th2ltbvegovqwbqxjv7u7)
-* [codingpot/newsletter_awesome_articles](#repo-t422hnwflonbsc6v2xdpqya6)
-* [coocood/freecache](#repo-fgbgqd2c6h5sksgzafizvav6)
-* [cornelk/hashmap](#repo-unz4fkrlycxsvpjkc6j5zxqu)
-* [create-go-app/cli](#repo-ma5cokaebf6nzgrzww2aphgd)
-* [cretz/esgopeta](#repo-knzgd4ybtlrx2icyiv2g3z33)
-* [cristalhq/base64](#repo-spm6e3mpao6f4iwh3qhb4qks)
-* [cugu/gocap](#repo-kacgtnw4xkstt264s7n6rxsz)
-* [d5/tengo](#repo-4qud5c2u3szkpql5lweor3lg)
-* [daangn/gorean](#repo-lcp7qpgil7p3jluvkpruegxw)
-* [dapr/dapr](#repo-lgrm6hc3w7hscnvhe646jvyq)
-* [ddddddO/gtree](#repo-vhe55vojk5ald3dmyshswolw)
-* [debevv/camellia](#repo-xakqcj6cre2nwbyi2phoqrsj)
-* [deepmind/objecthash-proto](#repo-ebb2bfjww6bwinm4th6emyqt)
-* [dgrr/http2](#repo-rdpe6t3awfomkr62e3eceqxt)
-* [diy-cloud/lux](#repo-scm7qccxukmltme7cbxrdv4o)
-* [dlclark/regexp2](#repo-fgpykxwewvffarqer7uxaoyq)
-* [dominikh/go-tools](#repo-mhwdjuirdugldhkkvfo25tsq)
-* [dop251/goja](#repo-s3y4ktqhtupwh5o4tb6ijhje)
-* [dranikpg/dto-mapper](#repo-lm477fnsld6l3a2o3k5ixapv)
-* [dshulyak/uring](#repo-xku6mo2fcoyu4a7ndeskbrd6)
-* [duo-labs/webauthn](#repo-ixogxr7bsv6j55kda33hv2t7)
-* [dvyukov/go-fuzz](#repo-xxt7r5g76g7tvbayickuqyka)
-* [edwingeng/wuid](#repo-hfgn72iyvlqawo4xa2rvf4ty)
-* [egonelbre/exp](#repo-i42zjblx7dttsvdbikf7cy5w)
-* [egonelbre/gophers](#repo-3l6eppemzjxttrdvhdrn7qg7)
-* [el-mike/restrict](#repo-vg7maeeb7mqnxdwnejuzmm52)
-* [elliotchance/c2go](#repo-rwoca5hpaujfe4wtibswiuy4)
-* [eranyanay/1m-go-websockets](#repo-6klhwnpgddmtj4fkdxs2q5bp)
-* [ergo-services/ergo](#repo-dkdsxprqwsju3hikb22ccgqw)
-* [ericlagergren/decimal](#repo-qkvrcmt2dvtcbusuhczh5nmi)
-* [esin/intheshell](#repo-smvisewfnn3wo5vezv2anksj)
-* [etcd-io/etcd](#repo-prmjnpmveryiimkkkat46pdp)
-* [evanphx/json-patch](#repo-62b2deb3bsdep5jlz6uknsh2)
-* [evanphx/wildcat](#repo-kgyz2ubpdagseo567hbujna2)
-* [felixge/go-patch-overlay](#repo-d53gsrvachuwfgjancpvsbqn)
-* [felixge/pprofutils](#repo-xrqa5r6xtwe7tjbmlnehmxy6)
-* [flower-corp/lotusdb](#repo-cqdzwaroxhmzlxjjzikee4h2)
-* [fortio/fortio](#repo-rao2s3nqvj3quht6bcndcj3k)
-* [foxcpp/maddy](#repo-lwu66lu34xlzxwx7ogd3ungh)
-* [frankban/quicktest](#repo-4xjwbsi3vxouipnkkkmkzjrk)
-* [func25/slicesol](#repo-tyxhek5n5h7cji4iwbxous4p)
-* [fxamacker/circlehash](#repo-dxcb6w7slgyk5wd4cuwsw3ox)
-* [geohot/minikeyvalue](#repo-xdazxg2zjtodft66wyaojk3g)
-* [getporter/porter](#repo-kpimhnuhp3p5qy2iah64yfr6)
-* [gjbae1212/grpc-vpn](#repo-3tso7yhv4hpycnrnhnrhyxum)
-* [gjbae1212/hit-counter](#repo-7j2wo6mo7slpoccxnlu5h6q4)
-* [go-aah/aah](#repo-kwoxbvbunsncb5s65ijsamwy)
-* [go-critic/go-critic](#repo-wmbiv3gsswztikln2jurjqd7)
-* [go-delve/delve](#repo-gwipifhijxcmim5ipyjzmc4o)
-* [go-goyave/goyave](#repo-c2baw2qu52nyw6ivt2mq3vdq)
-* [go-ole/go-ole](#repo-emplxzot2axrg672c5zzvlpg)
-* [go-pdf/fpdf](#repo-m6iflwuytcnj6vcjrbap5tyw)
-* [go-pkgz/expirable-cache](#repo-acz7hgzpcpfgfqaxcwfxhvb4)
-* [go-playground/form](#repo-q43ck4zrptuhvzafv4vy6zn5)
-* [go-sql-driver/mysql](#repo-c3t2kbn23f7rss7sevq4nwhf)
-* [go-wasm-adapter/go-wasm](#repo-x3hyibpw5dkxkhib33soqlub)
-* [go-www/h1](#repo-y7tjyhjxdh7cpkc76bmwfaoe)
-* [go-www/silverlining](#repo-uvtqj72s4yn37yr7cdpn6t2v)
-* [go-www/slrouter](#repo-jyqmc3kcagcer2wqgtyzej5c)
-* [go-zepto/zepto](#repo-xut2sg3hy5jaulpypeajhoc4)
-* [go-zepto/zepto-cli](#repo-ivsiud5hd6wxzh44fcu7aqoq)
-* [go101/golds](#repo-hllvumuz46bcodg7cwkwdeyv)
-* [goava/di](#repo-q4ke5joelrlomeebxihqooob)
-* [gobuffalo/buffalo](#repo-dberzlll7hgc6us3sxzxvn5u)
-* [gobuffalo/plush](#repo-uj4zzloil4prxuaf6bivcacg)
-* [gobwas/ws](#repo-airg3zwkgrvfq55duwbv34if)
-* [goccy/go-jit](#repo-5ila6tdrxxjcx7ii2nvzseeg)
-* [goccy/go-json](#repo-oc2el6j4s4yso3kl2io266v5)
-* [goccy/go-reflect](#repo-vrauvyb6svreikvhk7q7ye54)
-* [goccy/go-zetasql](#repo-l42kmyhpoilygpwr4kubcrxp)
-* [goccy/rebirth](#repo-nnqukrpy3dmt25hpzngpc3mu)
-* [gofiber/fiber](#repo-xuq6lkosn7tajjzlokol4wld)
-* [golang-design/bench](#repo-vhzbteylikgcs7h4koqcnegd)
-* [golang-design/clipboard](#repo-cvh7sje7kly7gf4qcsruy5v6)
-* [golang-design/lockfree](#repo-fcj4i3is2gengthe5jshvkwn)
-* [golang-migrate/migrate](#repo-65ogoicrrtbjbxzkvawyy6kd)
-* [golang/glog](#repo-33ucttvklvbb4pxgatq4lylb)
-* [golang/go](#repo-r7svjwu57hosvrhlvmany4um)
-* [golang/gofrontend](#repo-bwxb3h37gm7jcyeyke2dxbzl)
-* [golang/groupcache](#repo-tzxweabrfoauzgje5htmei6x)
-* [golang/net](#repo-zoeugjz47dcpmh54mt3ws6rx)
-* [golang/perf](#repo-ei5sfadpml5o5ozpniwidugv)
-* [golang/pkgsite](#repo-kdd344jqn26qceeixs3v5k3j)
-* [golang/proposal](#repo-qnl4ebhbcau6mzlaclbz5xkk)
-* [golangkorea/gophercon-talks](#repo-fw5n5pafpqu3wumruslsptfo)
-* [gomarkdown/markdown](#repo-ryj25mig2z7u5llgfolfat6z)
-* [google/cel-go](#repo-hr3o44ejcxn4zcyat2vqua6l)
-* [google/go-licenses](#repo-c5ktrltdgaml2rxobogv3me5)
-* [google/gopacket](#repo-x3isrkrukvuduuszkqspouul)
-* [google/grumpy](#repo-5z7ggm6jrlthh6uouj6otl2y)
-* [google/gvisor](#repo-shw3y3clq6ut4vd3lzv6saac)
-* [google/ko](#repo-u2nh675qmfivgtsnzxbawj6b)
-* [google/netstack](#repo-ay2gytuvocs4zcrdnocdzugu)
-* [google/safehtml](#repo-i5wkx2ycc7xrz4p72ma4wpdg)
-* [google/trillian](#repo-cxeobtcrhwwe37xkcctxyafz)
-* [google/zoekt](#repo-67ku3tskfuxljdpvdrnmeyri)
-* [gookit/config](#repo-ytenpfaiwzrs2t5uosnqsnh2)
-* [gookit/rux](#repo-2gtozmvlngnbumsgbv4yprta)
-* [goplus/gossa](#repo-7wtulruuobcftk72oamn2yiy)
-* [goplus/gox](#repo-g6ykpovyc4ecqn5o4lorwkic)
-* [gordonklaus/portaudio](#repo-zz6ki3wekqwqpcv7rubxzqxk)
-* [gorgonia/gorgonia](#repo-b5dijibu7imbhmrgzgyejc3m)
-* [gotestyourself/gotest.tools](#repo-he5kh3kremxhoou4rq5dktds)
-* [grafana/rollout-operator](#repo-4c5m3kxsnash6jlep2twljjl)
-* [gwuhaolin/livego](#repo-wypowkfetmyt75igk5ppkul2)
-* [hangulize/hangulize](#repo-ic7pchsfaikuebyimoymtcsi)
-* [hashicorp/raft](#repo-c5d7kgh5r73lrykqmz2hffvn)
-* [hashicorp/raft-boltdb](#repo-i4qxceb3ibb5bj2dz63xp66i)
-* [hashicorp/vault](#repo-ckkq2yvwpavvawqxprpydue5)
-* [henvic/httpretty](#repo-zfqygdlxqgmr6f3drpcba5aq)
-* [i-love-flamingo/flamingo](#repo-wczbhufhl7dtmjbcr32bpaog)
-* [ignite-hq/cli](#repo-dizmyfdskvaozuzaccidpepd)
-* [imbue11235/humanize](#repo-wfkd57bp2wm7c4zxgembgjah)
-* [inancgumus/learngo](#repo-y7pfjcky2hh23ckugnptneex)
-* [inelpandzic/imdgo](#repo-lfd64ezm25homap2ekswsmu5)
-* [inkeliz/go_inkwasm](#repo-kbma4ko3xpc5zt7d7n56vtjt)
-* [istio/istio](#repo-54ryt5eth5ohmdek67hm67uw)
-* [ixy-languages/ixy.go](#repo-ukzs6niqyy4ofxiqgifian5h)
-* [jackc/tern](#repo-usq3nucknu732cm6myzkodoa)
-* [jfyne/live](#repo-7xiitlc3qazi44iy7beyw3qu)
-* [jondot/goweight](#repo-cdtz2xykugusuz4iqp3y4ybn)
-* [json-iterator/go](#repo-ppzykannmds4u3wbjjkleo2e)
-* [juicedata/juicefs](#repo-wl273dpaoqhbb5oqgytaiyqu)
-* [julienschmidt/httprouter](#repo-jrjczoobpdtbtosmq5vh5hwg)
-* [junegunn/fzf](#repo-v37n7olvu5ts2jsh7tc7beuj)
-* [karlseguin/ccache](#repo-qg6g7l6jgqdtet2t4y7fsgfn)
-* [kavu/go_reuseport](#repo-mbi4k6jdua3o2g3nwjliqhot)
-* [kevburnsjr/skipfilter](#repo-aa2jnqff2wdgpun4vqrqof7x)
-* [kevinburke/nacl](#repo-xjhctwb7cjbl7xpihirbevza)
-* [keybase/saltpack](#repo-y77kdakshlnfbazrejlgsqsb)
-* [kffl/gocannon](#repo-lexnznxvsmhnnzlzmf6a5kks)
-* [klauspost/compress](#repo-hewvuods45n7skwglbxwrgly)
-* [klauspost/pgzip](#repo-pziiriuopi7ntqo7ss77o7y4)
-* [knative/serving](#repo-gbo23pzwp3xvvkdvsggz5g75)
-* [kortschak/goroutine](#repo-c7ukitpouh72gdd4pp4m2ng4)
-* [kpango/fastime](#repo-4gviwmxdhfbqktwmbvxlgims)
-* [kpango/glg](#repo-r3jn7a2avr4pyqfsu2wleuby)
-* [ksrichard/easyraft](#repo-kakcbixousrxt3b5fjxjsdcw)
-* [kubemq-io/kubemq-community](#repo-4bc4nuwdkgdmrjy3ui27dh4x)
-* [kubernetes/kubernetes](#repo-vuvdtsz5fkp44kytns6kq4cz)
-* [kumahq/kuma](#repo-sidfugtsu7g6ngtwiolhhgun)
-* [kyoto-framework/kyoto](#repo-o3pj66yc5dvkgh2vqrn4oyvl)
-* [kyroy/kdtree](#repo-no7gujmqfi34oop4ud6uqwpj)
-* [labstack/echox](#repo-by7foo5xldb2jtmirzxqupz6)
-* [ledongthuc/goterators](#repo-eiv3sloylw4vhzop3ouqclub)
-* [lemon-mint/HighCrypt](#repo-ez5q3bjbt74cki7rbmwgdmd4)
-* [lemon-mint/Light-File-Crypt](#repo-d5n3jx3um46xzgbduzzcjj7k)
-* [lemon-mint/Tiny-Auth-Service](#repo-a7557tor43svuv6mjhryh4jr)
-* [lemon-mint/VivaceJSON](#repo-rp3z2jbgl5nv6temza37he67)
-* [lemon-mint/alertbot-telegram](#repo-4fscynzkk5abws5bfchoc5f6)
-* [lemon-mint/atomic-counter](#repo-brkhzrynhbbqy6unleg3j3x4)
-* [lemon-mint/badge-renderers.go](#repo-g7r4ip6y6bfsbvlkenjwvyya)
-* [lemon-mint/bin2jpg](#repo-44hcap6espayt7hx6grcsnb6)
-* [lemon-mint/blackmagic](#repo-ln4bcgdtfakqxdo6yopbpf5h)
-* [lemon-mint/cgoStudy](#repo-cjjmmjsrxh7rjbhigzbon2ow)
-* [lemon-mint/challenge-server](#repo-mav372zf5nzjrmcucpni2lwm)
-* [lemon-mint/clipsync-client](#repo-3eqvyqbmrcmlzn5ds27ctg2b)
-* [lemon-mint/event-broker](#repo-b43zycqs66h6pau2wtvoraya)
-* [lemon-mint/frameio](#repo-ioy4hjtuodthj52hamjikbjl)
-* [lemon-mint/go-datastructures](#repo-g2zgdj72jxdjji7vrmwhfcfm)
-* [lemon-mint/go-eventws](#repo-s55syxaxqudida4tbrx3zdsz)
-* [lemon-mint/go-websocket-study-chat](#repo-yvvvmqjiwltvfmxl3svvsahq)
-* [lemon-mint/go-worker](#repo-nhdhvnrmdjqtcc7thgqraum4)
-* [lemon-mint/godotenv](#repo-2iq7nxahaaxau5edrwiasilm)
-* [lemon-mint/gokorean](#repo-hszo6xlkz2o6dagbuzpymep4)
-* [lemon-mint/gopark](#repo-ruujhmd3ji24x3hthrwzl2hw)
-* [lemon-mint/htmlvdom](#repo-6nxsz3qautey6qgi4k544hoc)
-* [lemon-mint/lemonlog-server](#repo-rmh5n2tij6zhsffcwse6gipp)
-* [lemon-mint/lemonmq](#repo-dlnxkvxsbqelga5t7xibilbl)
-* [lemon-mint/lemonwork](#repo-oyd6ndu7pbytarccn6gpgguk)
-* [lemon-mint/libuseful](#repo-mwsoppwgyczdnympt736lf2v)
-* [lemon-mint/linbuf](#repo-mw6mnrwes5yae43m3ytn54wf)
-* [lemon-mint/lvm2](#repo-bptrxbe5q6765ruektegf7fm)
-* [lemon-mint/m](#repo-c4zinhvgl2e7r5vxvb7r3cb5)
-* [lemon-mint/macaronsign](#repo-lx7va6wkpmvuyyo4imu63z23)
-* [lemon-mint/open-backend](#repo-kfxag62v6bm2n65alwl4vwi6)
-* [lemon-mint/real-time](#repo-deg76skq42zlscc2uaqqz4jp)
-* [lemon-mint/simpleproxy](#repo-udoyyy2r5siqbrguaq647ien)
-* [lemon-mint/slowtable](#repo-jl3ofjqq67g3wkjttb5uzory)
-* [lemon-mint/stars](#repo-xpsj5lbgr4t4l75n653aiuet)
-* [lemon-mint/unlock](#repo-2qnz6wpbcd6fxp5jlclqojaf)
-* [lemon-mint/vbox](#repo-lkby6e6ky7p27p3istdetylx)
-* [lemon-mint/vstruct](#repo-m6osw7kvimclgh2bkteachgm)
-* [lemon-mint/webauthn-demo-server](#repo-ncdcng2ljy6hkb75djydjdls)
-* [lesismal/arpc](#repo-cvbn2mfpoafgsjbtjrrlw77a)
-* [lesismal/llib](#repo-wgzz7p4zdkvyyekw2lofx5se)
-* [lesismal/nbio](#repo-jbwgpwfnssfnavgl64e4tivb)
-* [lestrrat-go/xstrings](#repo-jlgwgjgahypkpywcgsylv7ua)
-* [liamg/traitor](#repo-sazqprxih66i5ph4grkt5wmm)
-* [lib/pq](#repo-prmbltzpacukor2toi6omloc)
-* [libp2p/go-libp2p](#repo-tkzshbvn4no3c5g4y35qhf3a)
-* [libp2p/go-reuseport](#repo-pkmel2v65ei2e2fy4volbwmm)
-* [lima-vm/lima](#repo-xms6e4cllbm3kcj7irsthqd2)
-* [llir/llvm](#repo-e5jwaihtobigstc5j664ew6y)
-* [loov/goda](#repo-rfoi6a3boqf3xqp6mw7ayaqv)
-* [loov/hrtime](#repo-zi55o6oehxb5n6m7reqkxlna)
-* [lucas-clemente/quic-go](#repo-p6eo7fr622s73s3h6cstlmkb)
-* [lukechampine/jsteg](#repo-ee6z4gexknkgohs6nfogicgl)
-* [lxc/lxd](#repo-davdastpjhadks42zbqdhkrg)
-* [m1k1o/neko](#repo-h5nxiu5btrom5gnazp2scwvv)
-* [maruel/panicparse](#repo-dpvfqw7hoyrnr4ifyp4gtjwq)
-* [mattn/anko](#repo-wlgfz537ksrj7r5fhyeymhxt)
-* [mattn/anonymousface](#repo-x3lalanvh2iim5lqbzci4h6v)
-* [mattn/go-result](#repo-wyhaiuprha63cbfvxjbdf4mq)
-* [mattn/go-runewidth](#repo-aowgbd5u5hqsqahoiyfun3ic)
-* [mattn/go-slim](#repo-sqj7a5naxukpwdvcsdauxgza)
-* [mattn/go-tty](#repo-pkqrdilmchadb2ecnuqunkcd)
-* [mattn/gowasmer](#repo-y7u4q7jnds7vawlyzsu7i2cg)
-* [mattn/sudo](#repo-4nrihu4v3pjed2xugg4u2e2o)
-* [maxence-charriere/go-app](#repo-x4zqxpg5b2pgracsgg57sm6s)
-* [mengzhuo/nabhash](#repo-ly2o3uckukuvf6c7a3cfdpvl)
-* [mickael-kerjean/filestash](#repo-m4da2s7o4thsbacqyy3cpxhy)
-* [mingrammer/round](#repo-6djk3dbq5jbg7hi7nfocvlkx)
-* [mmcloughlin/avo](#repo-ohm4ubxsklxpeqbw4xc6jtey)
-* [modernice/goes](#repo-yfgsfhtv46saizhiqvryzr3j)
-* [msoap/tcg](#repo-32kkbugtc7twyjz35k3icttx)
-* [mudler/edgevpn](#repo-bhndvdiqvsy6rtbfdtvdyiwa)
-* [mudler/poco](#repo-3bawalq6sqoa5asu6d5nxc3g)
-* [mudler/poco-github-action](#repo-3zoejlpmdi5ppne3iug2xn4o)
-* [muesli/reflow](#repo-7wnnhjw6mrdhjmgxv73kldxw)
-* [muesli/termenv](#repo-3a2frp4hj6nc6khjylo2splz)
-* [mvdan/dockexec](#repo-s5j7wpd3z2b5kav2kafw3waj)
-* [naver/gobench2xml](#repo-ferdtoou46mx56pt2xs3cy3x)
-* [neguse/goi](#repo-jbkxw3xln6rxs3fsu7ykcy4d)
-* [nginxinc/kubernetes-ingress](#repo-a2s5opufvnbfgj7rbj5nm7n3)
-* [nhooyr/websocket](#repo-xf6mqehbzri3cglorrlr3pem)
-* [nikki93/gx](#repo-sn3vhgb7f6df5sixvu4m7ory)
-* [njones/socketio](#repo-lfik2h4aiqrwrh7ri4d23hjf)
-* [nxgtw/go-ipc](#repo-vuqb6xp3ntot2inane4pojfw)
-* [onflow/atree](#repo-j7xyprepta3rgdl2v6fkcf32)
-* [open2b/scriggo](#repo-lvbkssk2pz5xszkciwuccdda)
-* [osrg/gobgp](#repo-7etloflp4x2kwt6ldez7ja7m)
-* [panjf2000/gnet](#repo-jnt6mfnr45a6xfksryymc3vz)
-* [pdfcpu/pdfcpu](#repo-j4vulsvr4sb6f2mf5r4fjffi)
-* [petermattis/fastcgo](#repo-vbxhwb5lrxpgragzmozw6jmi)
-* [photoprism/photoprism](#repo-q2oegb3xgbldkfi7x7a6zcdf)
-* [phpdave11/gofpdf](#repo-c2upza5fj2sb7kfjmo73d7xv)
-* [pion/ion-sfu](#repo-7s4a5pytt7lrt6wleeh2vphc)
-* [pirogom/walk](#repo-wddc6dxmiccljicqdvpzstsr)
-* [pirogom/walkmgr](#repo-lgdwaq4hgud7hwbz6srajoor)
-* [pirogom/walkmgr_example](#repo-oef6fktocuy4nh3en6ukr2x2)
-* [pluveto/upgit](#repo-iifanm32wlgy4uuooabtr357)
-* [pmh-only/gohttpfs](#repo-wyh7ttbj3z3xcqzqdrluoikx)
-* [polarspetroll/LiquidCrystalRPI](#repo-ndizp4lwp2oc4xyinzogsqx6)
-* [polarspetroll/gopio](#repo-zrte5ershliijsz5bhkmx5j2)
-* [potch8228/gobt](#repo-ifjrjimofdkxpmu3z546gd3s)
-* [pseudomuto/protoc-gen-doc](#repo-d3ffytjs3a4me3tffhv6xfwr)
-* [pterm/pterm](#repo-rbjbifaml3phir54rsrmhld3)
-* [quackduck/devzat](#repo-5dd6eppyd37afd3f2eqhxihi)
-* [quasilyte/go-ruleguard](#repo-cue5k2ozn55rofz6j7f3b275)
-* [rajveermalviya/go-webgpu](#repo-qr5kmjdqma5yc2tozircdfdq)
-* [ranon-rat/simpleCloudInGO](#repo-aezmitzor3ylwqrtkfk7usl4)
-* [rclone/rclone](#repo-bgr2n26nv6oa6hydfpkppkeb)
-* [refraction-networking/utls](#repo-yqlg47kvzdbgy2nwcwiswxwh)
-* [reusee/atproxy](#repo-dwaph3thprf4wbgydlxdxzaa)
-* [rfyiamcool/go-timewheel](#repo-dc2gaccsi5ouz65u2gsohsna)
-* [rh12503/triangula](#repo-hszohwkd7b7mbrqkj7ywqxw5)
-* [rjNemo/underscore](#repo-ah45ueyhwj5fjo5qamjwil2m)
-* [rjeczalik/interfaces](#repo-o5ttnzpbw2aihwd7p5rsfc4l)
-* [roadrunner-server/roadrunner](#repo-3us7dqjj7zzshratmi7bn5tn)
-* [rocketlaunchr/react](#repo-e56dnralm4nkssaq2cf3w7op)
-* [rodrigo-brito/ninjabot](#repo-6pg5qryufmbswk2amn6nktxk)
-* [rs/zerolog](#repo-nwmklu3rq4mp2svadmun3eht)
-* [rueian/rueidis](#repo-wyprhckgihmubipgxtfasj3x)
-* [s0rg/crawley](#repo-btdu63hool4m65cmiy43k53o)
-* [samber/lo](#repo-7qlfd5xkhjessgerl5fljegg)
-* [savsgio/gotils](#repo-x6mn42q2icaswgeqys7p3l4z)
-* [sbromberger/gompi](#repo-vave6tsd3ctqq6laknunc7ly)
-* [securego/gosec](#repo-duqwtcidnbhv7ceca6kuzrhs)
-* [segmentio/asm](#repo-4v5jie7polu2x3tlz4ehevax)
-* [shaj13/raft](#repo-i2ixusgc5kd7oudxqkauwftu)
-* [shohruhadham/nanomux](#repo-izw2aync62qadaxrbhsrlp2i)
-* [shr0048/gocsv](#repo-qr5gxher72howqcncy3wajnp)
-* [siderolabs/talos](#repo-xoj3kuvmiaq52hsewpchlva4)
-* [six-ddc/plow](#repo-eaqv6235y76dg46hpdlxfwms)
-* [slackhq/nebula](#repo-jvv4c25bhafouxvqppvfhnrt)
-* [snirlugassy/lightdb](#repo-mar5vkqut2pqccdwcocbt5kq)
-* [snowmerak/gopool](#repo-qol6bnmkjk3zqyvyduhg4zll)
-* [snowmerak/pipe](#repo-hisiioy2l3w557kx3jdtqqo5)
-* [snowmerak/prew](#repo-xultwpxsl66aiikh32btqtd5)
-* [snowmerak/ref](#repo-wnl4xdzbi6aoog4ajh3wst5p)
-* [snowmerak/twisted-lyfes](#repo-vnkavpsc6bt5po5fltmkvezt)
-* [solsw/go2linq](#repo-f4ns6c6ap5oj53st6dhsfnno)
-* [songgao/packets](#repo-he67fecnfpwmp523lv3j4s33)
-* [songgao/water](#repo-g72zubxuw3k2ozuxuydhwfz3)
-* [sonirico/parco](#repo-q5ckqsypmepf7ukhwj7jvqvh)
-* [soundcloud/roshi](#repo-lz6jhdw6snrwuwlu6uegh56a)
-* [sourcegraph/sourcegraph](#repo-zdczl6psedphl35uuwyescdm)
-* [sourcegraph/zoekt](#repo-dv6cl7atsyeq56gkiadxx7xg)
-* [spf13/afero](#repo-u56a26j2xafwfjyutr3ithfd)
-* [spf13/pflag](#repo-cpvw62qa7um6tysx6dyellza)
-* [suborbital/grav](#repo-ibfnmx7xcxkb4kjjxqjn3hxl)
-* [suborbital/reactr](#repo-7hoxa2kltwv6zqcrrvzi2dir)
-* [suborbital/vektor](#repo-comvfgsvlt6g5jw4y7bhqd55)
-* [sucream/koreanutil](#repo-o32ejgpgo7l43w7ifeylmpgn)
-* [t0pep0/efaceconv](#repo-e4wyjn6zg5arek7mw2ugvqwh)
-* [tae2089/GorineeWeb](#repo-6jgxp4hgogenc4qms3ydea7x)
-* [tae2089/customlogging-go](#repo-hkz2y6aoy2ece6ebssil6dyv)
-* [tae2089/entgo-ko](#repo-skbwntgppupjuy6aftjwmqcz)
-* [tailscale/sqlite](#repo-ahh2teuajijgy33whufscius)
-* [tardisgo/tardisgo](#repo-brjr4fgoqmjwxhxurlmynrjx)
-* [tdewolff/canvas](#repo-am5ataebkkquzap7acj3f7ld)
-* [teh-cmc/go-internals](#repo-476kjkfttxpqesptfbuwrdlw)
-* [templexxx/reedsolomon](#repo-l4fsgmtc57tndj7raotd3evq)
-* [templexxx/tsc](#repo-fstqbrwnppomcdcnrkuup6dy)
-* [templexxx/xorsimd](#repo-uibwap4t6wohdknin6utfwgm)
-* [templexxx/xrs](#repo-x5ubjmzuwjzpeslckuftilrz)
-* [tetratelabs/wazero](#repo-pzyssr42jbcpspv3tg4le6zd)
-* [thanos-io/thanos](#repo-42ksfzk4swptllyfrn5vupu7)
-* [tidwall/evio](#repo-u2ea3cmyykredjz4vde4xlti)
-* [tinode/chat](#repo-sl5jxqmshsxqjqlhgf5alftw)
-* [traefik/traefik](#repo-l3wlxt6z3jgjv3wedu6a44aq)
-* [traefik/whoami](#repo-uacagudtfvlv3rb25bqu52jr)
-* [traefik/yaegi](#repo-see224g4zualk77mxxx7rcde)
-* [troylelandshields/ternary](#repo-pvgtxa3oioruv5qbrgw63cun)
-* [trufflesecurity/trufflehog](#repo-gdmkgfh2j67qzoos66hdouij)
-* [tsenart/vegeta](#repo-pfwvmh4a2fidc4ypq65meobr)
-* [twitchyliquid64/golang-asm](#repo-5snfoosiu2g52ianbqt5bjxs)
-* [twitchyliquid64/rnd](#repo-6l5t6gj2cqd2c2ydbcmntlov)
-* [uber-go/atomic](#repo-xf2l5pufdvk3n73cf5xkloju)
-* [uberswe/golang-base-project](#repo-qj7idbvtsirmvv3jplkycnc7)
-* [undefinedlabs/go-mpatch](#repo-mpxezlsx37tabkx36zt5haky)
-* [unixpickle/gobfuscate](#repo-5zuwx5v43q5ortcxzn5ryvg7)
-* [up9inc/basenine](#repo-hd7nw3cjazacujyh7vmm7rdg)
-* [valyala/bytebufferpool](#repo-bvoalbdbi2rtqdx7ht3carnh)
-* [valyala/fasthttp](#repo-3iyngoyfup7hodpvyf5sdxng)
-* [valyala/fastjson](#repo-aaiopz3o44cc6ox7eezjkqtd)
-* [valyala/fasttemplate](#repo-px23wzyawg3yimfrprsspywe)
-* [valyala/quicktemplate](#repo-aoa2j7oga6snokzhmj7prysd)
-* [vardius/gollback](#repo-6nxza2d6pb76vefshku3lpe6)
-* [velopert/gin-rest-api-sample](#repo-5vql2owgthe5ipzl6772c7f2)
-* [vladimirvivien/automi](#repo-za2vzn37vcz2j6r6jn5gawnb)
-* [vmware-tanzu/kubeapps](#repo-7atgwb6vw2gmligvrhbjdrql)
-* [vugu/vugu](#repo-mu7q5dvz6ao6g2knucpblshj)
-* [wader/fq](#repo-32mglucluj3etc7rujprpf2x)
-* [wapc/wapc-go](#repo-bhcdhhj7lcbtoz6k3qcngheb)
-* [wasmerio/wasmer-go](#repo-sak7yl5dxbngb3sqzlqrdzkc)
-* [x-motemen/gore](#repo-oxzwvbpnveqn2gg2cq2daoyl)
-* [xjasonlyu/tun2socks](#repo-m4sxn6psxnexn46ymkhcaf7q)
-* [xlab/c-for-go](#repo-hlqkzsfzuwcsaydufeci6zfl)
-* [xyproto/algernon](#repo-vbvmsxdo2bozflfmulf5yfis)
-* [yorkie-team/yorkie](#repo-c3n4yxltggx775yjboiqzddw)
-* [ysmood/got](#repo-bz3m7jxkqziihrsl5wauwj5s)
-* [zajann/gassert](#repo-6d524y6ljlr4fhqleayaeawq)
-* [zeebo/blake3](#repo-phuhzln23hdqzefgugz34335)
-* [zeebo/goof](#repo-37d3pnpo2bamwfkiofn6rq7n)
-* [zeebo/mon](#repo-pm2fc6z3vf4ruewzdd5eiizn)
-* [zeebo/mwc](#repo-rqd5zpu3ql6x2vozvzznchrh)
-* [zeebo/proc](#repo-gqn5qtobwiu3khvanfnwjxil)
-* [zeebo/sudo](#repo-hsbjb2kryuco6ib6nkk2r7ew)
-* [zeebo/xxh3](#repo-thej5e7jbw4da7nhyehrtpf5)
-* [zeromicro/go-zero](#repo-t3ip7u6iqdxqelzwpemwg7b4)
-* [zombiezen/go-sqlite](#repo-oeo2lnu77iziskyhesbcbmrk)
-* [zserge/bfapi](#repo-356eh25g6xt4txyytrrtlzyi)
-* [zyedidia/generic](#repo-pl2yzgu2c254qsakohuzpkvi)
-* [zyedidia/micro](#repo-wlifburfdhrvtrrd43jpyrh6)
+* [3dentlabs/3dent](#3dentlabs/3dent)
+* [APiercey/RygelDB](#apiercey/rygeldb)
+* [AcrylicShrimp/devlog-golang](#acrylicshrimp/devlog-golang)
+* [AlexStocks/getty](#alexstocks/getty)
+* [Allenxuxu/gev](#allenxuxu/gev)
+* [AmadeusITGroup/cpubench1A](#amadeusitgroup/cpubench1a)
+* [BWbwchen/MapReduce](#bwbwchen/mapreduce)
+* [Code-Hex/gqldoc](#code-hex/gqldoc)
+* [DarthPestilane/easytcp](#darthpestilane/easytcp)
+* [DeltaLaboratory/go-imageserver](#deltalaboratory/go-imageserver)
+* [Dreamacro/clash](#dreamacro/clash)
+* [FiloSottile/mkcert](#filosottile/mkcert)
+* [FlowerWrong/tun2socks](#flowerwrong/tun2socks)
+* [GavinClarke0/lockless-generic-ring-buffer](#gavinclarke0/lockless-generic-ring-buffer)
+* [HyNetwork/hysteria](#hynetwork/hysteria)
+* [IceWhaleTech/CasaOS](#icewhaletech/casaos)
+* [Jigsaw-Code/outline-go-tun2socks](#jigsaw-code/outline-go-tun2socks)
+* [JohannesKaufmann/html-to-markdown](#johanneskaufmann/html-to-markdown)
+* [MrMarble/termsvg](#mrmarble/termsvg)
+* [Narasimha1997/sig-716i](#narasimha1997/sig-716i)
+* [PeernetOfficial/core](#peernetofficial/core)
+* [PierreKieffer/http-tanker](#pierrekieffer/http-tanker)
+* [RebirthLee/godeep](#rebirthlee/godeep)
+* [RussellLuo/slidingwindow](#russellluo/slidingwindow)
+* [RussellLuo/timingwheel](#russellluo/timingwheel)
+* [SchwarzIT/go-template](#schwarzit/go-template)
+* [StarpTech/go-web](#starptech/go-web)
+* [TheAlgorithms/Go](#thealgorithms/go)
+* [TomWright/dasel](#tomwright/dasel)
+* [WireGuard/wireguard-go](#wireguard/wireguard-go)
+* [Workiva/go-datastructures](#workiva/go-datastructures)
+* [Yash-Handa/logo-ls](#yash-handa/logo-ls)
+* [YoNoSoyVictor/Go_Snake_Game_CLI](#yonosoyvictor/go_snake_game_cli)
+* [aQuaYi/LeetCode-in-Go](#aquayi/leetcode-in-go)
+* [abiosoft/colima](#abiosoft/colima)
+* [ailidani/paxi](#ailidani/paxi)
+* [ajstarks/svgo](#ajstarks/svgo)
+* [akmittal/turbo-go](#akmittal/turbo-go)
+* [alecthomas/chroma](#alecthomas/chroma)
+* [alecthomas/esfmt](#alecthomas/esfmt)
+* [alecthomas/localcache](#alecthomas/localcache)
+* [alecthomas/participle](#alecthomas/participle)
+* [alevinval/sse](#alevinval/sse)
+* [alexliesenfeld/health](#alexliesenfeld/health)
+* [alitto/pond](#alitto/pond)
+* [amenzhinsky/go-memexec](#amenzhinsky/go-memexec)
+* [andybalholm/brotli](#andybalholm/brotli)
+* [ankithans/secureX](#ankithans/securex)
+* [anoriqq/couch](#anoriqq/couch)
+* [aofei/r2](#aofei/r2)
+* [aperturerobotics/bifrost](#aperturerobotics/bifrost)
+* [armfazh/h2c-go-ref](#armfazh/h2c-go-ref)
+* [arriqaaq/art](#arriqaaq/art)
+* [arriqaaq/flashdb](#arriqaaq/flashdb)
+* [asticode/go-astilectron](#asticode/go-astilectron)
+* [authzed/spicedb](#authzed/spicedb)
+* [basemachina/bridge](#basemachina/bridge)
+* [bbkane/gocolor](#bbkane/gocolor)
+* [berty/berty](#berty/berty)
+* [binwiederhier/ntfy](#binwiederhier/ntfy)
+* [bjwbell/gensimd](#bjwbell/gensimd)
+* [blluv/seed_go](#blluv/seed_go)
+* [bradfitz/jndi](#bradfitz/jndi)
+* [brendonmatos/golive](#brendonmatos/golive)
+* [brentp/intintmap](#brentp/intintmap)
+* [bspaans/jit-compiler](#bspaans/jit-compiler)
+* [buger/jsonparser](#buger/jsonparser)
+* [burrowers/garble](#burrowers/garble)
+* [bytecodealliance/wasmtime-go](#bytecodealliance/wasmtime-go)
+* [bytedance/gopkg](#bytedance/gopkg)
+* [capnproto/go-capnproto2](#capnproto/go-capnproto2)
+* [centrifugal/centrifuge](#centrifugal/centrifuge)
+* [centrifugal/centrifuge-go](#centrifugal/centrifuge-go)
+* [cespare/reflex](#cespare/reflex)
+* [chanify/chanify](#chanify/chanify)
+* [chaos-mesh/chaos-mesh](#chaos-mesh/chaos-mesh)
+* [charmbracelet/bubbles](#charmbracelet/bubbles)
+* [charmbracelet/bubbletea](#charmbracelet/bubbletea)
+* [charmbracelet/glamour](#charmbracelet/glamour)
+* [charmbracelet/lipgloss](#charmbracelet/lipgloss)
+* [charmbracelet/soft-serve](#charmbracelet/soft-serve)
+* [charmbracelet/wish](#charmbracelet/wish)
+* [charmbracelet/wishlist](#charmbracelet/wishlist)
+* [chenzhuoyu/iasm](#chenzhuoyu/iasm)
+* [cilium/cilium](#cilium/cilium)
+* [clarkmcc/go-evmap](#clarkmcc/go-evmap)
+* [client9/misspell](#client9/misspell)
+* [cloudflare/bn256](#cloudflare/bn256)
+* [cloudflare/circl](#cloudflare/circl)
+* [cloudflare/cloudflare-go](#cloudflare/cloudflare-go)
+* [cloudflare/cloudflare-ingress-controller](#cloudflare/cloudflare-ingress-controller)
+* [cloudflare/go](#cloudflare/go)
+* [cloudflare/odoh-server-go](#cloudflare/odoh-server-go)
+* [cloudflare/tableflip](#cloudflare/tableflip)
+* [cloudwego/netpoll](#cloudwego/netpoll)
+* [cockroachdb/apd](#cockroachdb/apd)
+* [codingpot/newsletter_awesome_articles](#codingpot/newsletter_awesome_articles)
+* [coocood/freecache](#coocood/freecache)
+* [cornelk/hashmap](#cornelk/hashmap)
+* [create-go-app/cli](#create-go-app/cli)
+* [cretz/esgopeta](#cretz/esgopeta)
+* [cristalhq/base64](#cristalhq/base64)
+* [cugu/gocap](#cugu/gocap)
+* [d5/tengo](#d5/tengo)
+* [daangn/gorean](#daangn/gorean)
+* [dapr/dapr](#dapr/dapr)
+* [ddddddO/gtree](#ddddddo/gtree)
+* [debevv/camellia](#debevv/camellia)
+* [deepmind/objecthash-proto](#deepmind/objecthash-proto)
+* [dgrr/http2](#dgrr/http2)
+* [diy-cloud/lux](#diy-cloud/lux)
+* [dlclark/regexp2](#dlclark/regexp2)
+* [dominikh/go-tools](#dominikh/go-tools)
+* [dop251/goja](#dop251/goja)
+* [dranikpg/dto-mapper](#dranikpg/dto-mapper)
+* [dshulyak/uring](#dshulyak/uring)
+* [duo-labs/webauthn](#duo-labs/webauthn)
+* [dvyukov/go-fuzz](#dvyukov/go-fuzz)
+* [edwingeng/wuid](#edwingeng/wuid)
+* [egonelbre/exp](#egonelbre/exp)
+* [egonelbre/gophers](#egonelbre/gophers)
+* [el-mike/restrict](#el-mike/restrict)
+* [elliotchance/c2go](#elliotchance/c2go)
+* [eranyanay/1m-go-websockets](#eranyanay/1m-go-websockets)
+* [ergo-services/ergo](#ergo-services/ergo)
+* [ericlagergren/decimal](#ericlagergren/decimal)
+* [esin/intheshell](#esin/intheshell)
+* [etcd-io/etcd](#etcd-io/etcd)
+* [evanphx/json-patch](#evanphx/json-patch)
+* [evanphx/wildcat](#evanphx/wildcat)
+* [felixge/go-patch-overlay](#felixge/go-patch-overlay)
+* [felixge/pprofutils](#felixge/pprofutils)
+* [flower-corp/lotusdb](#flower-corp/lotusdb)
+* [fortio/fortio](#fortio/fortio)
+* [foxcpp/maddy](#foxcpp/maddy)
+* [frankban/quicktest](#frankban/quicktest)
+* [func25/slicesol](#func25/slicesol)
+* [fxamacker/circlehash](#fxamacker/circlehash)
+* [geohot/minikeyvalue](#geohot/minikeyvalue)
+* [getporter/porter](#getporter/porter)
+* [gjbae1212/grpc-vpn](#gjbae1212/grpc-vpn)
+* [gjbae1212/hit-counter](#gjbae1212/hit-counter)
+* [go-aah/aah](#go-aah/aah)
+* [go-critic/go-critic](#go-critic/go-critic)
+* [go-delve/delve](#go-delve/delve)
+* [go-goyave/goyave](#go-goyave/goyave)
+* [go-ole/go-ole](#go-ole/go-ole)
+* [go-pdf/fpdf](#go-pdf/fpdf)
+* [go-pkgz/expirable-cache](#go-pkgz/expirable-cache)
+* [go-playground/form](#go-playground/form)
+* [go-sql-driver/mysql](#go-sql-driver/mysql)
+* [go-wasm-adapter/go-wasm](#go-wasm-adapter/go-wasm)
+* [go-www/h1](#go-www/h1)
+* [go-www/silverlining](#go-www/silverlining)
+* [go-www/slrouter](#go-www/slrouter)
+* [go-zepto/zepto](#go-zepto/zepto)
+* [go-zepto/zepto-cli](#go-zepto/zepto-cli)
+* [go101/golds](#go101/golds)
+* [goava/di](#goava/di)
+* [gobuffalo/buffalo](#gobuffalo/buffalo)
+* [gobuffalo/plush](#gobuffalo/plush)
+* [gobwas/ws](#gobwas/ws)
+* [goccy/go-jit](#goccy/go-jit)
+* [goccy/go-json](#goccy/go-json)
+* [goccy/go-reflect](#goccy/go-reflect)
+* [goccy/go-zetasql](#goccy/go-zetasql)
+* [goccy/rebirth](#goccy/rebirth)
+* [gofiber/fiber](#gofiber/fiber)
+* [golang-design/bench](#golang-design/bench)
+* [golang-design/clipboard](#golang-design/clipboard)
+* [golang-design/lockfree](#golang-design/lockfree)
+* [golang-migrate/migrate](#golang-migrate/migrate)
+* [golang/glog](#golang/glog)
+* [golang/go](#golang/go)
+* [golang/gofrontend](#golang/gofrontend)
+* [golang/groupcache](#golang/groupcache)
+* [golang/net](#golang/net)
+* [golang/perf](#golang/perf)
+* [golang/pkgsite](#golang/pkgsite)
+* [golang/proposal](#golang/proposal)
+* [golangkorea/gophercon-talks](#golangkorea/gophercon-talks)
+* [gomarkdown/markdown](#gomarkdown/markdown)
+* [google/cel-go](#google/cel-go)
+* [google/go-licenses](#google/go-licenses)
+* [google/gopacket](#google/gopacket)
+* [google/grumpy](#google/grumpy)
+* [google/gvisor](#google/gvisor)
+* [google/ko](#google/ko)
+* [google/netstack](#google/netstack)
+* [google/safehtml](#google/safehtml)
+* [google/trillian](#google/trillian)
+* [google/zoekt](#google/zoekt)
+* [gookit/config](#gookit/config)
+* [gookit/rux](#gookit/rux)
+* [goplus/gossa](#goplus/gossa)
+* [goplus/gox](#goplus/gox)
+* [gordonklaus/portaudio](#gordonklaus/portaudio)
+* [gorgonia/gorgonia](#gorgonia/gorgonia)
+* [gotestyourself/gotest.tools](#gotestyourself/gotest.tools)
+* [grafana/rollout-operator](#grafana/rollout-operator)
+* [gwuhaolin/livego](#gwuhaolin/livego)
+* [hangulize/hangulize](#hangulize/hangulize)
+* [hashicorp/raft](#hashicorp/raft)
+* [hashicorp/raft-boltdb](#hashicorp/raft-boltdb)
+* [hashicorp/vault](#hashicorp/vault)
+* [henvic/httpretty](#henvic/httpretty)
+* [i-love-flamingo/flamingo](#i-love-flamingo/flamingo)
+* [ignite-hq/cli](#ignite-hq/cli)
+* [imbue11235/humanize](#imbue11235/humanize)
+* [inancgumus/learngo](#inancgumus/learngo)
+* [inelpandzic/imdgo](#inelpandzic/imdgo)
+* [inkeliz/go_inkwasm](#inkeliz/go_inkwasm)
+* [istio/istio](#istio/istio)
+* [ixy-languages/ixy.go](#ixy-languages/ixy.go)
+* [jackc/tern](#jackc/tern)
+* [jesseduffield/lazygit](#jesseduffield/lazygit)
+* [jfyne/live](#jfyne/live)
+* [jondot/goweight](#jondot/goweight)
+* [json-iterator/go](#json-iterator/go)
+* [juicedata/juicefs](#juicedata/juicefs)
+* [julienschmidt/httprouter](#julienschmidt/httprouter)
+* [junegunn/fzf](#junegunn/fzf)
+* [karlseguin/ccache](#karlseguin/ccache)
+* [kavu/go_reuseport](#kavu/go_reuseport)
+* [kevburnsjr/skipfilter](#kevburnsjr/skipfilter)
+* [kevinburke/nacl](#kevinburke/nacl)
+* [keybase/saltpack](#keybase/saltpack)
+* [kffl/gocannon](#kffl/gocannon)
+* [klauspost/compress](#klauspost/compress)
+* [klauspost/pgzip](#klauspost/pgzip)
+* [knative/serving](#knative/serving)
+* [kortschak/goroutine](#kortschak/goroutine)
+* [kpango/fastime](#kpango/fastime)
+* [kpango/glg](#kpango/glg)
+* [ksrichard/easyraft](#ksrichard/easyraft)
+* [kubemq-io/kubemq-community](#kubemq-io/kubemq-community)
+* [kubernetes/kubernetes](#kubernetes/kubernetes)
+* [kumahq/kuma](#kumahq/kuma)
+* [kyoto-framework/kyoto](#kyoto-framework/kyoto)
+* [kyroy/kdtree](#kyroy/kdtree)
+* [labstack/echox](#labstack/echox)
+* [ledongthuc/goterators](#ledongthuc/goterators)
+* [lemon-mint/HighCrypt](#lemon-mint/highcrypt)
+* [lemon-mint/Light-File-Crypt](#lemon-mint/light-file-crypt)
+* [lemon-mint/Tiny-Auth-Service](#lemon-mint/tiny-auth-service)
+* [lemon-mint/VivaceJSON](#lemon-mint/vivacejson)
+* [lemon-mint/alertbot-telegram](#lemon-mint/alertbot-telegram)
+* [lemon-mint/atomic-counter](#lemon-mint/atomic-counter)
+* [lemon-mint/badge-renderers.go](#lemon-mint/badge-renderers.go)
+* [lemon-mint/bin2jpg](#lemon-mint/bin2jpg)
+* [lemon-mint/blackmagic](#lemon-mint/blackmagic)
+* [lemon-mint/cgoStudy](#lemon-mint/cgostudy)
+* [lemon-mint/challenge-server](#lemon-mint/challenge-server)
+* [lemon-mint/clipsync-client](#lemon-mint/clipsync-client)
+* [lemon-mint/event-broker](#lemon-mint/event-broker)
+* [lemon-mint/frameio](#lemon-mint/frameio)
+* [lemon-mint/go-datastructures](#lemon-mint/go-datastructures)
+* [lemon-mint/go-eventws](#lemon-mint/go-eventws)
+* [lemon-mint/go-websocket-study-chat](#lemon-mint/go-websocket-study-chat)
+* [lemon-mint/go-worker](#lemon-mint/go-worker)
+* [lemon-mint/godotenv](#lemon-mint/godotenv)
+* [lemon-mint/gokorean](#lemon-mint/gokorean)
+* [lemon-mint/gopark](#lemon-mint/gopark)
+* [lemon-mint/htmlvdom](#lemon-mint/htmlvdom)
+* [lemon-mint/lemonlog-server](#lemon-mint/lemonlog-server)
+* [lemon-mint/lemonmq](#lemon-mint/lemonmq)
+* [lemon-mint/lemonwork](#lemon-mint/lemonwork)
+* [lemon-mint/libuseful](#lemon-mint/libuseful)
+* [lemon-mint/linbuf](#lemon-mint/linbuf)
+* [lemon-mint/lvm2](#lemon-mint/lvm2)
+* [lemon-mint/m](#lemon-mint/m)
+* [lemon-mint/macaronsign](#lemon-mint/macaronsign)
+* [lemon-mint/open-backend](#lemon-mint/open-backend)
+* [lemon-mint/real-time](#lemon-mint/real-time)
+* [lemon-mint/simpleproxy](#lemon-mint/simpleproxy)
+* [lemon-mint/slowtable](#lemon-mint/slowtable)
+* [lemon-mint/stars](#lemon-mint/stars)
+* [lemon-mint/unlock](#lemon-mint/unlock)
+* [lemon-mint/vbox](#lemon-mint/vbox)
+* [lemon-mint/vstruct](#lemon-mint/vstruct)
+* [lemon-mint/webauthn-demo-server](#lemon-mint/webauthn-demo-server)
+* [lesismal/arpc](#lesismal/arpc)
+* [lesismal/llib](#lesismal/llib)
+* [lesismal/nbio](#lesismal/nbio)
+* [lestrrat-go/xstrings](#lestrrat-go/xstrings)
+* [liamg/traitor](#liamg/traitor)
+* [lib/pq](#lib/pq)
+* [libp2p/go-libp2p](#libp2p/go-libp2p)
+* [libp2p/go-reuseport](#libp2p/go-reuseport)
+* [lima-vm/lima](#lima-vm/lima)
+* [llir/llvm](#llir/llvm)
+* [loov/goda](#loov/goda)
+* [loov/hrtime](#loov/hrtime)
+* [lucas-clemente/quic-go](#lucas-clemente/quic-go)
+* [lukechampine/jsteg](#lukechampine/jsteg)
+* [lxc/lxd](#lxc/lxd)
+* [m1k1o/neko](#m1k1o/neko)
+* [maruel/panicparse](#maruel/panicparse)
+* [mattn/anko](#mattn/anko)
+* [mattn/anonymousface](#mattn/anonymousface)
+* [mattn/go-result](#mattn/go-result)
+* [mattn/go-runewidth](#mattn/go-runewidth)
+* [mattn/go-slim](#mattn/go-slim)
+* [mattn/go-tty](#mattn/go-tty)
+* [mattn/gowasmer](#mattn/gowasmer)
+* [mattn/sudo](#mattn/sudo)
+* [maxence-charriere/go-app](#maxence-charriere/go-app)
+* [mengzhuo/nabhash](#mengzhuo/nabhash)
+* [mickael-kerjean/filestash](#mickael-kerjean/filestash)
+* [mingrammer/round](#mingrammer/round)
+* [mmcloughlin/avo](#mmcloughlin/avo)
+* [modernice/goes](#modernice/goes)
+* [msoap/tcg](#msoap/tcg)
+* [mudler/edgevpn](#mudler/edgevpn)
+* [mudler/poco](#mudler/poco)
+* [mudler/poco-github-action](#mudler/poco-github-action)
+* [muesli/reflow](#muesli/reflow)
+* [muesli/termenv](#muesli/termenv)
+* [mvdan/dockexec](#mvdan/dockexec)
+* [naver/gobench2xml](#naver/gobench2xml)
+* [neguse/goi](#neguse/goi)
+* [nginxinc/kubernetes-ingress](#nginxinc/kubernetes-ingress)
+* [nhooyr/websocket](#nhooyr/websocket)
+* [nikki93/gx](#nikki93/gx)
+* [njones/socketio](#njones/socketio)
+* [nxgtw/go-ipc](#nxgtw/go-ipc)
+* [onflow/atree](#onflow/atree)
+* [open2b/scriggo](#open2b/scriggo)
+* [osrg/gobgp](#osrg/gobgp)
+* [panjf2000/gnet](#panjf2000/gnet)
+* [pdfcpu/pdfcpu](#pdfcpu/pdfcpu)
+* [petermattis/fastcgo](#petermattis/fastcgo)
+* [photoprism/photoprism](#photoprism/photoprism)
+* [phpdave11/gofpdf](#phpdave11/gofpdf)
+* [pion/ion-sfu](#pion/ion-sfu)
+* [pirogom/walk](#pirogom/walk)
+* [pirogom/walkmgr](#pirogom/walkmgr)
+* [pirogom/walkmgr_example](#pirogom/walkmgr_example)
+* [pluveto/upgit](#pluveto/upgit)
+* [pmh-only/gohttpfs](#pmh-only/gohttpfs)
+* [polarspetroll/LiquidCrystalRPI](#polarspetroll/liquidcrystalrpi)
+* [polarspetroll/gopio](#polarspetroll/gopio)
+* [potch8228/gobt](#potch8228/gobt)
+* [pseudomuto/protoc-gen-doc](#pseudomuto/protoc-gen-doc)
+* [pterm/pterm](#pterm/pterm)
+* [quackduck/devzat](#quackduck/devzat)
+* [quasilyte/go-ruleguard](#quasilyte/go-ruleguard)
+* [rajveermalviya/go-webgpu](#rajveermalviya/go-webgpu)
+* [ranon-rat/simpleCloudInGO](#ranon-rat/simplecloudingo)
+* [rclone/rclone](#rclone/rclone)
+* [refraction-networking/utls](#refraction-networking/utls)
+* [reusee/atproxy](#reusee/atproxy)
+* [rfyiamcool/go-timewheel](#rfyiamcool/go-timewheel)
+* [rh12503/triangula](#rh12503/triangula)
+* [rjNemo/underscore](#rjnemo/underscore)
+* [rjeczalik/interfaces](#rjeczalik/interfaces)
+* [roadrunner-server/roadrunner](#roadrunner-server/roadrunner)
+* [rocketlaunchr/react](#rocketlaunchr/react)
+* [rodrigo-brito/ninjabot](#rodrigo-brito/ninjabot)
+* [rs/zerolog](#rs/zerolog)
+* [rueian/rueidis](#rueian/rueidis)
+* [s0rg/crawley](#s0rg/crawley)
+* [samber/lo](#samber/lo)
+* [savsgio/gotils](#savsgio/gotils)
+* [sbromberger/gompi](#sbromberger/gompi)
+* [securego/gosec](#securego/gosec)
+* [segmentio/asm](#segmentio/asm)
+* [shaj13/raft](#shaj13/raft)
+* [shohruhadham/nanomux](#shohruhadham/nanomux)
+* [shr0048/gocsv](#shr0048/gocsv)
+* [siderolabs/talos](#siderolabs/talos)
+* [six-ddc/plow](#six-ddc/plow)
+* [slackhq/nebula](#slackhq/nebula)
+* [snirlugassy/lightdb](#snirlugassy/lightdb)
+* [snowmerak/gopool](#snowmerak/gopool)
+* [snowmerak/pipe](#snowmerak/pipe)
+* [snowmerak/prew](#snowmerak/prew)
+* [snowmerak/ref](#snowmerak/ref)
+* [snowmerak/twisted-lyfes](#snowmerak/twisted-lyfes)
+* [solsw/go2linq](#solsw/go2linq)
+* [songgao/packets](#songgao/packets)
+* [songgao/water](#songgao/water)
+* [sonirico/parco](#sonirico/parco)
+* [soundcloud/roshi](#soundcloud/roshi)
+* [sourcegraph/sourcegraph](#sourcegraph/sourcegraph)
+* [sourcegraph/zoekt](#sourcegraph/zoekt)
+* [spf13/afero](#spf13/afero)
+* [spf13/pflag](#spf13/pflag)
+* [suborbital/grav](#suborbital/grav)
+* [suborbital/reactr](#suborbital/reactr)
+* [suborbital/vektor](#suborbital/vektor)
+* [sucream/koreanutil](#sucream/koreanutil)
+* [t0pep0/efaceconv](#t0pep0/efaceconv)
+* [tae2089/GorineeWeb](#tae2089/gorineeweb)
+* [tae2089/customlogging-go](#tae2089/customlogging-go)
+* [tae2089/entgo-ko](#tae2089/entgo-ko)
+* [tailscale/sqlite](#tailscale/sqlite)
+* [tardisgo/tardisgo](#tardisgo/tardisgo)
+* [tdewolff/canvas](#tdewolff/canvas)
+* [teh-cmc/go-internals](#teh-cmc/go-internals)
+* [templexxx/reedsolomon](#templexxx/reedsolomon)
+* [templexxx/tsc](#templexxx/tsc)
+* [templexxx/xorsimd](#templexxx/xorsimd)
+* [templexxx/xrs](#templexxx/xrs)
+* [tetratelabs/wazero](#tetratelabs/wazero)
+* [thanos-io/thanos](#thanos-io/thanos)
+* [tidwall/evio](#tidwall/evio)
+* [tinode/chat](#tinode/chat)
+* [traefik/traefik](#traefik/traefik)
+* [traefik/whoami](#traefik/whoami)
+* [traefik/yaegi](#traefik/yaegi)
+* [troylelandshields/ternary](#troylelandshields/ternary)
+* [trufflesecurity/trufflehog](#trufflesecurity/trufflehog)
+* [tsenart/vegeta](#tsenart/vegeta)
+* [twitchyliquid64/golang-asm](#twitchyliquid64/golang-asm)
+* [twitchyliquid64/rnd](#twitchyliquid64/rnd)
+* [uber-go/atomic](#uber-go/atomic)
+* [uberswe/golang-base-project](#uberswe/golang-base-project)
+* [undefinedlabs/go-mpatch](#undefinedlabs/go-mpatch)
+* [unixpickle/gobfuscate](#unixpickle/gobfuscate)
+* [up9inc/basenine](#up9inc/basenine)
+* [valyala/bytebufferpool](#valyala/bytebufferpool)
+* [valyala/fasthttp](#valyala/fasthttp)
+* [valyala/fastjson](#valyala/fastjson)
+* [valyala/fasttemplate](#valyala/fasttemplate)
+* [valyala/quicktemplate](#valyala/quicktemplate)
+* [vardius/gollback](#vardius/gollback)
+* [velopert/gin-rest-api-sample](#velopert/gin-rest-api-sample)
+* [vladimirvivien/automi](#vladimirvivien/automi)
+* [vmware-tanzu/kubeapps](#vmware-tanzu/kubeapps)
+* [vugu/vugu](#vugu/vugu)
+* [wader/fq](#wader/fq)
+* [wapc/wapc-go](#wapc/wapc-go)
+* [wasmerio/wasmer-go](#wasmerio/wasmer-go)
+* [x-motemen/gore](#x-motemen/gore)
+* [xjasonlyu/tun2socks](#xjasonlyu/tun2socks)
+* [xlab/c-for-go](#xlab/c-for-go)
+* [xyproto/algernon](#xyproto/algernon)
+* [yorkie-team/yorkie](#yorkie-team/yorkie)
+* [ysmood/got](#ysmood/got)
+* [zajann/gassert](#zajann/gassert)
+* [zeebo/blake3](#zeebo/blake3)
+* [zeebo/goof](#zeebo/goof)
+* [zeebo/mon](#zeebo/mon)
+* [zeebo/mwc](#zeebo/mwc)
+* [zeebo/proc](#zeebo/proc)
+* [zeebo/sudo](#zeebo/sudo)
+* [zeebo/xxh3](#zeebo/xxh3)
+* [zeromicro/go-zero](#zeromicro/go-zero)
+* [zombiezen/go-sqlite](#zombiezen/go-sqlite)
+* [zserge/bfapi](#zserge/bfapi)
+* [zyedidia/generic](#zyedidia/generic)
+* [zyedidia/micro](#zyedidia/micro)
 
 <a name="repo-hokuox5zjtmwtkdcxu6djkor"></a>
 ## [3dentlabs/3dent](https://github.com/3dentlabs/3dent)
@@ -1164,7 +1165,7 @@ an image server which automatically optimize non webp and avif images to webp an
 
 Author: [Dreamacro](https://github.com/Dreamacro)
 
-Stars: 25765
+Stars: 25777
 
 A rule-based tunnel in Go.
 
@@ -1173,7 +1174,7 @@ A rule-based tunnel in Go.
 
 Author: [FiloSottile](https://github.com/FiloSottile)
 
-Stars: 34589
+Stars: 34590
 
 A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
@@ -1200,7 +1201,7 @@ Single producer and multi-reader lockless ring buffer in go using generics from 
 
 Author: [HyNetwork](https://github.com/HyNetwork)
 
-Stars: 1557
+Stars: 1560
 
 Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
 
@@ -1209,7 +1210,7 @@ Hysteria is a feature-packed network utility optimized for networks of poor qual
 
 Author: [IceWhaleTech](https://github.com/IceWhaleTech)
 
-Stars: 3511
+Stars: 3513
 
 CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 
@@ -1290,7 +1291,7 @@ Golang implementation of Sliding Window Algorithm for distributed rate limiting.
 
 Author: [RussellLuo](https://github.com/RussellLuo)
 
-Stars: 453
+Stars: 454
 
 Golang implementation of Hierarchical Timing Wheels.
 
@@ -1326,7 +1327,7 @@ Algorithms implemented in Go for beginners, following best practices.
 
 Author: [TomWright](https://github.com/TomWright)
 
-Stars: 2940
+Stars: 2942
 
 Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 
@@ -1335,7 +1336,7 @@ Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a sing
 
 Author: [WireGuard](https://github.com/WireGuard)
 
-Stars: 1237
+Stars: 1240
 
 Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 
@@ -1371,7 +1372,7 @@ A CLI snake game made using the Go stdlib
 
 Author: [aQuaYi](https://github.com/aQuaYi)
 
-Stars: 2913
+Stars: 2914
 
 Go Solution for LeetCode algorithms problems, 100% coverage.
 
@@ -1380,7 +1381,7 @@ Go Solution for LeetCode algorithms problems, 100% coverage.
 
 Author: [abiosoft](https://github.com/abiosoft)
 
-Stars: 3582
+Stars: 3583
 
 Container runtimes on macOS (and Linux) with minimal setup
 
@@ -1416,7 +1417,7 @@ Build hotwire apps using go
 
 Author: [alecthomas](https://github.com/alecthomas)
 
-Stars: 3107
+Stars: 3108
 
 A general purpose syntax highlighter in pure Go 
 
@@ -1443,7 +1444,7 @@ Local file-based atomic cache manager
 
 Author: [alecthomas](https://github.com/alecthomas)
 
-Stars: 2413
+Stars: 2415
 
 A parser library for Go
 
@@ -1542,7 +1543,7 @@ Hash to curves - Go reference implementation
 
 Author: [arriqaaq](https://github.com/arriqaaq)
 
-Stars: 42
+Stars: 43
 
 An Adaptive Radix Tree (ART) implementation in Go
 
@@ -1551,7 +1552,7 @@ An Adaptive Radix Tree (ART) implementation in Go
 
 Author: [arriqaaq](https://github.com/arriqaaq)
 
-Stars: 133
+Stars: 134
 
 FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read)
 
@@ -1569,7 +1570,7 @@ Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 
 Author: [authzed](https://github.com/authzed)
 
-Stars: 2039
+Stars: 2040
 
 Inspired by Google's Zanzibar paper, SpiceDB is an open source database system for managing security-critical application permissions.
 
@@ -1596,7 +1597,7 @@ A tiny cross-platform cross-platform terminal color library that supports enabli
 
 Author: [berty](https://github.com/berty)
 
-Stars: 5588
+Stars: 5589
 
 Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 
@@ -1605,7 +1606,7 @@ Berty is a secure peer-to-peer messaging app that works with or without internet
 
 Author: [binwiederhier](https://github.com/binwiederhier)
 
-Stars: 1793
+Stars: 1792
 
 Send push notifications to your phone or desktop using PUT/POST
 
@@ -1677,7 +1678,7 @@ One of the fastest alternative JSON parser for Go that does not require schema
 
 Author: [burrowers](https://github.com/burrowers)
 
-Stars: 1628
+Stars: 1629
 
 Obfuscate Go builds
 
@@ -1731,7 +1732,7 @@ Go WebSocket client for Centrifugo and Centrifuge library
 
 Author: [cespare](https://github.com/cespare)
 
-Stars: 2594
+Stars: 2595
 
 Run a command when files change
 
@@ -1740,7 +1741,7 @@ Run a command when files change
 
 Author: [chanify](https://github.com/chanify)
 
-Stars: 807
+Stars: 808
 
 Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
 
@@ -1749,7 +1750,7 @@ Chanify is a safe and simple notification tools. This repository is command line
 
 Author: [chaos-mesh](https://github.com/chaos-mesh)
 
-Stars: 4692
+Stars: 4693
 
 A Chaos Engineering Platform for Kubernetes.
 
@@ -1758,7 +1759,7 @@ A Chaos Engineering Platform for Kubernetes.
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 1486
+Stars: 1488
 
 TUI components for Bubble Tea 🍡
 
@@ -1767,7 +1768,7 @@ TUI components for Bubble Tea 🍡
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 9697
+Stars: 9700
 
 A powerful little TUI framework 🏗
 
@@ -1785,7 +1786,7 @@ Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 4024
+Stars: 4026
 
 Style definitions for nice terminal layouts 👄
 
@@ -1794,7 +1795,7 @@ Style definitions for nice terminal layouts 👄
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 1859
+Stars: 1860
 
 A tasty, self-hostable Git server for the command line🍦
 
@@ -1803,7 +1804,7 @@ A tasty, self-hostable Git server for the command line🍦
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 1111
+Stars: 1113
 
 Make SSH apps, just like that! 💫
 
@@ -1812,7 +1813,7 @@ Make SSH apps, just like that! 💫
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 426
+Stars: 427
 
 The SSH directory ✨
 
@@ -1866,7 +1867,7 @@ Package bn256 implements a particular bilinear group.
 
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 614
+Stars: 613
 
 CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 
@@ -1911,7 +1912,7 @@ Oblivious DoH server in Go
 
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 2134
+Stars: 2135
 
 Graceful process restarts in Go
 
@@ -1920,7 +1921,7 @@ Graceful process restarts in Go
 
 Author: [cloudwego](https://github.com/cloudwego)
 
-Stars: 2491
+Stars: 2492
 
 A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 
@@ -1929,7 +1930,7 @@ A high-performance non-blocking I/O networking framework, which focused on RPC s
 
 Author: [cockroachdb](https://github.com/cockroachdb)
 
-Stars: 432
+Stars: 433
 
 Arbitrary-precision decimals for Go
 
@@ -1965,7 +1966,7 @@ A Golang lock-free thread-safe HashMap optimized for fastest read access.
 
 Author: [create-go-app](https://github.com/create-go-app)
 
-Stars: 1340
+Stars: 1341
 
 ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 
@@ -2019,7 +2020,7 @@ korean analyzer utility tools
 
 Author: [dapr](https://github.com/dapr)
 
-Stars: 17505
+Stars: 17508
 
 Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
@@ -2082,7 +2083,7 @@ A full-featured regex engine in pure Go based on the .NET engine
 
 Author: [dominikh](https://github.com/dominikh)
 
-Stars: 4583
+Stars: 4588
 
 Staticcheck - The advanced Go linter
 
@@ -2118,7 +2119,7 @@ Golang library for io_uring framework (without CGO)
 
 Author: [duo-labs](https://github.com/duo-labs)
 
-Stars: 774
+Stars: 775
 
 WebAuthn (FIDO2) server library written in Go 
 
@@ -2127,7 +2128,7 @@ WebAuthn (FIDO2) server library written in Go
 
 Author: [dvyukov](https://github.com/dvyukov)
 
-Stars: 4383
+Stars: 4384
 
 Randomized testing for Go
 
@@ -2217,7 +2218,7 @@ Some Go and Linux magic 👻
 
 Author: [etcd-io](https://github.com/etcd-io)
 
-Stars: 39448
+Stars: 39455
 
 Distributed reliable key-value store for the most critical data of a distributed system
 
@@ -2262,7 +2263,7 @@ Stars: 98
 
 Author: [flower-corp](https://github.com/flower-corp)
 
-Stars: 621
+Stars: 623
 
 Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.
 
@@ -2271,7 +2272,7 @@ Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USEN
 
 Author: [fortio](https://github.com/fortio)
 
-Stars: 2448
+Stars: 2449
 
 Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 
@@ -2343,7 +2344,7 @@ Stars: 47
 
 Author: [gjbae1212](https://github.com/gjbae1212)
 
-Stars: 565
+Stars: 566
 
 :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
 
@@ -2370,7 +2371,7 @@ The most opinionated Go source code linter for code audit.
 
 Author: [go-delve](https://github.com/go-delve)
 
-Stars: 18241
+Stars: 18242
 
 Delve is a debugger for the Go programming language.
 
@@ -2379,7 +2380,7 @@ Delve is a debugger for the Go programming language.
 
 Author: [go-goyave](https://github.com/go-goyave)
 
-Stars: 982
+Stars: 986
 
 🍐 Elegant Golang REST API Framework
 
@@ -2424,7 +2425,7 @@ Stars: 515
 
 Author: [go-sql-driver](https://github.com/go-sql-driver)
 
-Stars: 12076
+Stars: 12079
 
 Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 
@@ -2541,7 +2542,7 @@ JIT compile library for Go
 
 Author: [goccy](https://github.com/goccy)
 
-Stars: 1416
+Stars: 1417
 
 Fast JSON encoder/decoder compatible with encoding/json for Go
 
@@ -2577,7 +2578,7 @@ Supports live reloading for Go
 
 Author: [gofiber](https://github.com/gofiber)
 
-Stars: 19432
+Stars: 19435
 
 ⚡️ Express inspired web framework written in Go
 
@@ -2595,7 +2596,7 @@ Stars: 33
 
 Author: [golang-design](https://github.com/golang-design)
 
-Stars: 188
+Stars: 190
 
 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 
@@ -2631,7 +2632,7 @@ Leveled execution logs for Go
 
 Author: [golang](https://github.com/golang)
 
-Stars: 97584
+Stars: 97598
 
 The Go programming language
 
@@ -2685,7 +2686,7 @@ Stars: 893
 
 Author: [golang](https://github.com/golang)
 
-Stars: 2857
+Stars: 2858
 
 Go Project Design Documents
 
@@ -2730,7 +2731,7 @@ Reports on the licenses used by a Go package and its dependencies.
 
 Author: [google](https://github.com/google)
 
-Stars: 4749
+Stars: 4748
 
 Provides packet processing capabilities for Go
 
@@ -2739,7 +2740,7 @@ Provides packet processing capabilities for Go
 
 Author: [google](https://github.com/google)
 
-Stars: 10458
+Stars: 10459
 
 Grumpy is a Python to Go source code transcompiler and runtime.
 
@@ -2757,7 +2758,7 @@ Application Kernel for Containers
 
 Author: [google](https://github.com/google)
 
-Stars: 4330
+Stars: 4333
 
 Build and deploy Go applications on Kubernetes
 
@@ -2784,7 +2785,7 @@ Safe HTML for Go
 
 Author: [google](https://github.com/google)
 
-Stars: 2967
+Stars: 2968
 
 A transparent, highly scalable and cryptographically verifiable data store.
 
@@ -2892,7 +2893,7 @@ Hangulize transcribes non-Korean words into Hangul
 
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 5800
+Stars: 5802
 
 Golang implementation of the Raft consensus protocol
 
@@ -2910,7 +2911,7 @@ Raft backend implementation using BoltDB
 
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 23894
+Stars: 23895
 
 A tool for secrets management, encryption as a service, and privileged access management
 
@@ -2982,7 +2983,7 @@ Faster alternative to `syscall/js`. Up to 2x faster than native syscall/js.
 
 Author: [istio](https://github.com/istio)
 
-Stars: 29942
+Stars: 29947
 
 Connect, secure, control, and observe services.
 
@@ -3003,6 +3004,15 @@ Author: [jackc](https://github.com/jackc)
 Stars: 413
 
 The SQL Fan's Migrator
+
+<a name="repo-l2iquiy7osvuamz3racte42y"></a>
+## [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+
+Author: [jesseduffield](https://github.com/jesseduffield)
+
+Stars: 26637
+
+simple terminal UI for git commands
 
 <a name="repo-7xiitlc3qazi44iy7beyw3qu"></a>
 ## [jfyne/live](https://github.com/jfyne/live)
@@ -3027,7 +3037,7 @@ A tool to analyze and troubleshoot a Go binary size.
 
 Author: [json-iterator](https://github.com/json-iterator)
 
-Stars: 10677
+Stars: 10679
 
 A high-performance 100% compatible drop-in replacement of "encoding/json"
 
@@ -3036,7 +3046,7 @@ A high-performance 100% compatible drop-in replacement of "encoding/json"
 
 Author: [juicedata](https://github.com/juicedata)
 
-Stars: 5144
+Stars: 5151
 
 JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
@@ -3045,7 +3055,7 @@ JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
 Author: [julienschmidt](https://github.com/julienschmidt)
 
-Stars: 13894
+Stars: 13895
 
 A high performance HTTP request router that scales well
 
@@ -3054,7 +3064,7 @@ A high performance HTTP request router that scales well
 
 Author: [junegunn](https://github.com/junegunn)
 
-Stars: 43415
+Stars: 43419
 
 :cherry_blossom: A command-line fuzzy finder
 
@@ -3189,7 +3199,7 @@ KubeMQ is a Kubernetes native message queue broker
 
 Author: [kubernetes](https://github.com/kubernetes)
 
-Stars: 87226
+Stars: 87235
 
 Production-Grade Container Scheduling and Management
 
@@ -3198,7 +3208,7 @@ Production-Grade Container Scheduling and Management
 
 Author: [kumahq](https://github.com/kumahq)
 
-Stars: 2679
+Stars: 2680
 
 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
 
@@ -3630,7 +3640,7 @@ Unicode-aware string utilities for Go
 
 Author: [liamg](https://github.com/liamg)
 
-Stars: 5091
+Stars: 5095
 
 :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 
@@ -3666,7 +3676,7 @@ reuse tcp/udp ports in golang
 
 Author: [lima-vm](https://github.com/lima-vm)
 
-Stars: 7727
+Stars: 7729
 
 Linux virtual machines, typically on macOS, for running containerd
 
@@ -3702,7 +3712,7 @@ High resolution timing and benchmarking for Go
 
 Author: [lucas-clemente](https://github.com/lucas-clemente)
 
-Stars: 6501
+Stars: 6502
 
 A QUIC implementation in pure go
 
@@ -3729,7 +3739,7 @@ Powerful system container and virtual machine manager
 
 Author: [m1k1o](https://github.com/m1k1o)
 
-Stars: 1752
+Stars: 1753
 
 A self hosted virtual browser that runs in docker and uses WebRTC.
 
@@ -3819,7 +3829,7 @@ sudo for windows
 
 Author: [maxence-charriere](https://github.com/maxence-charriere)
 
-Stars: 6006
+Stars: 6008
 
 A package to build progressive web apps with Go programming language and WebAssembly.
 
@@ -3837,7 +3847,7 @@ An extremely fast Non-crypto-safe AES Based Hash algorithm for Big Data
 
 Author: [mickael-kerjean](https://github.com/mickael-kerjean)
 
-Stars: 6105
+Stars: 6106
 
 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
@@ -3963,7 +3973,7 @@ NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 
 Author: [nhooyr](https://github.com/nhooyr)
 
-Stars: 2158
+Stars: 2161
 
 Minimal and idiomatic WebSocket library for Go
 
@@ -4017,7 +4027,7 @@ The world’s most powerful template engine and Go embeddable interpreter
 
 Author: [osrg](https://github.com/osrg)
 
-Stars: 2774
+Stars: 2778
 
 BGP implemented in the Go Programming Language
 
@@ -4026,7 +4036,7 @@ BGP implemented in the Go Programming Language
 
 Author: [panjf2000](https://github.com/panjf2000)
 
-Stars: 6279
+Stars: 6280
 
 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 
@@ -4053,7 +4063,7 @@ Stars: 124
 
 Author: [photoprism](https://github.com/photoprism)
 
-Stars: 19910
+Stars: 19914
 
 Photos App powered by Go and Google TensorFlow 🌈 ✨
 
@@ -4107,7 +4117,7 @@ walkmgr example project
 
 Author: [pluveto](https://github.com/pluveto)
 
-Stars: 229
+Stars: 230
 
 Another Typora image uploader
 
@@ -4161,7 +4171,7 @@ Documentation generator plugin for Google Protocol Buffers
 
 Author: [pterm](https://github.com/pterm)
 
-Stars: 2546
+Stars: 2547
 
 ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 
@@ -4170,7 +4180,7 @@ Stars: 2546
 
 Author: [quackduck](https://github.com/quackduck)
 
-Stars: 1207
+Stars: 1208
 
 The devs are over here at devzat, chat over SSH!
 
@@ -4206,7 +4216,7 @@ Its a simple cloud
 
 Author: [rclone](https://github.com/rclone)
 
-Stars: 32149
+Stars: 32151
 
 "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 
@@ -4242,7 +4252,7 @@ golang timewheel similar to glang std timer
 
 Author: [rh12503](https://github.com/rh12503)
 
-Stars: 3704
+Stars: 3706
 
 Generate high-quality triangulated and polygonal art from images.
 
@@ -4323,7 +4333,7 @@ The unix-way web crawler
 
 Author: [samber](https://github.com/samber)
 
-Stars: 4587
+Stars: 4605
 
 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
@@ -4395,7 +4405,7 @@ simple csv parsing lib for golang
 
 Author: [siderolabs](https://github.com/siderolabs)
 
-Stars: 2766
+Stars: 2768
 
 Talos Linux is a modern Linux distribution built for Kubernetes.
 
@@ -4404,7 +4414,7 @@ Talos Linux is a modern Linux distribution built for Kubernetes.
 
 Author: [six-ddc](https://github.com/six-ddc)
 
-Stars: 2934
+Stars: 2935
 
 A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 
@@ -4413,7 +4423,7 @@ A high-performance HTTP benchmarking tool with real-time web UI and terminal dis
 
 Author: [slackhq](https://github.com/slackhq)
 
-Stars: 9549
+Stars: 9551
 
 A scalable overlay networking tool with a focus on performance, simplicity and security
 
@@ -4539,7 +4549,7 @@ Fast trigram based code search
 
 Author: [spf13](https://github.com/spf13)
 
-Stars: 4359
+Stars: 4360
 
 A FileSystem Abstraction System for Go
 
@@ -4710,7 +4720,7 @@ wazero lets you run WebAssembly modules with zero platform dependencies
 
 Author: [thanos-io](https://github.com/thanos-io)
 
-Stars: 10212
+Stars: 10213
 
 Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
@@ -4737,7 +4747,7 @@ Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS 
 
 Author: [traefik](https://github.com/traefik)
 
-Stars: 37513
+Stars: 37517
 
 The Cloud Native Application Proxy
 
@@ -4746,7 +4756,7 @@ The Cloud Native Application Proxy
 
 Author: [traefik](https://github.com/traefik)
 
-Stars: 594
+Stars: 595
 
 Tiny Go webserver that prints os information and HTTP request to output
 
@@ -4755,7 +4765,7 @@ Tiny Go webserver that prints os information and HTTP request to output
 
 Author: [traefik](https://github.com/traefik)
 
-Stars: 4264
+Stars: 4265
 
 Yaegi is Another Elegant Go Interpreter
 
@@ -4773,7 +4783,7 @@ Ternary syntax for Go; you're welcome
 
 Author: [trufflesecurity](https://github.com/trufflesecurity)
 
-Stars: 7723
+Stars: 7758
 
 Find credentials all over the place
 
@@ -4782,7 +4792,7 @@ Find credentials all over the place
 
 Author: [tsenart](https://github.com/tsenart)
 
-Stars: 19346
+Stars: 19347
 
 HTTP load testing tool and library. It's over 9000!
 
@@ -4863,7 +4873,7 @@ Anti-memory-waste byte buffer pool
 
 Author: [valyala](https://github.com/valyala)
 
-Stars: 17501
+Stars: 17506
 
 Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 
@@ -4935,7 +4945,7 @@ A web-based UI for deploying and managing applications in Kubernetes clusters
 
 Author: [vugu](https://github.com/vugu)
 
-Stars: 4344
+Stars: 4345
 
 Vugu: A modern UI library for Go+WebAssembly (experimental)
 
@@ -4944,7 +4954,7 @@ Vugu: A modern UI library for Go+WebAssembly (experimental)
 
 Author: [wader](https://github.com/wader)
 
-Stars: 3790
+Stars: 3791
 
 jq for binary formats
 
@@ -4980,7 +4990,7 @@ Stars: 4456
 
 Author: [xjasonlyu](https://github.com/xjasonlyu)
 
-Stars: 700
+Stars: 701
 
 tun2socks - powered by gVisor TCP/IP stack
 
@@ -4998,7 +5008,7 @@ Automatic C-Go Bindings Generator for Go Programming Language
 
 Author: [xyproto](https://github.com/xyproto)
 
-Stars: 1934
+Stars: 1935
 
 :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 
@@ -5097,7 +5107,7 @@ XXH3 algorithm in Go
 
 Author: [zeromicro](https://github.com/zeromicro)
 
-Stars: 16436
+Stars: 16440
 
 A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 
@@ -5106,7 +5116,7 @@ A web and RPC framework written in Go. It's born to ensure the stability of the 
 
 Author: [zombiezen](https://github.com/zombiezen)
 
-Stars: 240
+Stars: 241
 
 Low-level Go interface to SQLite 3
 
@@ -5124,7 +5134,7 @@ Resilient, scalable Brainf*ck, in the spirit of modern systems design
 
 Author: [zyedidia](https://github.com/zyedidia)
 
-Stars: 390
+Stars: 391
 
 A collection of generic data structures written in Go.
 
@@ -5133,7 +5143,7 @@ A collection of generic data structures written in Go.
 
 Author: [zyedidia](https://github.com/zyedidia)
 
-Stars: 19227
+Stars: 19231
 
 A modern and intuitive terminal-based text editor
 
@@ -5141,18 +5151,18 @@ A modern and intuitive terminal-based text editor
 <a name="v-a4rz3pjkdio5pe56sbrkebpl"></a>
 # HTML
 
-* [FineFindus/artem](#repo-tkxfbo5z3fadpury325gf4t4)
-* [WebReflection/linkedom](#repo-jthcfyvqhwprjlwbt27bofkp)
-* [dbkaplun/present](#repo-uoq5tkgunadv5fy536kzkm66)
-* [gdl-888/namumark-wysiwyg](#repo-zojjteoinzeauw2j7qenkyzz)
-* [go101/go101](#repo-tnr3bv2nbbke5d7u6xsqy5xk)
-* [hawkz/gdcss](#repo-56asxrg5v44dq5b2adp7p4la)
-* [hyperhype/hyperscript](#repo-tyzoobdc5qyexsuwltt7rfkk)
-* [leaningtech/webvm](#repo-fnbxavga45chuzsjlwxcvfw6)
-* [lemon-mint/clearblog](#repo-52xwl3mywkc557t3ufrvgcn6)
-* [lemon-mint/flask-event-server](#repo-o3wqegywktz6auj6nymqz3t5)
-* [pirogom/fun_stock](#repo-t2rhfyc4k6oyv5ckkbuy2g6n)
-* [purpleworks/delibird](#repo-r3ov5ugp4vc2nqwcbw4473o7)
+* [FineFindus/artem](#finefindus/artem)
+* [WebReflection/linkedom](#webreflection/linkedom)
+* [dbkaplun/present](#dbkaplun/present)
+* [gdl-888/namumark-wysiwyg](#gdl-888/namumark-wysiwyg)
+* [go101/go101](#go101/go101)
+* [hawkz/gdcss](#hawkz/gdcss)
+* [hyperhype/hyperscript](#hyperhype/hyperscript)
+* [leaningtech/webvm](#leaningtech/webvm)
+* [lemon-mint/clearblog](#lemon-mint/clearblog)
+* [lemon-mint/flask-event-server](#lemon-mint/flask-event-server)
+* [pirogom/fun_stock](#pirogom/fun_stock)
+* [purpleworks/delibird](#purpleworks/delibird)
 
 <a name="repo-tkxfbo5z3fadpury325gf4t4"></a>
 ## [FineFindus/artem](https://github.com/FineFindus/artem)
@@ -5168,7 +5178,7 @@ artem is a small cli program written in rust to easily convert images to ascii a
 
 Author: [WebReflection](https://github.com/WebReflection)
 
-Stars: 780
+Stars: 781
 
 A triple-linked lists based DOM implementation.
 
@@ -5266,22 +5276,22 @@ Shipment tracking library for Golang.
 <a name="v-yg5gbtqtlbsqhiq2axu66c5z"></a>
 # Java
 
-* [Konloch/bytecode-viewer](#repo-5thdpspf6tvf7p2z5ivtcjdk)
-* [NationalSecurityAgency/ghidra](#repo-vxujrmdkpkzwgsaxqae4673b)
-* [Netflix/archaius](#repo-c7rii5cx5kne3chyirnazzfe)
-* [StrongKey/fido2](#repo-dxvnjrlwceft6uw5ywbjymza)
-* [caoccao/Javet](#repo-hfa3cqj34nfwyrwp3fqtilg3)
-* [christophetd/log4shell-vulnerable-app](#repo-s7gm2bdwlgz5kaupnczl6yfy)
-* [google/dagger](#repo-qwbhxfcc3msuexpuxmqhjfob)
-* [kestra-io/kestra](#repo-f4xhwr3ofg5gyumyjjlfy5ns)
-* [reactor/reactor-core](#repo-q3zvm3d7i5543jugmwynwxny)
+* [Konloch/bytecode-viewer](#konloch/bytecode-viewer)
+* [NationalSecurityAgency/ghidra](#nationalsecurityagency/ghidra)
+* [Netflix/archaius](#netflix/archaius)
+* [StrongKey/fido2](#strongkey/fido2)
+* [caoccao/Javet](#caoccao/javet)
+* [christophetd/log4shell-vulnerable-app](#christophetd/log4shell-vulnerable-app)
+* [google/dagger](#google/dagger)
+* [kestra-io/kestra](#kestra-io/kestra)
+* [reactor/reactor-core](#reactor/reactor-core)
 
 <a name="repo-5thdpspf6tvf7p2z5ivtcjdk"></a>
 ## [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
 
 Author: [Konloch](https://github.com/Konloch)
 
-Stars: 12880
+Stars: 12881
 
 A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 
@@ -5290,7 +5300,7 @@ A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debug
 
 Author: [NationalSecurityAgency](https://github.com/NationalSecurityAgency)
 
-Stars: 32021
+Stars: 32030
 
 Ghidra is a software reverse engineering (SRE) framework
 
@@ -5344,7 +5354,7 @@ A fast dependency injector for Android and Java.
 
 Author: [kestra-io](https://github.com/kestra-io)
 
-Stars: 2168
+Stars: 2174
 
 Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 
@@ -5353,7 +5363,7 @@ Kestra is an infinitely scalable orchestration and scheduling platform, creating
 
 Author: [reactor](https://github.com/reactor)
 
-Stars: 4052
+Stars: 4053
 
 Non-Blocking Reactive Foundation for the JVM
 
@@ -5361,80 +5371,80 @@ Non-Blocking Reactive Foundation for the JVM
 <a name="v-wj5na3ishrqul65h5eqxuth3"></a>
 # JavaScript
 
-* [30-seconds/30-seconds-of-code](#repo-fuo6i65d5wqn2sgakxnf3tmh)
-* [AsyncBanana/microdiff](#repo-aqn5wedaxz5eiveouhp4eh2k)
-* [DeadIntegral/stupidk-blog](#repo-zop5eoiy3svnjcyd2kyjv36c)
-* [EFForg/https-everywhere](#repo-4yxor5ce65n7uxv5x73xxzn5)
-* [GoogleChrome/workbox](#repo-iu35nmtrgda4xu62ol4lk7mr)
-* [KaTeX/KaTeX](#repo-n3btdy7oon2tc4sjnyhzkvyc)
-* [MaetDol/k-means-js](#repo-xugjdlg7ozkpjs6qoxp6x3ir)
-* [Matt-Esch/virtual-dom](#repo-zjxypbwbltapeg3zrxvibedo)
-* [ProductiveAndEfficient/miniature-lamp](#repo-bs5s7ycqgc55vriw7ukteysa)
-* [Queue-ri/Shared-Piano-Playbot](#repo-mwbeycnbmgtlx67ttuk7nfcw)
-* [Sanix-Darker/tidi](#repo-hwsygjof25epujoxelmankay)
-* [The-World-Space/the-world-engine.ts](#repo-376tw32vaj3m2bw7kcdadyi2)
-* [TheAlgorithms/Javascript](#repo-xavjfqhjlkoex5pint7ibkht)
-* [Unitech/pm2](#repo-vwihtxlomvcvbgts27wb24ud)
-* [acornjs/acorn](#repo-ie5artrzfo5nstvgqh5ida6r)
-* [alexKwonIsAwesome/react-learnit-s3](#repo-itxtljqpqwswvgsetydbuqf6)
-* [ampproject/amphtml](#repo-eeb2qr4t76xc6h5bkjjyjicg)
-* [anuraghazra/github-readme-stats](#repo-554jophctmd263bln5hxfufv)
-* [apexcharts/apexcharts.js](#repo-yoied4g6iwvuxgturnvcfeug)
-* [appwrite/appwrite](#repo-gecxoutu6xaqyzbcexmyzafo)
-* [awesome-selfhosted/awesome-selfhosted](#repo-t32qzd5q4yvlltzlsilahvoy)
-* [badges/shields](#repo-2aeqrfmjwvq6b3cdypseh3bt)
-* [blitz-js/blitz](#repo-7dqcs55juqxpxykzrgmezhvp)
-* [cleanlock/VideoAdBlockForTwitch](#repo-bf64xgb67o74ap5vht6lt6i7)
-* [conwnet/github1s](#repo-ecjl5sp6n6mgcmhvigmuxtkp)
-* [denysdovhan/wtfjs](#repo-qvg2i7zzt6qgnu7hyqsple4r)
-* [developit/htm](#repo-dauu4i7ej4xtiprxhendeexs)
-* [dockersamples/docker-swarm-visualizer](#repo-ptp7ngngvn247xtcamv4alwp)
-* [galaxy4276/ReactRepo](#repo-rxcjvut2qvw6ylasznhjdga3)
-* [gdl-888/namufix-helper-classic-theseed](#repo-xktroajd3fw43vtd2iqjhwhk)
-* [getevo/evo](#repo-lvrsl4woqlj7bwud73jtmviu)
-* [ghdmsrkd/react-s3-cloudFront-serverless-template](#repo-nblfzmnqevgzyvonih6vpwxm)
-* [gionkunz/chartist-js](#repo-omdvwfywcl33ac7x4b4inhzb)
-* [google/closure-library](#repo-nwtdcfc57ofwllraowsy4dh7)
-* [httpcats/http.cat](#repo-ef26vgms4sudukegrtlgphub)
-* [iamkun/dayjs](#repo-x2bt4e4iqc6tdftglfb7p6w5)
-* [indutny/elliptic](#repo-7is7j2jjvucr4o3bepqdlyad)
-* [jitbit/HtmlSanitizer](#repo-5s4llnn6p3kgdojl2az3hblm)
-* [just-js/just](#repo-g46s6vik7tkciwnxxftlcgd3)
-* [koreapyj/sip-mitm](#repo-aqjnz2y4e4pgx2cc2yfu7pi4)
-* [lemon-mint/cfpjs](#repo-alc5pfmut3amwuvwhygtuitw)
-* [lemon-mint/github-api-markdown-js](#repo-vnxp7lj3vdsioefj4xszt557)
-* [lemon-mint/webauthn-demo-client](#repo-v7vv66ek456mquiyf3ytbyu7)
-* [lukeed/rosetta](#repo-nlflfbnzf7xb5dodvbiexgon)
-* [mui/material-ui](#repo-jumflzlfawdtp5e3gjuj54dc)
-* [mvximenko/social-network](#repo-ecakkixnqixbx5faivs4fgrf)
-* [niespodd/browser-fingerprinting](#repo-uclptmrhneakrvsgwrdzjp3r)
-* [openpgpjs/openpgpjs](#repo-6t4lv7xntyqpedaj3xgrrbuw)
-* [patriksimek/vm2](#repo-qxocdnpdwydhibsomjipnajg)
-* [paularmstrong/swig](#repo-od5nbi2uvebbmqenemuj2lm6)
-* [peter-evans/commit-comment](#repo-fylxk3fehhbwpftlu7g7sn6j)
-* [pikpokjeon/calendate-js](#repo-twvlpockic4kl32lu5txk435)
-* [postmanlabs/postman-code-generators](#repo-2vemnvb3aii3jpkfqzbieev6)
-* [reactjs/react-magic](#repo-kwsms6q2ys2xudwidfxygxmr)
-* [responsively-org/responsively-app](#repo-beqbarg2u66deo4yrhhxaeha)
-* [roxiness/tossr](#repo-sdiy7342bpjvbwyx2kn5az2e)
-* [sindresorhus/pretty-bytes](#repo-j672toecqagx2m7gpwjetn5j)
-* [svg/svgo](#repo-yoor7ekvtffqwrhovgp7uhj2)
-* [systemjs/systemjs](#repo-7i3frycxlu6krupbzkplrv4a)
-* [testing-library/vue-testing-library](#repo-npdrlwtpsyx37b4uac2aqtok)
-* [thelinuxlich/react-modern-starter](#repo-u43e6ib3tw2uaknprmjjbk2p)
-* [vercel/pkg](#repo-idrpxzjtier6pux3rmr27djz)
-* [wcchoi/go-wasm-pdfcpu](#repo-yoojowy6od377v3az6odika4)
-* [windowjs/windowjs](#repo-7npad5pj5ywyxzdcfbvuxwhm)
-* [wizath/react-flask-auth](#repo-p24flinvtrkcq2ixcigkkmuu)
-* [xiam/go-playground](#repo-5qxugpjryba577yqx2ugn6qe)
-* [zao95/react-cache-api](#repo-2maaode5alcnwj6dqfwogqls)
+* [30-seconds/30-seconds-of-code](#30-seconds/30-seconds-of-code)
+* [AsyncBanana/microdiff](#asyncbanana/microdiff)
+* [DeadIntegral/stupidk-blog](#deadintegral/stupidk-blog)
+* [EFForg/https-everywhere](#efforg/https-everywhere)
+* [GoogleChrome/workbox](#googlechrome/workbox)
+* [KaTeX/KaTeX](#katex/katex)
+* [MaetDol/k-means-js](#maetdol/k-means-js)
+* [Matt-Esch/virtual-dom](#matt-esch/virtual-dom)
+* [ProductiveAndEfficient/miniature-lamp](#productiveandefficient/miniature-lamp)
+* [Queue-ri/Shared-Piano-Playbot](#queue-ri/shared-piano-playbot)
+* [Sanix-Darker/tidi](#sanix-darker/tidi)
+* [The-World-Space/the-world-engine.ts](#the-world-space/the-world-engine.ts)
+* [TheAlgorithms/Javascript](#thealgorithms/javascript)
+* [Unitech/pm2](#unitech/pm2)
+* [acornjs/acorn](#acornjs/acorn)
+* [alexKwonIsAwesome/react-learnit-s3](#alexkwonisawesome/react-learnit-s3)
+* [ampproject/amphtml](#ampproject/amphtml)
+* [anuraghazra/github-readme-stats](#anuraghazra/github-readme-stats)
+* [apexcharts/apexcharts.js](#apexcharts/apexcharts.js)
+* [appwrite/appwrite](#appwrite/appwrite)
+* [awesome-selfhosted/awesome-selfhosted](#awesome-selfhosted/awesome-selfhosted)
+* [badges/shields](#badges/shields)
+* [blitz-js/blitz](#blitz-js/blitz)
+* [cleanlock/VideoAdBlockForTwitch](#cleanlock/videoadblockfortwitch)
+* [conwnet/github1s](#conwnet/github1s)
+* [denysdovhan/wtfjs](#denysdovhan/wtfjs)
+* [developit/htm](#developit/htm)
+* [dockersamples/docker-swarm-visualizer](#dockersamples/docker-swarm-visualizer)
+* [galaxy4276/ReactRepo](#galaxy4276/reactrepo)
+* [gdl-888/namufix-helper-classic-theseed](#gdl-888/namufix-helper-classic-theseed)
+* [getevo/evo](#getevo/evo)
+* [ghdmsrkd/react-s3-cloudFront-serverless-template](#ghdmsrkd/react-s3-cloudfront-serverless-template)
+* [gionkunz/chartist-js](#gionkunz/chartist-js)
+* [google/closure-library](#google/closure-library)
+* [httpcats/http.cat](#httpcats/http.cat)
+* [iamkun/dayjs](#iamkun/dayjs)
+* [indutny/elliptic](#indutny/elliptic)
+* [jitbit/HtmlSanitizer](#jitbit/htmlsanitizer)
+* [just-js/just](#just-js/just)
+* [koreapyj/sip-mitm](#koreapyj/sip-mitm)
+* [lemon-mint/cfpjs](#lemon-mint/cfpjs)
+* [lemon-mint/github-api-markdown-js](#lemon-mint/github-api-markdown-js)
+* [lemon-mint/webauthn-demo-client](#lemon-mint/webauthn-demo-client)
+* [lukeed/rosetta](#lukeed/rosetta)
+* [mui/material-ui](#mui/material-ui)
+* [mvximenko/social-network](#mvximenko/social-network)
+* [niespodd/browser-fingerprinting](#niespodd/browser-fingerprinting)
+* [openpgpjs/openpgpjs](#openpgpjs/openpgpjs)
+* [patriksimek/vm2](#patriksimek/vm2)
+* [paularmstrong/swig](#paularmstrong/swig)
+* [peter-evans/commit-comment](#peter-evans/commit-comment)
+* [pikpokjeon/calendate-js](#pikpokjeon/calendate-js)
+* [postmanlabs/postman-code-generators](#postmanlabs/postman-code-generators)
+* [reactjs/react-magic](#reactjs/react-magic)
+* [responsively-org/responsively-app](#responsively-org/responsively-app)
+* [roxiness/tossr](#roxiness/tossr)
+* [sindresorhus/pretty-bytes](#sindresorhus/pretty-bytes)
+* [svg/svgo](#svg/svgo)
+* [systemjs/systemjs](#systemjs/systemjs)
+* [testing-library/vue-testing-library](#testing-library/vue-testing-library)
+* [thelinuxlich/react-modern-starter](#thelinuxlich/react-modern-starter)
+* [vercel/pkg](#vercel/pkg)
+* [wcchoi/go-wasm-pdfcpu](#wcchoi/go-wasm-pdfcpu)
+* [windowjs/windowjs](#windowjs/windowjs)
+* [wizath/react-flask-auth](#wizath/react-flask-auth)
+* [xiam/go-playground](#xiam/go-playground)
+* [zao95/react-cache-api](#zao95/react-cache-api)
 
 <a name="repo-fuo6i65d5wqn2sgakxnf3tmh"></a>
 ## [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
 Author: [30-seconds](https://github.com/30-seconds)
 
-Stars: 93815
+Stars: 93820
 
 Short JavaScript code snippets for all your development needs
 
@@ -5479,7 +5489,7 @@ Stars: 10677
 
 Author: [KaTeX](https://github.com/KaTeX)
 
-Stars: 15019
+Stars: 15018
 
 Fast math typesetting for the web.
 
@@ -5497,7 +5507,7 @@ K-means for javascript
 
 Author: [Matt-Esch](https://github.com/Matt-Esch)
 
-Stars: 11335
+Stars: 11336
 
 A Virtual DOM and diffing algorithm
 
@@ -5542,7 +5552,7 @@ three.js based, unity like game engine for browser
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 19336
+Stars: 19340
 
 Algorithms implemented in JavaScript for beginners, following best practices.
 
@@ -5551,7 +5561,7 @@ Algorithms implemented in JavaScript for beginners, following best practices.
 
 Author: [Unitech](https://github.com/Unitech)
 
-Stars: 36755
+Stars: 36757
 
 Node.js Production Process Manager with a built-in Load Balancer.
 
@@ -5560,7 +5570,7 @@ Node.js Production Process Manager with a built-in Load Balancer.
 
 Author: [acornjs](https://github.com/acornjs)
 
-Stars: 8206
+Stars: 8208
 
 A small, fast, JavaScript-based JavaScript parser
 
@@ -5578,7 +5588,7 @@ Stars: 11
 
 Author: [ampproject](https://github.com/ampproject)
 
-Stars: 14836
+Stars: 14837
 
 The AMP web component framework.
 
@@ -5587,7 +5597,7 @@ The AMP web component framework.
 
 Author: [anuraghazra](https://github.com/anuraghazra)
 
-Stars: 39746
+Stars: 39754
 
 :zap: Dynamically generated stats for your github readmes
 
@@ -5605,7 +5615,7 @@ Stars: 11346
 
 Author: [appwrite](https://github.com/appwrite)
 
-Stars: 20444
+Stars: 20458
 
 Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
@@ -5614,7 +5624,7 @@ Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% ope
 
 Author: [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
-Stars: 84269
+Stars: 84299
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -5623,7 +5633,7 @@ A list of Free Software network services and web applications which can be hoste
 
 Author: [badges](https://github.com/badges)
 
-Stars: 16606
+Stars: 16607
 
 Concise, consistent, and legible badges in SVG and raster format
 
@@ -5641,7 +5651,7 @@ Stars: 11172
 
 Author: [cleanlock](https://github.com/cleanlock)
 
-Stars: 688
+Stars: 692
 
 Blocks Ads on Twitch.tv.
 
@@ -5650,7 +5660,7 @@ Blocks Ads on Twitch.tv.
 
 Author: [conwnet](https://github.com/conwnet)
 
-Stars: 20817
+Stars: 20818
 
 One second to read GitHub code with VS Code.
 
@@ -5659,7 +5669,7 @@ One second to read GitHub code with VS Code.
 
 Author: [denysdovhan](https://github.com/denysdovhan)
 
-Stars: 25931
+Stars: 25933
 
 🤪 A list of funny and tricky JavaScript examples
 
@@ -5749,7 +5759,7 @@ Stars: 1524
 
 Author: [iamkun](https://github.com/iamkun)
 
-Stars: 38510
+Stars: 38513
 
 ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 
@@ -5767,7 +5777,7 @@ Fast Elliptic Curve Cryptography in plain javascript
 
 Author: [jitbit](https://github.com/jitbit)
 
-Stars: 78
+Stars: 79
 
 Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
 
@@ -5776,7 +5786,7 @@ Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in
 
 Author: [just-js](https://github.com/just-js)
 
-Stars: 1990
+Stars: 1991
 
 a very small v8 javascript runtime for linux only
 
@@ -5830,7 +5840,7 @@ A general purpose internationalization library in 292 bytes
 
 Author: [mui](https://github.com/mui)
 
-Stars: 77322
+Stars: 77331
 
 MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 
@@ -5848,7 +5858,7 @@ Social network for developers built on the MERN stack.
 
 Author: [niespodd](https://github.com/niespodd)
 
-Stars: 2826
+Stars: 2827
 
 Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 
@@ -5857,7 +5867,7 @@ Analysis of Bot Protection systems with available countermeasures 🚿. How to d
 
 Author: [openpgpjs](https://github.com/openpgpjs)
 
-Stars: 5079
+Stars: 5080
 
 OpenPGP implementation for JavaScript
 
@@ -5866,7 +5876,7 @@ OpenPGP implementation for JavaScript
 
 Author: [patriksimek](https://github.com/patriksimek)
 
-Stars: 2950
+Stars: 2952
 
 Advanced vm/sandbox for Node.js
 
@@ -5911,7 +5921,7 @@ Common repository for all code generators shipped with Postman
 
 Author: [reactjs](https://github.com/reactjs)
 
-Stars: 892
+Stars: 893
 
 Automatically AJAXify plain HTML with the power of React. It's magic!
 
@@ -5920,7 +5930,7 @@ Automatically AJAXify plain HTML with the power of React. It's magic!
 
 Author: [responsively-org](https://github.com/responsively-org)
 
-Stars: 15829
+Stars: 15831
 
 A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
@@ -5938,7 +5948,7 @@ Universal SSR renderer powered by JSDOM
 
 Author: [sindresorhus](https://github.com/sindresorhus)
 
-Stars: 833
+Stars: 834
 
 Convert bytes to a human readable string: 1337 → 1.34 kB
 
@@ -5947,7 +5957,7 @@ Convert bytes to a human readable string: 1337 → 1.34 kB
 
 Author: [svg](https://github.com/svg)
 
-Stars: 17510
+Stars: 17513
 
 ⚙️ Node.js tool for optimizing SVG files
 
@@ -5983,7 +5993,7 @@ A starter app for your needs in 2021
 
 Author: [vercel](https://github.com/vercel)
 
-Stars: 20400
+Stars: 20484
 
 Package your Node.js project into an executable
 
@@ -6036,14 +6046,14 @@ Stars: 12
 <a name="v-5cp6mlwimnd4fnipjkdux5wm"></a>
 # Julia
 
-* [JuliaLang/julia](#repo-efn33qhmjtvcgqvczsv7ruqg)
+* [JuliaLang/julia](#julialang/julia)
 
 <a name="repo-efn33qhmjtvcgqvczsv7ruqg"></a>
 ## [JuliaLang/julia](https://github.com/JuliaLang/julia)
 
 Author: [JuliaLang](https://github.com/JuliaLang)
 
-Stars: 38835
+Stars: 38838
 
 The Julia Programming Language
 
@@ -6051,17 +6061,17 @@ The Julia Programming Language
 <a name="v-zgfwagimbry7jbnnry7fv6ip"></a>
 # Jupyter Notebook
 
-* [AI4Finance-Foundation/FinRL](#repo-m74kr7yxmwbrsaql5zvguq2o)
-* [deepmind/deepmind-research](#repo-epo63ezrcvty4b4z3dqrhev3)
-* [google-research/kubric](#repo-vt3a756r3sngl67nvevllrc7)
-* [saic-mdal/lama](#repo-wu3n5oxjogjkojulyi2o7xbi)
+* [AI4Finance-Foundation/FinRL](#ai4finance-foundation/finrl)
+* [deepmind/deepmind-research](#deepmind/deepmind-research)
+* [google-research/kubric](#google-research/kubric)
+* [saic-mdal/lama](#saic-mdal/lama)
 
 <a name="repo-m74kr7yxmwbrsaql5zvguq2o"></a>
 ## [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL)
 
 Author: [AI4Finance-Foundation](https://github.com/AI4Finance-Foundation)
 
-Stars: 4625
+Stars: 4629
 
 FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥
 
@@ -6070,7 +6080,7 @@ FinRL: The first open-source project for financial reinforcement learning. Pleas
 
 Author: [deepmind](https://github.com/deepmind)
 
-Stars: 9973
+Stars: 9974
 
 This repository contains implementations and illustrative code to accompany DeepMind publications
 
@@ -6079,7 +6089,7 @@ This repository contains implementations and illustrative code to accompany Deep
 
 Author: [google-research](https://github.com/google-research)
 
-Stars: 1252
+Stars: 1254
 
 A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 
@@ -6096,7 +6106,7 @@ Stars: 3490
 <a name="v-y6hwzf4sh2a2f4cpbhc6q63j"></a>
 # Kotlin
 
-* [pple-link/pple-assets](#repo-i7t2hzriykcwfyfpmknpi3lc)
+* [pple-link/pple-assets](#pple-link/pple-assets)
 
 <a name="repo-i7t2hzriykcwfyfpmknpi3lc"></a>
 ## [pple-link/pple-assets](https://github.com/pple-link/pple-assets)
@@ -6111,19 +6121,19 @@ Stars: 10
 <a name="v-bjvbknc22dd6g3wz3q7mtsgo"></a>
 # PHP
 
-* [BookStackApp/BookStack](#repo-tuansfgq2wu5ru4nwhzupaor)
-* [google/recaptcha](#repo-4vf7h7cjlluftem67cqre2iq)
-* [michaelfranzl/no.php](#repo-woyndu7tvfym7xehuagvoco7)
-* [phpython/phpython](#repo-ptnq7r4lhg5g5ousz7rjgqsq)
-* [slince/spike](#repo-iokcck6duzipbgfn6xpxrgtk)
-* [the-benchmarker/web-frameworks](#repo-w6bdhnooo63ykqq6r3hyfmmn)
+* [BookStackApp/BookStack](#bookstackapp/bookstack)
+* [google/recaptcha](#google/recaptcha)
+* [michaelfranzl/no.php](#michaelfranzl/no.php)
+* [phpython/phpython](#phpython/phpython)
+* [slince/spike](#slince/spike)
+* [the-benchmarker/web-frameworks](#the-benchmarker/web-frameworks)
 
 <a name="repo-tuansfgq2wu5ru4nwhzupaor"></a>
 ## [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
 
 Author: [BookStackApp](https://github.com/BookStackApp)
 
-Stars: 9027
+Stars: 9026
 
 A platform to create documentation/wiki content built with PHP & Laravel
 
@@ -6132,7 +6142,7 @@ A platform to create documentation/wiki content built with PHP & Laravel
 
 Author: [google](https://github.com/google)
 
-Stars: 3191
+Stars: 3192
 
 PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 
@@ -6176,65 +6186,65 @@ Which is the fastest web framework?
 <a name="v-dcef6j5vv6ibfxyz4slemd4s"></a>
 # Python
 
-* [3b1b/manim](#repo-z6viazmawcd3szfky4ravqnw)
-* [AcrylicShrimp/auto-encoder](#repo-f4getzkswmrlac2riub5yuvb)
-* [Clivern/Cattle](#repo-7e54q5w7uulkpnfduk5jcwfh)
-* [Crerty/Viento](#repo-nbmldhraex2errluioawehm2)
-* [DavidBuchanan314/ambiguous-png-packer](#repo-7ts3pd3vx7wex6nlzupvuyoq)
-* [DeltaLaboratory/OpenLibrary-Server](#repo-rakffx3kmal4gtzba3ubfljm)
-* [EleutherAI/gpt-neo](#repo-nfg2i7gmwkgh5tiyhiccf57a)
-* [JJChiDguez/sibc](#repo-s3pq4c6guxsp5kn4qmro4o35)
-* [LudovicRousseau/pyscard](#repo-o5fhw7bz5pbcvnyg2pfmwsy2)
-* [PySimpleGUI/PySimpleGUI](#repo-bgzo334ljbgiqbivzzhvv4js)
-* [Rayhane-mamah/Tacotron-2](#repo-wzveaqgjfmukayb6mzn2pz5v)
-* [Stella-IT/XenXenXenSe](#repo-j2lxhon3xwzxrnvvfvsadhya)
-* [TensorSpeech/TensorFlowTTS](#repo-ytuo3eso4hpu5dk4vb3bxrar)
-* [TheAlgorithms/Python](#repo-tpt5gov3gp5mbbowu7xocg43)
-* [WegraLee/deep-learning-from-scratch](#repo-afs75dced5mp7y5ce26buw5p)
-* [chenzhuoyu/asm2asm](#repo-op7dt3jox4425rdlcswxa7xf)
-* [choyi0521/wavenet-pytorch](#repo-cxf75rflxxubcc7oiup726ui)
-* [cupy/cupy](#repo-3f3nksd3qm2brk5uidq7tgtx)
-* [davidhalter/jedi](#repo-fnepkv26dv3waqc256tspimp)
-* [encode/httpx](#repo-fbu35sqhmgncrtzfn7wdhzrc)
-* [freqtrade/freqtrade](#repo-kt6j7fmpf4hhawh35bkfxy7t)
-* [google-research/bert](#repo-dmqet6djkqeyludx2tmgn3xe)
-* [heuer/segno](#repo-olxhckhtg6z2ppsqtlr7uwqu)
-* [home-assistant/core](#repo-bp5w2axzeemtsrad6y2smpz6)
-* [httplib2/httplib2](#repo-2fphrolsxnfkjfd4lghiabss)
-* [huggingface/datasets](#repo-rdy7jr73c25unf2ndixandwz)
-* [huggingface/transformers](#repo-4qi4leym7oy6sqnpja5myhxs)
-* [iperov/DeepFaceLab](#repo-6wyw26tcu4svhylnvpcs5crd)
-* [jamesroberts/fastwsgi](#repo-4rzyp4dqeiqxr6facs6mjlxu)
-* [jina-ai/jina](#repo-lobkzvnotc2eqkznbrdn7vkr)
-* [jonghwanhyeon/namu-wiki-extractor](#repo-hkrkokwr4ggtedlpjqfyj2sm)
-* [ksenginew/WSocket](#repo-zoksar4yu4rstuevbhi6whtf)
-* [lemon-mint/file2archive](#repo-5tx4igehhidwf75wqvbuiu4a)
-* [lemon-mint/simplecompresser](#repo-etq4pqmi3yri64sebd5vzpjz)
-* [luismartingarcia/protocol](#repo-nuvguybl4xzgpwrzcn4pxkix)
-* [mherrmann/fbs](#repo-ofys662ocbzenykrobuft3li)
-* [mozilla/bleach](#repo-m5lkevhdtc2kbbrpy6tno5ku)
-* [mvt-project/mvt](#repo-swavmdepz3npnydregxut32y)
-* [neuml/txtai](#repo-ws3igyywdsaoavio6hhtd5q4)
-* [pahkey/djangobook](#repo-xnpgxr2ngv6c2skeswl4lsfj)
-* [pymedphys/pymedphys](#repo-o5ats3oj7riwnqsfpk5jvwkj)
-* [pyodide/pyodide](#repo-i5td6zcbdo4wfcnqrjdgdjmw)
-* [python-trio/trio](#repo-g3yrzfdmrqezgauru3zkdk5v)
-* [pytorch/data](#repo-hzyeqi5k7jcgfpysi4lygfvq)
-* [r9y9/nnsvs](#repo-njvrtlxm6mxpyuucfvujumgy)
-* [src-d/sparkpickle](#repo-ybnj7vryvedgwxmfmx3ldbis)
-* [tkrajina/gpxpy](#repo-5oeo577jjb5ssdm2zwe7b5i4)
-* [unit8co/darts](#repo-6qdhlk3dxzjgme7kquw6srdy)
-* [unitaryfund/mitiq](#repo-oztvsyeljbgmqi4hju4aylox)
-* [wealways/algorithm](#repo-vjxqh7yolqqp43zlbsnzcakd)
-* [xeruel/KBYD](#repo-fn6lcabiisixyokx3sy3osan)
-* [zakizhou/CAPTCHA](#repo-3qicqetd2cxlgns3qtwhjdh3)
+* [3b1b/manim](#3b1b/manim)
+* [AcrylicShrimp/auto-encoder](#acrylicshrimp/auto-encoder)
+* [Clivern/Cattle](#clivern/cattle)
+* [Crerty/Viento](#crerty/viento)
+* [DavidBuchanan314/ambiguous-png-packer](#davidbuchanan314/ambiguous-png-packer)
+* [DeltaLaboratory/OpenLibrary-Server](#deltalaboratory/openlibrary-server)
+* [EleutherAI/gpt-neo](#eleutherai/gpt-neo)
+* [JJChiDguez/sibc](#jjchidguez/sibc)
+* [LudovicRousseau/pyscard](#ludovicrousseau/pyscard)
+* [PySimpleGUI/PySimpleGUI](#pysimplegui/pysimplegui)
+* [Rayhane-mamah/Tacotron-2](#rayhane-mamah/tacotron-2)
+* [Stella-IT/XenXenXenSe](#stella-it/xenxenxense)
+* [TensorSpeech/TensorFlowTTS](#tensorspeech/tensorflowtts)
+* [TheAlgorithms/Python](#thealgorithms/python)
+* [WegraLee/deep-learning-from-scratch](#wegralee/deep-learning-from-scratch)
+* [chenzhuoyu/asm2asm](#chenzhuoyu/asm2asm)
+* [choyi0521/wavenet-pytorch](#choyi0521/wavenet-pytorch)
+* [cupy/cupy](#cupy/cupy)
+* [davidhalter/jedi](#davidhalter/jedi)
+* [encode/httpx](#encode/httpx)
+* [freqtrade/freqtrade](#freqtrade/freqtrade)
+* [google-research/bert](#google-research/bert)
+* [heuer/segno](#heuer/segno)
+* [home-assistant/core](#home-assistant/core)
+* [httplib2/httplib2](#httplib2/httplib2)
+* [huggingface/datasets](#huggingface/datasets)
+* [huggingface/transformers](#huggingface/transformers)
+* [iperov/DeepFaceLab](#iperov/deepfacelab)
+* [jamesroberts/fastwsgi](#jamesroberts/fastwsgi)
+* [jina-ai/jina](#jina-ai/jina)
+* [jonghwanhyeon/namu-wiki-extractor](#jonghwanhyeon/namu-wiki-extractor)
+* [ksenginew/WSocket](#ksenginew/wsocket)
+* [lemon-mint/file2archive](#lemon-mint/file2archive)
+* [lemon-mint/simplecompresser](#lemon-mint/simplecompresser)
+* [luismartingarcia/protocol](#luismartingarcia/protocol)
+* [mherrmann/fbs](#mherrmann/fbs)
+* [mozilla/bleach](#mozilla/bleach)
+* [mvt-project/mvt](#mvt-project/mvt)
+* [neuml/txtai](#neuml/txtai)
+* [pahkey/djangobook](#pahkey/djangobook)
+* [pymedphys/pymedphys](#pymedphys/pymedphys)
+* [pyodide/pyodide](#pyodide/pyodide)
+* [python-trio/trio](#python-trio/trio)
+* [pytorch/data](#pytorch/data)
+* [r9y9/nnsvs](#r9y9/nnsvs)
+* [src-d/sparkpickle](#src-d/sparkpickle)
+* [tkrajina/gpxpy](#tkrajina/gpxpy)
+* [unit8co/darts](#unit8co/darts)
+* [unitaryfund/mitiq](#unitaryfund/mitiq)
+* [wealways/algorithm](#wealways/algorithm)
+* [xeruel/KBYD](#xeruel/kbyd)
+* [zakizhou/CAPTCHA](#zakizhou/captcha)
 
 <a name="repo-z6viazmawcd3szfky4ravqnw"></a>
 ## [3b1b/manim](https://github.com/3b1b/manim)
 
 Author: [3b1b](https://github.com/3b1b)
 
-Stars: 43693
+Stars: 43702
 
 Animation engine for explanatory math videos
 
@@ -6288,7 +6298,7 @@ Opensource Library Management Service
 
 Author: [EleutherAI](https://github.com/EleutherAI)
 
-Stars: 6198
+Stars: 6200
 
 An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 
@@ -6315,7 +6325,7 @@ pyscard smartcard library for python
 
 Author: [PySimpleGUI](https://github.com/PySimpleGUI)
 
-Stars: 9758
+Stars: 9760
 
 Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.
 
@@ -6351,7 +6361,7 @@ Stars: 2600
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 134292
+Stars: 134308
 
 All Algorithms implemented in Python
 
@@ -6360,7 +6370,7 @@ All Algorithms implemented in Python
 
 Author: [WegraLee](https://github.com/WegraLee)
 
-Stars: 882
+Stars: 881
 
 『밑바닥부터 시작하는 딥러닝』(한빛미디어, 2017)
 
@@ -6414,7 +6424,7 @@ A next generation HTTP client for Python. 🦋
 
 Author: [freqtrade](https://github.com/freqtrade)
 
-Stars: 16991
+Stars: 16993
 
 Free, open source crypto trading bot
 
@@ -6423,7 +6433,7 @@ Free, open source crypto trading bot
 
 Author: [google-research](https://github.com/google-research)
 
-Stars: 30893
+Stars: 30896
 
 TensorFlow code and pre-trained models for BERT
 
@@ -6441,7 +6451,7 @@ Python QR Code and Micro QR Code encoder
 
 Author: [home-assistant](https://github.com/home-assistant)
 
-Stars: 51562
+Stars: 51567
 
 :house_with_garden: Open source home automation that puts local control and privacy first.
 
@@ -6468,7 +6478,7 @@ Stars: 12967
 
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 60722
+Stars: 60742
 
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
@@ -6477,7 +6487,7 @@ Stars: 60722
 
 Author: [iperov](https://github.com/iperov)
 
-Stars: 32057
+Stars: 32062
 
 DeepFaceLab is the leading software for creating deepfakes.
 
@@ -6495,7 +6505,7 @@ An ultra fast WSGI server for Python 3
 
 Author: [jina-ai](https://github.com/jina-ai)
 
-Stars: 14231
+Stars: 14230
 
 Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 
@@ -6603,7 +6613,7 @@ A community effort to develop an open standard library for Medical Physics in Py
 
 Author: [pyodide](https://github.com/pyodide)
 
-Stars: 7671
+Stars: 7672
 
 Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 
@@ -6612,7 +6622,7 @@ Pyodide is a Python distribution for the browser and Node.js based on WebAssembl
 
 Author: [python-trio](https://github.com/python-trio)
 
-Stars: 4603
+Stars: 4604
 
 Trio – a friendly Python library for async concurrency and I/O
 
@@ -6621,7 +6631,7 @@ Trio – a friendly Python library for async concurrency and I/O
 
 Author: [pytorch](https://github.com/pytorch)
 
-Stars: 643
+Stars: 644
 
 A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 
@@ -6701,82 +6711,82 @@ implement classification for CAPTCHA in TensorFlow
 <a name="v-3gvit7orllk4ihm4ckh677u6"></a>
 # Rust
 
-* [AcrylicShrimp/clr-parser-generator](#repo-n4uwlfnqvgonztmjlbe7b7vu)
-* [AcrylicShrimp/testlang-rust](#repo-6toearkxwbfyebjwysyfo6m7)
-* [AcrylicShrimp/titi-lang](#repo-sujtfocu5mpg5yw6qdzpf4sx)
-* [ChillFish8/rewrk](#repo-ywl2vgzharwh7gbjo5csrwpn)
-* [CosmWasm/cosmwasm](#repo-yghfoj3gynjekniczjmfyqo5)
-* [Doctave/doctave](#repo-y4rt23zill525q3c63cne3r3)
-* [GREsau/okapi](#repo-6j77dbogqv3sw5qqn2o7fmjw)
-* [Gankra/thin-vec](#repo-n7gb7hugnvwl63ynp7od5vmu)
-* [Manishearth/rust-gc](#repo-ppeeqo3w2gese6r7i2pcjimg)
-* [MinusKelvin/cold-clear](#repo-xwj2dkaa3dzsd43neowxh3hq)
-* [Nukleus-Language/nukleus](#repo-i5jmp34tkjonkrcu7s3ccyyy)
-* [Riey/kime](#repo-ctixjobecwij66mdmzpyq3no)
-* [SergioBenitez/Rocket](#repo-2453ngmz65wjnlak7mblbvbr)
-* [TheAlgorithms/Rust](#repo-glzeyj3z2qq7z56xv4bv5uq4)
-* [Wilfred/difftastic](#repo-dhx4siero5nmjzz4auvpw3u4)
-* [actix/actix](#repo-iqs6kyfkxvdgode42k6g5a5v)
-* [actix/actix-web](#repo-k4kprlihjurtteljml24fz7c)
-* [alacritty/alacritty](#repo-vj3kg52f7q5kbkax247gxuro)
-* [alexheretic/ab-glyph](#repo-i7pyd3ovlkwwa5aqxti3es3v)
-* [aptos-labs/aptos-core](#repo-6e6sjiq5czkrchklx7adg5hc)
-* [ben0x539/totally-safe-transmute](#repo-usmkyhobjw2dxv4iisr4ygbe)
-* [boa-dev/boa](#repo-zanvtc62prvn265xyknebyjx)
-* [bytecodealliance/wizer](#repo-4gq5uezjjqhg4u66bdyozmnk)
-* [bytedance/Elkeid](#repo-myevzwm4js5przyw6ijm2m4n)
-* [cloud-hypervisor/cloud-hypervisor](#repo-t3li7brecnjyxef5crjkfuth)
-* [cloudflare/boring](#repo-4rvpednx6iuimekuhlq3tt46)
-* [cloudflare/sliceslice-rs](#repo-nqla7fsdlxjwsoegipl7axnb)
-* [codingskynet/concurrent-data-structure](#repo-neyrak577w4773lb6jm6vfes)
-* [copy/v86](#repo-xomqiaa7ubmr5vnot27e72uh)
-* [cube-js/cube.js](#repo-jyily54j5xoqmyced2vuvsd2)
-* [denoland/deno](#repo-2ydx6ffqmkrzjiafhablr4k7)
-* [diesel-rs/diesel](#repo-vnfys4bersrzp32r55duvkd5)
-* [errantmind/faf](#repo-of4pvjkqfa3omyz6uwdia7t4)
-* [facebook/relay](#repo-g3estbq2yokg27xgnhdur75w)
-* [fitzgen/bumpalo](#repo-2vzk7zos5x2bup6f4ncx3i3n)
-* [flamegraph-rs/flamegraph](#repo-zdeaemzki33ub4pdrx4obq3i)
-* [gfx-rs/wgpu](#repo-uuq5dksazlffikuuwgjckuym)
-* [hskang9/RustGo](#repo-a4jmfqrb4iit2wilaxrurqxw)
-* [icedland/iced](#repo-an7we2diiwh3436ryy5d4pjv)
-* [jeremiah-shaulov/lemon-mint](#repo-p6dxy4kqoixqz6t3tixudqox)
-* [jeremiah-shaulov/nop-json](#repo-iaa3u5tsg2xgu4qhhohvynkv)
-* [josephg/diamond-types](#repo-nflnjbhfmiabyfaa6exmfvx5)
-* [kdy1/rweb](#repo-niex7bchtu5xaq4pmz46qg6t)
-* [kognise/arpchat](#repo-e4qcbsasl6wo4gf3hdaxehzk)
-* [kornelski/rust-rgb](#repo-ko3delbk64iwrjnj7s4bivjh)
-* [krustlet/krustlet](#repo-65743mtrwdq7uag2r23uopej)
-* [lapce/lapce](#repo-bcwv32xzn3jmxraro76lb7zw)
-* [lemon-mint/isfalse-rs](#repo-nhd7vtxa4rh6uy5lqi54kj7m)
-* [libkluid/evmdasm-rs](#repo-bcgbovjul7d7hknscnnydwu3)
-* [matthieu-m/static-rc](#repo-eymxoteohku3oitdvcbrxfl7)
-* [mooman219/fontdue](#repo-fqfbhmuyvitt2vgpefpjcg4l)
-* [o2sh/onefetch](#repo-vn4vfxeniupulknctuzkvyob)
-* [oxidy-rs/oxidy](#repo-n6wr5nvtm77fnhycr7azv733)
-* [rkyv/rkyv](#repo-oed5tjc2vvguy2cswl4cjhwb)
-* [roapi/roapi](#repo-5zlxco77zcbrabpawpu256ew)
-* [rochacbruno/rust_memes](#repo-pkkrwpjkiwnec4525fenht77)
-* [rust-analyzer/rust-analyzer](#repo-kht4ennjhzndlefdmyw67upa)
-* [rust-lang/hashbrown](#repo-vnbchgshgcv5ccmqjii7xmsn)
-* [rust-lang/mdBook](#repo-ewm4ezony5uxmpjkztk65a7m)
-* [rust-lang/rust](#repo-tkcfiz4jcp3x5fjoqxt3kp52)
-* [rust-lang/rustlings](#repo-lmmmf42xiazzzagw3digzyzs)
-* [rustdesk/rustdesk](#repo-er4mgrtfa6764tw4ctpal5c4)
-* [rustwasm/twiggy](#repo-fpghbrvxxm2ibxpqkl6jv5zl)
-* [ry00001/inline-lua](#repo-5f6mwyr6fbwwykozgnmfx3td)
-* [rycont/umjunsik-lang](#repo-ttsma4fejmi2f3k2k6xfu3ps)
-* [second-state/wasmedge-quickjs](#repo-3lxddyk2yfbtgpbl6mj2ubm2)
-* [smoltcp-rs/smoltcp](#repo-tsmqnzgst3ddbg7cw3cno7v4)
-* [spacejam/rio](#repo-hrlyp4iqerscdl5sk5s2fvj5)
-* [starship/starship](#repo-n5e6cvptut377trbs3hrt4fp)
-* [swc-project/swc](#repo-mywwam4vfzscfm3mh2j6nhql)
-* [tauri-apps/tauri](#repo-xafpmzzu5kckglwfefqvrxzf)
-* [tkaitchuck/aHash](#repo-slxlssxb3o3rhjw3ja6ipc66)
-* [tokio-rs/tokio](#repo-ao5l3hsfh25gw45unror7rmu)
-* [twilco/kosmonaut](#repo-nzr33oa5syjtiebcvfxsfuml)
-* [wasmerio/wasmer](#repo-lcojjirmmzrklv33ehub6mc6)
-* [zesterer/ariadne](#repo-oubzcovz6grnujijarr4hau7)
+* [AcrylicShrimp/clr-parser-generator](#acrylicshrimp/clr-parser-generator)
+* [AcrylicShrimp/testlang-rust](#acrylicshrimp/testlang-rust)
+* [AcrylicShrimp/titi-lang](#acrylicshrimp/titi-lang)
+* [ChillFish8/rewrk](#chillfish8/rewrk)
+* [CosmWasm/cosmwasm](#cosmwasm/cosmwasm)
+* [Doctave/doctave](#doctave/doctave)
+* [GREsau/okapi](#gresau/okapi)
+* [Gankra/thin-vec](#gankra/thin-vec)
+* [Manishearth/rust-gc](#manishearth/rust-gc)
+* [MinusKelvin/cold-clear](#minuskelvin/cold-clear)
+* [Nukleus-Language/nukleus](#nukleus-language/nukleus)
+* [Riey/kime](#riey/kime)
+* [SergioBenitez/Rocket](#sergiobenitez/rocket)
+* [TheAlgorithms/Rust](#thealgorithms/rust)
+* [Wilfred/difftastic](#wilfred/difftastic)
+* [actix/actix](#actix/actix)
+* [actix/actix-web](#actix/actix-web)
+* [alacritty/alacritty](#alacritty/alacritty)
+* [alexheretic/ab-glyph](#alexheretic/ab-glyph)
+* [aptos-labs/aptos-core](#aptos-labs/aptos-core)
+* [ben0x539/totally-safe-transmute](#ben0x539/totally-safe-transmute)
+* [boa-dev/boa](#boa-dev/boa)
+* [bytecodealliance/wizer](#bytecodealliance/wizer)
+* [bytedance/Elkeid](#bytedance/elkeid)
+* [cloud-hypervisor/cloud-hypervisor](#cloud-hypervisor/cloud-hypervisor)
+* [cloudflare/boring](#cloudflare/boring)
+* [cloudflare/sliceslice-rs](#cloudflare/sliceslice-rs)
+* [codingskynet/concurrent-data-structure](#codingskynet/concurrent-data-structure)
+* [copy/v86](#copy/v86)
+* [cube-js/cube.js](#cube-js/cube.js)
+* [denoland/deno](#denoland/deno)
+* [diesel-rs/diesel](#diesel-rs/diesel)
+* [errantmind/faf](#errantmind/faf)
+* [facebook/relay](#facebook/relay)
+* [fitzgen/bumpalo](#fitzgen/bumpalo)
+* [flamegraph-rs/flamegraph](#flamegraph-rs/flamegraph)
+* [gfx-rs/wgpu](#gfx-rs/wgpu)
+* [hskang9/RustGo](#hskang9/rustgo)
+* [icedland/iced](#icedland/iced)
+* [jeremiah-shaulov/lemon-mint](#jeremiah-shaulov/lemon-mint)
+* [jeremiah-shaulov/nop-json](#jeremiah-shaulov/nop-json)
+* [josephg/diamond-types](#josephg/diamond-types)
+* [kdy1/rweb](#kdy1/rweb)
+* [kognise/arpchat](#kognise/arpchat)
+* [kornelski/rust-rgb](#kornelski/rust-rgb)
+* [krustlet/krustlet](#krustlet/krustlet)
+* [lapce/lapce](#lapce/lapce)
+* [lemon-mint/isfalse-rs](#lemon-mint/isfalse-rs)
+* [libkluid/evmdasm-rs](#libkluid/evmdasm-rs)
+* [matthieu-m/static-rc](#matthieu-m/static-rc)
+* [mooman219/fontdue](#mooman219/fontdue)
+* [o2sh/onefetch](#o2sh/onefetch)
+* [oxidy-rs/oxidy](#oxidy-rs/oxidy)
+* [rkyv/rkyv](#rkyv/rkyv)
+* [roapi/roapi](#roapi/roapi)
+* [rochacbruno/rust_memes](#rochacbruno/rust_memes)
+* [rust-analyzer/rust-analyzer](#rust-analyzer/rust-analyzer)
+* [rust-lang/hashbrown](#rust-lang/hashbrown)
+* [rust-lang/mdBook](#rust-lang/mdbook)
+* [rust-lang/rust](#rust-lang/rust)
+* [rust-lang/rustlings](#rust-lang/rustlings)
+* [rustdesk/rustdesk](#rustdesk/rustdesk)
+* [rustwasm/twiggy](#rustwasm/twiggy)
+* [ry00001/inline-lua](#ry00001/inline-lua)
+* [rycont/umjunsik-lang](#rycont/umjunsik-lang)
+* [second-state/wasmedge-quickjs](#second-state/wasmedge-quickjs)
+* [smoltcp-rs/smoltcp](#smoltcp-rs/smoltcp)
+* [spacejam/rio](#spacejam/rio)
+* [starship/starship](#starship/starship)
+* [swc-project/swc](#swc-project/swc)
+* [tauri-apps/tauri](#tauri-apps/tauri)
+* [tkaitchuck/aHash](#tkaitchuck/ahash)
+* [tokio-rs/tokio](#tokio-rs/tokio)
+* [twilco/kosmonaut](#twilco/kosmonaut)
+* [wasmerio/wasmer](#wasmerio/wasmer)
+* [zesterer/ariadne](#zesterer/ariadne)
 
 <a name="repo-n4uwlfnqvgonztmjlbe7b7vu"></a>
 ## [AcrylicShrimp/clr-parser-generator](https://github.com/AcrylicShrimp/clr-parser-generator)
@@ -6882,7 +6892,7 @@ Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform Program 
 
 Author: [Riey](https://github.com/Riey)
 
-Stars: 314
+Stars: 315
 
 Korean IME
 
@@ -6891,7 +6901,7 @@ Korean IME
 
 Author: [SergioBenitez](https://github.com/SergioBenitez)
 
-Stars: 16940
+Stars: 16942
 
 A web framework for Rust.
 
@@ -6900,7 +6910,7 @@ A web framework for Rust.
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 6781
+Stars: 6785
 
  All Algorithms implemented in Rust 
 
@@ -6909,7 +6919,7 @@ Stars: 6781
 
 Author: [Wilfred](https://github.com/Wilfred)
 
-Stars: 8761
+Stars: 8771
 
 a diff that understands syntax 🟥🟩
 
@@ -6918,7 +6928,7 @@ a diff that understands syntax 🟥🟩
 
 Author: [actix](https://github.com/actix)
 
-Stars: 7017
+Stars: 7018
 
 Actor framework for Rust.
 
@@ -6927,7 +6937,7 @@ Actor framework for Rust.
 
 Author: [actix](https://github.com/actix)
 
-Stars: 13788
+Stars: 13791
 
 Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
@@ -6936,7 +6946,7 @@ Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
 Author: [alacritty](https://github.com/alacritty)
 
-Stars: 38506
+Stars: 38514
 
 A cross-platform, OpenGL terminal emulator.
 
@@ -6972,7 +6982,7 @@ Stars: 201
 
 Author: [boa-dev](https://github.com/boa-dev)
 
-Stars: 2912
+Stars: 2913
 
 Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 
@@ -7035,7 +7045,7 @@ Concurrent Data Structure for Rust
 
 Author: [copy](https://github.com/copy)
 
-Stars: 13670
+Stars: 13671
 
 x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
@@ -7044,7 +7054,7 @@ x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
 Author: [cube-js](https://github.com/cube-js)
 
-Stars: 12716
+Stars: 12718
 
 📊  Cube — Headless Business Intelligence for Building Data Applications
 
@@ -7053,7 +7063,7 @@ Stars: 12716
 
 Author: [denoland](https://github.com/denoland)
 
-Stars: 81481
+Stars: 81486
 
 A modern runtime for JavaScript and TypeScript.
 
@@ -7062,7 +7072,7 @@ A modern runtime for JavaScript and TypeScript.
 
 Author: [diesel-rs](https://github.com/diesel-rs)
 
-Stars: 8204
+Stars: 8205
 
 A safe, extensible ORM and Query Builder for Rust
 
@@ -7080,7 +7090,7 @@ FaF Web Server
 
 Author: [facebook](https://github.com/facebook)
 
-Stars: 16825
+Stars: 16829
 
 Relay is a JavaScript framework for building data-driven React applications.
 
@@ -7107,7 +7117,7 @@ Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 
 Author: [gfx-rs](https://github.com/gfx-rs)
 
-Stars: 4365
+Stars: 4366
 
 Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 
@@ -7125,7 +7135,7 @@ Golang compiler frontend with rust
 
 Author: [icedland](https://github.com/icedland)
 
-Stars: 1711
+Stars: 1712
 
 Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for .NET, Rust, Python, JavaScript
 
@@ -7170,7 +7180,7 @@ Yet another web server framework for rust
 
 Author: [kognise](https://github.com/kognise)
 
-Stars: 1201
+Stars: 1204
 
 Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 
@@ -7188,7 +7198,7 @@ struct RGB for sharing pixels between crates
 
 Author: [krustlet](https://github.com/krustlet)
 
-Stars: 2802
+Stars: 2803
 
 Kubernetes Rust Kubelet
 
@@ -7197,7 +7207,7 @@ Kubernetes Rust Kubelet
 
 Author: [lapce](https://github.com/lapce)
 
-Stars: 9823
+Stars: 9838
 
 Lightning-fast and Powerful Code Editor written in Rust
 
@@ -7242,7 +7252,7 @@ The fastest font renderer in the world, written in pure rust.
 
 Author: [o2sh](https://github.com/o2sh)
 
-Stars: 5102
+Stars: 5107
 
 Git repository summary on your terminal
 
@@ -7260,7 +7270,7 @@ Super Fast & High Performance minimalist web framework for rust
 
 Author: [rkyv](https://github.com/rkyv)
 
-Stars: 1145
+Stars: 1147
 
 Zero-copy deserialization framework for Rust
 
@@ -7287,7 +7297,7 @@ The best memes and stickers about #rust #rustlang - listed here for easy use on 
 
 Author: [rust-analyzer](https://github.com/rust-analyzer)
 
-Stars: 8999
+Stars: 9004
 
 A Rust compiler front-end for IDEs
 
@@ -7314,7 +7324,7 @@ Create book from markdown files. Like Gitbook but implemented in Rust
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 65367
+Stars: 65380
 
 Empowering everyone to build reliable and efficient software.
 
@@ -7323,7 +7333,7 @@ Empowering everyone to build reliable and efficient software.
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 23361
+Stars: 23365
 
 :crab: Small exercises to get you used to reading and writing Rust code!
 
@@ -7332,7 +7342,7 @@ Stars: 23361
 
 Author: [rustdesk](https://github.com/rustdesk)
 
-Stars: 16272
+Stars: 16277
 
 Yet another remote desktop software
 
@@ -7377,7 +7387,7 @@ A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for
 
 Author: [smoltcp-rs](https://github.com/smoltcp-rs)
 
-Stars: 2441
+Stars: 2442
 
 a smol tcp/ip stack
 
@@ -7395,7 +7405,7 @@ pure rust io_uring library, built on libc, thread & async friendly, misuse resis
 
 Author: [starship](https://github.com/starship)
 
-Stars: 24442
+Stars: 24449
 
 ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
@@ -7404,7 +7414,7 @@ Stars: 24442
 
 Author: [swc-project](https://github.com/swc-project)
 
-Stars: 21470
+Stars: 21474
 
 Rust-based platform for the Web
 
@@ -7413,7 +7423,7 @@ Rust-based platform for the Web
 
 Author: [tauri-apps](https://github.com/tauri-apps)
 
-Stars: 36052
+Stars: 36058
 
 Build smaller, faster, and more secure desktop applications with a web frontend.
 
@@ -7431,7 +7441,7 @@ aHash is a non-cryptographic hashing algorithm that uses the AES hardware instru
 
 Author: [tokio-rs](https://github.com/tokio-rs)
 
-Stars: 15688
+Stars: 15693
 
 A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
@@ -7449,7 +7459,7 @@ A web browser engine for the space age :rocket:
 
 Author: [wasmerio](https://github.com/wasmerio)
 
-Stars: 11897
+Stars: 11896
 
 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
@@ -7466,14 +7476,14 @@ A fancy diagnostics & error reporting crate
 <a name="v-vdrqaji2u26q2oafv6ezlwnx"></a>
 # SCSS
 
-* [material-components/material-web](#repo-b7ishp4koabnqkj6ndh622ks)
+* [material-components/material-web](#material-components/material-web)
 
 <a name="repo-b7ishp4koabnqkj6ndh622ks"></a>
 ## [material-components/material-web](https://github.com/material-components/material-web)
 
 Author: [material-components](https://github.com/material-components)
 
-Stars: 3220
+Stars: 3224
 
 Material Design Web Components
 
@@ -7481,7 +7491,7 @@ Material Design Web Components
 <a name="v-l6vhcotv253apc264l622zpe"></a>
 # Sage
 
-* [lducas/SchnorrGate](#repo-ayf5sy6sp5t6avlwo4j67plo)
+* [lducas/SchnorrGate](#lducas/schnorrgate)
 
 <a name="repo-ayf5sy6sp5t6avlwo4j67plo"></a>
 ## [lducas/SchnorrGate](https://github.com/lducas/SchnorrGate)
@@ -7496,7 +7506,7 @@ Testing Schnorr's factorization claim in Sage
 <a name="v-r7grqnxlvaehkamk4w5r6xqh"></a>
 # Scala
 
-* [lichess-org/lila](#repo-wvagl3gzbcsrxibykjjclbyx)
+* [lichess-org/lila](#lichess-org/lila)
 
 <a name="repo-wvagl3gzbcsrxibykjjclbyx"></a>
 ## [lichess-org/lila](https://github.com/lichess-org/lila)
@@ -7511,18 +7521,18 @@ Stars: 11386
 <a name="v-u4zsqveg2vbygj6dpl3on2ck"></a>
 # Shell
 
-* [angristan/wireguard-install](#repo-nzkcxg6eyp4g2ciwl3uvdl3t)
-* [orioncactus/pretendard](#repo-taszfvd2oybstf3oh6f5neig)
-* [seia-soto/libvirtd-scripts](#repo-mkaxi4kkmcehwqmxu6kqmawa)
-* [stefanzweifel/git-auto-commit-action](#repo-f2fxdqs2cz735qzdxmuqptez)
-* [tj/n](#repo-ysahtxfxxbu3px23ockqy7lw)
+* [angristan/wireguard-install](#angristan/wireguard-install)
+* [orioncactus/pretendard](#orioncactus/pretendard)
+* [seia-soto/libvirtd-scripts](#seia-soto/libvirtd-scripts)
+* [stefanzweifel/git-auto-commit-action](#stefanzweifel/git-auto-commit-action)
+* [tj/n](#tj/n)
 
 <a name="repo-nzkcxg6eyp4g2ciwl3uvdl3t"></a>
 ## [angristan/wireguard-install](https://github.com/angristan/wireguard-install)
 
 Author: [angristan](https://github.com/angristan)
 
-Stars: 3171
+Stars: 3172
 
 WireGuard VPN installer for Linux servers
 
@@ -7531,7 +7541,7 @@ WireGuard VPN installer for Linux servers
 
 Author: [orioncactus](https://github.com/orioncactus)
 
-Stars: 1029
+Stars: 1031
 
 어느 플랫폼에서든 사용할 수 있는 system-ui 대체 글꼴
 
@@ -7558,7 +7568,7 @@ Automatically Commit changed Files back to GitHub with GitHub Actions for the 80
 
 Author: [tj](https://github.com/tj)
 
-Stars: 16120
+Stars: 16121
 
 Node version management
 
@@ -7566,7 +7576,7 @@ Node version management
 <a name="v-awx5ue4ax2ebytltckfjwm7v"></a>
 # Starlark
 
-* [googleapis/googleapis](#repo-u67eckfcwidrweaelmo4tx4k)
+* [googleapis/googleapis](#googleapis/googleapis)
 
 <a name="repo-u67eckfcwidrweaelmo4tx4k"></a>
 ## [googleapis/googleapis](https://github.com/googleapis/googleapis)
@@ -7581,55 +7591,55 @@ Public interface definitions of Google APIs.
 <a name="v-5ucqj5ykjd76t3ix47o64avh"></a>
 # TypeScript
 
-* [AcrylicShrimp/devlog-backend](#repo-mpmg4plsa7t4wruuicclztuh)
-* [Alex4386/turnoff-namuwiki](#repo-7e6op3xk6q5sjqzct2fb25rj)
-* [JJoriping/Sorrygle](#repo-a42nbr5vr7kwhoq3hee5zxmt)
-* [James-Yu/LaTeX-Workshop](#repo-ai7ko3dfsqnxw3ipdqvp6ez2)
-* [KiwiTalk/KiwiTalk](#repo-4ktvq7lw2p2llwovwong4vna)
-* [Yeicor/static-go-playground](#repo-zswdclq4hmh5rqsrxzl5lwld)
-* [YousefED/SyncedStore](#repo-7mn2bkm2wnioyevqu5tfnoaz)
-* [aidenybai/lucia](#repo-bovkiqpqgut7zfhlykizpv56)
-* [aidenybai/million](#repo-qdfacutxxld2saeznttfkqgc)
-* [akasia-dev/polyger](#repo-in6wqcq7oabolzq72ageqcm4)
-* [akasia-dev/prestart](#repo-p5v7zzf7nc2dxy2iexrg3umq)
-* [aws/jsii](#repo-x54kyf5hkjf5bivmjejygsan)
-* [axe312ger/sqip](#repo-veqoz4gbwb5a6giwumdiocgs)
-* [chakra-ui/chakra-ui](#repo-3w4lhy2rb4awlvq623r55nkt)
-* [coder/code-server](#repo-ltyuioq4nsmqudkcpb5v7xki)
-* [common-voice/common-voice](#repo-vchwx4wdwoagfyydy7yekgce)
-* [eclipse-theia/theia](#repo-h33dnu4e3ds5grfbk4n4t5ny)
-* [facebook/docusaurus](#repo-p2kpzk3qwg5x5msac2ma6co3)
-* [felixrieseberg/windows95](#repo-q7tze3cvyojf3a6atgisbfsb)
-* [giscus/giscus](#repo-zavl5m4a6epqgt4fmo2pss3a)
-* [github/webauthn-json](#repo-6hqgnvmqkopkc5bnbag5dbst)
-* [hmmhmmhm/do-urgency](#repo-uyzxrjdchxslgzjaotryr4ol)
-* [hmmhmmhm/hangul-search-js](#repo-xyughcvdprfavqxagi7a6qie)
-* [ionic-team/stencil](#repo-mg7636hl5aqqacrq2y25stav)
-* [jedisct1/as-wasi](#repo-4avz4wusvs6d7ekqxpg7sgre)
-* [kamranahmedse/developer-roadmap](#repo-oz66gcnbdueikjpmeg4dyqrz)
-* [master-co/styles](#repo-lzw6uqfyfbvxjesyjcfou6lw)
-* [msanvarov/nest-rest-mongo-boilerplate](#repo-33mwgoqsj3waf2xwwgyf5kwm)
-* [myyrakle/MOVED__rustywiki-front](#repo-uyiirdqxbgtfywpq7tz43hnp)
-* [myyrakle/eojuk](#repo-3bq63kfqsylmizur4xp2k5lu)
-* [naver/billboard.js](#repo-uck5nr3j5vw5sjyn7zo3ynpr)
-* [nhn/tui.editor](#repo-fxhjkinomkkw6dmtk5hkzmzy)
-* [peterthehan/discord-reaction-role-bot](#repo-ulmd5qv7rpgvc5uygqoepzaj)
-* [pple-link/pple-main](#repo-fnashxy3bowb7zspah7tvugs)
-* [puppeteer/puppeteer](#repo-oia7wdwckrt4ygt7xzd4d233)
-* [react-auth-kit/react-auth-kit](#repo-xthe7nnjpgouet2ha4ukot4i)
-* [remix-run/remix](#repo-a3agi6cdt5vtadxywdne5ily)
-* [ronami/typelang](#repo-2rqymglyhvwo6hybbuulstjy)
-* [rusty-wiki/rustywiki-front](#repo-dgm7r4sqkk2b7ionjoteiuly)
-* [samchon/backend](#repo-ylujxj7d3js5qdhpizemlxpj)
-* [solidjs/solid](#repo-fvwdjq6gqwryjfwupn4r6tyr)
-* [supabase/supabase](#repo-svxtn6vedxavnfguvcv6ysls)
-* [theatre-js/theatre](#repo-j6y4mjalsofecdhh6yvozlhg)
-* [timc1/kbar](#repo-vigxtvnjx7arukk5zvk2sx3a)
-* [turbolinks/turbolinks](#repo-d4uct53frgovawz7cttczolj)
-* [unjs/h3](#repo-sy3nljpaeshijsfonunddmng)
-* [vercel/vercel](#repo-vsayyfb2haoiie25cgcbyjfn)
-* [withastro/astro](#repo-xw2hym45sollv6ll6r5vlkhz)
-* [xtermjs/xterm.js](#repo-jnur2tmgszddgocbqbaqw5r3)
+* [AcrylicShrimp/devlog-backend](#acrylicshrimp/devlog-backend)
+* [Alex4386/turnoff-namuwiki](#alex4386/turnoff-namuwiki)
+* [JJoriping/Sorrygle](#jjoriping/sorrygle)
+* [James-Yu/LaTeX-Workshop](#james-yu/latex-workshop)
+* [KiwiTalk/KiwiTalk](#kiwitalk/kiwitalk)
+* [Yeicor/static-go-playground](#yeicor/static-go-playground)
+* [YousefED/SyncedStore](#yousefed/syncedstore)
+* [aidenybai/lucia](#aidenybai/lucia)
+* [aidenybai/million](#aidenybai/million)
+* [akasia-dev/polyger](#akasia-dev/polyger)
+* [akasia-dev/prestart](#akasia-dev/prestart)
+* [aws/jsii](#aws/jsii)
+* [axe312ger/sqip](#axe312ger/sqip)
+* [chakra-ui/chakra-ui](#chakra-ui/chakra-ui)
+* [coder/code-server](#coder/code-server)
+* [common-voice/common-voice](#common-voice/common-voice)
+* [eclipse-theia/theia](#eclipse-theia/theia)
+* [facebook/docusaurus](#facebook/docusaurus)
+* [felixrieseberg/windows95](#felixrieseberg/windows95)
+* [giscus/giscus](#giscus/giscus)
+* [github/webauthn-json](#github/webauthn-json)
+* [hmmhmmhm/do-urgency](#hmmhmmhm/do-urgency)
+* [hmmhmmhm/hangul-search-js](#hmmhmmhm/hangul-search-js)
+* [ionic-team/stencil](#ionic-team/stencil)
+* [jedisct1/as-wasi](#jedisct1/as-wasi)
+* [kamranahmedse/developer-roadmap](#kamranahmedse/developer-roadmap)
+* [master-co/styles](#master-co/styles)
+* [msanvarov/nest-rest-mongo-boilerplate](#msanvarov/nest-rest-mongo-boilerplate)
+* [myyrakle/MOVED__rustywiki-front](#myyrakle/moved__rustywiki-front)
+* [myyrakle/eojuk](#myyrakle/eojuk)
+* [naver/billboard.js](#naver/billboard.js)
+* [nhn/tui.editor](#nhn/tui.editor)
+* [peterthehan/discord-reaction-role-bot](#peterthehan/discord-reaction-role-bot)
+* [pple-link/pple-main](#pple-link/pple-main)
+* [puppeteer/puppeteer](#puppeteer/puppeteer)
+* [react-auth-kit/react-auth-kit](#react-auth-kit/react-auth-kit)
+* [remix-run/remix](#remix-run/remix)
+* [ronami/typelang](#ronami/typelang)
+* [rusty-wiki/rustywiki-front](#rusty-wiki/rustywiki-front)
+* [samchon/backend](#samchon/backend)
+* [solidjs/solid](#solidjs/solid)
+* [supabase/supabase](#supabase/supabase)
+* [theatre-js/theatre](#theatre-js/theatre)
+* [timc1/kbar](#timc1/kbar)
+* [turbolinks/turbolinks](#turbolinks/turbolinks)
+* [unjs/h3](#unjs/h3)
+* [vercel/vercel](#vercel/vercel)
+* [withastro/astro](#withastro/astro)
+* [xtermjs/xterm.js](#xtermjs/xterm.js)
 
 <a name="repo-mpmg4plsa7t4wruuicclztuh"></a>
 ## [AcrylicShrimp/devlog-backend](https://github.com/AcrylicShrimp/devlog-backend)
@@ -7735,7 +7745,7 @@ Stars: 1
 
 Author: [aws](https://github.com/aws)
 
-Stars: 1862
+Stars: 1863
 
 jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 
@@ -7753,7 +7763,7 @@ Stars: 3214
 
 Author: [chakra-ui](https://github.com/chakra-ui)
 
-Stars: 25089
+Stars: 25096
 
 ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
@@ -7762,7 +7772,7 @@ Stars: 25089
 
 Author: [coder](https://github.com/coder)
 
-Stars: 52764
+Stars: 52776
 
 VS Code in the browser
 
@@ -7789,7 +7799,7 @@ Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 Author: [facebook](https://github.com/facebook)
 
-Stars: 32184
+Stars: 32197
 
 Easy to maintain open source documentation websites.
 
@@ -7798,7 +7808,7 @@ Easy to maintain open source documentation websites.
 
 Author: [felixrieseberg](https://github.com/felixrieseberg)
 
-Stars: 19162
+Stars: 19163
 
 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 
@@ -7807,7 +7817,7 @@ Stars: 19162
 
 Author: [giscus](https://github.com/giscus)
 
-Stars: 1756
+Stars: 1761
 
 A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 
@@ -7843,7 +7853,7 @@ Stars: 22
 
 Author: [ionic-team](https://github.com/ionic-team)
 
-Stars: 10560
+Stars: 10562
 
 A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 
@@ -7852,7 +7862,7 @@ A toolchain for building scalable, enterprise-ready component systems on top of 
 
 Author: [jedisct1](https://github.com/jedisct1)
 
-Stars: 185
+Stars: 186
 
 An AssemblyScript API layer for WASI system calls.
 
@@ -7861,7 +7871,7 @@ An AssemblyScript API layer for WASI system calls.
 
 Author: [kamranahmedse](https://github.com/kamranahmedse)
 
-Stars: 191285
+Stars: 191312
 
 Roadmap to becoming a developer in 2022
 
@@ -7906,7 +7916,7 @@ Stars: 4
 
 Author: [naver](https://github.com/naver)
 
-Stars: 5120
+Stars: 5119
 
 :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 
@@ -7915,7 +7925,7 @@ Stars: 5120
 
 Author: [nhn](https://github.com/nhn)
 
-Stars: 14490
+Stars: 14491
 
 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
@@ -7942,7 +7952,7 @@ Stars: 1
 
 Author: [puppeteer](https://github.com/puppeteer)
 
-Stars: 77229
+Stars: 77234
 
 Headless Chrome Node.js API
 
@@ -7960,7 +7970,7 @@ Easily manage Authentication state of users in React-based Apps using Hooks and 
 
 Author: [remix-run](https://github.com/remix-run)
 
-Stars: 15143
+Stars: 15153
 
 Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
@@ -7996,7 +8006,7 @@ A template repository for TypeScript backend server
 
 Author: [solidjs](https://github.com/solidjs)
 
-Stars: 16492
+Stars: 16497
 
 A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
@@ -8005,7 +8015,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 Author: [supabase](https://github.com/supabase)
 
-Stars: 30841
+Stars: 30852
 
 The open source Firebase alternative. Follow to stay updated about our public Beta.
 
@@ -8041,7 +8051,7 @@ Turbolinks makes navigating your web application faster
 
 Author: [unjs](https://github.com/unjs)
 
-Stars: 682
+Stars: 683
 
 Minimal h(ttp) framework built for high performance and portability ⚡️
 
@@ -8050,7 +8060,7 @@ Minimal h(ttp) framework built for high performance and portability ⚡️
 
 Author: [vercel](https://github.com/vercel)
 
-Stars: 8559
+Stars: 8560
 
 Develop. Preview. Ship.
 
@@ -8059,7 +8069,7 @@ Develop. Preview. Ship.
 
 Author: [withastro](https://github.com/withastro)
 
-Stars: 11187
+Stars: 11196
 
 Build fast websites, faster. 🚀🧑‍🚀✨
 
@@ -8076,8 +8086,8 @@ A terminal for the web
 <a name="v-3zng66arn3fgfv74ltqvtur2"></a>
 # V
 
-* [vlang/go2v](#repo-vhwfhnnrgpa2376tly6sco3p)
-* [vlang/v](#repo-voxhbci5eq4z4zn53r6af7ky)
+* [vlang/go2v](#vlang/go2v)
+* [vlang/v](#vlang/v)
 
 <a name="repo-vhwfhnnrgpa2376tly6sco3p"></a>
 ## [vlang/go2v](https://github.com/vlang/go2v)
@@ -8093,7 +8103,7 @@ Go => V source code translator
 
 Author: [vlang](https://github.com/vlang)
 
-Stars: 27998
+Stars: 28000
 
 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 
@@ -8101,8 +8111,8 @@ Simple, fast, safe, compiled language for developing maintainable software. Comp
 <a name="v-jxmfozn2aqhahyzap4ycrraz"></a>
 # Vim script
 
-* [Azabell1993/Linux_Setting](#repo-uwx4urwhiggkohrxwogeiitl)
-* [farazdagi/vim-go-ide](#repo-2yeeujriwbza7aqdxoseyh2f)
+* [Azabell1993/Linux_Setting](#azabell1993/linux_setting)
+* [farazdagi/vim-go-ide](#farazdagi/vim-go-ide)
 
 <a name="repo-uwx4urwhiggkohrxwogeiitl"></a>
 ## [Azabell1993/Linux_Setting](https://github.com/Azabell1993/Linux_Setting)
@@ -8126,8 +8136,8 @@ Ready to use, fully configured for Go development.
 <a name="v-wei2fiqylsxnpbmqt4oveyqh"></a>
 # Vue
 
-* [enqueuezero/site](#repo-be3y36j6zc6gxwdg7x7tiep6)
-* [vuejs/blog](#repo-hwczdvwwensf272qhkbpeiws)
+* [enqueuezero/site](#enqueuezero/site)
+* [vuejs/blog](#vuejs/blog)
 
 <a name="repo-be3y36j6zc6gxwdg7x7tiep6"></a>
 ## [enqueuezero/site](https://github.com/enqueuezero/site)
@@ -8143,7 +8153,7 @@ Enqueue Zero is creating code principles.
 
 Author: [vuejs](https://github.com/vuejs)
 
-Stars: 142
+Stars: 143
 
 📝 The official Vue.js blog
 
@@ -8151,33 +8161,33 @@ Stars: 142
 <a name="v-w5sm3qhkw4jxizzbcjzpuu47"></a>
 # Unknown
 
-* [Integerous/goQuality-dev-contents](#repo-42dryozmtbbf5ligcrwnb2oo)
-* [ShareX/CustomUploaders](#repo-zkubxjix4wve6xdaxuuie6k3)
-* [YJSoft/openNAMU](#repo-y6cbpi64qcknjbjlpoagkzbq)
-* [bcko/bcko](#repo-6s6shuqhi7ycqf4cmhivkg7s)
-* [daangn/digital-garden](#repo-xcmxzbidklnixc47o36dyqu6)
-* [dgryski/go-perfbook](#repo-haocx5judynryn44xry4hdmh)
-* [firstcontributions/first-contributions](#repo-et4oenifrjbxqjzn5xhw7iyb)
-* [herrjemand/awesome-webauthn](#repo-3uccviobmkuvmcdd3u74gw3j)
-* [lemon-mint/Go-syscall-study](#repo-doyc6jtritbmqshy7rvhnezs)
-* [lemon-mint/lemon-mint](#repo-o56ilfuu6qqu7qhu4f2myoon)
-* [lindelof/awesome-web-effect](#repo-dpcjvpgv2seqdekqworkuixw)
-* [mkrl/misbrands](#repo-k6giqdt63u5qispqk3ixx6jr)
-* [myyrakle/MOVED__rustywiki-editor](#repo-sidqtllff2t6mkut3g427yjx)
-* [nikolaydubina/go-recipes](#repo-nvwqgnusmgg5svde7ys22fiy)
-* [rheehot/react-learnit-s3](#repo-qsxjvuh33qo7g6dgjor556qk)
-* [rheehot/webauthn-demo-client](#repo-zlb3ssnlrl55jxyepbunytxx)
-* [rheehot/webauthn-demo-server](#repo-tbdmynekzzenokoqd336wto3)
-* [rusty-wiki/rustywiki-editor](#repo-ibkhjung5cuerxdikiphlxqz)
-* [snowmerak/can-be-awesome-libs](#repo-4y7zggibq4q7wn66ylqmusnd)
-* [stackblitz/webcontainer-core](#repo-ficcvjwtitwqcb22py3npx53)
+* [Integerous/goQuality-dev-contents](#integerous/goquality-dev-contents)
+* [ShareX/CustomUploaders](#sharex/customuploaders)
+* [YJSoft/openNAMU](#yjsoft/opennamu)
+* [bcko/bcko](#bcko/bcko)
+* [daangn/digital-garden](#daangn/digital-garden)
+* [dgryski/go-perfbook](#dgryski/go-perfbook)
+* [firstcontributions/first-contributions](#firstcontributions/first-contributions)
+* [herrjemand/awesome-webauthn](#herrjemand/awesome-webauthn)
+* [lemon-mint/Go-syscall-study](#lemon-mint/go-syscall-study)
+* [lemon-mint/lemon-mint](#lemon-mint/lemon-mint)
+* [lindelof/awesome-web-effect](#lindelof/awesome-web-effect)
+* [mkrl/misbrands](#mkrl/misbrands)
+* [myyrakle/MOVED__rustywiki-editor](#myyrakle/moved__rustywiki-editor)
+* [nikolaydubina/go-recipes](#nikolaydubina/go-recipes)
+* [rheehot/react-learnit-s3](#rheehot/react-learnit-s3)
+* [rheehot/webauthn-demo-client](#rheehot/webauthn-demo-client)
+* [rheehot/webauthn-demo-server](#rheehot/webauthn-demo-server)
+* [rusty-wiki/rustywiki-editor](#rusty-wiki/rustywiki-editor)
+* [snowmerak/can-be-awesome-libs](#snowmerak/can-be-awesome-libs)
+* [stackblitz/webcontainer-core](#stackblitz/webcontainer-core)
 
 <a name="repo-42dryozmtbbf5ligcrwnb2oo"></a>
 ## [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents)
 
 Author: [Integerous](https://github.com/Integerous)
 
-Stars: 5733
+Stars: 5735
 
 { 고퀄리티 :zap: 개발 컨텐츠 모음 }
 
@@ -8231,7 +8241,7 @@ Thoughts on Go performance optimization
 
 Author: [firstcontributions](https://github.com/firstcontributions)
 
-Stars: 22768
+Stars: 22770
 
 🚀✨ Help beginners to contribute to open source projects
 
