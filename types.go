@@ -88,7 +88,7 @@ type Star struct {
 	Archived         bool      `json:"archived"`
 	Disabled         bool      `json:"disabled"`
 	OpenIssuesCount  int       `json:"open_issues_count"`
-	License          struct {
+	License          *struct {
 		Key    string `json:"key"`
 		Name   string `json:"name"`
 		SpdxID string `json:"spdx_id"`

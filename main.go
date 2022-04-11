@@ -211,9 +211,15 @@ func BuildMarkdown(stars []Star) string {
 			sb.WriteString(fmt.Sprintf("<a name=\"repo-%s\"></a>\n", h32))
 			//sb.WriteString(fmt.Sprintf("## [%s](%s)\n\n", star.FullName, star.HTMLURL))
 			sb.WriteString(fmt.Sprintf("## %s\n\n", star.FullName))
-			sb.WriteString(fmt.Sprintf("Repository: [%s](%s)\n", star.FullName, star.HTMLURL))
+			sb.WriteString(fmt.Sprintf("Repository: [%s](%s)\n\n", star.FullName, star.HTMLURL))
 			sb.WriteString(fmt.Sprintf("Author: [%s](%s)\n\n", star.Owner.Login, star.Owner.HTMLURL))
 			sb.WriteString(fmt.Sprintf("Stars: %d\n\n", star.StargazersCount))
+			sb.WriteString(fmt.Sprintf("Forks: %d\n\n", star.ForksCount))
+			if star.License != nil {
+				sb.WriteString(fmt.Sprintf("License: %s\n\n", star.License.Name))
+			} else {
+				sb.WriteString("License: Other\n\n")
+			}
 			sb.WriteString(star.Description)
 			sb.WriteString("\n\n")
 		}
