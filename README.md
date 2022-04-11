@@ -44,9 +44,14 @@ This is a list of repositories starred by [lemon-mint](https://github.com/lemon-
 ## bytedance/sonic
 
 Repository: [bytedance/sonic](https://github.com/bytedance/sonic)
+
 Author: [bytedance](https://github.com/bytedance)
 
-Stars: 2675
+Stars: 2676
+
+Forks: 124
+
+License: Apache License 2.0
 
 A blazingly fast JSON serializing & deserializing library
 
@@ -54,9 +59,14 @@ A blazingly fast JSON serializing & deserializing library
 ## chenzhuoyu/base64x
 
 Repository: [chenzhuoyu/base64x](https://github.com/chenzhuoyu/base64x)
+
 Author: [chenzhuoyu](https://github.com/chenzhuoyu)
 
 Stars: 7
+
+Forks: 2
+
+License: Apache License 2.0
 
 High performance drop-in replacement of the `encoding/base64` library
 
@@ -64,9 +74,14 @@ High performance drop-in replacement of the `encoding/base64` library
 ## klauspost/reedsolomon
 
 Repository: [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon)
+
 Author: [klauspost](https://github.com/klauspost)
 
-Stars: 1423
+Stars: 1424
+
+Forks: 192
+
+License: MIT License
 
 Reed-Solomon Erasure Coding in Go
 
@@ -99,9 +114,14 @@ Reed-Solomon Erasure Coding in Go
 ## DataDog/zstd
 
 Repository: [DataDog/zstd](https://github.com/DataDog/zstd)
+
 Author: [DataDog](https://github.com/DataDog)
 
 Stars: 603
+
+Forks: 69
+
+License: Other
 
 Zstd wrapper for Go
 
@@ -109,9 +129,14 @@ Zstd wrapper for Go
 ## ThakeeNathees/pocketlang
 
 Repository: [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang)
+
 Author: [ThakeeNathees](https://github.com/ThakeeNathees)
 
 Stars: 1309
+
+Forks: 62
+
+License: MIT License
 
 A lightweight, fast embeddable scripting language.
 
@@ -119,9 +144,14 @@ A lightweight, fast embeddable scripting language.
 ## TheAlgorithms/C
 
 Repository: [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
+
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 12947
+Stars: 12954
+
+Forks: 3357
+
+License: GNU General Public License v3.0
 
 Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 
@@ -129,9 +159,14 @@ Collection of various algorithms in mathematics, machine learning, computer scie
 ## avaneev/komihash
 
 Repository: [avaneev/komihash](https://github.com/avaneev/komihash)
+
 Author: [avaneev](https://github.com/avaneev)
 
 Stars: 65
+
+Forks: 6
+
+License: MIT License
 
 Very fast, high-quality hash function (non-cryptographic, C) + PRNG
 
@@ -139,9 +174,14 @@ Very fast, high-quality hash function (non-cryptographic, C) + PRNG
 ## brendan-rius/c-jwt-cracker
 
 Repository: [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker)
+
 Author: [brendan-rius](https://github.com/brendan-rius)
 
-Stars: 1734
+Stars: 1735
+
+Forks: 222
+
+License: MIT License
 
 JWT brute force cracker written in C
 
@@ -149,9 +189,14 @@ JWT brute force cracker written in C
 ## cloudius-systems/osv
 
 Repository: [cloudius-systems/osv](https://github.com/cloudius-systems/osv)
+
 Author: [cloudius-systems](https://github.com/cloudius-systems)
 
 Stars: 3673
+
+Forks: 585
+
+License: Other
 
 OSv, a new operating system for the cloud.
 
@@ -159,9 +204,14 @@ OSv, a new operating system for the cloud.
 ## facebook/zstd
 
 Repository: [facebook/zstd](https://github.com/facebook/zstd)
+
 Author: [facebook](https://github.com/facebook)
 
-Stars: 16696
+Stars: 16697
+
+Forks: 1619
+
+License: Other
 
 Zstandard - Fast real-time compression algorithm
 
@@ -169,9 +219,14 @@ Zstandard - Fast real-time compression algorithm
 ## google/brotli
 
 Repository: [google/brotli](https://github.com/google/brotli)
+
 Author: [google](https://github.com/google)
 
-Stars: 10979
+Stars: 10980
+
+Forks: 1050
+
+License: MIT License
 
 Brotli compression format
 
@@ -179,9 +234,14 @@ Brotli compression format
 ## h2o/picohttpparser
 
 Repository: [h2o/picohttpparser](https://github.com/h2o/picohttpparser)
+
 Author: [h2o](https://github.com/h2o)
 
 Stars: 1489
+
+Forks: 209
+
+License: Other
 
 tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
 
@@ -189,9 +249,14 @@ tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
 ## jeremycw/httpserver.h
 
 Repository: [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h)
+
 Author: [jeremycw](https://github.com/jeremycw)
 
-Stars: 1551
+Stars: 1552
+
+Forks: 112
+
+License: MIT License
 
 Single header library for writing non-blocking HTTP servers in C
 
@@ -199,9 +264,14 @@ Single header library for writing non-blocking HTTP servers in C
 ## microsoft/FourQlib
 
 Repository: [microsoft/FourQlib](https://github.com/microsoft/FourQlib)
+
 Author: [microsoft](https://github.com/microsoft)
 
 Stars: 57
+
+Forks: 28
+
+License: MIT License
 
 FourQlib is an efficient and portable cryptographic library that provides functions for computing elliptic curve based operations on the high-performance FourQ curve.
 
@@ -209,9 +279,14 @@ FourQlib is an efficient and portable cryptographic library that provides functi
 ## microsoft/mimalloc
 
 Repository: [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
+
 Author: [microsoft](https://github.com/microsoft)
 
 Stars: 6548
+
+Forks: 489
+
+License: MIT License
 
 mimalloc is a compact general purpose allocator with excellent performance.
 
@@ -219,9 +294,14 @@ mimalloc is a compact general purpose allocator with excellent performance.
 ## microsoft/webauthn
 
 Repository: [microsoft/webauthn](https://github.com/microsoft/webauthn)
+
 Author: [microsoft](https://github.com/microsoft)
 
 Stars: 88
+
+Forks: 31
+
+License: MIT License
 
 Win32 APIs for WebAuthN standard
 
@@ -229,9 +309,14 @@ Win32 APIs for WebAuthN standard
 ## obsproject/obs-studio
 
 Repository: [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+
 Author: [obsproject](https://github.com/obsproject)
 
-Stars: 37518
+Stars: 37528
+
+Forks: 5793
+
+License: GNU General Public License v2.0
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
@@ -239,9 +324,14 @@ OBS Studio - Free and open source software for live streaming and screen recordi
 ## openwrt/openwrt
 
 Repository: [openwrt/openwrt](https://github.com/openwrt/openwrt)
+
 Author: [openwrt](https://github.com/openwrt)
 
-Stars: 11125
+Stars: 11128
+
+Forks: 7177
+
+License: Other
 
 This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 
@@ -249,9 +339,14 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 ## powturbo/Turbo-Base64
 
 Repository: [powturbo/Turbo-Base64](https://github.com/powturbo/Turbo-Base64)
+
 Author: [powturbo](https://github.com/powturbo)
 
 Stars: 136
+
+Forks: 20
+
+License: GNU General Public License v3.0
 
 Turbo Base64 - Fastest Base64 SIMD/Neon/Altivec
 
@@ -259,9 +354,14 @@ Turbo Base64 - Fastest Base64 SIMD/Neon/Altivec
 ## shuveb/io_uring-by-example
 
 Repository: [shuveb/io_uring-by-example](https://github.com/shuveb/io_uring-by-example)
+
 Author: [shuveb](https://github.com/shuveb)
 
 Stars: 222
+
+Forks: 33
+
+License: MIT License
 
 A companion repository for the io_uring by Example article series
 
@@ -269,9 +369,14 @@ A companion repository for the io_uring by Example article series
 ## sitano/gsysint
 
 Repository: [sitano/gsysint](https://github.com/sitano/gsysint)
+
 Author: [sitano](https://github.com/sitano)
 
 Stars: 57
+
+Forks: 9
+
+License: Other
 
 Golang (as of 1.12.5) runtime internals that gives you an access to internal scheduling primitives. Park Gs, read IDs. (for learning purposes)
 
@@ -279,9 +384,14 @@ Golang (as of 1.12.5) runtime internals that gives you an access to internal sch
 ## trombik/esp_wireguard
 
 Repository: [trombik/esp_wireguard](https://github.com/trombik/esp_wireguard)
+
 Author: [trombik](https://github.com/trombik)
 
 Stars: 67
+
+Forks: 5
+
+License: Other
 
 WireGuard Implementation for ESP-IDF
 
@@ -289,9 +399,14 @@ WireGuard Implementation for ESP-IDF
 ## valyala/gozstd
 
 Repository: [valyala/gozstd](https://github.com/valyala/gozstd)
+
 Author: [valyala](https://github.com/valyala)
 
 Stars: 321
+
+Forks: 44
+
+License: MIT License
 
 go wrapper for zstd
 
@@ -311,9 +426,14 @@ go wrapper for zstd
 ## JasonStein/Notepads
 
 Repository: [JasonStein/Notepads](https://github.com/JasonStein/Notepads)
+
 Author: [JasonStein](https://github.com/JasonStein)
 
-Stars: 6255
+Stars: 6258
+
+Forks: 354
+
+License: MIT License
 
 A modern, lightweight text editor with a minimalist design.
 
@@ -321,9 +441,14 @@ A modern, lightweight text editor with a minimalist design.
 ## RyuaNerin/Hanyu
 
 Repository: [RyuaNerin/Hanyu](https://github.com/RyuaNerin/Hanyu)
+
 Author: [RyuaNerin](https://github.com/RyuaNerin)
 
 Stars: 15
+
+Forks: 1
+
+License: GNU General Public License v3.0
 
 공인인증서 복사 / 삭제 / 비밀번호 변경 프로그램
 
@@ -331,9 +456,14 @@ Stars: 15
 ## dotnet/runtime
 
 Repository: [dotnet/runtime](https://github.com/dotnet/runtime)
+
 Author: [dotnet](https://github.com/dotnet)
 
-Stars: 8668
+Stars: 8669
+
+Forks: 3000
+
+License: Other
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
@@ -341,9 +471,14 @@ Stars: 8668
 ## hellzerg/optimizer
 
 Repository: [hellzerg/optimizer](https://github.com/hellzerg/optimizer)
+
 Author: [hellzerg](https://github.com/hellzerg)
 
-Stars: 1810
+Stars: 1811
+
+Forks: 213
+
+License: GNU General Public License v3.0
 
 Make Windows faster and more secure
 
@@ -351,9 +486,14 @@ Make Windows faster and more secure
 ## mat1jaczyyy/Zetris
 
 Repository: [mat1jaczyyy/Zetris](https://github.com/mat1jaczyyy/Zetris)
+
 Author: [mat1jaczyyy](https://github.com/mat1jaczyyy)
 
 Stars: 42
+
+Forks: 4
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Zetris - MisaMino-based Tetris AI for Puyo Puyo Tetris
 
@@ -361,9 +501,14 @@ Zetris - MisaMino-based Tetris AI for Puyo Puyo Tetris
 ## planetarium/libplanet
 
 Repository: [planetarium/libplanet](https://github.com/planetarium/libplanet)
+
 Author: [planetarium](https://github.com/planetarium)
 
 Stars: 407
+
+Forks: 110
+
+License: GNU Lesser General Public License v2.1
 
 Distributed ledger core in C#/.NET for decentralized online games
 
@@ -371,9 +516,14 @@ Distributed ledger core in C#/.NET for decentralized online games
 ## yourtablecloth/TableCloth
 
 Repository: [yourtablecloth/TableCloth](https://github.com/yourtablecloth/TableCloth)
+
 Author: [yourtablecloth](https://github.com/yourtablecloth)
 
 Stars: 326
+
+Forks: 7
+
+License: MIT License
 
 식탁보 프로젝트
 
@@ -401,9 +551,14 @@ Stars: 326
 ## SieR-VR/shaderpp
 
 Repository: [SieR-VR/shaderpp](https://github.com/SieR-VR/shaderpp)
+
 Author: [SieR-VR](https://github.com/SieR-VR)
 
 Stars: 4
+
+Forks: 1
+
+License: MIT License
 
 Shader generation for C++
 
@@ -411,9 +566,14 @@ Shader generation for C++
 ## System-Glitch/SHA256
 
 Repository: [System-Glitch/SHA256](https://github.com/System-Glitch/SHA256)
+
 Author: [System-Glitch](https://github.com/System-Glitch)
 
 Stars: 55
+
+Forks: 19
+
+License: MIT License
 
 A C++ SHA256 implementation.
 
@@ -421,9 +581,14 @@ A C++ SHA256 implementation.
 ## cztomczak/cefpython
 
 Repository: [cztomczak/cefpython](https://github.com/cztomczak/cefpython)
+
 Author: [cztomczak](https://github.com/cztomczak)
 
 Stars: 2588
+
+Forks: 445
+
+License: Other
 
 Python bindings for the Chromium Embedded Framework (CEF)
 
@@ -431,9 +596,14 @@ Python bindings for the Chromium Embedded Framework (CEF)
 ## drogonframework/drogon
 
 Repository: [drogonframework/drogon](https://github.com/drogonframework/drogon)
+
 Author: [drogonframework](https://github.com/drogonframework)
 
-Stars: 7078
+Stars: 7079
+
+Forks: 675
+
+License: MIT License
 
 Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 
@@ -441,9 +611,14 @@ Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macO
 ## google/filament
 
 Repository: [google/filament](https://github.com/google/filament)
+
 Author: [google](https://github.com/google)
 
-Stars: 13774
+Stars: 13777
+
+Forks: 1338
+
+License: Apache License 2.0
 
 Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 
@@ -451,9 +626,14 @@ Filament is a real-time physically based rendering engine for Android, iOS, Wind
 ## google/glog
 
 Repository: [google/glog](https://github.com/google/glog)
+
 Author: [google](https://github.com/google)
 
-Stars: 5211
+Stars: 5213
+
+Forks: 1837
+
+License: Other
 
 C++ implementation of the Google logging module
 
@@ -461,9 +641,14 @@ C++ implementation of the Google logging module
 ## google/lyra
 
 Repository: [google/lyra](https://github.com/google/lyra)
+
 Author: [google](https://github.com/google)
 
 Stars: 3009
+
+Forks: 271
+
+License: Apache License 2.0
 
 A Very Low-Bitrate Codec for Speech Compression
 
@@ -471,9 +656,14 @@ A Very Low-Bitrate Codec for Speech Compression
 ## google/tink
 
 Repository: [google/tink](https://github.com/google/tink)
+
 Author: [google](https://github.com/google)
 
-Stars: 12258
+Stars: 12257
+
+Forks: 1083
+
+License: Apache License 2.0
 
 Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 
@@ -481,9 +671,14 @@ Tink is a multi-language, cross-platform, open source library that provides cryp
 ## microsoft/SEAL
 
 Repository: [microsoft/SEAL](https://github.com/microsoft/SEAL)
+
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 2543
+Stars: 2544
+
+Forks: 501
+
+License: MIT License
 
 Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 
@@ -491,9 +686,14 @@ Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 ## microsoft/onnxruntime
 
 Repository: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 6530
+Stars: 6533
+
+Forks: 1534
+
+License: MIT License
 
 ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
@@ -501,9 +701,14 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 ## nasa/fprime
 
 Repository: [nasa/fprime](https://github.com/nasa/fprime)
+
 Author: [nasa](https://github.com/nasa)
 
-Stars: 8805
+Stars: 8806
+
+Forks: 1092
+
+License: Apache License 2.0
 
 F' - A flight software and embedded systems framework
 
@@ -511,9 +716,14 @@ F' - A flight software and embedded systems framework
 ## redpanda-data/redpanda
 
 Repository: [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)
+
 Author: [redpanda-data](https://github.com/redpanda-data)
 
-Stars: 3771
+Stars: 3772
+
+Forks: 235
+
+License: Other
 
 Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 
@@ -521,9 +731,14 @@ Redpanda is a streaming data platform for developers. Kafka API compatible. 10x 
 ## rethinkdb/rethinkdb
 
 Repository: [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)
+
 Author: [rethinkdb](https://github.com/rethinkdb)
 
-Stars: 25313
+Stars: 25317
+
+Forks: 1852
+
+License: Apache License 2.0
 
 The open-source database for the realtime web.
 
@@ -531,9 +746,14 @@ The open-source database for the realtime web.
 ## shedskin/shedskin
 
 Repository: [shedskin/shedskin](https://github.com/shedskin/shedskin)
+
 Author: [shedskin](https://github.com/shedskin)
 
 Stars: 501
+
+Forks: 86
+
+License: GNU General Public License v3.0
 
 Shed Skin is a Python to C++ compiler. Read the introduction below to learn about the restrictions.
 
@@ -541,9 +761,14 @@ Shed Skin is a Python to C++ compiler. Read the introduction below to learn abou
 ## typesense/typesense
 
 Repository: [typesense/typesense](https://github.com/typesense/typesense)
+
 Author: [typesense](https://github.com/typesense)
 
-Stars: 9514
+Stars: 9518
+
+Forks: 266
+
+License: GNU General Public License v3.0
 
 Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
@@ -557,9 +782,14 @@ Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSe
 ## jyo925/Spring-Project-PMService
 
 Repository: [jyo925/Spring-Project-PMService](https://github.com/jyo925/Spring-Project-PMService)
+
 Author: [jyo925](https://github.com/jyo925)
 
 Stars: 3
+
+Forks: 2
+
+License: Other
 
 
 
@@ -573,9 +803,14 @@ Stars: 3
 ## NVlabs/instant-ngp
 
 Repository: [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)
+
 Author: [NVlabs](https://github.com/NVlabs)
 
-Stars: 5868
+Stars: 5872
+
+Forks: 556
+
+License: Other
 
 Instant neural graphics primitives: lightning fast NeRF and more
 
@@ -592,9 +827,14 @@ Instant neural graphics primitives: lightning fast NeRF and more
 ## TheAlgorithms/Dart
 
 Repository: [TheAlgorithms/Dart](https://github.com/TheAlgorithms/Dart)
+
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
 Stars: 771
+
+Forks: 239
+
+License: MIT License
 
 All Algorithms implemented in Dart
 
@@ -602,9 +842,14 @@ All Algorithms implemented in Dart
 ## firebase/flutterfire
 
 Repository: [firebase/flutterfire](https://github.com/firebase/flutterfire)
+
 Author: [firebase](https://github.com/firebase)
 
 Stars: 6457
+
+Forks: 3177
+
+License: BSD 3-Clause "New" or "Revised" License
 
 🔥 A collection of Firebase plugins for Flutter apps.
 
@@ -612,9 +857,14 @@ Stars: 6457
 ## flame-engine/flame
 
 Repository: [flame-engine/flame](https://github.com/flame-engine/flame)
+
 Author: [flame-engine](https://github.com/flame-engine)
 
-Stars: 6127
+Stars: 6132
+
+Forks: 536
+
+License: MIT License
 
 A minimalist Flutter game engine
 
@@ -622,9 +872,14 @@ A minimalist Flutter game engine
 ## hybs310/FirstFlutter
 
 Repository: [hybs310/FirstFlutter](https://github.com/hybs310/FirstFlutter)
+
 Author: [hybs310](https://github.com/hybs310)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 
 
@@ -640,9 +895,14 @@ Stars: 1
 ## hmmhmmhm/railway-filestash
 
 Repository: [hmmhmmhm/railway-filestash](https://github.com/hmmhmmhm/railway-filestash)
+
 Author: [hmmhmmhm](https://github.com/hmmhmmhm)
 
 Stars: 5
+
+Forks: 0
+
+License: Other
 
 Do Filestash in Railway.app !
 
@@ -650,9 +910,14 @@ Do Filestash in Railway.app !
 ## lemon-mint/lemons-dockers
 
 Repository: [lemon-mint/lemons-dockers](https://github.com/lemon-mint/lemons-dockers)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: The Unlicense
 
 Repository that manages Dockerfiles of my repositories
 
@@ -660,9 +925,14 @@ Repository that manages Dockerfiles of my repositories
 ## wizath/pytorch-raspberry-crosscompile
 
 Repository: [wizath/pytorch-raspberry-crosscompile](https://github.com/wizath/pytorch-raspberry-crosscompile)
+
 Author: [wizath](https://github.com/wizath)
 
 Stars: 3
+
+Forks: 2
+
+License: MIT License
 
 Docker image for easy cross compilation for pytorch library for Raspberry PI 3 SBC
 
@@ -802,6 +1072,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [etcd-io/etcd](#etcd-ioetcd)
 * [evanphx/json-patch](#evanphxjson-patch)
 * [evanphx/wildcat](#evanphxwildcat)
+* [fasthttp/router](#fasthttprouter)
 * [felixge/go-patch-overlay](#felixgego-patch-overlay)
 * [felixge/pprofutils](#felixgepprofutils)
 * [flower-corp/lotusdb](#flower-corplotusdb)
@@ -1130,9 +1401,14 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 ## 3dentlabs/3dent
 
 Repository: [3dentlabs/3dent](https://github.com/3dentlabs/3dent)
+
 Author: [3dentlabs](https://github.com/3dentlabs)
 
 Stars: 3
+
+Forks: 0
+
+License: MIT License
 
 A lightweight runtime for JavaScript and TypeScript.
 
@@ -1140,9 +1416,14 @@ A lightweight runtime for JavaScript and TypeScript.
 ## APiercey/RygelDB
 
 Repository: [APiercey/RygelDB](https://github.com/APiercey/RygelDB)
+
 Author: [APiercey](https://github.com/APiercey)
 
 Stars: 5
+
+Forks: 0
+
+License: Other
 
 "What the Yotz?!" - A NoSQL document store implemented in Go.
 
@@ -1150,9 +1431,14 @@ Stars: 5
 ## AcrylicShrimp/devlog-golang
 
 Repository: [AcrylicShrimp/devlog-golang](https://github.com/AcrylicShrimp/devlog-golang)
+
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
 
 Stars: 2
+
+Forks: 0
+
+License: Other
 
 A minimal devlog service written in Go.
 
@@ -1160,9 +1446,14 @@ A minimal devlog service written in Go.
 ## AlexStocks/getty
 
 Repository: [AlexStocks/getty](https://github.com/AlexStocks/getty)
+
 Author: [AlexStocks](https://github.com/AlexStocks)
 
 Stars: 727
+
+Forks: 166
+
+License: Other
 
 a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd
 
@@ -1170,9 +1461,14 @@ a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidi
 ## Allenxuxu/gev
 
 Repository: [Allenxuxu/gev](https://github.com/Allenxuxu/gev)
+
 Author: [Allenxuxu](https://github.com/Allenxuxu)
 
-Stars: 1380
+Stars: 1381
+
+Forks: 175
+
+License: MIT License
 
 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers. 
 
@@ -1180,9 +1476,14 @@ Stars: 1380
 ## AmadeusITGroup/cpubench1A
 
 Repository: [AmadeusITGroup/cpubench1A](https://github.com/AmadeusITGroup/cpubench1A)
+
 Author: [AmadeusITGroup](https://github.com/AmadeusITGroup)
 
 Stars: 7
+
+Forks: 2
+
+License: MIT License
 
 cpubench1a is a CPU benchmark program suitable to evaluate the CPU capacity of physical or virtual machines.
 
@@ -1190,9 +1491,14 @@ cpubench1a is a CPU benchmark program suitable to evaluate the CPU capacity of p
 ## BWbwchen/MapReduce
 
 Repository: [BWbwchen/MapReduce](https://github.com/BWbwchen/MapReduce)
+
 Author: [BWbwchen](https://github.com/BWbwchen)
 
 Stars: 190
+
+Forks: 12
+
+License: MIT License
 
 An easy-to-use Map Reduce Go parallel-computing framework inspired by 2021 6.824 lab1. It supports multiple workers threads on a single machine and multiple processes on a single machine right now.
 
@@ -1200,9 +1506,14 @@ An easy-to-use Map Reduce Go parallel-computing framework inspired by 2021 6.824
 ## Code-Hex/gqldoc
 
 Repository: [Code-Hex/gqldoc](https://github.com/Code-Hex/gqldoc)
+
 Author: [Code-Hex](https://github.com/Code-Hex)
 
 Stars: 152
+
+Forks: 3
+
+License: MIT License
 
 The easiest way to make API documents for GraphQL
 
@@ -1210,9 +1521,14 @@ The easiest way to make API documents for GraphQL
 ## DarthPestilane/easytcp
 
 Repository: [DarthPestilane/easytcp](https://github.com/DarthPestilane/easytcp)
+
 Author: [DarthPestilane](https://github.com/DarthPestilane)
 
 Stars: 305
+
+Forks: 15
+
+License: MIT License
 
 :sparkles: :rocket: EasyTCP is a light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful.
 
@@ -1220,9 +1536,14 @@ Stars: 305
 ## DeltaLaboratory/go-imageserver
 
 Repository: [DeltaLaboratory/go-imageserver](https://github.com/DeltaLaboratory/go-imageserver)
+
 Author: [DeltaLaboratory](https://github.com/DeltaLaboratory)
 
 Stars: 5
+
+Forks: 3
+
+License: Other
 
 an image server which automatically optimize non webp and avif images to webp and avif images.
 
@@ -1230,9 +1551,14 @@ an image server which automatically optimize non webp and avif images to webp an
 ## Dreamacro/clash
 
 Repository: [Dreamacro/clash](https://github.com/Dreamacro/clash)
+
 Author: [Dreamacro](https://github.com/Dreamacro)
 
-Stars: 25800
+Stars: 25820
+
+Forks: 3705
+
+License: GNU General Public License v3.0
 
 A rule-based tunnel in Go.
 
@@ -1240,9 +1566,14 @@ A rule-based tunnel in Go.
 ## FiloSottile/mkcert
 
 Repository: [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+
 Author: [FiloSottile](https://github.com/FiloSottile)
 
-Stars: 34597
+Stars: 34598
+
+Forks: 1671
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
@@ -1250,9 +1581,14 @@ A simple zero-config tool to make locally trusted development certificates with 
 ## FlowerWrong/tun2socks
 
 Repository: [FlowerWrong/tun2socks](https://github.com/FlowerWrong/tun2socks)
+
 Author: [FlowerWrong](https://github.com/FlowerWrong)
 
 Stars: 388
+
+Forks: 109
+
+License: Other
 
 Redirect tun flow to socks 5 in golang, support tcp and udp.
 
@@ -1260,9 +1596,14 @@ Redirect tun flow to socks 5 in golang, support tcp and udp.
 ## GavinClarke0/lockless-generic-ring-buffer
 
 Repository: [GavinClarke0/lockless-generic-ring-buffer](https://github.com/GavinClarke0/lockless-generic-ring-buffer)
+
 Author: [GavinClarke0](https://github.com/GavinClarke0)
 
 Stars: 129
+
+Forks: 3
+
+License: Apache License 2.0
 
 Single producer and multi-reader lockless ring buffer in go using generics from the go 1.18beta release. It is significantly faster than channels with the added type safety of generics compared to ring buffers using interfaces.
 
@@ -1270,9 +1611,14 @@ Single producer and multi-reader lockless ring buffer in go using generics from 
 ## HyNetwork/hysteria
 
 Repository: [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria)
+
 Author: [HyNetwork](https://github.com/HyNetwork)
 
 Stars: 1561
+
+Forks: 205
+
+License: MIT License
 
 Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
 
@@ -1280,9 +1626,14 @@ Hysteria is a feature-packed network utility optimized for networks of poor qual
 ## IceWhaleTech/CasaOS
 
 Repository: [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
 Author: [IceWhaleTech](https://github.com/IceWhaleTech)
 
-Stars: 3514
+Stars: 3515
+
+Forks: 229
+
+License: Apache License 2.0
 
 CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 
@@ -1290,9 +1641,14 @@ CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 ## Jigsaw-Code/outline-go-tun2socks
 
 Repository: [Jigsaw-Code/outline-go-tun2socks](https://github.com/Jigsaw-Code/outline-go-tun2socks)
+
 Author: [Jigsaw-Code](https://github.com/Jigsaw-Code)
 
 Stars: 123
+
+Forks: 50
+
+License: Apache License 2.0
 
 
 
@@ -1300,9 +1656,14 @@ Stars: 123
 ## JohannesKaufmann/html-to-markdown
 
 Repository: [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown)
+
 Author: [JohannesKaufmann](https://github.com/JohannesKaufmann)
 
 Stars: 339
+
+Forks: 48
+
+License: MIT License
 
 ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 
@@ -1310,9 +1671,14 @@ Stars: 339
 ## MrMarble/termsvg
 
 Repository: [MrMarble/termsvg](https://github.com/MrMarble/termsvg)
+
 Author: [MrMarble](https://github.com/MrMarble)
 
 Stars: 107
+
+Forks: 5
+
+License: GNU General Public License v3.0
 
 Record, share and export your terminal as a animated SVG image.
 
@@ -1320,9 +1686,14 @@ Record, share and export your terminal as a animated SVG image.
 ## Narasimha1997/sig-716i
 
 Repository: [Narasimha1997/sig-716i](https://github.com/Narasimha1997/sig-716i)
+
 Author: [Narasimha1997](https://github.com/Narasimha1997)
 
 Stars: 68
+
+Forks: 7
+
+License: MIT License
 
 A CLI tool that can be used to disrupt wireless connectivity in your area by jamming all the wireless devices connected to multiple access points.
 
@@ -1330,9 +1701,14 @@ A CLI tool that can be used to disrupt wireless connectivity in your area by jam
 ## PeernetOfficial/core
 
 Repository: [PeernetOfficial/core](https://github.com/PeernetOfficial/core)
+
 Author: [PeernetOfficial](https://github.com/PeernetOfficial)
 
 Stars: 21
+
+Forks: 3
+
+License: MIT License
 
 Core library. Use this to create a new Peernet application.
 
@@ -1340,9 +1716,14 @@ Core library. Use this to create a new Peernet application.
 ## PierreKieffer/http-tanker
 
 Repository: [PierreKieffer/http-tanker](https://github.com/PierreKieffer/http-tanker)
+
 Author: [PierreKieffer](https://github.com/PierreKieffer)
 
 Stars: 56
+
+Forks: 2
+
+License: BSD 2-Clause "Simplified" License
 
 Create, manage and execute http requests from the terminal
 
@@ -1350,9 +1731,14 @@ Create, manage and execute http requests from the terminal
 ## RebirthLee/godeep
 
 Repository: [RebirthLee/godeep](https://github.com/RebirthLee/godeep)
+
 Author: [RebirthLee](https://github.com/RebirthLee)
 
 Stars: 3
+
+Forks: 0
+
+License: Other
 
 (미완성) Golang Copy Struct(or Map) to Struct
 
@@ -1360,9 +1746,14 @@ Stars: 3
 ## RussellLuo/slidingwindow
 
 Repository: [RussellLuo/slidingwindow](https://github.com/RussellLuo/slidingwindow)
+
 Author: [RussellLuo](https://github.com/RussellLuo)
 
 Stars: 305
+
+Forks: 31
+
+License: MIT License
 
 Golang implementation of Sliding Window Algorithm for distributed rate limiting.
 
@@ -1370,9 +1761,14 @@ Golang implementation of Sliding Window Algorithm for distributed rate limiting.
 ## RussellLuo/timingwheel
 
 Repository: [RussellLuo/timingwheel](https://github.com/RussellLuo/timingwheel)
+
 Author: [RussellLuo](https://github.com/RussellLuo)
 
 Stars: 453
+
+Forks: 97
+
+License: MIT License
 
 Golang implementation of Hierarchical Timing Wheels.
 
@@ -1380,9 +1776,14 @@ Golang implementation of Hierarchical Timing Wheels.
 ## SchwarzIT/go-template
 
 Repository: [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template)
+
 Author: [SchwarzIT](https://github.com/SchwarzIT)
 
 Stars: 67
+
+Forks: 6
+
+License: Apache License 2.0
 
 go/template is a tool for jumpstarting production-ready Golang projects quickly.
 
@@ -1390,9 +1791,14 @@ go/template is a tool for jumpstarting production-ready Golang projects quickly.
 ## StarpTech/go-web
 
 Repository: [StarpTech/go-web](https://github.com/StarpTech/go-web)
+
 Author: [StarpTech](https://github.com/StarpTech)
 
 Stars: 214
+
+Forks: 47
+
+License: MIT License
 
 Modern Web Application with Golang
 
@@ -1400,9 +1806,14 @@ Modern Web Application with Golang
 ## TheAlgorithms/Go
 
 Repository: [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 9542
+Stars: 9544
+
+Forks: 1735
+
+License: MIT License
 
 Algorithms implemented in Go for beginners, following best practices.
 
@@ -1410,9 +1821,14 @@ Algorithms implemented in Go for beginners, following best practices.
 ## TomWright/dasel
 
 Repository: [TomWright/dasel](https://github.com/TomWright/dasel)
+
 Author: [TomWright](https://github.com/TomWright)
 
 Stars: 2943
+
+Forks: 67
+
+License: MIT License
 
 Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 
@@ -1420,9 +1836,14 @@ Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a sing
 ## VictoriaMetrics/VictoriaMetrics
 
 Repository: [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
+
 Author: [VictoriaMetrics](https://github.com/VictoriaMetrics)
 
-Stars: 6080
+Stars: 6082
+
+Forks: 560
+
+License: Apache License 2.0
 
 VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 
@@ -1430,9 +1851,14 @@ VictoriaMetrics: fast, cost-effective monitoring solution and time series databa
 ## WireGuard/wireguard-go
 
 Repository: [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go)
+
 Author: [WireGuard](https://github.com/WireGuard)
 
 Stars: 1242
+
+Forks: 264
+
+License: MIT License
 
 Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 
@@ -1440,9 +1866,14 @@ Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 ## Workiva/go-datastructures
 
 Repository: [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures)
+
 Author: [Workiva](https://github.com/Workiva)
 
 Stars: 6447
+
+Forks: 763
+
+License: Apache License 2.0
 
 A collection of useful, performant, and threadsafe Go datastructures.
 
@@ -1450,9 +1881,14 @@ A collection of useful, performant, and threadsafe Go datastructures.
 ## Yash-Handa/logo-ls
 
 Repository: [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls)
+
 Author: [Yash-Handa](https://github.com/Yash-Handa)
 
 Stars: 842
+
+Forks: 27
+
+License: MIT License
 
 Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 
@@ -1460,9 +1896,14 @@ Modern ls command with vscode like File Icon and Git Integrations. Written in Go
 ## YoNoSoyVictor/Go_Snake_Game_CLI
 
 Repository: [YoNoSoyVictor/Go_Snake_Game_CLI](https://github.com/YoNoSoyVictor/Go_Snake_Game_CLI)
+
 Author: [YoNoSoyVictor](https://github.com/YoNoSoyVictor)
 
 Stars: 46
+
+Forks: 4
+
+License: Other
 
 A CLI snake game made using the Go stdlib
 
@@ -1470,9 +1911,14 @@ A CLI snake game made using the Go stdlib
 ## aQuaYi/LeetCode-in-Go
 
 Repository: [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)
+
 Author: [aQuaYi](https://github.com/aQuaYi)
 
 Stars: 2913
+
+Forks: 130
+
+License: MIT License
 
 Go Solution for LeetCode algorithms problems, 100% coverage.
 
@@ -1480,9 +1926,14 @@ Go Solution for LeetCode algorithms problems, 100% coverage.
 ## abiosoft/colima
 
 Repository: [abiosoft/colima](https://github.com/abiosoft/colima)
+
 Author: [abiosoft](https://github.com/abiosoft)
 
-Stars: 3585
+Stars: 3589
+
+Forks: 96
+
+License: MIT License
 
 Container runtimes on macOS (and Linux) with minimal setup
 
@@ -1490,9 +1941,14 @@ Container runtimes on macOS (and Linux) with minimal setup
 ## ailidani/paxi
 
 Repository: [ailidani/paxi](https://github.com/ailidani/paxi)
+
 Author: [ailidani](https://github.com/ailidani)
 
 Stars: 492
+
+Forks: 59
+
+License: MIT License
 
 Paxos protocol framework
 
@@ -1500,9 +1956,14 @@ Paxos protocol framework
 ## ajstarks/svgo
 
 Repository: [ajstarks/svgo](https://github.com/ajstarks/svgo)
+
 Author: [ajstarks](https://github.com/ajstarks)
 
 Stars: 1817
+
+Forks: 155
+
+License: Other
 
 Go Language Library for SVG generation
 
@@ -1510,9 +1971,14 @@ Go Language Library for SVG generation
 ## akmittal/turbo-go
 
 Repository: [akmittal/turbo-go](https://github.com/akmittal/turbo-go)
+
 Author: [akmittal](https://github.com/akmittal)
 
 Stars: 19
+
+Forks: 1
+
+License: MIT License
 
 Build hotwire apps using go
 
@@ -1520,9 +1986,14 @@ Build hotwire apps using go
 ## alecthomas/chroma
 
 Repository: [alecthomas/chroma](https://github.com/alecthomas/chroma)
+
 Author: [alecthomas](https://github.com/alecthomas)
 
 Stars: 3109
+
+Forks: 264
+
+License: MIT License
 
 A general purpose syntax highlighter in pure Go 
 
@@ -1530,9 +2001,14 @@ A general purpose syntax highlighter in pure Go
 ## alecthomas/esfmt
 
 Repository: [alecthomas/esfmt](https://github.com/alecthomas/esfmt)
+
 Author: [alecthomas](https://github.com/alecthomas)
 
 Stars: 5
+
+Forks: 0
+
+License: Apache License 2.0
 
 An opinionated, zero-configuration formatter for ES/TS/ESX/TSX
 
@@ -1540,9 +2016,14 @@ An opinionated, zero-configuration formatter for ES/TS/ESX/TSX
 ## alecthomas/localcache
 
 Repository: [alecthomas/localcache](https://github.com/alecthomas/localcache)
+
 Author: [alecthomas](https://github.com/alecthomas)
 
 Stars: 39
+
+Forks: 1
+
+License: Other
 
 Local file-based atomic cache manager
 
@@ -1550,9 +2031,14 @@ Local file-based atomic cache manager
 ## alecthomas/participle
 
 Repository: [alecthomas/participle](https://github.com/alecthomas/participle)
+
 Author: [alecthomas](https://github.com/alecthomas)
 
 Stars: 2415
+
+Forks: 145
+
+License: MIT License
 
 A parser library for Go
 
@@ -1560,9 +2046,14 @@ A parser library for Go
 ## alevinval/sse
 
 Repository: [alevinval/sse](https://github.com/alevinval/sse)
+
 Author: [alevinval](https://github.com/alevinval)
 
 Stars: 7
+
+Forks: 4
+
+License: MIT License
 
 Go client for HTML5 Server-Sent Events (SSE) - Optimized event decoder
 
@@ -1570,9 +2061,14 @@ Go client for HTML5 Server-Sent Events (SSE) - Optimized event decoder
 ## alexliesenfeld/health
 
 Repository: [alexliesenfeld/health](https://github.com/alexliesenfeld/health)
+
 Author: [alexliesenfeld](https://github.com/alexliesenfeld)
 
 Stars: 491
+
+Forks: 17
+
+License: MIT License
 
 A simple and flexible health check library for Go.
 
@@ -1580,9 +2076,14 @@ A simple and flexible health check library for Go.
 ## alitto/pond
 
 Repository: [alitto/pond](https://github.com/alitto/pond)
+
 Author: [alitto](https://github.com/alitto)
 
 Stars: 486
+
+Forks: 33
+
+License: MIT License
 
 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 
@@ -1590,9 +2091,14 @@ Stars: 486
 ## amenzhinsky/go-memexec
 
 Repository: [amenzhinsky/go-memexec](https://github.com/amenzhinsky/go-memexec)
+
 Author: [amenzhinsky](https://github.com/amenzhinsky)
 
 Stars: 90
+
+Forks: 25
+
+License: Apache License 2.0
 
 Run code from memory
 
@@ -1600,9 +2106,14 @@ Run code from memory
 ## andybalholm/brotli
 
 Repository: [andybalholm/brotli](https://github.com/andybalholm/brotli)
+
 Author: [andybalholm](https://github.com/andybalholm)
 
 Stars: 395
+
+Forks: 32
+
+License: MIT License
 
 Pure Go Brotli encoder and decoder
 
@@ -1610,9 +2121,14 @@ Pure Go Brotli encoder and decoder
 ## ankithans/secureX
 
 Repository: [ankithans/secureX](https://github.com/ankithans/secureX)
+
 Author: [ankithans](https://github.com/ankithans)
 
 Stars: 8
+
+Forks: 0
+
+License: MIT License
 
 Spawning up Decoy Server in case of any fraudulent activity and directing the intruder towards the decoy. Auto Killing the decoy if it is idle for too long.
 
@@ -1620,9 +2136,14 @@ Spawning up Decoy Server in case of any fraudulent activity and directing the in
 ## anoriqq/couch
 
 Repository: [anoriqq/couch](https://github.com/anoriqq/couch)
+
 Author: [anoriqq](https://github.com/anoriqq)
 
 Stars: 5
+
+Forks: 0
+
+License: MIT License
 
 🔍 Simple full text search engine written in Go
 
@@ -1630,9 +2151,14 @@ Stars: 5
 ## aofei/r2
 
 Repository: [aofei/r2](https://github.com/aofei/r2)
+
 Author: [aofei](https://github.com/aofei)
 
 Stars: 31
+
+Forks: 3
+
+License: MIT License
 
 A minimalist HTTP request routing helper for Go.
 
@@ -1640,9 +2166,14 @@ A minimalist HTTP request routing helper for Go.
 ## aperturerobotics/bifrost
 
 Repository: [aperturerobotics/bifrost](https://github.com/aperturerobotics/bifrost)
+
 Author: [aperturerobotics](https://github.com/aperturerobotics)
 
 Stars: 56
+
+Forks: 1
+
+License: Apache License 2.0
 
 Cross-platform modular communications library & daemon for Go w/ flexible protobuf+yaml config. Supports transports, links, pubsub (NATS), quic-over-websocket, libp2p & drpc, crypto, simulations, and more. Browser supported with GopherJS and Wasm.
 
@@ -1650,9 +2181,14 @@ Cross-platform modular communications library & daemon for Go w/ flexible protob
 ## armfazh/h2c-go-ref
 
 Repository: [armfazh/h2c-go-ref](https://github.com/armfazh/h2c-go-ref)
+
 Author: [armfazh](https://github.com/armfazh)
 
 Stars: 18
+
+Forks: 7
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Hash to curves - Go reference implementation
 
@@ -1660,9 +2196,14 @@ Hash to curves - Go reference implementation
 ## arriqaaq/art
 
 Repository: [arriqaaq/art](https://github.com/arriqaaq/art)
+
 Author: [arriqaaq](https://github.com/arriqaaq)
 
 Stars: 43
+
+Forks: 5
+
+License: MIT License
 
 An Adaptive Radix Tree (ART) implementation in Go
 
@@ -1670,9 +2211,14 @@ An Adaptive Radix Tree (ART) implementation in Go
 ## arriqaaq/flashdb
 
 Repository: [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb)
+
 Author: [arriqaaq](https://github.com/arriqaaq)
 
 Stars: 134
+
+Forks: 11
+
+License: MIT License
 
 FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read)
 
@@ -1680,9 +2226,14 @@ FlashDB is an embeddable, in-memory key/value database in Go (with Redis like co
 ## asticode/go-astilectron
 
 Repository: [asticode/go-astilectron](https://github.com/asticode/go-astilectron)
+
 Author: [asticode](https://github.com/asticode)
 
 Stars: 4314
+
+Forks: 307
+
+License: MIT License
 
 Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 
@@ -1690,9 +2241,14 @@ Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 ## authzed/spicedb
 
 Repository: [authzed/spicedb](https://github.com/authzed/spicedb)
+
 Author: [authzed](https://github.com/authzed)
 
-Stars: 2041
+Stars: 2042
+
+Forks: 92
+
+License: Apache License 2.0
 
 Inspired by Google's Zanzibar paper, SpiceDB is an open source database system for managing security-critical application permissions.
 
@@ -1700,9 +2256,14 @@ Inspired by Google's Zanzibar paper, SpiceDB is an open source database system f
 ## basemachina/bridge
 
 Repository: [basemachina/bridge](https://github.com/basemachina/bridge)
+
 Author: [basemachina](https://github.com/basemachina)
 
 Stars: 23
+
+Forks: 0
+
+License: BSD 3-Clause "New" or "Revised" License
 
 secure gateway by basemachina
 
@@ -1710,9 +2271,14 @@ secure gateway by basemachina
 ## bbkane/gocolor
 
 Repository: [bbkane/gocolor](https://github.com/bbkane/gocolor)
+
 Author: [bbkane](https://github.com/bbkane)
 
 Stars: 6
+
+Forks: 1
+
+License: Apache License 2.0
 
 A tiny cross-platform cross-platform terminal color library that supports enabling and disabling colors.
 
@@ -1720,9 +2286,14 @@ A tiny cross-platform cross-platform terminal color library that supports enabli
 ## berty/berty
 
 Repository: [berty/berty](https://github.com/berty/berty)
+
 Author: [berty](https://github.com/berty)
 
 Stars: 5591
+
+Forks: 233
+
+License: Other
 
 Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 
@@ -1730,9 +2301,14 @@ Berty is a secure peer-to-peer messaging app that works with or without internet
 ## binwiederhier/ntfy
 
 Repository: [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
+
 Author: [binwiederhier](https://github.com/binwiederhier)
 
 Stars: 1796
+
+Forks: 59
+
+License: Other
 
 Send push notifications to your phone or desktop using PUT/POST
 
@@ -1740,9 +2316,14 @@ Send push notifications to your phone or desktop using PUT/POST
 ## bjwbell/gensimd
 
 Repository: [bjwbell/gensimd](https://github.com/bjwbell/gensimd)
+
 Author: [bjwbell](https://github.com/bjwbell)
 
 Stars: 144
+
+Forks: 7
+
+License: MIT License
 
 SIMD for Go
 
@@ -1750,9 +2331,14 @@ SIMD for Go
 ## blluv/seed_go
 
 Repository: [blluv/seed_go](https://github.com/blluv/seed_go)
+
 Author: [blluv](https://github.com/blluv)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 golang kisa seed
 
@@ -1760,9 +2346,14 @@ golang kisa seed
 ## bradfitz/jndi
 
 Repository: [bradfitz/jndi](https://github.com/bradfitz/jndi)
+
 Author: [bradfitz](https://github.com/bradfitz)
 
 Stars: 265
+
+Forks: 3
+
+License: Other
 
 a irresponsibly bad logging library
 
@@ -1770,9 +2361,14 @@ a irresponsibly bad logging library
 ## brendonmatos/golive
 
 Repository: [brendonmatos/golive](https://github.com/brendonmatos/golive)
+
 Author: [brendonmatos](https://github.com/brendonmatos)
 
 Stars: 209
+
+Forks: 14
+
+License: MIT License
 
 ⚡ Live views for GoLang with reactive HTML over WebSockets 🔌
 
@@ -1780,9 +2376,14 @@ Stars: 209
 ## brentp/intintmap
 
 Repository: [brentp/intintmap](https://github.com/brentp/intintmap)
+
 Author: [brentp](https://github.com/brentp)
 
 Stars: 71
+
+Forks: 11
+
+License: BSD 2-Clause "Simplified" License
 
 fast int64-int64 map for go
 
@@ -1790,9 +2391,14 @@ fast int64-int64 map for go
 ## bspaans/jit-compiler
 
 Repository: [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler)
+
 Author: [bspaans](https://github.com/bspaans)
 
 Stars: 146
+
+Forks: 13
+
+License: MIT License
 
 JIT compiler in Go
 
@@ -1800,9 +2406,14 @@ JIT compiler in Go
 ## buger/jsonparser
 
 Repository: [buger/jsonparser](https://github.com/buger/jsonparser)
+
 Author: [buger](https://github.com/buger)
 
-Stars: 4469
+Stars: 4470
+
+Forks: 390
+
+License: MIT License
 
 One of the fastest alternative JSON parser for Go that does not require schema
 
@@ -1810,9 +2421,14 @@ One of the fastest alternative JSON parser for Go that does not require schema
 ## burrowers/garble
 
 Repository: [burrowers/garble](https://github.com/burrowers/garble)
+
 Author: [burrowers](https://github.com/burrowers)
 
-Stars: 1629
+Stars: 1631
+
+Forks: 122
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Obfuscate Go builds
 
@@ -1820,9 +2436,14 @@ Obfuscate Go builds
 ## bytecodealliance/wasmtime-go
 
 Repository: [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
+
 Author: [bytecodealliance](https://github.com/bytecodealliance)
 
 Stars: 387
+
+Forks: 49
+
+License: Apache License 2.0
 
 Go WebAssembly runtime powered by Wasmtime
 
@@ -1830,9 +2451,14 @@ Go WebAssembly runtime powered by Wasmtime
 ## bytedance/gopkg
 
 Repository: [bytedance/gopkg](https://github.com/bytedance/gopkg)
+
 Author: [bytedance](https://github.com/bytedance)
 
 Stars: 582
+
+Forks: 80
+
+License: Apache License 2.0
 
 Universal Utilities for Go
 
@@ -1840,9 +2466,14 @@ Universal Utilities for Go
 ## capnproto/go-capnproto2
 
 Repository: [capnproto/go-capnproto2](https://github.com/capnproto/go-capnproto2)
+
 Author: [capnproto](https://github.com/capnproto)
 
 Stars: 792
+
+Forks: 77
+
+License: Other
 
 Cap'n Proto library and code generator for Go
 
@@ -1850,9 +2481,14 @@ Cap'n Proto library and code generator for Go
 ## centrifugal/centrifuge
 
 Repository: [centrifugal/centrifuge](https://github.com/centrifugal/centrifuge)
+
 Author: [centrifugal](https://github.com/centrifugal)
 
-Stars: 597
+Stars: 596
+
+Forks: 68
+
+License: MIT License
 
 Real-time messaging library for Go with scalability in mind.
 
@@ -1860,9 +2496,14 @@ Real-time messaging library for Go with scalability in mind.
 ## centrifugal/centrifuge-go
 
 Repository: [centrifugal/centrifuge-go](https://github.com/centrifugal/centrifuge-go)
+
 Author: [centrifugal](https://github.com/centrifugal)
 
 Stars: 130
+
+Forks: 40
+
+License: MIT License
 
 Go WebSocket client for Centrifugo and Centrifuge library
 
@@ -1870,9 +2511,14 @@ Go WebSocket client for Centrifugo and Centrifuge library
 ## cespare/reflex
 
 Repository: [cespare/reflex](https://github.com/cespare/reflex)
+
 Author: [cespare](https://github.com/cespare)
 
 Stars: 2596
+
+Forks: 109
+
+License: MIT License
 
 Run a command when files change
 
@@ -1880,9 +2526,14 @@ Run a command when files change
 ## cespare/xxhash
 
 Repository: [cespare/xxhash](https://github.com/cespare/xxhash)
+
 Author: [cespare](https://github.com/cespare)
 
 Stars: 1112
+
+Forks: 97
+
+License: MIT License
 
 A Go implementation of the 64-bit xxHash algorithm (XXH64)
 
@@ -1890,9 +2541,14 @@ A Go implementation of the 64-bit xxHash algorithm (XXH64)
 ## chanify/chanify
 
 Repository: [chanify/chanify](https://github.com/chanify/chanify)
+
 Author: [chanify](https://github.com/chanify)
 
-Stars: 809
+Stars: 808
+
+Forks: 77
+
+License: MIT License
 
 Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
 
@@ -1900,9 +2556,14 @@ Chanify is a safe and simple notification tools. This repository is command line
 ## chaos-mesh/chaos-mesh
 
 Repository: [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
+
 Author: [chaos-mesh](https://github.com/chaos-mesh)
 
-Stars: 4694
+Stars: 4695
+
+Forks: 584
+
+License: Apache License 2.0
 
 A Chaos Engineering Platform for Kubernetes.
 
@@ -1910,9 +2571,14 @@ A Chaos Engineering Platform for Kubernetes.
 ## charmbracelet/bubbles
 
 Repository: [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 1491
+Stars: 1492
+
+Forks: 50
+
+License: MIT License
 
 TUI components for Bubble Tea 🍡
 
@@ -1920,9 +2586,14 @@ TUI components for Bubble Tea 🍡
 ## charmbracelet/bubbletea
 
 Repository: [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 9704
+Stars: 9707
+
+Forks: 265
+
+License: MIT License
 
 A powerful little TUI framework 🏗
 
@@ -1930,9 +2601,14 @@ A powerful little TUI framework 🏗
 ## charmbracelet/glamour
 
 Repository: [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+
 Author: [charmbracelet](https://github.com/charmbracelet)
 
 Stars: 1047
+
+Forks: 69
+
+License: MIT License
 
 Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
@@ -1940,9 +2616,14 @@ Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 ## charmbracelet/lipgloss
 
 Repository: [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 4028
+Stars: 4027
+
+Forks: 93
+
+License: MIT License
 
 Style definitions for nice terminal layouts 👄
 
@@ -1950,9 +2631,14 @@ Style definitions for nice terminal layouts 👄
 ## charmbracelet/soft-serve
 
 Repository: [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+
 Author: [charmbracelet](https://github.com/charmbracelet)
 
 Stars: 1861
+
+Forks: 35
+
+License: MIT License
 
 A tasty, self-hostable Git server for the command line🍦
 
@@ -1960,9 +2646,14 @@ A tasty, self-hostable Git server for the command line🍦
 ## charmbracelet/wish
 
 Repository: [charmbracelet/wish](https://github.com/charmbracelet/wish)
+
 Author: [charmbracelet](https://github.com/charmbracelet)
 
 Stars: 1113
+
+Forks: 21
+
+License: MIT License
 
 Make SSH apps, just like that! 💫
 
@@ -1970,9 +2661,14 @@ Make SSH apps, just like that! 💫
 ## charmbracelet/wishlist
 
 Repository: [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist)
+
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 429
+Stars: 430
+
+Forks: 14
+
+License: MIT License
 
 The SSH directory ✨
 
@@ -1980,9 +2676,14 @@ The SSH directory ✨
 ## chenzhuoyu/iasm
 
 Repository: [chenzhuoyu/iasm](https://github.com/chenzhuoyu/iasm)
+
 Author: [chenzhuoyu](https://github.com/chenzhuoyu)
 
 Stars: 22
+
+Forks: 2
+
+License: Other
 
 Interactive Assembler for Go
 
@@ -1990,9 +2691,14 @@ Interactive Assembler for Go
 ## cilium/cilium
 
 Repository: [cilium/cilium](https://github.com/cilium/cilium)
+
 Author: [cilium](https://github.com/cilium)
 
-Stars: 11399
+Stars: 11401
+
+Forks: 1508
+
+License: Apache License 2.0
 
 eBPF-based Networking, Security, and Observability
 
@@ -2000,9 +2706,14 @@ eBPF-based Networking, Security, and Observability
 ## clarkmcc/go-evmap
 
 Repository: [clarkmcc/go-evmap](https://github.com/clarkmcc/go-evmap)
+
 Author: [clarkmcc](https://github.com/clarkmcc)
 
 Stars: 4
+
+Forks: 0
+
+License: Other
 
 A Go implementation of Rust's evmap which optimizes for high-read, low-write workloads and uses eventual consistency to ensure that readers and writers never block each other.
 
@@ -2010,9 +2721,14 @@ A Go implementation of Rust's evmap which optimizes for high-read, low-write wor
 ## client9/misspell
 
 Repository: [client9/misspell](https://github.com/client9/misspell)
+
 Author: [client9](https://github.com/client9)
 
 Stars: 1145
+
+Forks: 108
+
+License: MIT License
 
 Correct commonly misspelled English words in source files
 
@@ -2020,9 +2736,14 @@ Correct commonly misspelled English words in source files
 ## cloudflare/bn256
 
 Repository: [cloudflare/bn256](https://github.com/cloudflare/bn256)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
 Stars: 95
+
+Forks: 34
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Package bn256 implements a particular bilinear group.
 
@@ -2030,9 +2751,14 @@ Package bn256 implements a particular bilinear group.
 ## cloudflare/circl
 
 Repository: [cloudflare/circl](https://github.com/cloudflare/circl)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
 Stars: 613
+
+Forks: 68
+
+License: Other
 
 CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 
@@ -2040,9 +2766,14 @@ CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 ## cloudflare/cloudflare-go
 
 Repository: [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
 Stars: 785
+
+Forks: 366
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Go library for the Cloudflare v4 API
 
@@ -2050,9 +2781,14 @@ Go library for the Cloudflare v4 API
 ## cloudflare/cloudflare-ingress-controller
 
 Repository: [cloudflare/cloudflare-ingress-controller](https://github.com/cloudflare/cloudflare-ingress-controller)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
 Stars: 286
+
+Forks: 54
+
+License: Apache License 2.0
 
 A Kubernetes ingress controller for Cloudflare's Argo Tunnels
 
@@ -2060,9 +2796,14 @@ A Kubernetes ingress controller for Cloudflare's Argo Tunnels
 ## cloudflare/go
 
 Repository: [cloudflare/go](https://github.com/cloudflare/go)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
 Stars: 234
+
+Forks: 31
+
+License: Other
 
 Stable Go with Cloudflare (experimental) patches and backports from tip
 
@@ -2070,9 +2811,14 @@ Stable Go with Cloudflare (experimental) patches and backports from tip
 ## cloudflare/odoh-server-go
 
 Repository: [cloudflare/odoh-server-go](https://github.com/cloudflare/odoh-server-go)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
 Stars: 44
+
+Forks: 9
+
+License: MIT License
 
 Oblivious DoH server in Go
 
@@ -2080,9 +2826,14 @@ Oblivious DoH server in Go
 ## cloudflare/tableflip
 
 Repository: [cloudflare/tableflip](https://github.com/cloudflare/tableflip)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 2135
+Stars: 2136
+
+Forks: 117
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Graceful process restarts in Go
 
@@ -2090,9 +2841,14 @@ Graceful process restarts in Go
 ## cloudwego/netpoll
 
 Repository: [cloudwego/netpoll](https://github.com/cloudwego/netpoll)
+
 Author: [cloudwego](https://github.com/cloudwego)
 
-Stars: 2492
+Stars: 2493
+
+Forks: 259
+
+License: Apache License 2.0
 
 A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 
@@ -2100,9 +2856,14 @@ A high-performance non-blocking I/O networking framework, which focused on RPC s
 ## cockroachdb/apd
 
 Repository: [cockroachdb/apd](https://github.com/cockroachdb/apd)
+
 Author: [cockroachdb](https://github.com/cockroachdb)
 
 Stars: 433
+
+Forks: 29
+
+License: Apache License 2.0
 
 Arbitrary-precision decimals for Go
 
@@ -2110,9 +2871,14 @@ Arbitrary-precision decimals for Go
 ## codingpot/newsletter_awesome_articles
 
 Repository: [codingpot/newsletter_awesome_articles](https://github.com/codingpot/newsletter_awesome_articles)
+
 Author: [codingpot](https://github.com/codingpot)
 
 Stars: 12
+
+Forks: 0
+
+License: Apache License 2.0
 
 The aim of this project is to publish and archive newsletters to a target email address. 
 
@@ -2120,9 +2886,14 @@ The aim of this project is to publish and archive newsletters to a target email 
 ## coocood/freecache
 
 Repository: [coocood/freecache](https://github.com/coocood/freecache)
+
 Author: [coocood](https://github.com/coocood)
 
-Stars: 4012
+Stars: 4013
+
+Forks: 329
+
+License: MIT License
 
 A cache library for Go with zero GC overhead.
 
@@ -2130,9 +2901,14 @@ A cache library for Go with zero GC overhead.
 ## cornelk/hashmap
 
 Repository: [cornelk/hashmap](https://github.com/cornelk/hashmap)
+
 Author: [cornelk](https://github.com/cornelk)
 
 Stars: 1086
+
+Forks: 84
+
+License: Apache License 2.0
 
 A Golang lock-free thread-safe HashMap optimized for fastest read access.
 
@@ -2140,9 +2916,14 @@ A Golang lock-free thread-safe HashMap optimized for fastest read access.
 ## create-go-app/cli
 
 Repository: [create-go-app/cli](https://github.com/create-go-app/cli)
+
 Author: [create-go-app](https://github.com/create-go-app)
 
-Stars: 1341
+Stars: 1342
+
+Forks: 158
+
+License: Apache License 2.0
 
 ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 
@@ -2150,9 +2931,14 @@ Stars: 1341
 ## cretz/esgopeta
 
 Repository: [cretz/esgopeta](https://github.com/cretz/esgopeta)
+
 Author: [cretz](https://github.com/cretz)
 
 Stars: 11
+
+Forks: 1
+
+License: MIT License
 
 Go implementation of the Gun distributed graph database
 
@@ -2160,9 +2946,14 @@ Go implementation of the Gun distributed graph database
 ## cristalhq/base64
 
 Repository: [cristalhq/base64](https://github.com/cristalhq/base64)
+
 Author: [cristalhq](https://github.com/cristalhq)
 
 Stars: 154
+
+Forks: 4
+
+License: MIT License
 
 Faster base64 encoding for Go
 
@@ -2170,9 +2961,14 @@ Faster base64 encoding for Go
 ## cugu/gocap
 
 Repository: [cugu/gocap](https://github.com/cugu/gocap)
+
 Author: [cugu](https://github.com/cugu)
 
 Stars: 119
+
+Forks: 9
+
+License: GNU General Public License v3.0
 
 List your dependencies capabilities and monitor if updates require more  capabilities.
 
@@ -2180,9 +2976,14 @@ List your dependencies capabilities and monitor if updates require more  capabil
 ## d5/tengo
 
 Repository: [d5/tengo](https://github.com/d5/tengo)
+
 Author: [d5](https://github.com/d5)
 
-Stars: 2656
+Stars: 2658
+
+Forks: 176
+
+License: MIT License
 
 A fast script language for Go
 
@@ -2190,9 +2991,14 @@ A fast script language for Go
 ## daangn/gorean
 
 Repository: [daangn/gorean](https://github.com/daangn/gorean)
+
 Author: [daangn](https://github.com/daangn)
 
 Stars: 23
+
+Forks: 2
+
+License: MIT License
 
 korean analyzer utility tools
 
@@ -2200,9 +3006,14 @@ korean analyzer utility tools
 ## dapr/dapr
 
 Repository: [dapr/dapr](https://github.com/dapr/dapr)
+
 Author: [dapr](https://github.com/dapr)
 
-Stars: 17515
+Stars: 17523
+
+Forks: 1317
+
+License: Apache License 2.0
 
 Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
@@ -2210,9 +3021,14 @@ Dapr is a portable, event-driven, runtime for building distributed applications 
 ## ddddddO/gtree
 
 Repository: [ddddddO/gtree](https://github.com/ddddddO/gtree)
+
 Author: [ddddddO](https://github.com/ddddddO)
 
 Stars: 35
+
+Forks: 4
+
+License: BSD 2-Clause "Simplified" License
 
 Output tree🌳 or Make directories(files)📁 from Markdown or Programmatically. Provide CLI and Go Package.
 
@@ -2220,9 +3036,14 @@ Output tree🌳 or Make directories(files)📁 from Markdown or Programmatically
 ## debevv/camellia
 
 Repository: [debevv/camellia](https://github.com/debevv/camellia)
+
 Author: [debevv](https://github.com/debevv)
 
 Stars: 27
+
+Forks: 4
+
+License: GNU General Public License v2.0
 
 A lightweight, persistent, hierarchical key-value store, written in Go
 
@@ -2230,9 +3051,14 @@ A lightweight, persistent, hierarchical key-value store, written in Go
 ## deepmind/objecthash-proto
 
 Repository: [deepmind/objecthash-proto](https://github.com/deepmind/objecthash-proto)
+
 Author: [deepmind](https://github.com/deepmind)
 
 Stars: 82
+
+Forks: 15
+
+License: Apache License 2.0
 
 ObjectHash for protocol buffers
 
@@ -2240,9 +3066,14 @@ ObjectHash for protocol buffers
 ## dgrr/http2
 
 Repository: [dgrr/http2](https://github.com/dgrr/http2)
+
 Author: [dgrr](https://github.com/dgrr)
 
-Stars: 132
+Stars: 133
+
+Forks: 16
+
+License: Apache License 2.0
 
 HTTP/2 implementation for fasthttp
 
@@ -2250,9 +3081,14 @@ HTTP/2 implementation for fasthttp
 ## diy-cloud/lux
 
 Repository: [diy-cloud/lux](https://github.com/diy-cloud/lux)
+
 Author: [diy-cloud](https://github.com/diy-cloud)
 
 Stars: 11
+
+Forks: 0
+
+License: MIT License
 
 a simple web library collection based net/http
 
@@ -2260,9 +3096,14 @@ a simple web library collection based net/http
 ## dlclark/regexp2
 
 Repository: [dlclark/regexp2](https://github.com/dlclark/regexp2)
+
 Author: [dlclark](https://github.com/dlclark)
 
 Stars: 501
+
+Forks: 56
+
+License: MIT License
 
 A full-featured regex engine in pure Go based on the .NET engine
 
@@ -2270,9 +3111,14 @@ A full-featured regex engine in pure Go based on the .NET engine
 ## dominikh/go-tools
 
 Repository: [dominikh/go-tools](https://github.com/dominikh/go-tools)
+
 Author: [dominikh](https://github.com/dominikh)
 
-Stars: 4595
+Stars: 4599
+
+Forks: 300
+
+License: Other
 
 Staticcheck - The advanced Go linter
 
@@ -2280,9 +3126,14 @@ Staticcheck - The advanced Go linter
 ## dop251/goja
 
 Repository: [dop251/goja](https://github.com/dop251/goja)
+
 Author: [dop251](https://github.com/dop251)
 
 Stars: 2829
+
+Forks: 230
+
+License: MIT License
 
 ECMAScript/JavaScript engine in pure Go
 
@@ -2290,9 +3141,14 @@ ECMAScript/JavaScript engine in pure Go
 ## dranikpg/dto-mapper
 
 Repository: [dranikpg/dto-mapper](https://github.com/dranikpg/dto-mapper)
+
 Author: [dranikpg](https://github.com/dranikpg)
 
 Stars: 11
+
+Forks: 0
+
+License: MIT License
 
 go library for complex struct mapping
 
@@ -2300,9 +3156,14 @@ go library for complex struct mapping
 ## dshulyak/uring
 
 Repository: [dshulyak/uring](https://github.com/dshulyak/uring)
+
 Author: [dshulyak](https://github.com/dshulyak)
 
 Stars: 111
+
+Forks: 10
+
+License: MIT License
 
 Golang library for io_uring framework (without CGO)
 
@@ -2310,9 +3171,14 @@ Golang library for io_uring framework (without CGO)
 ## duo-labs/webauthn
 
 Repository: [duo-labs/webauthn](https://github.com/duo-labs/webauthn)
+
 Author: [duo-labs](https://github.com/duo-labs)
 
 Stars: 777
+
+Forks: 140
+
+License: BSD 3-Clause "New" or "Revised" License
 
 WebAuthn (FIDO2) server library written in Go 
 
@@ -2320,9 +3186,14 @@ WebAuthn (FIDO2) server library written in Go
 ## dvyukov/go-fuzz
 
 Repository: [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz)
+
 Author: [dvyukov](https://github.com/dvyukov)
 
 Stars: 4384
+
+Forks: 268
+
+License: Apache License 2.0
 
 Randomized testing for Go
 
@@ -2330,9 +3201,14 @@ Randomized testing for Go
 ## edwingeng/wuid
 
 Repository: [edwingeng/wuid](https://github.com/edwingeng/wuid)
+
 Author: [edwingeng](https://github.com/edwingeng)
 
 Stars: 459
+
+Forks: 43
+
+License: BSD 3-Clause "New" or "Revised" License
 
 An extremely fast UUID alternative written in golang
 
@@ -2340,9 +3216,14 @@ An extremely fast UUID alternative written in golang
 ## egonelbre/exp
 
 Repository: [egonelbre/exp](https://github.com/egonelbre/exp)
+
 Author: [egonelbre](https://github.com/egonelbre)
 
 Stars: 37
+
+Forks: 7
+
+License: Other
 
 Experiments that do not fit into a separate repository.
 
@@ -2350,9 +3231,14 @@ Experiments that do not fit into a separate repository.
 ## egonelbre/gophers
 
 Repository: [egonelbre/gophers](https://github.com/egonelbre/gophers)
+
 Author: [egonelbre](https://github.com/egonelbre)
 
-Stars: 2709
+Stars: 2710
+
+Forks: 143
+
+License: Creative Commons Zero v1.0 Universal
 
 Free gophers
 
@@ -2360,9 +3246,14 @@ Free gophers
 ## el-mike/restrict
 
 Repository: [el-mike/restrict](https://github.com/el-mike/restrict)
+
 Author: [el-mike](https://github.com/el-mike)
 
 Stars: 29
+
+Forks: 2
+
+License: MIT License
 
 RBAC/ABAC authorization library for Go.
 
@@ -2370,9 +3261,14 @@ RBAC/ABAC authorization library for Go.
 ## elliotchance/c2go
 
 Repository: [elliotchance/c2go](https://github.com/elliotchance/c2go)
+
 Author: [elliotchance](https://github.com/elliotchance)
 
 Stars: 1807
+
+Forks: 143
+
+License: MIT License
 
 ⚖️ A tool for transpiling C to Go.
 
@@ -2380,9 +3276,14 @@ Stars: 1807
 ## eranyanay/1m-go-websockets
 
 Repository: [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets)
+
 Author: [eranyanay](https://github.com/eranyanay)
 
 Stars: 5038
+
+Forks: 526
+
+License: GNU Affero General Public License v3.0
 
 handling 1M websockets connections in Go
 
@@ -2390,9 +3291,14 @@ handling 1M websockets connections in Go
 ## ergo-services/ergo
 
 Repository: [ergo-services/ergo](https://github.com/ergo-services/ergo)
+
 Author: [ergo-services](https://github.com/ergo-services)
 
 Stars: 1343
+
+Forks: 77
+
+License: MIT License
 
 an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
 
@@ -2400,9 +3306,14 @@ an actor based Framework for creating microservices using technologies and desig
 ## ericlagergren/decimal
 
 Repository: [ericlagergren/decimal](https://github.com/ericlagergren/decimal)
+
 Author: [ericlagergren](https://github.com/ericlagergren)
 
 Stars: 403
+
+Forks: 52
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A high-performance, arbitrary-precision, floating-point decimal library.
 
@@ -2410,9 +3321,14 @@ A high-performance, arbitrary-precision, floating-point decimal library.
 ## esin/intheshell
 
 Repository: [esin/intheshell](https://github.com/esin/intheshell)
+
 Author: [esin](https://github.com/esin)
 
 Stars: 63
+
+Forks: 5
+
+License: Other
 
 Some Go and Linux magic 👻
 
@@ -2420,9 +3336,14 @@ Some Go and Linux magic 👻
 ## etcd-io/etcd
 
 Repository: [etcd-io/etcd](https://github.com/etcd-io/etcd)
+
 Author: [etcd-io](https://github.com/etcd-io)
 
-Stars: 39465
+Stars: 39471
+
+Forks: 8481
+
+License: Apache License 2.0
 
 Distributed reliable key-value store for the most critical data of a distributed system
 
@@ -2430,9 +3351,14 @@ Distributed reliable key-value store for the most critical data of a distributed
 ## evanphx/json-patch
 
 Repository: [evanphx/json-patch](https://github.com/evanphx/json-patch)
+
 Author: [evanphx](https://github.com/evanphx)
 
 Stars: 709
+
+Forks: 150
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A Go library to apply RFC6902 patches and create and apply RFC7386 patches
 
@@ -2440,19 +3366,44 @@ A Go library to apply RFC6902 patches and create and apply RFC7386 patches
 ## evanphx/wildcat
 
 Repository: [evanphx/wildcat](https://github.com/evanphx/wildcat)
+
 Author: [evanphx](https://github.com/evanphx)
 
 Stars: 53
 
+Forks: 9
+
+License: BSD 2-Clause "Simplified" License
+
 A golang zero-allocation HTTP parser (and eventually http server)
+
+<a name="repo-hk47xydcoeldymlgz5pkccgi"></a>
+## fasthttp/router
+
+Repository: [fasthttp/router](https://github.com/fasthttp/router)
+
+Author: [fasthttp](https://github.com/fasthttp)
+
+Stars: 311
+
+Forks: 35
+
+License: BSD 3-Clause "New" or "Revised" License
+
+Router implementation for fasthttp
 
 <a name="repo-d53gsrvachuwfgjancpvsbqn"></a>
 ## felixge/go-patch-overlay
 
 Repository: [felixge/go-patch-overlay](https://github.com/felixge/go-patch-overlay)
+
 Author: [felixge](https://github.com/felixge)
 
 Stars: 16
+
+Forks: 1
+
+License: Other
 
 WIP
 
@@ -2460,9 +3411,14 @@ WIP
 ## felixge/pprofutils
 
 Repository: [felixge/pprofutils](https://github.com/felixge/pprofutils)
+
 Author: [felixge](https://github.com/felixge)
 
 Stars: 98
+
+Forks: 12
+
+License: MIT License
 
 
 
@@ -2470,9 +3426,14 @@ Stars: 98
 ## flower-corp/lotusdb
 
 Repository: [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb)
+
 Author: [flower-corp](https://github.com/flower-corp)
 
-Stars: 628
+Stars: 635
+
+Forks: 54
+
+License: Apache License 2.0
 
 Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.
 
@@ -2480,9 +3441,14 @@ Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USEN
 ## fortio/fortio
 
 Repository: [fortio/fortio](https://github.com/fortio/fortio)
+
 Author: [fortio](https://github.com/fortio)
 
-Stars: 2450
+Stars: 2452
+
+Forks: 204
+
+License: Apache License 2.0
 
 Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 
@@ -2490,9 +3456,14 @@ Fortio load testing library, command line tool, advanced echo server and web UI 
 ## foxcpp/maddy
 
 Repository: [foxcpp/maddy](https://github.com/foxcpp/maddy)
+
 Author: [foxcpp](https://github.com/foxcpp)
 
-Stars: 2990
+Stars: 2992
+
+Forks: 129
+
+License: GNU General Public License v3.0
 
 ✉️ Composable all-in-one mail server.
 
@@ -2500,9 +3471,14 @@ Stars: 2990
 ## frankban/quicktest
 
 Repository: [frankban/quicktest](https://github.com/frankban/quicktest)
+
 Author: [frankban](https://github.com/frankban)
 
 Stars: 414
+
+Forks: 21
+
+License: MIT License
 
 Quick helpers for testing Go applications
 
@@ -2510,9 +3486,14 @@ Quick helpers for testing Go applications
 ## func25/slicesol
 
 Repository: [func25/slicesol](https://github.com/func25/slicesol)
+
 Author: [func25](https://github.com/func25)
 
 Stars: 4
+
+Forks: 0
+
+License: Other
 
 
 
@@ -2520,9 +3501,14 @@ Stars: 4
 ## fxamacker/circlehash
 
 Repository: [fxamacker/circlehash](https://github.com/fxamacker/circlehash)
+
 Author: [fxamacker](https://github.com/fxamacker)
 
 Stars: 14
+
+Forks: 2
+
+License: Apache License 2.0
 
 CircleHash is a family of fast hashes -- CircleHash64 is ideal for short inputs, reaching 10GB/s starting at <64 bytes and 15GB/s at 256 bytes (i7-1068NG7)
 
@@ -2530,9 +3516,14 @@ CircleHash is a family of fast hashes -- CircleHash64 is ideal for short inputs,
 ## geohot/minikeyvalue
 
 Repository: [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue)
+
 Author: [geohot](https://github.com/geohot)
 
-Stars: 2274
+Stars: 2275
+
+Forks: 179
+
+License: MIT License
 
 A distributed key value store in under 1000 lines. Used in production at comma.ai
 
@@ -2540,9 +3531,14 @@ A distributed key value store in under 1000 lines. Used in production at comma.a
 ## getporter/porter
 
 Repository: [getporter/porter](https://github.com/getporter/porter)
+
 Author: [getporter](https://github.com/getporter)
 
 Stars: 774
+
+Forks: 134
+
+License: Apache License 2.0
 
 Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 
@@ -2550,9 +3546,14 @@ Porter enables you to package your application artifact, client tools, configura
 ## gjbae1212/grpc-vpn
 
 Repository: [gjbae1212/grpc-vpn](https://github.com/gjbae1212/grpc-vpn)
+
 Author: [gjbae1212](https://github.com/gjbae1212)
 
 Stars: 47
+
+Forks: 5
+
+License: MIT License
 
 :mushroom: VPN supporting authentication such as Google OpenID Connect or AWS IAM ..., over GRPC. :shipit:
 
@@ -2560,9 +3561,14 @@ Stars: 47
 ## gjbae1212/hit-counter
 
 Repository: [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
+
 Author: [gjbae1212](https://github.com/gjbae1212)
 
 Stars: 568
+
+Forks: 56
+
+License: GNU General Public License v3.0
 
 :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
 
@@ -2570,9 +3576,14 @@ Stars: 568
 ## go-aah/aah
 
 Repository: [go-aah/aah](https://github.com/go-aah/aah)
+
 Author: [go-aah](https://github.com/go-aah)
 
 Stars: 667
+
+Forks: 38
+
+License: Other
 
 A secure, flexible, rapid Go web framework
 
@@ -2580,9 +3591,14 @@ A secure, flexible, rapid Go web framework
 ## go-critic/go-critic
 
 Repository: [go-critic/go-critic](https://github.com/go-critic/go-critic)
+
 Author: [go-critic](https://github.com/go-critic)
 
 Stars: 1270
+
+Forks: 96
+
+License: MIT License
 
 The most opinionated Go source code linter for code audit.
 
@@ -2590,9 +3606,14 @@ The most opinionated Go source code linter for code audit.
 ## go-delve/delve
 
 Repository: [go-delve/delve](https://github.com/go-delve/delve)
+
 Author: [go-delve](https://github.com/go-delve)
 
-Stars: 18245
+Stars: 18248
+
+Forks: 1858
+
+License: MIT License
 
 Delve is a debugger for the Go programming language.
 
@@ -2600,9 +3621,14 @@ Delve is a debugger for the Go programming language.
 ## go-goyave/goyave
 
 Repository: [go-goyave/goyave](https://github.com/go-goyave/goyave)
+
 Author: [go-goyave](https://github.com/go-goyave)
 
-Stars: 1007
+Stars: 1015
+
+Forks: 45
+
+License: MIT License
 
 🍐 Elegant Golang REST API Framework
 
@@ -2610,9 +3636,14 @@ Stars: 1007
 ## go-ole/go-ole
 
 Repository: [go-ole/go-ole](https://github.com/go-ole/go-ole)
+
 Author: [go-ole](https://github.com/go-ole)
 
 Stars: 845
+
+Forks: 156
+
+License: MIT License
 
 win32 ole implementation for golang
 
@@ -2620,9 +3651,14 @@ win32 ole implementation for golang
 ## go-pdf/fpdf
 
 Repository: [go-pdf/fpdf](https://github.com/go-pdf/fpdf)
+
 Author: [go-pdf](https://github.com/go-pdf)
 
 Stars: 125
+
+Forks: 11
+
+License: MIT License
 
 A PDF document generator with high level support for text, drawing and images
 
@@ -2630,9 +3666,14 @@ A PDF document generator with high level support for text, drawing and images
 ## go-pkgz/expirable-cache
 
 Repository: [go-pkgz/expirable-cache](https://github.com/go-pkgz/expirable-cache)
+
 Author: [go-pkgz](https://github.com/go-pkgz)
 
 Stars: 35
+
+Forks: 4
+
+License: MIT License
 
 Expirable Go LRC\LRU cache without goroutines
 
@@ -2640,9 +3681,14 @@ Expirable Go LRC\LRU cache without goroutines
 ## go-playground/form
 
 Repository: [go-playground/form](https://github.com/go-playground/form)
+
 Author: [go-playground](https://github.com/go-playground)
 
-Stars: 515
+Stars: 516
+
+Forks: 34
+
+License: MIT License
 
 :steam_locomotive: Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support.
 
@@ -2650,9 +3696,14 @@ Stars: 515
 ## go-sql-driver/mysql
 
 Repository: [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
+
 Author: [go-sql-driver](https://github.com/go-sql-driver)
 
-Stars: 12079
+Stars: 12081
+
+Forks: 2101
+
+License: Mozilla Public License 2.0
 
 Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 
@@ -2660,9 +3711,14 @@ Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 ## go-wasm-adapter/go-wasm
 
 Repository: [go-wasm-adapter/go-wasm](https://github.com/go-wasm-adapter/go-wasm)
+
 Author: [go-wasm-adapter](https://github.com/go-wasm-adapter)
 
 Stars: 55
+
+Forks: 10
+
+License: MIT License
 
 Run WASM built from Go in Go
 
@@ -2670,9 +3726,14 @@ Run WASM built from Go in Go
 ## go-www/h1
 
 Repository: [go-www/h1](https://github.com/go-www/h1)
+
 Author: [go-www](https://github.com/go-www)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Yet another HTTP/1.1 library
 
@@ -2680,9 +3741,14 @@ Yet another HTTP/1.1 library
 ## go-www/silverlining
 
 Repository: [go-www/silverlining](https://github.com/go-www/silverlining)
+
 Author: [go-www](https://github.com/go-www)
 
 Stars: 7
+
+Forks: 0
+
+License: The Unlicense
 
 Silverlining is a low-level HTTP Framework for Go Programming Language.
 
@@ -2690,9 +3756,14 @@ Silverlining is a low-level HTTP Framework for Go Programming Language.
 ## go-www/slrouter
 
 Repository: [go-www/slrouter](https://github.com/go-www/slrouter)
+
 Author: [go-www](https://github.com/go-www)
 
 Stars: 1
+
+Forks: 0
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A high performance HTTP request router that scales well
 
@@ -2700,9 +3771,14 @@ A high performance HTTP request router that scales well
 ## go-zepto/zepto
 
 Repository: [go-zepto/zepto](https://github.com/go-zepto/zepto)
+
 Author: [go-zepto](https://github.com/go-zepto)
 
 Stars: 115
+
+Forks: 6
+
+License: MIT License
 
 ⚡️Lightweight web framework written in go
 
@@ -2710,9 +3786,14 @@ Stars: 115
 ## go-zepto/zepto-cli
 
 Repository: [go-zepto/zepto-cli](https://github.com/go-zepto/zepto-cli)
+
 Author: [go-zepto](https://github.com/go-zepto)
 
 Stars: 9
+
+Forks: 2
+
+License: Other
 
 
 
@@ -2720,9 +3801,14 @@ Stars: 9
 ## go101/golds
 
 Repository: [go101/golds](https://github.com/go101/golds)
+
 Author: [go101](https://github.com/go101)
 
 Stars: 378
+
+Forks: 20
+
+License: MIT License
 
 An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 
@@ -2730,9 +3816,14 @@ An experimental Go local docs server/generator and code reader implemented with 
 ## goava/di
 
 Repository: [goava/di](https://github.com/goava/di)
+
 Author: [goava](https://github.com/goava)
 
 Stars: 145
+
+Forks: 9
+
+License: MIT License
 
 🛠 A full-featured dependency injection container for go programming language.
 
@@ -2740,9 +3831,14 @@ Stars: 145
 ## gobuffalo/buffalo
 
 Repository: [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo)
+
 Author: [gobuffalo](https://github.com/gobuffalo)
 
-Stars: 6677
+Stars: 6678
+
+Forks: 517
+
+License: MIT License
 
 Rapid Web Development w/ Go
 
@@ -2750,9 +3846,14 @@ Rapid Web Development w/ Go
 ## gobuffalo/plush
 
 Repository: [gobuffalo/plush](https://github.com/gobuffalo/plush)
+
 Author: [gobuffalo](https://github.com/gobuffalo)
 
 Stars: 700
+
+Forks: 47
+
+License: MIT License
 
 The powerful template system that Go needs
 
@@ -2760,9 +3861,14 @@ The powerful template system that Go needs
 ## gobwas/ws
 
 Repository: [gobwas/ws](https://github.com/gobwas/ws)
+
 Author: [gobwas](https://github.com/gobwas)
 
-Stars: 4487
+Stars: 4488
+
+Forks: 298
+
+License: MIT License
 
 Tiny WebSocket library for Go.
 
@@ -2770,9 +3876,14 @@ Tiny WebSocket library for Go.
 ## goccy/go-jit
 
 Repository: [goccy/go-jit](https://github.com/goccy/go-jit)
+
 Author: [goccy](https://github.com/goccy)
 
 Stars: 48
+
+Forks: 4
+
+License: MIT License
 
 JIT compile library for Go
 
@@ -2780,9 +3891,14 @@ JIT compile library for Go
 ## goccy/go-json
 
 Repository: [goccy/go-json](https://github.com/goccy/go-json)
+
 Author: [goccy](https://github.com/goccy)
 
-Stars: 1417
+Stars: 1418
+
+Forks: 51
+
+License: MIT License
 
 Fast JSON encoder/decoder compatible with encoding/json for Go
 
@@ -2790,9 +3906,14 @@ Fast JSON encoder/decoder compatible with encoding/json for Go
 ## goccy/go-reflect
 
 Repository: [goccy/go-reflect](https://github.com/goccy/go-reflect)
+
 Author: [goccy](https://github.com/goccy)
 
 Stars: 337
+
+Forks: 15
+
+License: MIT License
 
 Zero-allocation reflection library for Go
 
@@ -2800,9 +3921,14 @@ Zero-allocation reflection library for Go
 ## goccy/go-zetasql
 
 Repository: [goccy/go-zetasql](https://github.com/goccy/go-zetasql)
+
 Author: [goccy](https://github.com/goccy)
 
 Stars: 38
+
+Forks: 0
+
+License: Apache License 2.0
 
 Go bindings for ZetaSQL
 
@@ -2810,9 +3936,14 @@ Go bindings for ZetaSQL
 ## goccy/rebirth
 
 Repository: [goccy/rebirth](https://github.com/goccy/rebirth)
+
 Author: [goccy](https://github.com/goccy)
 
 Stars: 63
+
+Forks: 6
+
+License: MIT License
 
 Supports live reloading for Go
 
@@ -2820,9 +3951,14 @@ Supports live reloading for Go
 ## gofiber/fiber
 
 Repository: [gofiber/fiber](https://github.com/gofiber/fiber)
+
 Author: [gofiber](https://github.com/gofiber)
 
-Stars: 19445
+Stars: 19449
+
+Forks: 994
+
+License: MIT License
 
 ⚡️ Express inspired web framework written in Go
 
@@ -2830,9 +3966,14 @@ Stars: 19445
 ## golang-design/bench
 
 Repository: [golang-design/bench](https://github.com/golang-design/bench)
+
 Author: [golang-design](https://github.com/golang-design)
 
 Stars: 33
+
+Forks: 4
+
+License: GNU General Public License v3.0
 
 ⏱️ Reliable performance measurement for Go programs. All in one design.
 
@@ -2840,9 +3981,14 @@ Stars: 33
 ## golang-design/clipboard
 
 Repository: [golang-design/clipboard](https://github.com/golang-design/clipboard)
+
 Author: [golang-design](https://github.com/golang-design)
 
 Stars: 190
+
+Forks: 23
+
+License: MIT License
 
 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 
@@ -2850,9 +3996,14 @@ Stars: 190
 ## golang-design/lockfree
 
 Repository: [golang-design/lockfree](https://github.com/golang-design/lockfree)
+
 Author: [golang-design](https://github.com/golang-design)
 
 Stars: 60
+
+Forks: 12
+
+License: MIT License
 
 ⚡️  lock-free utilities in Go
 
@@ -2860,9 +4011,14 @@ Stars: 60
 ## golang-migrate/migrate
 
 Repository: [golang-migrate/migrate](https://github.com/golang-migrate/migrate)
+
 Author: [golang-migrate](https://github.com/golang-migrate)
 
-Stars: 8424
+Stars: 8426
+
+Forks: 908
+
+License: Other
 
 Database migrations. CLI and Golang library.
 
@@ -2870,9 +4026,14 @@ Database migrations. CLI and Golang library.
 ## golang/glog
 
 Repository: [golang/glog](https://github.com/golang/glog)
+
 Author: [golang](https://github.com/golang)
 
 Stars: 3151
+
+Forks: 860
+
+License: Apache License 2.0
 
 Leveled execution logs for Go
 
@@ -2880,9 +4041,14 @@ Leveled execution logs for Go
 ## golang/go
 
 Repository: [golang/go](https://github.com/golang/go)
+
 Author: [golang](https://github.com/golang)
 
-Stars: 97624
+Stars: 97634
+
+Forks: 14584
+
+License: Other
 
 The Go programming language
 
@@ -2890,9 +4056,14 @@ The Go programming language
 ## golang/gofrontend
 
 Repository: [golang/gofrontend](https://github.com/golang/gofrontend)
+
 Author: [golang](https://github.com/golang)
 
 Stars: 638
+
+Forks: 109
+
+License: Other
 
 Go compiler frontend (gccgo)
 
@@ -2900,9 +4071,14 @@ Go compiler frontend (gccgo)
 ## golang/groupcache
 
 Repository: [golang/groupcache](https://github.com/golang/groupcache)
+
 Author: [golang](https://github.com/golang)
 
-Stars: 11291
+Stars: 11293
+
+Forks: 1275
+
+License: Apache License 2.0
 
 groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 
@@ -2910,9 +4086,14 @@ groupcache is a caching and cache-filling library, intended as a replacement for
 ## golang/net
 
 Repository: [golang/net](https://github.com/golang/net)
+
 Author: [golang](https://github.com/golang)
 
 Stars: 2530
+
+Forks: 1035
+
+License: Other
 
 [mirror] Go supplementary network libraries
 
@@ -2920,9 +4101,14 @@ Stars: 2530
 ## golang/perf
 
 Repository: [golang/perf](https://github.com/golang/perf)
+
 Author: [golang](https://github.com/golang)
 
 Stars: 302
+
+Forks: 47
+
+License: Other
 
 [mirror] Performance measurement, storage, and analysis.
 
@@ -2930,9 +4116,14 @@ Stars: 302
 ## golang/pkgsite
 
 Repository: [golang/pkgsite](https://github.com/golang/pkgsite)
+
 Author: [golang](https://github.com/golang)
 
 Stars: 894
+
+Forks: 124
+
+License: Other
 
 [mirror] Home of the pkg.go.dev website
 
@@ -2940,9 +4131,14 @@ Stars: 894
 ## golang/proposal
 
 Repository: [golang/proposal](https://github.com/golang/proposal)
+
 Author: [golang](https://github.com/golang)
 
 Stars: 2861
+
+Forks: 385
+
+License: Other
 
 Go Project Design Documents
 
@@ -2950,9 +4146,14 @@ Go Project Design Documents
 ## golangkorea/gophercon-talks
 
 Repository: [golangkorea/gophercon-talks](https://github.com/golangkorea/gophercon-talks)
+
 Author: [golangkorea](https://github.com/golangkorea)
 
 Stars: 237
+
+Forks: 12
+
+License: Other
 
 Golang Korea 발표 자료 저장소
 
@@ -2960,9 +4161,14 @@ Golang Korea 발표 자료 저장소
 ## gomarkdown/markdown
 
 Repository: [gomarkdown/markdown](https://github.com/gomarkdown/markdown)
+
 Author: [gomarkdown](https://github.com/gomarkdown)
 
-Stars: 662
+Stars: 663
+
+Forks: 111
+
+License: Other
 
 markdown parser and HTML renderer for Go
 
@@ -2970,9 +4176,14 @@ markdown parser and HTML renderer for Go
 ## google/cel-go
 
 Repository: [google/cel-go](https://github.com/google/cel-go)
+
 Author: [google](https://github.com/google)
 
-Stars: 1123
+Stars: 1124
+
+Forks: 132
+
+License: Apache License 2.0
 
 Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 
@@ -2980,9 +4191,14 @@ Fast, portable, non-Turing complete expression evaluation with gradual typing (G
 ## google/go-licenses
 
 Repository: [google/go-licenses](https://github.com/google/go-licenses)
+
 Author: [google](https://github.com/google)
 
 Stars: 469
+
+Forks: 63
+
+License: Apache License 2.0
 
 Reports on the licenses used by a Go package and its dependencies.
 
@@ -2990,9 +4206,14 @@ Reports on the licenses used by a Go package and its dependencies.
 ## google/gopacket
 
 Repository: [google/gopacket](https://github.com/google/gopacket)
+
 Author: [google](https://github.com/google)
 
-Stars: 4748
+Stars: 4751
+
+Forks: 915
+
+License: Other
 
 Provides packet processing capabilities for Go
 
@@ -3000,9 +4221,14 @@ Provides packet processing capabilities for Go
 ## google/grumpy
 
 Repository: [google/grumpy](https://github.com/google/grumpy)
+
 Author: [google](https://github.com/google)
 
 Stars: 10459
+
+Forks: 676
+
+License: Apache License 2.0
 
 Grumpy is a Python to Go source code transcompiler and runtime.
 
@@ -3010,9 +4236,14 @@ Grumpy is a Python to Go source code transcompiler and runtime.
 ## google/gvisor
 
 Repository: [google/gvisor](https://github.com/google/gvisor)
+
 Author: [google](https://github.com/google)
 
-Stars: 12585
+Stars: 12588
+
+Forks: 1049
+
+License: Apache License 2.0
 
 Application Kernel for Containers
 
@@ -3020,9 +4251,14 @@ Application Kernel for Containers
 ## google/ko
 
 Repository: [google/ko](https://github.com/google/ko)
+
 Author: [google](https://github.com/google)
 
-Stars: 4335
+Stars: 4336
+
+Forks: 246
+
+License: Apache License 2.0
 
 Build and deploy Go applications on Kubernetes
 
@@ -3030,9 +4266,14 @@ Build and deploy Go applications on Kubernetes
 ## google/netstack
 
 Repository: [google/netstack](https://github.com/google/netstack)
+
 Author: [google](https://github.com/google)
 
 Stars: 2989
+
+Forks: 279
+
+License: Apache License 2.0
 
 IPv4 and IPv6 userland network stack
 
@@ -3040,9 +4281,14 @@ IPv4 and IPv6 userland network stack
 ## google/safehtml
 
 Repository: [google/safehtml](https://github.com/google/safehtml)
+
 Author: [google](https://github.com/google)
 
 Stars: 277
+
+Forks: 12
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Safe HTML for Go
 
@@ -3050,9 +4296,14 @@ Safe HTML for Go
 ## google/trillian
 
 Repository: [google/trillian](https://github.com/google/trillian)
+
 Author: [google](https://github.com/google)
 
 Stars: 2969
+
+Forks: 330
+
+License: Apache License 2.0
 
 A transparent, highly scalable and cryptographically verifiable data store.
 
@@ -3060,9 +4311,14 @@ A transparent, highly scalable and cryptographically verifiable data store.
 ## google/zoekt
 
 Repository: [google/zoekt](https://github.com/google/zoekt)
+
 Author: [google](https://github.com/google)
 
 Stars: 1479
+
+Forks: 121
+
+License: Apache License 2.0
 
 Fast trigram based code search  
 
@@ -3070,9 +4326,14 @@ Fast trigram based code search
 ## gookit/config
 
 Repository: [gookit/config](https://github.com/gookit/config)
+
 Author: [gookit](https://github.com/gookit)
 
 Stars: 337
+
+Forks: 40
+
+License: MIT License
 
 📝 Go config manage(load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合并，解析环境变量名
 
@@ -3080,9 +4341,14 @@ Stars: 337
 ## gookit/rux
 
 Repository: [gookit/rux](https://github.com/gookit/rux)
+
 Author: [gookit](https://github.com/gookit)
 
 Stars: 75
+
+Forks: 14
+
+License: MIT License
 
 ⚡ Rux is an simple and fast web framework. support route group, param route binding, middleware, compatible http.Handler interface. 简单且快速的 Go api/web 框架，支持路由分组，路由参数绑定，中间件，兼容 http.Handler 接口
 
@@ -3090,9 +4356,14 @@ Stars: 75
 ## goplus/gossa
 
 Repository: [goplus/gossa](https://github.com/goplus/gossa)
+
 Author: [goplus](https://github.com/goplus)
 
 Stars: 27
+
+Forks: 4
+
+License: Apache License 2.0
 
 A Golang SSA Interpreter
 
@@ -3100,9 +4371,14 @@ A Golang SSA Interpreter
 ## goplus/gox
 
 Repository: [goplus/gox](https://github.com/goplus/gox)
+
 Author: [goplus](https://github.com/goplus)
 
-Stars: 102
+Stars: 101
+
+Forks: 19
+
+License: Apache License 2.0
 
 Code generator for the Go language
 
@@ -3110,9 +4386,14 @@ Code generator for the Go language
 ## gordonklaus/portaudio
 
 Repository: [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio)
+
 Author: [gordonklaus](https://github.com/gordonklaus)
 
-Stars: 499
+Stars: 500
+
+Forks: 76
+
+License: MIT License
 
 Go bindings for the PortAudio audio I/O library
 
@@ -3120,9 +4401,14 @@ Go bindings for the PortAudio audio I/O library
 ## gorgonia/gorgonia
 
 Repository: [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia)
+
 Author: [gorgonia](https://github.com/gorgonia)
 
-Stars: 4464
+Stars: 4465
+
+Forks: 377
+
+License: Apache License 2.0
 
 Gorgonia is a library that helps facilitate machine learning in Go.
 
@@ -3130,9 +4416,14 @@ Gorgonia is a library that helps facilitate machine learning in Go.
 ## gotestyourself/gotest.tools
 
 Repository: [gotestyourself/gotest.tools](https://github.com/gotestyourself/gotest.tools)
+
 Author: [gotestyourself](https://github.com/gotestyourself)
 
 Stars: 295
+
+Forks: 38
+
+License: Other
 
 A collection of packages to augment the go testing package and support common patterns.
 
@@ -3140,9 +4431,14 @@ A collection of packages to augment the go testing package and support common pa
 ## grafana/rollout-operator
 
 Repository: [grafana/rollout-operator](https://github.com/grafana/rollout-operator)
+
 Author: [grafana](https://github.com/grafana)
 
 Stars: 27
+
+Forks: 1
+
+License: GNU Affero General Public License v3.0
 
 Kubernetes Rollout Operator
 
@@ -3150,9 +4446,14 @@ Kubernetes Rollout Operator
 ## gwuhaolin/livego
 
 Repository: [gwuhaolin/livego](https://github.com/gwuhaolin/livego)
+
 Author: [gwuhaolin](https://github.com/gwuhaolin)
 
-Stars: 7757
+Stars: 7760
+
+Forks: 1680
+
+License: MIT License
 
 live video streaming server in golang
 
@@ -3160,9 +4461,14 @@ live video streaming server in golang
 ## hangulize/hangulize
 
 Repository: [hangulize/hangulize](https://github.com/hangulize/hangulize)
+
 Author: [hangulize](https://github.com/hangulize)
 
 Stars: 173
+
+Forks: 9
+
+License: MIT License
 
 Hangulize transcribes non-Korean words into Hangul
 
@@ -3170,9 +4476,14 @@ Hangulize transcribes non-Korean words into Hangul
 ## hashicorp/raft
 
 Repository: [hashicorp/raft](https://github.com/hashicorp/raft)
+
 Author: [hashicorp](https://github.com/hashicorp)
 
 Stars: 5806
+
+Forks: 779
+
+License: Mozilla Public License 2.0
 
 Golang implementation of the Raft consensus protocol
 
@@ -3180,9 +4491,14 @@ Golang implementation of the Raft consensus protocol
 ## hashicorp/raft-boltdb
 
 Repository: [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb)
+
 Author: [hashicorp](https://github.com/hashicorp)
 
 Stars: 459
+
+Forks: 99
+
+License: Mozilla Public License 2.0
 
 Raft backend implementation using BoltDB
 
@@ -3190,9 +4506,14 @@ Raft backend implementation using BoltDB
 ## hashicorp/vault
 
 Repository: [hashicorp/vault](https://github.com/hashicorp/vault)
+
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 23900
+Stars: 23902
+
+Forks: 3307
+
+License: Mozilla Public License 2.0
 
 A tool for secrets management, encryption as a service, and privileged access management
 
@@ -3200,9 +4521,14 @@ A tool for secrets management, encryption as a service, and privileged access ma
 ## henvic/httpretty
 
 Repository: [henvic/httpretty](https://github.com/henvic/httpretty)
+
 Author: [henvic](https://github.com/henvic)
 
 Stars: 253
+
+Forks: 9
+
+License: MIT License
 
 Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
 
@@ -3210,9 +4536,14 @@ Package httpretty prints the HTTP requests you make with Go pretty on your termi
 ## i-love-flamingo/flamingo
 
 Repository: [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo)
+
 Author: [i-love-flamingo](https://github.com/i-love-flamingo)
 
-Stars: 288
+Stars: 289
+
+Forks: 34
+
+License: MIT License
 
 Flamingo Framework and Core Library. Flamingo is a go based framework for pluggable web projects. It is used to build scalable and maintainable (web)applications.
 
@@ -3220,9 +4551,14 @@ Flamingo Framework and Core Library. Flamingo is a go based framework for plugga
 ## ignite-hq/cli
 
 Repository: [ignite-hq/cli](https://github.com/ignite-hq/cli)
+
 Author: [ignite-hq](https://github.com/ignite-hq)
 
 Stars: 709
+
+Forks: 327
+
+License: Other
 
 Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 
@@ -3230,9 +4566,14 @@ Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto 
 ## imbue11235/humanize
 
 Repository: [imbue11235/humanize](https://github.com/imbue11235/humanize)
+
 Author: [imbue11235](https://github.com/imbue11235)
 
 Stars: 73
+
+Forks: 1
+
+License: MIT License
 
 A collection of utility functions, with built-in localization, for humanizing various types of data input
 
@@ -3240,9 +4581,14 @@ A collection of utility functions, with built-in localization, for humanizing va
 ## inancgumus/learngo
 
 Repository: [inancgumus/learngo](https://github.com/inancgumus/learngo)
+
 Author: [inancgumus](https://github.com/inancgumus)
 
 Stars: 13141
+
+Forks: 1726
+
+License: Other
 
 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 
@@ -3250,9 +4596,14 @@ Stars: 13141
 ## inelpandzic/imdgo
 
 Repository: [inelpandzic/imdgo](https://github.com/inelpandzic/imdgo)
+
 Author: [inelpandzic](https://github.com/inelpandzic)
 
 Stars: 45
+
+Forks: 3
+
+License: MIT License
 
 A simple In-Memory Data Grid in Go
 
@@ -3260,9 +4611,14 @@ A simple In-Memory Data Grid in Go
 ## inkeliz/go_inkwasm
 
 Repository: [inkeliz/go_inkwasm](https://github.com/inkeliz/go_inkwasm)
+
 Author: [inkeliz](https://github.com/inkeliz)
 
 Stars: 15
+
+Forks: 1
+
+License: MIT License
 
 Faster alternative to `syscall/js`. Up to 2x faster than native syscall/js.
 
@@ -3270,9 +4626,14 @@ Faster alternative to `syscall/js`. Up to 2x faster than native syscall/js.
 ## istio/istio
 
 Repository: [istio/istio](https://github.com/istio/istio)
+
 Author: [istio](https://github.com/istio)
 
-Stars: 29952
+Stars: 29956
+
+Forks: 6240
+
+License: Apache License 2.0
 
 Connect, secure, control, and observe services.
 
@@ -3280,9 +4641,14 @@ Connect, secure, control, and observe services.
 ## ixy-languages/ixy.go
 
 Repository: [ixy-languages/ixy.go](https://github.com/ixy-languages/ixy.go)
+
 Author: [ixy-languages](https://github.com/ixy-languages)
 
 Stars: 159
+
+Forks: 10
+
+License: MIT License
 
 Go rewrite of the ixy network driver
 
@@ -3290,9 +4656,14 @@ Go rewrite of the ixy network driver
 ## jackc/tern
 
 Repository: [jackc/tern](https://github.com/jackc/tern)
+
 Author: [jackc](https://github.com/jackc)
 
 Stars: 413
+
+Forks: 38
+
+License: MIT License
 
 The SQL Fan's Migrator
 
@@ -3300,9 +4671,14 @@ The SQL Fan's Migrator
 ## jesseduffield/lazygit
 
 Repository: [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+
 Author: [jesseduffield](https://github.com/jesseduffield)
 
-Stars: 26671
+Stars: 26688
+
+Forks: 1042
+
+License: MIT License
 
 simple terminal UI for git commands
 
@@ -3310,9 +4686,14 @@ simple terminal UI for git commands
 ## jfyne/live
 
 Repository: [jfyne/live](https://github.com/jfyne/live)
+
 Author: [jfyne](https://github.com/jfyne)
 
 Stars: 361
+
+Forks: 17
+
+License: MIT License
 
 Live views and components for golang
 
@@ -3320,9 +4701,14 @@ Live views and components for golang
 ## jondot/goweight
 
 Repository: [jondot/goweight](https://github.com/jondot/goweight)
+
 Author: [jondot](https://github.com/jondot)
 
 Stars: 1481
+
+Forks: 44
+
+License: MIT License
 
 A tool to analyze and troubleshoot a Go binary size.
 
@@ -3330,9 +4716,14 @@ A tool to analyze and troubleshoot a Go binary size.
 ## json-iterator/go
 
 Repository: [json-iterator/go](https://github.com/json-iterator/go)
+
 Author: [json-iterator](https://github.com/json-iterator)
 
-Stars: 10680
+Stars: 10684
+
+Forks: 868
+
+License: MIT License
 
 A high-performance 100% compatible drop-in replacement of "encoding/json"
 
@@ -3340,9 +4731,14 @@ A high-performance 100% compatible drop-in replacement of "encoding/json"
 ## juicedata/juicefs
 
 Repository: [juicedata/juicefs](https://github.com/juicedata/juicefs)
+
 Author: [juicedata](https://github.com/juicedata)
 
-Stars: 5156
+Stars: 5159
+
+Forks: 458
+
+License: Apache License 2.0
 
 JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
@@ -3350,9 +4746,14 @@ JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 ## julienschmidt/httprouter
 
 Repository: [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)
+
 Author: [julienschmidt](https://github.com/julienschmidt)
 
 Stars: 13898
+
+Forks: 1332
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A high performance HTTP request router that scales well
 
@@ -3360,9 +4761,14 @@ A high performance HTTP request router that scales well
 ## junegunn/fzf
 
 Repository: [junegunn/fzf](https://github.com/junegunn/fzf)
+
 Author: [junegunn](https://github.com/junegunn)
 
-Stars: 43437
+Stars: 43441
+
+Forks: 1897
+
+License: MIT License
 
 :cherry_blossom: A command-line fuzzy finder
 
@@ -3370,9 +4776,14 @@ Stars: 43437
 ## karlseguin/ccache
 
 Repository: [karlseguin/ccache](https://github.com/karlseguin/ccache)
+
 Author: [karlseguin](https://github.com/karlseguin)
 
 Stars: 901
+
+Forks: 105
+
+License: MIT License
 
 A golang LRU Cache for high concurrency
 
@@ -3380,9 +4791,14 @@ A golang LRU Cache for high concurrency
 ## kavu/go_reuseport
 
 Repository: [kavu/go_reuseport](https://github.com/kavu/go_reuseport)
+
 Author: [kavu](https://github.com/kavu)
 
 Stars: 530
+
+Forks: 70
+
+License: MIT License
 
 Brings SO_REUSEPORT into your Go server
 
@@ -3390,9 +4806,14 @@ Brings SO_REUSEPORT into your Go server
 ## kevburnsjr/skipfilter
 
 Repository: [kevburnsjr/skipfilter](https://github.com/kevburnsjr/skipfilter)
+
 Author: [kevburnsjr](https://github.com/kevburnsjr)
 
 Stars: 20
+
+Forks: 0
+
+License: MIT License
 
 An inverted bitmap index written in Go.
 
@@ -3400,9 +4821,14 @@ An inverted bitmap index written in Go.
 ## kevinburke/nacl
 
 Repository: [kevinburke/nacl](https://github.com/kevinburke/nacl)
+
 Author: [kevinburke](https://github.com/kevinburke)
 
 Stars: 523
+
+Forks: 29
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Pure Go implementation of the NaCL set of API's
 
@@ -3410,9 +4836,14 @@ Pure Go implementation of the NaCL set of API's
 ## keybase/saltpack
 
 Repository: [keybase/saltpack](https://github.com/keybase/saltpack)
+
 Author: [keybase](https://github.com/keybase)
 
 Stars: 934
+
+Forks: 62
+
+License: BSD 3-Clause "New" or "Revised" License
 
 a modern crypto messaging format
 
@@ -3420,9 +4851,14 @@ a modern crypto messaging format
 ## kffl/gocannon
 
 Repository: [kffl/gocannon](https://github.com/kffl/gocannon)
+
 Author: [kffl](https://github.com/kffl)
 
 Stars: 53
+
+Forks: 3
+
+License: Apache License 2.0
 
 :boom: Performance-focused HTTP load testing tool written in Go
 
@@ -3430,9 +4866,14 @@ Stars: 53
 ## klauspost/compress
 
 Repository: [klauspost/compress](https://github.com/klauspost/compress)
+
 Author: [klauspost](https://github.com/klauspost)
 
-Stars: 2693
+Stars: 2695
+
+Forks: 201
+
+License: Other
 
 Optimized Go Compression Packages
 
@@ -3440,9 +4881,14 @@ Optimized Go Compression Packages
 ## klauspost/pgzip
 
 Repository: [klauspost/pgzip](https://github.com/klauspost/pgzip)
+
 Author: [klauspost](https://github.com/klauspost)
 
 Stars: 924
+
+Forks: 67
+
+License: Other
 
 Go parallel gzip (de)compression
 
@@ -3450,9 +4896,14 @@ Go parallel gzip (de)compression
 ## knative/serving
 
 Repository: [knative/serving](https://github.com/knative/serving)
+
 Author: [knative](https://github.com/knative)
 
 Stars: 4427
+
+Forks: 910
+
+License: Apache License 2.0
 
 Kubernetes-based, scale-to-zero, request-driven compute
 
@@ -3460,9 +4911,14 @@ Kubernetes-based, scale-to-zero, request-driven compute
 ## kortschak/goroutine
 
 Repository: [kortschak/goroutine](https://github.com/kortschak/goroutine)
+
 Author: [kortschak](https://github.com/kortschak)
 
 Stars: 35
+
+Forks: 5
+
+License: Other
 
 Package for getting the runtime ID of a goroutine
 
@@ -3470,9 +4926,14 @@ Package for getting the runtime ID of a goroutine
 ## kpango/fastime
 
 Repository: [kpango/fastime](https://github.com/kpango/fastime)
+
 Author: [kpango](https://github.com/kpango)
 
 Stars: 34
+
+Forks: 9
+
+License: MIT License
 
 Blazing fast time function library for Go with zero memory allocation. fastime returns the approximate time.
 
@@ -3480,9 +4941,14 @@ Blazing fast time function library for Go with zero memory allocation. fastime r
 ## kpango/glg
 
 Repository: [kpango/glg](https://github.com/kpango/glg)
+
 Author: [kpango](https://github.com/kpango)
 
 Stars: 146
+
+Forks: 13
+
+License: MIT License
 
 Simple and blazing fast lockfree logging library for golang
 
@@ -3490,9 +4956,14 @@ Simple and blazing fast lockfree logging library for golang
 ## ksrichard/easyraft
 
 Repository: [ksrichard/easyraft](https://github.com/ksrichard/easyraft)
+
 Author: [ksrichard](https://github.com/ksrichard)
 
 Stars: 57
+
+Forks: 5
+
+License: Apache License 2.0
 
 Easy to use Raft library to make your app distributed, highly available and fault-tolerant
 
@@ -3500,9 +4971,14 @@ Easy to use Raft library to make your app distributed, highly available and faul
 ## kubemq-io/kubemq-community
 
 Repository: [kubemq-io/kubemq-community](https://github.com/kubemq-io/kubemq-community)
+
 Author: [kubemq-io](https://github.com/kubemq-io)
 
 Stars: 439
+
+Forks: 32
+
+License: Apache License 2.0
 
 KubeMQ is a Kubernetes native message queue broker
 
@@ -3510,9 +4986,14 @@ KubeMQ is a Kubernetes native message queue broker
 ## kubernetes/kubernetes
 
 Repository: [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+
 Author: [kubernetes](https://github.com/kubernetes)
 
-Stars: 87253
+Stars: 87266
+
+Forks: 32048
+
+License: Apache License 2.0
 
 Production-Grade Container Scheduling and Management
 
@@ -3520,9 +5001,14 @@ Production-Grade Container Scheduling and Management
 ## kumahq/kuma
 
 Repository: [kumahq/kuma](https://github.com/kumahq/kuma)
+
 Author: [kumahq](https://github.com/kumahq)
 
 Stars: 2682
+
+Forks: 227
+
+License: Apache License 2.0
 
 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
 
@@ -3530,9 +5016,14 @@ Stars: 2682
 ## kyoto-framework/kyoto
 
 Repository: [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto)
+
 Author: [kyoto-framework](https://github.com/kyoto-framework)
 
 Stars: 486
+
+Forks: 24
+
+License: MIT License
 
 Golang SSR-first Frontend Library
 
@@ -3540,9 +5031,14 @@ Golang SSR-first Frontend Library
 ## kyroy/kdtree
 
 Repository: [kyroy/kdtree](https://github.com/kyroy/kdtree)
+
 Author: [kyroy](https://github.com/kyroy)
 
 Stars: 98
+
+Forks: 18
+
+License: Apache License 2.0
 
 A k-d tree implementation in Go.
 
@@ -3550,9 +5046,14 @@ A k-d tree implementation in Go.
 ## labstack/echox
 
 Repository: [labstack/echox](https://github.com/labstack/echox)
+
 Author: [labstack](https://github.com/labstack)
 
 Stars: 340
+
+Forks: 253
+
+License: MIT License
 
 Echo cookbook and website
 
@@ -3560,9 +5061,14 @@ Echo cookbook and website
 ## ledongthuc/goterators
 
 Repository: [ledongthuc/goterators](https://github.com/ledongthuc/goterators)
+
 Author: [ledongthuc](https://github.com/ledongthuc)
 
 Stars: 69
+
+Forks: 9
+
+License: MIT License
 
 A utility library that supports aggregate & transforms functions Go with generic. Such as filter, map, reduce, find, exist
 
@@ -3570,9 +5076,14 @@ A utility library that supports aggregate & transforms functions Go with generic
 ## lemon-mint/HighCrypt
 
 Repository: [lemon-mint/HighCrypt](https://github.com/lemon-mint/HighCrypt)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 A crypto stack built with a proven cryptographic algorithm
 
@@ -3580,9 +5091,14 @@ A crypto stack built with a proven cryptographic algorithm
 ## lemon-mint/Light-File-Crypt
 
 Repository: [lemon-mint/Light-File-Crypt](https://github.com/lemon-mint/Light-File-Crypt)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 Lightweight file encryption software
 
@@ -3590,9 +5106,14 @@ Lightweight file encryption software
 ## lemon-mint/Tiny-Auth-Service
 
 Repository: [lemon-mint/Tiny-Auth-Service](https://github.com/lemon-mint/Tiny-Auth-Service)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 Multipurpose external authentication server made with Go
 
@@ -3600,9 +5121,14 @@ Multipurpose external authentication server made with Go
 ## lemon-mint/VivaceJSON
 
 Repository: [lemon-mint/VivaceJSON](https://github.com/lemon-mint/VivaceJSON)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 7
+
+Forks: 0
+
+License: The Unlicense
 
 Slow and unreliable JSON parser generator (in progress)
 
@@ -3610,9 +5136,14 @@ Slow and unreliable JSON parser generator (in progress)
 ## lemon-mint/alertbot-telegram
 
 Repository: [lemon-mint/alertbot-telegram](https://github.com/lemon-mint/alertbot-telegram)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: GNU General Public License v3.0
 
 
 
@@ -3620,9 +5151,14 @@ Stars: 1
 ## lemon-mint/atomic-counter
 
 Repository: [lemon-mint/atomic-counter](https://github.com/lemon-mint/atomic-counter)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Kubernetes test app
 
@@ -3630,9 +5166,14 @@ Kubernetes test app
 ## lemon-mint/badge-renderers.go
 
 Repository: [lemon-mint/badge-renderers.go](https://github.com/lemon-mint/badge-renderers.go)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: Creative Commons Zero v1.0 Universal
 
 
 
@@ -3640,9 +5181,14 @@ Stars: 2
 ## lemon-mint/bin2jpg
 
 Repository: [lemon-mint/bin2jpg](https://github.com/lemon-mint/bin2jpg)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 4
+
+Forks: 0
+
+License: MIT License
 
 bin2jpg
 
@@ -3650,9 +5196,14 @@ bin2jpg
 ## lemon-mint/blackmagic
 
 Repository: [lemon-mint/blackmagic](https://github.com/lemon-mint/blackmagic)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 3
+
+Forks: 0
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A collection of projects rejected by the community
 
@@ -3660,9 +5211,14 @@ A collection of projects rejected by the community
 ## lemon-mint/cgoStudy
 
 Repository: [lemon-mint/cgoStudy](https://github.com/lemon-mint/cgoStudy)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -3670,9 +5226,14 @@ Stars: 1
 ## lemon-mint/challenge-server
 
 Repository: [lemon-mint/challenge-server](https://github.com/lemon-mint/challenge-server)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Server that separates normal and malicious traffic
 
@@ -3680,9 +5241,14 @@ Server that separates normal and malicious traffic
 ## lemon-mint/clipsync-client
 
 Repository: [lemon-mint/clipsync-client](https://github.com/lemon-mint/clipsync-client)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 1
+
+License: MIT License
 
 clipboard sync client
 
@@ -3690,9 +5256,14 @@ clipboard sync client
 ## lemon-mint/event-broker
 
 Repository: [lemon-mint/event-broker](https://github.com/lemon-mint/event-broker)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 3
+
+Forks: 1
+
+License: MIT License
 
 Server-side push server based on websocket
 
@@ -3700,9 +5271,14 @@ Server-side push server based on websocket
 ## lemon-mint/frameio
 
 Repository: [lemon-mint/frameio](https://github.com/lemon-mint/frameio)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -3710,9 +5286,14 @@ Stars: 1
 ## lemon-mint/go-datastructures
 
 Repository: [lemon-mint/go-datastructures](https://github.com/lemon-mint/go-datastructures)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: Apache License 2.0
 
 A collection of useful, performant, and threadsafe Go datastructures.
 
@@ -3720,9 +5301,14 @@ A collection of useful, performant, and threadsafe Go datastructures.
 ## lemon-mint/go-eventws
 
 Repository: [lemon-mint/go-eventws](https://github.com/lemon-mint/go-eventws)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Event-based WebSocket
 
@@ -3730,9 +5316,14 @@ Event-based WebSocket
 ## lemon-mint/go-websocket-study-chat
 
 Repository: [lemon-mint/go-websocket-study-chat](https://github.com/lemon-mint/go-websocket-study-chat)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: The Unlicense
 
 A simple chat demo that works with the go language echo framework and websocket
 
@@ -3740,9 +5331,14 @@ A simple chat demo that works with the go language echo framework and websocket
 ## lemon-mint/go-worker
 
 Repository: [lemon-mint/go-worker](https://github.com/lemon-mint/go-worker)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Extremely fast and efficient task pool library for Goroutine
 
@@ -3750,9 +5346,14 @@ Extremely fast and efficient task pool library for Goroutine
 ## lemon-mint/godotenv
 
 Repository: [lemon-mint/godotenv](https://github.com/lemon-mint/godotenv)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 1
+
+License: The Unlicense
 
 .env file loader for Go
 
@@ -3760,9 +5361,14 @@ Stars: 1
 ## lemon-mint/gokorean
 
 Repository: [lemon-mint/gokorean](https://github.com/lemon-mint/gokorean)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Korean Pronunciation analyzer for search engine
 
@@ -3770,9 +5376,14 @@ Korean Pronunciation analyzer for search engine
 ## lemon-mint/gopark
 
 Repository: [lemon-mint/gopark](https://github.com/lemon-mint/gopark)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: BSD 3-Clause "New" or "Revised" License
 
 goroutine parking lib
 
@@ -3780,9 +5391,14 @@ goroutine parking lib
 ## lemon-mint/htmlvdom
 
 Repository: [lemon-mint/htmlvdom](https://github.com/lemon-mint/htmlvdom)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 Virtual DOM
 
@@ -3790,9 +5406,14 @@ Virtual DOM
 ## lemon-mint/lemonlog-server
 
 Repository: [lemon-mint/lemonlog-server](https://github.com/lemon-mint/lemonlog-server)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Logging server written in Go aiming to be light and good for low latency
 
@@ -3800,9 +5421,14 @@ Logging server written in Go aiming to be light and good for low latency
 ## lemon-mint/lemonmq
 
 Repository: [lemon-mint/lemonmq](https://github.com/lemon-mint/lemonmq)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 lemonmq : Lightweight general purpose message queue server
 
@@ -3810,9 +5436,14 @@ lemonmq : Lightweight general purpose message queue server
 ## lemon-mint/lemonwork
 
 Repository: [lemon-mint/lemonwork](https://github.com/lemon-mint/lemonwork)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 High-performance Epoll/Kqueue library for Go
 
@@ -3820,9 +5451,14 @@ High-performance Epoll/Kqueue library for Go
 ## lemon-mint/libuseful
 
 Repository: [lemon-mint/libuseful](https://github.com/lemon-mint/libuseful)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 3
+
+Forks: 0
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A collection of useful Go runtime functions
 
@@ -3830,9 +5466,14 @@ A collection of useful Go runtime functions
 ## lemon-mint/linbuf
 
 Repository: [lemon-mint/linbuf](https://github.com/lemon-mint/linbuf)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 linear buffer
 
@@ -3840,9 +5481,14 @@ linear buffer
 ## lemon-mint/lvm2
 
 Repository: [lemon-mint/lvm2](https://github.com/lemon-mint/lvm2)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: The Unlicense
 
 lemon VM 2
 
@@ -3850,9 +5496,14 @@ lemon VM 2
 ## lemon-mint/m
 
 Repository: [lemon-mint/m](https://github.com/lemon-mint/m)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: The Unlicense
 
 Generic programming in Go
 
@@ -3860,9 +5511,14 @@ Generic programming in Go
 ## lemon-mint/macaronsign
 
 Repository: [lemon-mint/macaronsign](https://github.com/lemon-mint/macaronsign)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 Library for signing and encrypting HTTP cookies Or you can use it when you want to create some authenticated string.
 
@@ -3870,9 +5526,14 @@ Library for signing and encrypting HTTP cookies Or you can use it when you want 
 ## lemon-mint/open-backend
 
 Repository: [lemon-mint/open-backend](https://github.com/lemon-mint/open-backend)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 4
+
+Forks: 1
+
+License: MIT License
 
 Open Source Backend Server Templates
 
@@ -3880,9 +5541,14 @@ Open Source Backend Server Templates
 ## lemon-mint/real-time
 
 Repository: [lemon-mint/real-time](https://github.com/lemon-mint/real-time)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 3
+
+Forks: 0
+
+License: The Unlicense
 
 realtime time display
 
@@ -3890,9 +5556,14 @@ realtime time display
 ## lemon-mint/simpleproxy
 
 Repository: [lemon-mint/simpleproxy](https://github.com/lemon-mint/simpleproxy)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Really simple proxy server
 
@@ -3900,9 +5571,14 @@ Really simple proxy server
 ## lemon-mint/slowtable
 
 Repository: [lemon-mint/slowtable](https://github.com/lemon-mint/slowtable)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 Slow and Unoptimized hash table
 
@@ -3910,9 +5586,14 @@ Slow and Unoptimized hash table
 ## lemon-mint/stars
 
 Repository: [lemon-mint/stars](https://github.com/lemon-mint/stars)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 1
+
+License: Other
 
 
 
@@ -3920,9 +5601,14 @@ Stars: 1
 ## lemon-mint/unlock
 
 Repository: [lemon-mint/unlock](https://github.com/lemon-mint/unlock)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -3930,9 +5616,14 @@ Stars: 2
 ## lemon-mint/vbox
 
 Repository: [lemon-mint/vbox](https://github.com/lemon-mint/vbox)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: The Unlicense
 
 encrypted black box
 
@@ -3940,9 +5631,14 @@ encrypted black box
 ## lemon-mint/vstruct
 
 Repository: [lemon-mint/vstruct](https://github.com/lemon-mint/vstruct)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 3
+
+Forks: 1
+
+License: MIT License
 
 Code Generation Based High Speed Data Serialization Tool
 
@@ -3950,9 +5646,14 @@ Code Generation Based High Speed Data Serialization Tool
 ## lemon-mint/webauthn-demo-server
 
 Repository: [lemon-mint/webauthn-demo-server](https://github.com/lemon-mint/webauthn-demo-server)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 14
+
+Forks: 2
+
+License: MIT License
 
 Backend server of Webauthn demo page written in Go language
 
@@ -3960,9 +5661,14 @@ Backend server of Webauthn demo page written in Go language
 ## lesismal/arpc
 
 Repository: [lesismal/arpc](https://github.com/lesismal/arpc)
+
 Author: [lesismal](https://github.com/lesismal)
 
 Stars: 495
+
+Forks: 51
+
+License: MIT License
 
 More effective network communication, two-way calling, notify and broadcast supported.
 
@@ -3970,9 +5676,14 @@ More effective network communication, two-way calling, notify and broadcast supp
 ## lesismal/llib
 
 Repository: [lesismal/llib](https://github.com/lesismal/llib)
+
 Author: [lesismal](https://github.com/lesismal)
 
 Stars: 8
+
+Forks: 8
+
+License: BSD 3-Clause "New" or "Revised" License
 
 
 
@@ -3980,9 +5691,14 @@ Stars: 8
 ## lesismal/nbio
 
 Repository: [lesismal/nbio](https://github.com/lesismal/nbio)
+
 Author: [lesismal](https://github.com/lesismal)
 
-Stars: 626
+Stars: 627
+
+Forks: 64
+
+License: MIT License
 
 Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 
@@ -3990,9 +5706,14 @@ Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically
 ## lestrrat-go/xstrings
 
 Repository: [lestrrat-go/xstrings](https://github.com/lestrrat-go/xstrings)
+
 Author: [lestrrat-go](https://github.com/lestrrat-go)
 
 Stars: 24
+
+Forks: 3
+
+License: MIT License
 
 Unicode-aware string utilities for Go
 
@@ -4000,9 +5721,14 @@ Unicode-aware string utilities for Go
 ## liamg/traitor
 
 Repository: [liamg/traitor](https://github.com/liamg/traitor)
+
 Author: [liamg](https://github.com/liamg)
 
-Stars: 5096
+Stars: 5098
+
+Forks: 342
+
+License: MIT License
 
 :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 
@@ -4010,9 +5736,14 @@ Stars: 5096
 ## lib/pq
 
 Repository: [lib/pq](https://github.com/lib/pq)
+
 Author: [lib](https://github.com/lib)
 
 Stars: 7222
+
+Forks: 844
+
+License: Other
 
 Pure Go Postgres driver for database/sql
 
@@ -4020,9 +5751,14 @@ Pure Go Postgres driver for database/sql
 ## libp2p/go-libp2p
 
 Repository: [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)
+
 Author: [libp2p](https://github.com/libp2p)
 
-Stars: 4340
+Stars: 4343
+
+Forks: 699
+
+License: MIT License
 
 libp2p implementation in Go
 
@@ -4030,9 +5766,14 @@ libp2p implementation in Go
 ## libp2p/go-reuseport
 
 Repository: [libp2p/go-reuseport](https://github.com/libp2p/go-reuseport)
+
 Author: [libp2p](https://github.com/libp2p)
 
 Stars: 526
+
+Forks: 87
+
+License: ISC License
 
 reuse tcp/udp ports in golang
 
@@ -4040,9 +5781,14 @@ reuse tcp/udp ports in golang
 ## lima-vm/lima
 
 Repository: [lima-vm/lima](https://github.com/lima-vm/lima)
+
 Author: [lima-vm](https://github.com/lima-vm)
 
-Stars: 7730
+Stars: 7732
+
+Forks: 267
+
+License: Apache License 2.0
 
 Linux virtual machines, typically on macOS, for running containerd
 
@@ -4050,9 +5796,14 @@ Linux virtual machines, typically on macOS, for running containerd
 ## llir/llvm
 
 Repository: [llir/llvm](https://github.com/llir/llvm)
+
 Author: [llir](https://github.com/llir)
 
 Stars: 881
+
+Forks: 61
+
+License: Other
 
 Library for interacting with LLVM IR in pure Go.
 
@@ -4060,9 +5811,14 @@ Library for interacting with LLVM IR in pure Go.
 ## loov/goda
 
 Repository: [loov/goda](https://github.com/loov/goda)
+
 Author: [loov](https://github.com/loov)
 
 Stars: 687
+
+Forks: 26
+
+License: MIT License
 
 Go Dependency Analysis toolkit
 
@@ -4070,9 +5826,14 @@ Go Dependency Analysis toolkit
 ## loov/hrtime
 
 Repository: [loov/hrtime](https://github.com/loov/hrtime)
+
 Author: [loov](https://github.com/loov)
 
 Stars: 200
+
+Forks: 11
+
+License: MIT License
 
 High resolution timing and benchmarking for Go
 
@@ -4080,9 +5841,14 @@ High resolution timing and benchmarking for Go
 ## lucas-clemente/quic-go
 
 Repository: [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go)
+
 Author: [lucas-clemente](https://github.com/lucas-clemente)
 
-Stars: 6503
+Stars: 6504
+
+Forks: 867
+
+License: MIT License
 
 A QUIC implementation in pure go
 
@@ -4090,9 +5856,14 @@ A QUIC implementation in pure go
 ## lukechampine/jsteg
 
 Repository: [lukechampine/jsteg](https://github.com/lukechampine/jsteg)
+
 Author: [lukechampine](https://github.com/lukechampine)
 
 Stars: 497
+
+Forks: 31
+
+License: Other
 
 JPEG steganography
 
@@ -4100,9 +5871,14 @@ JPEG steganography
 ## lxc/lxd
 
 Repository: [lxc/lxd](https://github.com/lxc/lxd)
+
 Author: [lxc](https://github.com/lxc)
 
 Stars: 3250
+
+Forks: 759
+
+License: Apache License 2.0
 
 Powerful system container and virtual machine manager
 
@@ -4110,9 +5886,14 @@ Powerful system container and virtual machine manager
 ## m1k1o/neko
 
 Repository: [m1k1o/neko](https://github.com/m1k1o/neko)
+
 Author: [m1k1o](https://github.com/m1k1o)
 
 Stars: 1754
+
+Forks: 124
+
+License: Apache License 2.0
 
 A self hosted virtual browser that runs in docker and uses WebRTC.
 
@@ -4120,9 +5901,14 @@ A self hosted virtual browser that runs in docker and uses WebRTC.
 ## maruel/panicparse
 
 Repository: [maruel/panicparse](https://github.com/maruel/panicparse)
+
 Author: [maruel](https://github.com/maruel)
 
 Stars: 3053
+
+Forks: 91
+
+License: Apache License 2.0
 
 Crash your app in style (Golang)
 
@@ -4130,9 +5916,14 @@ Crash your app in style (Golang)
 ## mattn/anko
 
 Repository: [mattn/anko](https://github.com/mattn/anko)
+
 Author: [mattn](https://github.com/mattn)
 
 Stars: 1220
+
+Forks: 119
+
+License: MIT License
 
 Scriptable interpreter written in golang
 
@@ -4140,9 +5931,14 @@ Scriptable interpreter written in golang
 ## mattn/anonymousface
 
 Repository: [mattn/anonymousface](https://github.com/mattn/anonymousface)
+
 Author: [mattn](https://github.com/mattn)
 
 Stars: 15
+
+Forks: 2
+
+License: Other
 
 
 
@@ -4150,9 +5946,14 @@ Stars: 15
 ## mattn/go-result
 
 Repository: [mattn/go-result](https://github.com/mattn/go-result)
+
 Author: [mattn](https://github.com/mattn)
 
 Stars: 5
+
+Forks: 0
+
+License: Other
 
 
 
@@ -4160,9 +5961,14 @@ Stars: 5
 ## mattn/go-runewidth
 
 Repository: [mattn/go-runewidth](https://github.com/mattn/go-runewidth)
+
 Author: [mattn](https://github.com/mattn)
 
 Stars: 427
+
+Forks: 74
+
+License: MIT License
 
 wcwidth for golang
 
@@ -4170,9 +5976,14 @@ wcwidth for golang
 ## mattn/go-slim
 
 Repository: [mattn/go-slim](https://github.com/mattn/go-slim)
+
 Author: [mattn](https://github.com/mattn)
 
 Stars: 97
+
+Forks: 7
+
+License: Other
 
 Slim Template Engine for golang
 
@@ -4180,9 +5991,14 @@ Slim Template Engine for golang
 ## mattn/go-tty
 
 Repository: [mattn/go-tty](https://github.com/mattn/go-tty)
+
 Author: [mattn](https://github.com/mattn)
 
 Stars: 138
+
+Forks: 18
+
+License: MIT License
 
 
 
@@ -4190,9 +6006,14 @@ Stars: 138
 ## mattn/gowasmer
 
 Repository: [mattn/gowasmer](https://github.com/mattn/gowasmer)
+
 Author: [mattn](https://github.com/mattn)
 
 Stars: 80
+
+Forks: 6
+
+License: MIT License
 
 WebAssembly runtime for wasmer-go
 
@@ -4200,9 +6021,14 @@ WebAssembly runtime for wasmer-go
 ## mattn/sudo
 
 Repository: [mattn/sudo](https://github.com/mattn/sudo)
+
 Author: [mattn](https://github.com/mattn)
 
 Stars: 707
+
+Forks: 34
+
+License: MIT License
 
 sudo for windows
 
@@ -4210,9 +6036,14 @@ sudo for windows
 ## maxence-charriere/go-app
 
 Repository: [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app)
+
 Author: [maxence-charriere](https://github.com/maxence-charriere)
 
-Stars: 6009
+Stars: 6011
+
+Forks: 292
+
+License: MIT License
 
 A package to build progressive web apps with Go programming language and WebAssembly.
 
@@ -4220,9 +6051,14 @@ A package to build progressive web apps with Go programming language and WebAsse
 ## mengzhuo/nabhash
 
 Repository: [mengzhuo/nabhash](https://github.com/mengzhuo/nabhash)
+
 Author: [mengzhuo](https://github.com/mengzhuo)
 
 Stars: 62
+
+Forks: 3
+
+License: BSD 3-Clause "New" or "Revised" License
 
 An extremely fast Non-crypto-safe AES Based Hash algorithm for Big Data
 
@@ -4230,9 +6066,14 @@ An extremely fast Non-crypto-safe AES Based Hash algorithm for Big Data
 ## mickael-kerjean/filestash
 
 Repository: [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+
 Author: [mickael-kerjean](https://github.com/mickael-kerjean)
 
-Stars: 6109
+Stars: 6113
+
+Forks: 441
+
+License: GNU Affero General Public License v3.0
 
 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
@@ -4240,9 +6081,14 @@ Stars: 6109
 ## mingrammer/round
 
 Repository: [mingrammer/round](https://github.com/mingrammer/round)
+
 Author: [mingrammer](https://github.com/mingrammer)
 
 Stars: 51
+
+Forks: 6
+
+License: MIT License
 
 :cyclone: A command-line for rounding the images
 
@@ -4250,9 +6096,14 @@ Stars: 51
 ## mmcloughlin/avo
 
 Repository: [mmcloughlin/avo](https://github.com/mmcloughlin/avo)
+
 Author: [mmcloughlin](https://github.com/mmcloughlin)
 
 Stars: 1930
+
+Forks: 69
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Generate x86 Assembly with Go
 
@@ -4260,9 +6111,14 @@ Generate x86 Assembly with Go
 ## modernice/goes
 
 Repository: [modernice/goes](https://github.com/modernice/goes)
+
 Author: [modernice](https://github.com/modernice)
 
 Stars: 45
+
+Forks: 1
+
+License: MIT License
 
 CQRS & Event-Sourcing Framework for Go.
 
@@ -4270,9 +6126,14 @@ CQRS & Event-Sourcing Framework for Go.
 ## msoap/tcg
 
 Repository: [msoap/tcg](https://github.com/msoap/tcg)
+
 Author: [msoap](https://github.com/msoap)
 
 Stars: 85
+
+Forks: 4
+
+License: MIT License
 
 TCG - terminal cell graphics library
 
@@ -4280,9 +6141,14 @@ TCG - terminal cell graphics library
 ## mudler/edgevpn
 
 Repository: [mudler/edgevpn](https://github.com/mudler/edgevpn)
+
 Author: [mudler](https://github.com/mudler)
 
 Stars: 79
+
+Forks: 15
+
+License: GNU General Public License v3.0
 
 :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 
@@ -4290,9 +6156,14 @@ Stars: 79
 ## mudler/poco
 
 Repository: [mudler/poco](https://github.com/mudler/poco)
+
 Author: [mudler](https://github.com/mudler)
 
 Stars: 54
+
+Forks: 3
+
+License: GNU General Public License v3.0
 
 :ship: poCo - portable Containers. Create statically linked, portable binaries from container images (daemonless)
 
@@ -4300,9 +6171,14 @@ Stars: 54
 ## mudler/poco-github-action
 
 Repository: [mudler/poco-github-action](https://github.com/mudler/poco-github-action)
+
 Author: [mudler](https://github.com/mudler)
 
 Stars: 1
+
+Forks: 0
+
+License: Apache License 2.0
 
 Github action for poco app bundler
 
@@ -4310,9 +6186,14 @@ Github action for poco app bundler
 ## muesli/reflow
 
 Repository: [muesli/reflow](https://github.com/muesli/reflow)
+
 Author: [muesli](https://github.com/muesli)
 
 Stars: 321
+
+Forks: 14
+
+License: MIT License
 
 A collection of (ANSI-sequence aware) text reflow operations & algorithms
 
@@ -4320,9 +6201,14 @@ A collection of (ANSI-sequence aware) text reflow operations & algorithms
 ## muesli/termenv
 
 Repository: [muesli/termenv](https://github.com/muesli/termenv)
+
 Author: [muesli](https://github.com/muesli)
 
 Stars: 992
+
+Forks: 43
+
+License: MIT License
 
 Advanced ANSI style & color support for your terminal applications
 
@@ -4330,9 +6216,14 @@ Advanced ANSI style & color support for your terminal applications
 ## mvdan/dockexec
 
 Repository: [mvdan/dockexec](https://github.com/mvdan/dockexec)
+
 Author: [mvdan](https://github.com/mvdan)
 
 Stars: 93
+
+Forks: 7
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Run Go tests inside a Docker image
 
@@ -4340,9 +6231,14 @@ Run Go tests inside a Docker image
 ## naver/gobench2xml
 
 Repository: [naver/gobench2xml](https://github.com/naver/gobench2xml)
+
 Author: [naver](https://github.com/naver)
 
 Stars: 5
+
+Forks: 0
+
+License: BSD 3-Clause "New" or "Revised" License
 
 gobench2xml is a simple tool that converts go benchmark results to xml
 
@@ -4350,9 +6246,14 @@ gobench2xml is a simple tool that converts go benchmark results to xml
 ## neguse/goi
 
 Repository: [neguse/goi](https://github.com/neguse/goi)
+
 Author: [neguse](https://github.com/neguse)
 
 Stars: 14
+
+Forks: 2
+
+License: Other
 
 goi - The “Quite OK Image” format encoder / decoder for Go.
 
@@ -4360,9 +6261,14 @@ goi - The “Quite OK Image” format encoder / decoder for Go.
 ## nginxinc/kubernetes-ingress
 
 Repository: [nginxinc/kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress)
+
 Author: [nginxinc](https://github.com/nginxinc)
 
-Stars: 3673
+Stars: 3674
+
+Forks: 1611
+
+License: Apache License 2.0
 
 NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 
@@ -4370,9 +6276,14 @@ NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 ## nhooyr/websocket
 
 Repository: [nhooyr/websocket](https://github.com/nhooyr/websocket)
+
 Author: [nhooyr](https://github.com/nhooyr)
 
 Stars: 2162
+
+Forks: 154
+
+License: MIT License
 
 Minimal and idiomatic WebSocket library for Go
 
@@ -4380,9 +6291,14 @@ Minimal and idiomatic WebSocket library for Go
 ## nikki93/gx
 
 Repository: [nikki93/gx](https://github.com/nikki93/gx)
+
 Author: [nikki93](https://github.com/nikki93)
 
 Stars: 35
+
+Forks: 3
+
+License: Other
 
 A Go->C++transpiler meant for data-oriented gameplay and application programming especially for WebAssembly. Using this mostly in the context of specific personal projects and heavily focusing the feature set on those. Used in my Raylib gamejam project: https://github.com/nikki93/raylib-5k -- also being used to develop a private longer term game project and a note-taking app.
 
@@ -4390,9 +6306,14 @@ A Go->C++transpiler meant for data-oriented gameplay and application programming
 ## njones/socketio
 
 Repository: [njones/socketio](https://github.com/njones/socketio)
+
 Author: [njones](https://github.com/njones)
 
 Stars: 9
+
+Forks: 0
+
+License: MIT License
 
 A Modern SocketIO library for go
 
@@ -4400,9 +6321,14 @@ A Modern SocketIO library for go
 ## nxgtw/go-ipc
 
 Repository: [nxgtw/go-ipc](https://github.com/nxgtw/go-ipc)
+
 Author: [nxgtw](https://github.com/nxgtw)
 
 Stars: 33
+
+Forks: 8
+
+License: Apache License 2.0
 
 
 
@@ -4410,9 +6336,14 @@ Stars: 33
 ## onflow/atree
 
 Repository: [onflow/atree](https://github.com/onflow/atree)
+
 Author: [onflow](https://github.com/onflow)
 
 Stars: 31
+
+Forks: 4
+
+License: Apache License 2.0
 
 Atree provides scalable arrays and scalable ordered maps.
 
@@ -4420,9 +6351,14 @@ Atree provides scalable arrays and scalable ordered maps.
 ## open2b/scriggo
 
 Repository: [open2b/scriggo](https://github.com/open2b/scriggo)
+
 Author: [open2b](https://github.com/open2b)
 
 Stars: 299
+
+Forks: 13
+
+License: BSD 3-Clause "New" or "Revised" License
 
 The world’s most powerful template engine and Go embeddable interpreter
 
@@ -4430,9 +6366,14 @@ The world’s most powerful template engine and Go embeddable interpreter
 ## osrg/gobgp
 
 Repository: [osrg/gobgp](https://github.com/osrg/gobgp)
+
 Author: [osrg](https://github.com/osrg)
 
-Stars: 2785
+Stars: 2789
+
+Forks: 560
+
+License: Apache License 2.0
 
 BGP implemented in the Go Programming Language
 
@@ -4440,9 +6381,14 @@ BGP implemented in the Go Programming Language
 ## panjf2000/gnet
 
 Repository: [panjf2000/gnet](https://github.com/panjf2000/gnet)
+
 Author: [panjf2000](https://github.com/panjf2000)
 
-Stars: 6284
+Stars: 6287
+
+Forks: 734
+
+License: Apache License 2.0
 
 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 
@@ -4450,9 +6396,14 @@ Stars: 6284
 ## pdfcpu/pdfcpu
 
 Repository: [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
+
 Author: [pdfcpu](https://github.com/pdfcpu)
 
 Stars: 3067
+
+Forks: 248
+
+License: Apache License 2.0
 
 A PDF processor written in Go.
 
@@ -4460,9 +6411,14 @@ A PDF processor written in Go.
 ## petermattis/fastcgo
 
 Repository: [petermattis/fastcgo](https://github.com/petermattis/fastcgo)
+
 Author: [petermattis](https://github.com/petermattis)
 
 Stars: 125
+
+Forks: 10
+
+License: Other
 
 
 
@@ -4470,9 +6426,14 @@ Stars: 125
 ## photoprism/photoprism
 
 Repository: [photoprism/photoprism](https://github.com/photoprism/photoprism)
+
 Author: [photoprism](https://github.com/photoprism)
 
 Stars: 19929
+
+Forks: 1099
+
+License: Other
 
 Photos App powered by Go and Google TensorFlow 🌈 ✨
 
@@ -4480,9 +6441,14 @@ Photos App powered by Go and Google TensorFlow 🌈 ✨
 ## phpdave11/gofpdf
 
 Repository: [phpdave11/gofpdf](https://github.com/phpdave11/gofpdf)
+
 Author: [phpdave11](https://github.com/phpdave11)
 
 Stars: 152
+
+Forks: 31
+
+License: MIT License
 
 A PDF document generator with high level support for text, drawing and images
 
@@ -4490,9 +6456,14 @@ A PDF document generator with high level support for text, drawing and images
 ## pion/ion-sfu
 
 Repository: [pion/ion-sfu](https://github.com/pion/ion-sfu)
+
 Author: [pion](https://github.com/pion)
 
-Stars: 622
+Stars: 623
+
+Forks: 165
+
+License: MIT License
 
 Pure Go WebRTC SFU
 
@@ -4500,9 +6471,14 @@ Pure Go WebRTC SFU
 ## pirogom/walk
 
 Repository: [pirogom/walk](https://github.com/pirogom/walk)
+
 Author: [pirogom](https://github.com/pirogom)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 Walk is a "Windows Application Library Kit" for the Go Programming Language. Clone from lxn/walk.
 
@@ -4510,9 +6486,14 @@ Walk is a "Windows Application Library Kit" for the Go Programming Language. Clo
 ## pirogom/walkmgr
 
 Repository: [pirogom/walkmgr](https://github.com/pirogom/walkmgr)
+
 Author: [pirogom](https://github.com/pirogom)
 
 Stars: 1
+
+Forks: 0
+
+License: Apache License 2.0
 
 for easy window native gui programming on go. enhanced pirogom/walk.
 
@@ -4520,9 +6501,14 @@ for easy window native gui programming on go. enhanced pirogom/walk.
 ## pirogom/walkmgr_example
 
 Repository: [pirogom/walkmgr_example](https://github.com/pirogom/walkmgr_example)
+
 Author: [pirogom](https://github.com/pirogom)
 
 Stars: 1
+
+Forks: 0
+
+License: Apache License 2.0
 
 walkmgr example project 
 
@@ -4530,9 +6516,14 @@ walkmgr example project
 ## pluveto/upgit
 
 Repository: [pluveto/upgit](https://github.com/pluveto/upgit)
+
 Author: [pluveto](https://github.com/pluveto)
 
 Stars: 230
+
+Forks: 19
+
+License: MIT License
 
 Another Typora image uploader
 
@@ -4540,9 +6531,14 @@ Another Typora image uploader
 ## pmh-only/gohttpfs
 
 Repository: [pmh-only/gohttpfs](https://github.com/pmh-only/gohttpfs)
+
 Author: [pmh-only](https://github.com/pmh-only)
 
 Stars: 2
+
+Forks: 0
+
+License: Other
 
 gohttpfs : http-api-based file storage
 
@@ -4550,9 +6546,14 @@ gohttpfs : http-api-based file storage
 ## polarspetroll/LiquidCrystalRPI
 
 Repository: [polarspetroll/LiquidCrystalRPI](https://github.com/polarspetroll/LiquidCrystalRPI)
+
 Author: [polarspetroll](https://github.com/polarspetroll)
 
 Stars: 3
+
+Forks: 0
+
+License: MIT License
 
 Liquid Crystal LCD Library(I²C)
 
@@ -4560,9 +6561,14 @@ Liquid Crystal LCD Library(I²C)
 ## polarspetroll/gopio
 
 Repository: [polarspetroll/gopio](https://github.com/polarspetroll/gopio)
+
 Author: [polarspetroll](https://github.com/polarspetroll)
 
 Stars: 14
+
+Forks: 1
+
+License: MIT License
 
 Raspberry pi GPIO controller package(CGO)
 
@@ -4570,9 +6576,14 @@ Raspberry pi GPIO controller package(CGO)
 ## potch8228/gobt
 
 Repository: [potch8228/gobt](https://github.com/potch8228/gobt)
+
 Author: [potch8228](https://github.com/potch8228)
 
 Stars: 18
+
+Forks: 3
+
+License: MIT License
 
 Bluetooth HID proxy with Go
 
@@ -4580,9 +6591,14 @@ Bluetooth HID proxy with Go
 ## pseudomuto/protoc-gen-doc
 
 Repository: [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc)
+
 Author: [pseudomuto](https://github.com/pseudomuto)
 
 Stars: 1914
+
+Forks: 370
+
+License: MIT License
 
 Documentation generator plugin for Google Protocol Buffers
 
@@ -4590,9 +6606,14 @@ Documentation generator plugin for Google Protocol Buffers
 ## pterm/pterm
 
 Repository: [pterm/pterm](https://github.com/pterm/pterm)
+
 Author: [pterm](https://github.com/pterm)
 
 Stars: 2548
+
+Forks: 88
+
+License: MIT License
 
 ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 
@@ -4600,9 +6621,14 @@ Stars: 2548
 ## quackduck/devzat
 
 Repository: [quackduck/devzat](https://github.com/quackduck/devzat)
+
 Author: [quackduck](https://github.com/quackduck)
 
-Stars: 1209
+Stars: 1211
+
+Forks: 73
+
+License: MIT License
 
 The devs are over here at devzat, chat over SSH!
 
@@ -4610,9 +6636,14 @@ The devs are over here at devzat, chat over SSH!
 ## quasilyte/go-ruleguard
 
 Repository: [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard)
+
 Author: [quasilyte](https://github.com/quasilyte)
 
 Stars: 543
+
+Forks: 32
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Define and run pattern-based custom linting rules.
 
@@ -4620,9 +6651,14 @@ Define and run pattern-based custom linting rules.
 ## rajveermalviya/go-webgpu
 
 Repository: [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu)
+
 Author: [rajveermalviya](https://github.com/rajveermalviya)
 
 Stars: 9
+
+Forks: 0
+
+License: Apache License 2.0
 
 Go bindings for WebGPU
 
@@ -4630,9 +6666,14 @@ Go bindings for WebGPU
 ## ranon-rat/simpleCloudInGO
 
 Repository: [ranon-rat/simpleCloudInGO](https://github.com/ranon-rat/simpleCloudInGO)
+
 Author: [ranon-rat](https://github.com/ranon-rat)
 
 Stars: 9
+
+Forks: 0
+
+License: Other
 
 Its a simple cloud
 
@@ -4640,9 +6681,14 @@ Its a simple cloud
 ## rclone/rclone
 
 Repository: [rclone/rclone](https://github.com/rclone/rclone)
+
 Author: [rclone](https://github.com/rclone)
 
-Stars: 32163
+Stars: 32164
+
+Forks: 2916
+
+License: MIT License
 
 "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 
@@ -4650,9 +6696,14 @@ Stars: 32163
 ## refraction-networking/utls
 
 Repository: [refraction-networking/utls](https://github.com/refraction-networking/utls)
+
 Author: [refraction-networking](https://github.com/refraction-networking)
 
 Stars: 536
+
+Forks: 116
+
+License: BSD 3-Clause "New" or "Revised" License
 
  Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
 
@@ -4660,9 +6711,14 @@ Stars: 536
 ## reusee/atproxy
 
 Repository: [reusee/atproxy](https://github.com/reusee/atproxy)
+
 Author: [reusee](https://github.com/reusee)
 
 Stars: 10
+
+Forks: 3
+
+License: Apache License 2.0
 
 socks5 / http proxy
 
@@ -4670,9 +6726,14 @@ socks5 / http proxy
 ## rfyiamcool/go-timewheel
 
 Repository: [rfyiamcool/go-timewheel](https://github.com/rfyiamcool/go-timewheel)
+
 Author: [rfyiamcool](https://github.com/rfyiamcool)
 
 Stars: 209
+
+Forks: 46
+
+License: Other
 
 golang timewheel similar to glang std timer
 
@@ -4680,9 +6741,14 @@ golang timewheel similar to glang std timer
 ## rh12503/triangula
 
 Repository: [rh12503/triangula](https://github.com/rh12503/triangula)
+
 Author: [rh12503](https://github.com/rh12503)
 
 Stars: 3706
+
+Forks: 110
+
+License: MIT License
 
 Generate high-quality triangulated and polygonal art from images.
 
@@ -4690,9 +6756,14 @@ Generate high-quality triangulated and polygonal art from images.
 ## rjNemo/underscore
 
 Repository: [rjNemo/underscore](https://github.com/rjNemo/underscore)
+
 Author: [rjNemo](https://github.com/rjNemo)
 
 Stars: 24
+
+Forks: 1
+
+License: MIT License
 
 🌟 Useful functional programming helpers for Go 1.18 and beyond
 
@@ -4700,9 +6771,14 @@ Stars: 24
 ## rjeczalik/interfaces
 
 Repository: [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces)
+
 Author: [rjeczalik](https://github.com/rjeczalik)
 
 Stars: 340
+
+Forks: 25
+
+License: MIT License
 
 Code generation tools for Go.
 
@@ -4710,9 +6786,14 @@ Code generation tools for Go.
 ## roadrunner-server/roadrunner
 
 Repository: [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner)
+
 Author: [roadrunner-server](https://github.com/roadrunner-server)
 
-Stars: 6365
+Stars: 6366
+
+Forks: 355
+
+License: MIT License
 
 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 
@@ -4720,9 +6801,14 @@ Stars: 6365
 ## rocketlaunchr/react
 
 Repository: [rocketlaunchr/react](https://github.com/rocketlaunchr/react)
+
 Author: [rocketlaunchr](https://github.com/rocketlaunchr)
 
 Stars: 126
+
+Forks: 9
+
+License: Other
 
 Super lightweight Go bindings for react.js 
 
@@ -4730,9 +6816,14 @@ Super lightweight Go bindings for react.js
 ## rodrigo-brito/ninjabot
 
 Repository: [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot)
+
 Author: [rodrigo-brito](https://github.com/rodrigo-brito)
 
 Stars: 960
+
+Forks: 92
+
+License: MIT License
 
 A fast cryptocurrency platform for trading bot in Go. 
 
@@ -4740,9 +6831,14 @@ A fast cryptocurrency platform for trading bot in Go.
 ## rs/zerolog
 
 Repository: [rs/zerolog](https://github.com/rs/zerolog)
+
 Author: [rs](https://github.com/rs)
 
-Stars: 6108
+Stars: 6111
+
+Forks: 365
+
+License: MIT License
 
 Zero Allocation JSON Logger
 
@@ -4750,9 +6846,14 @@ Zero Allocation JSON Logger
 ## rueian/rueidis
 
 Repository: [rueian/rueidis](https://github.com/rueian/rueidis)
+
 Author: [rueian](https://github.com/rueian)
 
-Stars: 314
+Stars: 315
+
+Forks: 22
+
+License: Apache License 2.0
 
 A Fast Golang Redis RESP3 client that supports Client Side Caching, Auto Pipelining, RedisJSON, RedisBloom, RediSearch, RedisAI, RedisGears, etc.
 
@@ -4760,9 +6861,14 @@ A Fast Golang Redis RESP3 client that supports Client Side Caching, Auto Pipelin
 ## s0rg/crawley
 
 Repository: [s0rg/crawley](https://github.com/s0rg/crawley)
+
 Author: [s0rg](https://github.com/s0rg)
 
 Stars: 55
+
+Forks: 1
+
+License: MIT License
 
 The unix-way web crawler
 
@@ -4770,9 +6876,14 @@ The unix-way web crawler
 ## samber/lo
 
 Repository: [samber/lo](https://github.com/samber/lo)
+
 Author: [samber](https://github.com/samber)
 
-Stars: 4626
+Stars: 4647
+
+Forks: 151
+
+License: MIT License
 
 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
@@ -4780,9 +6891,14 @@ Stars: 4626
 ## savsgio/gotils
 
 Repository: [savsgio/gotils](https://github.com/savsgio/gotils)
+
 Author: [savsgio](https://github.com/savsgio)
 
 Stars: 32
+
+Forks: 0
+
+License: Apache License 2.0
 
 Golang utlities to make your life easier with zero allocations
 
@@ -4790,9 +6906,14 @@ Golang utlities to make your life easier with zero allocations
 ## sbromberger/gompi
 
 Repository: [sbromberger/gompi](https://github.com/sbromberger/gompi)
+
 Author: [sbromberger](https://github.com/sbromberger)
 
 Stars: 24
+
+Forks: 2
+
+License: Other
 
 OpenMPI bindings for the Go programming language
 
@@ -4800,9 +6921,14 @@ OpenMPI bindings for the Go programming language
 ## securego/gosec
 
 Repository: [securego/gosec](https://github.com/securego/gosec)
+
 Author: [securego](https://github.com/securego)
 
-Stars: 5974
+Stars: 5975
+
+Forks: 451
+
+License: Apache License 2.0
 
 Golang security checker
 
@@ -4810,9 +6936,14 @@ Golang security checker
 ## segmentio/asm
 
 Repository: [segmentio/asm](https://github.com/segmentio/asm)
+
 Author: [segmentio](https://github.com/segmentio)
 
 Stars: 679
+
+Forks: 22
+
+License: MIT License
 
 Go library providing algorithms optimized to leverage the characteristics of modern CPUs
 
@@ -4820,9 +6951,14 @@ Go library providing algorithms optimized to leverage the characteristics of mod
 ## shaj13/raft
 
 Repository: [shaj13/raft](https://github.com/shaj13/raft)
+
 Author: [shaj13](https://github.com/shaj13)
 
 Stars: 36
+
+Forks: 2
+
+License: MIT License
 
 raft is a golang library that provides a simple, clean, and idiomatic implementation of the Raft consensus protocol
 
@@ -4830,9 +6966,14 @@ raft is a golang library that provides a simple, clean, and idiomatic implementa
 ## shohruhadham/nanomux
 
 Repository: [shohruhadham/nanomux](https://github.com/shohruhadham/nanomux)
+
 Author: [shohruhadham](https://github.com/shohruhadham)
 
 Stars: 4
+
+Forks: 1
+
+License: MIT License
 
 NanoMux is a package of HTTP request routers for the Go language.
 
@@ -4840,9 +6981,14 @@ NanoMux is a package of HTTP request routers for the Go language.
 ## shr0048/gocsv
 
 Repository: [shr0048/gocsv](https://github.com/shr0048/gocsv)
+
 Author: [shr0048](https://github.com/shr0048)
 
 Stars: 4
+
+Forks: 0
+
+License: MIT License
 
 simple csv parsing lib for golang
 
@@ -4850,9 +6996,14 @@ simple csv parsing lib for golang
 ## siderolabs/talos
 
 Repository: [siderolabs/talos](https://github.com/siderolabs/talos)
+
 Author: [siderolabs](https://github.com/siderolabs)
 
-Stars: 2772
+Stars: 2775
+
+Forks: 213
+
+License: Mozilla Public License 2.0
 
 Talos Linux is a modern Linux distribution built for Kubernetes.
 
@@ -4860,9 +7011,14 @@ Talos Linux is a modern Linux distribution built for Kubernetes.
 ## six-ddc/plow
 
 Repository: [six-ddc/plow](https://github.com/six-ddc/plow)
+
 Author: [six-ddc](https://github.com/six-ddc)
 
 Stars: 2935
+
+Forks: 96
+
+License: Apache License 2.0
 
 A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 
@@ -4870,9 +7026,14 @@ A high-performance HTTP benchmarking tool with real-time web UI and terminal dis
 ## slackhq/nebula
 
 Repository: [slackhq/nebula](https://github.com/slackhq/nebula)
+
 Author: [slackhq](https://github.com/slackhq)
 
-Stars: 9556
+Stars: 9559
+
+Forks: 649
+
+License: MIT License
 
 A scalable overlay networking tool with a focus on performance, simplicity and security
 
@@ -4880,9 +7041,14 @@ A scalable overlay networking tool with a focus on performance, simplicity and s
 ## snirlugassy/lightdb
 
 Repository: [snirlugassy/lightdb](https://github.com/snirlugassy/lightdb)
+
 Author: [snirlugassy](https://github.com/snirlugassy)
 
 Stars: 9
+
+Forks: 2
+
+License: MIT License
 
 Lightweight object database written in Go
 
@@ -4890,9 +7056,14 @@ Lightweight object database written in Go
 ## snowmerak/gopool
 
 Repository: [snowmerak/gopool](https://github.com/snowmerak/gopool)
+
 Author: [snowmerak](https://github.com/snowmerak)
 
 Stars: 5
+
+Forks: 0
+
+License: The Unlicense
 
 a goroutine pool with max numbers and auto recovering
 
@@ -4900,9 +7071,14 @@ a goroutine pool with max numbers and auto recovering
 ## snowmerak/pipe
 
 Repository: [snowmerak/pipe](https://github.com/snowmerak/pipe)
+
 Author: [snowmerak](https://github.com/snowmerak)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -4910,9 +7086,14 @@ Stars: 2
 ## snowmerak/prew
 
 Repository: [snowmerak/prew](https://github.com/snowmerak/prew)
+
 Author: [snowmerak](https://github.com/snowmerak)
 
 Stars: 3
+
+Forks: 1
+
+License: MIT License
 
 
 
@@ -4920,9 +7101,14 @@ Stars: 3
 ## snowmerak/ref
 
 Repository: [snowmerak/ref](https://github.com/snowmerak/ref)
+
 Author: [snowmerak](https://github.com/snowmerak)
 
 Stars: 2
+
+Forks: 1
+
+License: MIT License
 
 
 
@@ -4930,9 +7116,14 @@ Stars: 2
 ## snowmerak/twisted-lyfes
 
 Repository: [snowmerak/twisted-lyfes](https://github.com/snowmerak/twisted-lyfes)
+
 Author: [snowmerak](https://github.com/snowmerak)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 
 
@@ -4940,9 +7131,14 @@ Stars: 1
 ## solsw/go2linq
 
 Repository: [solsw/go2linq](https://github.com/solsw/go2linq)
+
 Author: [solsw](https://github.com/solsw)
 
 Stars: 39
+
+Forks: 4
+
+License: MIT License
 
 Generic Go implementation of .NET's LINQ to Objects.
 
@@ -4950,9 +7146,14 @@ Generic Go implementation of .NET's LINQ to Objects.
 ## songgao/packets
 
 Repository: [songgao/packets](https://github.com/songgao/packets)
+
 Author: [songgao](https://github.com/songgao)
 
 Stars: 53
+
+Forks: 14
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Libraries for parsing and constructing common network packets.
 
@@ -4960,9 +7161,14 @@ Libraries for parsing and constructing common network packets.
 ## songgao/water
 
 Repository: [songgao/water](https://github.com/songgao/water)
+
 Author: [songgao](https://github.com/songgao)
 
 Stars: 1396
+
+Forks: 213
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A simple TUN/TAP library written in native Go.
 
@@ -4970,9 +7176,14 @@ A simple TUN/TAP library written in native Go.
 ## sonirico/parco
 
 Repository: [sonirico/parco](https://github.com/sonirico/parco)
+
 Author: [sonirico](https://github.com/sonirico)
 
 Stars: 14
+
+Forks: 0
+
+License: MIT License
 
 tiny binary serializer and deserializer to create on demand parsers and compilers 
 
@@ -4980,9 +7191,14 @@ tiny binary serializer and deserializer to create on demand parsers and compiler
 ## soundcloud/roshi
 
 Repository: [soundcloud/roshi](https://github.com/soundcloud/roshi)
+
 Author: [soundcloud](https://github.com/soundcloud)
 
-Stars: 2911
+Stars: 2912
+
+Forks: 147
+
+License: BSD 2-Clause "Simplified" License
 
 Roshi is a large-scale CRDT set implementation for timestamped events.
 
@@ -4990,9 +7206,14 @@ Roshi is a large-scale CRDT set implementation for timestamped events.
 ## sourcegraph/sourcegraph
 
 Repository: [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
+
 Author: [sourcegraph](https://github.com/sourcegraph)
 
-Stars: 5913
+Stars: 5915
+
+Forks: 742
+
+License: Other
 
 Universal code search (self-hosted)
 
@@ -5000,9 +7221,14 @@ Universal code search (self-hosted)
 ## sourcegraph/zoekt
 
 Repository: [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt)
+
 Author: [sourcegraph](https://github.com/sourcegraph)
 
 Stars: 127
+
+Forks: 22
+
+License: Apache License 2.0
 
 Fast trigram based code search  
 
@@ -5010,9 +7236,14 @@ Fast trigram based code search
 ## spf13/afero
 
 Repository: [spf13/afero](https://github.com/spf13/afero)
+
 Author: [spf13](https://github.com/spf13)
 
-Stars: 4360
+Stars: 4362
+
+Forks: 405
+
+License: Apache License 2.0
 
 A FileSystem Abstraction System for Go
 
@@ -5020,9 +7251,14 @@ A FileSystem Abstraction System for Go
 ## spf13/pflag
 
 Repository: [spf13/pflag](https://github.com/spf13/pflag)
+
 Author: [spf13](https://github.com/spf13)
 
 Stars: 1744
+
+Forks: 289
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 
@@ -5030,9 +7266,14 @@ Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 ## suborbital/grav
 
 Repository: [suborbital/grav](https://github.com/suborbital/grav)
+
 Author: [suborbital](https://github.com/suborbital)
 
 Stars: 87
+
+Forks: 7
+
+License: Apache License 2.0
 
 Embedded decentralized message bus
 
@@ -5040,9 +7281,14 @@ Embedded decentralized message bus
 ## suborbital/reactr
 
 Repository: [suborbital/reactr](https://github.com/suborbital/reactr)
+
 Author: [suborbital](https://github.com/suborbital)
 
 Stars: 243
+
+Forks: 24
+
+License: Apache License 2.0
 
 Function scheduler for Go & WebAssembly
 
@@ -5050,9 +7296,14 @@ Function scheduler for Go & WebAssembly
 ## suborbital/vektor
 
 Repository: [suborbital/vektor](https://github.com/suborbital/vektor)
+
 Author: [suborbital](https://github.com/suborbital)
 
 Stars: 75
+
+Forks: 7
+
+License: Apache License 2.0
 
 Opinionated production-grade HTTP server framework for Go
 
@@ -5060,9 +7311,14 @@ Opinionated production-grade HTTP server framework for Go
 ## sucream/koreanutil
 
 Repository: [sucream/koreanutil](https://github.com/sucream/koreanutil)
+
 Author: [sucream](https://github.com/sucream)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 한글 자모 분리
 
@@ -5070,9 +7326,14 @@ Stars: 1
 ## t0pep0/efaceconv
 
 Repository: [t0pep0/efaceconv](https://github.com/t0pep0/efaceconv)
+
 Author: [t0pep0](https://github.com/t0pep0)
 
 Stars: 51
+
+Forks: 9
+
+License: BSD 2-Clause "Simplified" License
 
 
 
@@ -5080,9 +7341,14 @@ Stars: 51
 ## tae2089/GorineeWeb
 
 Repository: [tae2089/GorineeWeb](https://github.com/tae2089/GorineeWeb)
+
 Author: [tae2089](https://github.com/tae2089)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 나만의 고 웹프레임워크 만들기
 
@@ -5090,9 +7356,14 @@ Stars: 2
 ## tae2089/customlogging-go
 
 Repository: [tae2089/customlogging-go](https://github.com/tae2089/customlogging-go)
+
 Author: [tae2089](https://github.com/tae2089)
 
 Stars: 2
+
+Forks: 0
+
+License: Other
 
 zap을 사용한 커스텀 로그 
 
@@ -5100,9 +7371,14 @@ zap을 사용한 커스텀 로그
 ## tae2089/entgo-ko
 
 Repository: [tae2089/entgo-ko](https://github.com/tae2089/entgo-ko)
+
 Author: [tae2089](https://github.com/tae2089)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 entgo 번역 및 코드 예제 만들기
 
@@ -5110,9 +7386,14 @@ entgo 번역 및 코드 예제 만들기
 ## tailscale/sqlite
 
 Repository: [tailscale/sqlite](https://github.com/tailscale/sqlite)
+
 Author: [tailscale](https://github.com/tailscale)
 
-Stars: 96
+Stars: 98
+
+Forks: 4
+
+License: Other
 
 work in progress
 
@@ -5120,9 +7401,14 @@ work in progress
 ## tardisgo/tardisgo
 
 Repository: [tardisgo/tardisgo](https://github.com/tardisgo/tardisgo)
+
 Author: [tardisgo](https://github.com/tardisgo)
 
 Stars: 418
+
+Forks: 31
+
+License: Other
 
 Golang->Haxe->CPP/CSharp/Java/JavaScript transpiler  
 
@@ -5130,9 +7416,14 @@ Golang->Haxe->CPP/CSharp/Java/JavaScript transpiler
 ## tdewolff/canvas
 
 Repository: [tdewolff/canvas](https://github.com/tdewolff/canvas)
+
 Author: [tdewolff](https://github.com/tdewolff)
 
 Stars: 948
+
+Forks: 58
+
+License: MIT License
 
 Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
 
@@ -5140,9 +7431,14 @@ Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
 ## teh-cmc/go-internals
 
 Repository: [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals)
+
 Author: [teh-cmc](https://github.com/teh-cmc)
 
 Stars: 6902
+
+Forks: 320
+
+License: Other
 
 A book about the internals of the Go programming language.
 
@@ -5150,9 +7446,14 @@ A book about the internals of the Go programming language.
 ## templexxx/reedsolomon
 
 Repository: [templexxx/reedsolomon](https://github.com/templexxx/reedsolomon)
+
 Author: [templexxx](https://github.com/templexxx)
 
 Stars: 240
+
+Forks: 28
+
+License: MIT License
 
 Reed-Solomon Erasure Code engine in Go, could more than 15GB/s per core
 
@@ -5160,9 +7461,14 @@ Reed-Solomon Erasure Code engine in Go, could more than 15GB/s per core
 ## templexxx/tsc
 
 Repository: [templexxx/tsc](https://github.com/templexxx/tsc)
+
 Author: [templexxx](https://github.com/templexxx)
 
-Stars: 113
+Stars: 114
+
+Forks: 5
+
+License: MIT License
 
 Get unix time (nanoseconds) in 8ns, 10x faster than stdlib
 
@@ -5170,9 +7476,14 @@ Get unix time (nanoseconds) in 8ns, 10x faster than stdlib
 ## templexxx/xorsimd
 
 Repository: [templexxx/xorsimd](https://github.com/templexxx/xorsimd)
+
 Author: [templexxx](https://github.com/templexxx)
 
 Stars: 44
+
+Forks: 8
+
+License: MIT License
 
 XOR code engine in pure Go, more than 270GB/S per core
 
@@ -5180,9 +7491,14 @@ XOR code engine in pure Go, more than 270GB/S per core
 ## templexxx/xrs
 
 Repository: [templexxx/xrs](https://github.com/templexxx/xrs)
+
 Author: [templexxx](https://github.com/templexxx)
 
 Stars: 53
+
+Forks: 6
+
+License: MIT License
 
 Fast and efficient data reconstruction Erasure code, saving about 30% I/O in reconstruction
 
@@ -5190,9 +7506,14 @@ Fast and efficient data reconstruction Erasure code, saving about 30% I/O in rec
 ## tetratelabs/wazero
 
 Repository: [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
+
 Author: [tetratelabs](https://github.com/tetratelabs)
 
 Stars: 877
+
+Forks: 64
+
+License: Apache License 2.0
 
 wazero lets you run WebAssembly modules with zero platform dependencies
 
@@ -5200,9 +7521,14 @@ wazero lets you run WebAssembly modules with zero platform dependencies
 ## thanos-io/thanos
 
 Repository: [thanos-io/thanos](https://github.com/thanos-io/thanos)
+
 Author: [thanos-io](https://github.com/thanos-io)
 
-Stars: 10216
+Stars: 10217
+
+Forks: 1548
+
+License: Apache License 2.0
 
 Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
@@ -5210,9 +7536,14 @@ Highly available Prometheus setup with long term storage capabilities. A CNCF In
 ## tidwall/evio
 
 Repository: [tidwall/evio](https://github.com/tidwall/evio)
+
 Author: [tidwall](https://github.com/tidwall)
 
 Stars: 5306
+
+Forks: 445
+
+License: MIT License
 
 Fast event-loop networking for Go
 
@@ -5220,9 +7551,14 @@ Fast event-loop networking for Go
 ## tinode/chat
 
 Repository: [tinode/chat](https://github.com/tinode/chat)
+
 Author: [tinode](https://github.com/tinode)
 
-Stars: 8623
+Stars: 8625
+
+Forks: 1307
+
+License: GNU General Public License v3.0
 
 Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 
@@ -5230,9 +7566,14 @@ Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS 
 ## traefik/traefik
 
 Repository: [traefik/traefik](https://github.com/traefik/traefik)
+
 Author: [traefik](https://github.com/traefik)
 
-Stars: 37526
+Stars: 37532
+
+Forks: 4126
+
+License: MIT License
 
 The Cloud Native Application Proxy
 
@@ -5240,9 +7581,14 @@ The Cloud Native Application Proxy
 ## traefik/whoami
 
 Repository: [traefik/whoami](https://github.com/traefik/whoami)
+
 Author: [traefik](https://github.com/traefik)
 
 Stars: 595
+
+Forks: 164
+
+License: Apache License 2.0
 
 Tiny Go webserver that prints os information and HTTP request to output
 
@@ -5250,9 +7596,14 @@ Tiny Go webserver that prints os information and HTTP request to output
 ## traefik/yaegi
 
 Repository: [traefik/yaegi](https://github.com/traefik/yaegi)
+
 Author: [traefik](https://github.com/traefik)
 
-Stars: 4267
+Stars: 4270
+
+Forks: 224
+
+License: Apache License 2.0
 
 Yaegi is Another Elegant Go Interpreter
 
@@ -5260,9 +7611,14 @@ Yaegi is Another Elegant Go Interpreter
 ## troylelandshields/ternary
 
 Repository: [troylelandshields/ternary](https://github.com/troylelandshields/ternary)
+
 Author: [troylelandshields](https://github.com/troylelandshields)
 
 Stars: 32
+
+Forks: 2
+
+License: MIT License
 
 Ternary syntax for Go; you're welcome
 
@@ -5270,9 +7626,14 @@ Ternary syntax for Go; you're welcome
 ## trufflesecurity/trufflehog
 
 Repository: [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+
 Author: [trufflesecurity](https://github.com/trufflesecurity)
 
-Stars: 7788
+Stars: 7805
+
+Forks: 983
+
+License: GNU Affero General Public License v3.0
 
 Find credentials all over the place
 
@@ -5280,9 +7641,14 @@ Find credentials all over the place
 ## tsenart/vegeta
 
 Repository: [tsenart/vegeta](https://github.com/tsenart/vegeta)
+
 Author: [tsenart](https://github.com/tsenart)
 
 Stars: 19350
+
+Forks: 1209
+
+License: MIT License
 
 HTTP load testing tool and library. It's over 9000!
 
@@ -5290,9 +7656,14 @@ HTTP load testing tool and library. It's over 9000!
 ## twitchyliquid64/golang-asm
 
 Repository: [twitchyliquid64/golang-asm](https://github.com/twitchyliquid64/golang-asm)
+
 Author: [twitchyliquid64](https://github.com/twitchyliquid64)
 
 Stars: 77
+
+Forks: 6
+
+License: BSD 3-Clause "New" or "Revised" License
 
 The assembler from the Go compiler, in library form.
 
@@ -5300,9 +7671,14 @@ The assembler from the Go compiler, in library form.
 ## twitchyliquid64/rnd
 
 Repository: [twitchyliquid64/rnd](https://github.com/twitchyliquid64/rnd)
+
 Author: [twitchyliquid64](https://github.com/twitchyliquid64)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 
 
@@ -5310,9 +7686,14 @@ Stars: 1
 ## uber-go/atomic
 
 Repository: [uber-go/atomic](https://github.com/uber-go/atomic)
+
 Author: [uber-go](https://github.com/uber-go)
 
 Stars: 923
+
+Forks: 75
+
+License: MIT License
 
 Wrapper types for sync/atomic which enforce atomic access
 
@@ -5320,9 +7701,14 @@ Wrapper types for sync/atomic which enforce atomic access
 ## uberswe/golang-base-project
 
 Repository: [uberswe/golang-base-project](https://github.com/uberswe/golang-base-project)
+
 Author: [uberswe](https://github.com/uberswe)
 
 Stars: 204
+
+Forks: 23
+
+License: ISC License
 
 A minimal Go project with user authentication ready out of the box. Uses Bootstrap 5 for the frontend. All frontend assets are less than 100 kB on every page load.
 
@@ -5330,9 +7716,14 @@ A minimal Go project with user authentication ready out of the box. Uses Bootstr
 ## undefinedlabs/go-mpatch
 
 Repository: [undefinedlabs/go-mpatch](https://github.com/undefinedlabs/go-mpatch)
+
 Author: [undefinedlabs](https://github.com/undefinedlabs)
 
 Stars: 40
+
+Forks: 6
+
+License: MIT License
 
 Go library for monkey patching
 
@@ -5340,9 +7731,14 @@ Go library for monkey patching
 ## unixpickle/gobfuscate
 
 Repository: [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate)
+
 Author: [unixpickle](https://github.com/unixpickle)
 
-Stars: 1036
+Stars: 1037
+
+Forks: 139
+
+License: BSD 2-Clause "Simplified" License
 
 Obfuscate Go binaries and packages
 
@@ -5350,9 +7746,14 @@ Obfuscate Go binaries and packages
 ## up9inc/basenine
 
 Repository: [up9inc/basenine](https://github.com/up9inc/basenine)
+
 Author: [up9inc](https://github.com/up9inc)
 
 Stars: 29
+
+Forks: 1
+
+License: Apache License 2.0
 
 Schema-free, document-oriented streaming database that optimized for monitoring network traffic in real-time
 
@@ -5360,9 +7761,14 @@ Schema-free, document-oriented streaming database that optimized for monitoring 
 ## valyala/bytebufferpool
 
 Repository: [valyala/bytebufferpool](https://github.com/valyala/bytebufferpool)
+
 Author: [valyala](https://github.com/valyala)
 
 Stars: 846
+
+Forks: 106
+
+License: MIT License
 
 Anti-memory-waste byte buffer pool
 
@@ -5370,9 +7776,14 @@ Anti-memory-waste byte buffer pool
 ## valyala/fasthttp
 
 Repository: [valyala/fasthttp](https://github.com/valyala/fasthttp)
+
 Author: [valyala](https://github.com/valyala)
 
-Stars: 17508
+Stars: 17509
+
+Forks: 1463
+
+License: MIT License
 
 Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 
@@ -5380,9 +7791,14 @@ Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in
 ## valyala/fastjson
 
 Repository: [valyala/fastjson](https://github.com/valyala/fastjson)
+
 Author: [valyala](https://github.com/valyala)
 
 Stars: 1493
+
+Forks: 92
+
+License: MIT License
 
 Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
 
@@ -5390,9 +7806,14 @@ Fast JSON parser and validator for Go. No custom structs, no code generation, no
 ## valyala/fasttemplate
 
 Repository: [valyala/fasttemplate](https://github.com/valyala/fasttemplate)
+
 Author: [valyala](https://github.com/valyala)
 
-Stars: 580
+Stars: 581
+
+Forks: 69
+
+License: MIT License
 
 Simple and fast template engine for Go
 
@@ -5400,9 +7821,14 @@ Simple and fast template engine for Go
 ## valyala/quicktemplate
 
 Repository: [valyala/quicktemplate](https://github.com/valyala/quicktemplate)
+
 Author: [valyala](https://github.com/valyala)
 
 Stars: 2380
+
+Forks: 131
+
+License: MIT License
 
 Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 
@@ -5410,9 +7836,14 @@ Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zer
 ## vardius/gollback
 
 Repository: [vardius/gollback](https://github.com/vardius/gollback)
+
 Author: [vardius](https://github.com/vardius)
 
 Stars: 87
+
+Forks: 10
+
+License: MIT License
 
 Go asynchronous simple function utilities, for managing execution of closures and callbacks
 
@@ -5420,9 +7851,14 @@ Go asynchronous simple function utilities, for managing execution of closures an
 ## velopert/gin-rest-api-sample
 
 Repository: [velopert/gin-rest-api-sample](https://github.com/velopert/gin-rest-api-sample)
+
 Author: [velopert](https://github.com/velopert)
 
 Stars: 180
+
+Forks: 41
+
+License: MIT License
 
 Golang REST API sample with MariaDB integration using Gin and GORM
 
@@ -5430,9 +7866,14 @@ Golang REST API sample with MariaDB integration using Gin and GORM
 ## vladimirvivien/automi
 
 Repository: [vladimirvivien/automi](https://github.com/vladimirvivien/automi)
+
 Author: [vladimirvivien](https://github.com/vladimirvivien)
 
 Stars: 740
+
+Forks: 61
+
+License: Apache License 2.0
 
 A stream processing API for Go (alpha)
 
@@ -5440,9 +7881,14 @@ A stream processing API for Go (alpha)
 ## vmware-tanzu/kubeapps
 
 Repository: [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps)
+
 Author: [vmware-tanzu](https://github.com/vmware-tanzu)
 
-Stars: 3192
+Stars: 3191
+
+Forks: 608
+
+License: Apache License 2.0
 
 A web-based UI for deploying and managing applications in Kubernetes clusters
 
@@ -5450,9 +7896,14 @@ A web-based UI for deploying and managing applications in Kubernetes clusters
 ## vugu/vugu
 
 Repository: [vugu/vugu](https://github.com/vugu/vugu)
+
 Author: [vugu](https://github.com/vugu)
 
-Stars: 4345
+Stars: 4346
+
+Forks: 170
+
+License: MIT License
 
 Vugu: A modern UI library for Go+WebAssembly (experimental)
 
@@ -5460,9 +7911,14 @@ Vugu: A modern UI library for Go+WebAssembly (experimental)
 ## wader/fq
 
 Repository: [wader/fq](https://github.com/wader/fq)
+
 Author: [wader](https://github.com/wader)
 
-Stars: 3793
+Stars: 3796
+
+Forks: 72
+
+License: Other
 
 jq for binary formats
 
@@ -5470,9 +7926,14 @@ jq for binary formats
 ## wapc/wapc-go
 
 Repository: [wapc/wapc-go](https://github.com/wapc/wapc-go)
+
 Author: [wapc](https://github.com/wapc)
 
 Stars: 30
+
+Forks: 14
+
+License: Apache License 2.0
 
 Golang-based WebAssembly Host Runtime for waPC-compliant modules
 
@@ -5480,9 +7941,14 @@ Golang-based WebAssembly Host Runtime for waPC-compliant modules
 ## wasmerio/wasmer-go
 
 Repository: [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go)
+
 Author: [wasmerio](https://github.com/wasmerio)
 
-Stars: 1904
+Stars: 1905
+
+Forks: 131
+
+License: MIT License
 
 🐹🕸️ WebAssembly runtime for Go
 
@@ -5490,9 +7956,14 @@ Stars: 1904
 ## x-motemen/gore
 
 Repository: [x-motemen/gore](https://github.com/x-motemen/gore)
+
 Author: [x-motemen](https://github.com/x-motemen)
 
-Stars: 4458
+Stars: 4459
+
+Forks: 148
+
+License: MIT License
 
   Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 
@@ -5500,9 +7971,14 @@ Stars: 4458
 ## xjasonlyu/tun2socks
 
 Repository: [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks)
+
 Author: [xjasonlyu](https://github.com/xjasonlyu)
 
-Stars: 706
+Stars: 708
+
+Forks: 133
+
+License: GNU General Public License v3.0
 
 tun2socks - powered by gVisor TCP/IP stack
 
@@ -5510,9 +7986,14 @@ tun2socks - powered by gVisor TCP/IP stack
 ## xlab/c-for-go
 
 Repository: [xlab/c-for-go](https://github.com/xlab/c-for-go)
+
 Author: [xlab](https://github.com/xlab)
 
 Stars: 1153
+
+Forks: 88
+
+License: MIT License
 
 Automatic C-Go Bindings Generator for Go Programming Language
 
@@ -5520,9 +8001,14 @@ Automatic C-Go Bindings Generator for Go Programming Language
 ## xyproto/algernon
 
 Repository: [xyproto/algernon](https://github.com/xyproto/algernon)
+
 Author: [xyproto](https://github.com/xyproto)
 
 Stars: 1935
+
+Forks: 106
+
+License: BSD 3-Clause "New" or "Revised" License
 
 :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 
@@ -5530,9 +8016,14 @@ Stars: 1935
 ## yorkie-team/yorkie
 
 Repository: [yorkie-team/yorkie](https://github.com/yorkie-team/yorkie)
+
 Author: [yorkie-team](https://github.com/yorkie-team)
 
 Stars: 375
+
+Forks: 58
+
+License: Apache License 2.0
 
 Yorkie is a document store for collaborative applications.
 
@@ -5540,9 +8031,14 @@ Yorkie is a document store for collaborative applications.
 ## ysmood/got
 
 Repository: [ysmood/got](https://github.com/ysmood/got)
+
 Author: [ysmood](https://github.com/ysmood)
 
 Stars: 101
+
+Forks: 6
+
+License: MIT License
 
 An enjoyable golang test framework.
 
@@ -5550,9 +8046,14 @@ An enjoyable golang test framework.
 ## zajann/gassert
 
 Repository: [zajann/gassert](https://github.com/zajann/gassert)
+
 Author: [zajann](https://github.com/zajann)
 
 Stars: 4
+
+Forks: 2
+
+License: MIT License
 
 🏳️ Go package that provides function like assert of Python or C++.
 
@@ -5560,9 +8061,14 @@ Stars: 4
 ## zeebo/blake3
 
 Repository: [zeebo/blake3](https://github.com/zeebo/blake3)
+
 Author: [zeebo](https://github.com/zeebo)
 
 Stars: 287
+
+Forks: 13
+
+License: Creative Commons Zero v1.0 Universal
 
 Pure Go implementation of BLAKE3 with AVX2 and SSE4.1 acceleration
 
@@ -5570,9 +8076,14 @@ Pure Go implementation of BLAKE3 with AVX2 and SSE4.1 acceleration
 ## zeebo/goof
 
 Repository: [zeebo/goof](https://github.com/zeebo/goof)
+
 Author: [zeebo](https://github.com/zeebo)
 
 Stars: 122
+
+Forks: 10
+
+License: Apache License 2.0
 
 Goof (Go Object Finder) is a package that does the unthinkable to your binary
 
@@ -5580,9 +8091,14 @@ Goof (Go Object Finder) is a package that does the unthinkable to your binary
 ## zeebo/mon
 
 Repository: [zeebo/mon](https://github.com/zeebo/mon)
+
 Author: [zeebo](https://github.com/zeebo)
 
 Stars: 24
+
+Forks: 1
+
+License: Other
 
 Super low overhead application level metrics
 
@@ -5590,9 +8106,14 @@ Super low overhead application level metrics
 ## zeebo/mwc
 
 Repository: [zeebo/mwc](https://github.com/zeebo/mwc)
+
 Author: [zeebo](https://github.com/zeebo)
 
 Stars: 3
+
+Forks: 0
+
+License: Other
 
 
 
@@ -5600,9 +8121,14 @@ Stars: 3
 ## zeebo/proc
 
 Repository: [zeebo/proc](https://github.com/zeebo/proc)
+
 Author: [zeebo](https://github.com/zeebo)
 
 Stars: 2
+
+Forks: 0
+
+License: Other
 
 proc is a package to help start and stop services
 
@@ -5610,9 +8136,14 @@ proc is a package to help start and stop services
 ## zeebo/sudo
 
 Repository: [zeebo/sudo](https://github.com/zeebo/sudo)
+
 Author: [zeebo](https://github.com/zeebo)
 
 Stars: 68
+
+Forks: 4
+
+License: MIT License
 
 Bypasses restrictions on reflect
 
@@ -5620,9 +8151,14 @@ Bypasses restrictions on reflect
 ## zeebo/xxh3
 
 Repository: [zeebo/xxh3](https://github.com/zeebo/xxh3)
+
 Author: [zeebo](https://github.com/zeebo)
 
 Stars: 235
+
+Forks: 18
+
+License: Other
 
 XXH3 algorithm in Go
 
@@ -5630,9 +8166,14 @@ XXH3 algorithm in Go
 ## zeromicro/go-zero
 
 Repository: [zeromicro/go-zero](https://github.com/zeromicro/go-zero)
+
 Author: [zeromicro](https://github.com/zeromicro)
 
-Stars: 16458
+Stars: 16478
+
+Forks: 2309
+
+License: MIT License
 
 A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 
@@ -5640,9 +8181,14 @@ A web and RPC framework written in Go. It's born to ensure the stability of the 
 ## zombiezen/go-sqlite
 
 Repository: [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite)
+
 Author: [zombiezen](https://github.com/zombiezen)
 
 Stars: 241
+
+Forks: 6
+
+License: ISC License
 
 Low-level Go interface to SQLite 3
 
@@ -5650,9 +8196,14 @@ Low-level Go interface to SQLite 3
 ## zserge/bfapi
 
 Repository: [zserge/bfapi](https://github.com/zserge/bfapi)
+
 Author: [zserge](https://github.com/zserge)
 
 Stars: 137
+
+Forks: 4
+
+License: Other
 
 Resilient, scalable Brainf*ck, in the spirit of modern systems design
 
@@ -5660,9 +8211,14 @@ Resilient, scalable Brainf*ck, in the spirit of modern systems design
 ## zyedidia/generic
 
 Repository: [zyedidia/generic](https://github.com/zyedidia/generic)
+
 Author: [zyedidia](https://github.com/zyedidia)
 
-Stars: 391
+Stars: 393
+
+Forks: 13
+
+License: MIT License
 
 A collection of generic data structures written in Go.
 
@@ -5670,9 +8226,14 @@ A collection of generic data structures written in Go.
 ## zyedidia/micro
 
 Repository: [zyedidia/micro](https://github.com/zyedidia/micro)
+
 Author: [zyedidia](https://github.com/zyedidia)
 
-Stars: 19236
+Stars: 19235
+
+Forks: 994
+
+License: Other
 
 A modern and intuitive terminal-based text editor
 
@@ -5697,9 +8258,14 @@ A modern and intuitive terminal-based text editor
 ## FineFindus/artem
 
 Repository: [FineFindus/artem](https://github.com/FineFindus/artem)
+
 Author: [FineFindus](https://github.com/FineFindus)
 
 Stars: 21
+
+Forks: 0
+
+License: Mozilla Public License 2.0
 
 artem is a small cli program written in rust to easily convert images to ascii art
 
@@ -5707,9 +8273,14 @@ artem is a small cli program written in rust to easily convert images to ascii a
 ## WebReflection/linkedom
 
 Repository: [WebReflection/linkedom](https://github.com/WebReflection/linkedom)
+
 Author: [WebReflection](https://github.com/WebReflection)
 
 Stars: 783
+
+Forks: 33
+
+License: ISC License
 
 A triple-linked lists based DOM implementation.
 
@@ -5717,9 +8288,14 @@ A triple-linked lists based DOM implementation.
 ## dbkaplun/present
 
 Repository: [dbkaplun/present](https://github.com/dbkaplun/present)
+
 Author: [dbkaplun](https://github.com/dbkaplun)
 
 Stars: 30
+
+Forks: 3
+
+License: MIT License
 
 High-res timestamps in Node and browser
 
@@ -5727,9 +8303,14 @@ High-res timestamps in Node and browser
 ## gdl-888/namumark-wysiwyg
 
 Repository: [gdl-888/namumark-wysiwyg](https://github.com/gdl-888/namumark-wysiwyg)
+
 Author: [gdl-888](https://github.com/gdl-888)
 
 Stars: 4
+
+Forks: 2
+
+License: Other
 
 
 
@@ -5737,9 +8318,14 @@ Stars: 4
 ## go101/go101
 
 Repository: [go101/go101](https://github.com/go101/go101)
+
 Author: [go101](https://github.com/go101)
 
 Stars: 4349
+
+Forks: 321
+
+License: Other
 
 An online book focusing on Go syntax/semantics and runtime related things
 
@@ -5747,9 +8333,14 @@ An online book focusing on Go syntax/semantics and runtime related things
 ## hawkz/gdcss
 
 Repository: [hawkz/gdcss](https://github.com/hawkz/gdcss)
+
 Author: [hawkz](https://github.com/hawkz)
 
 Stars: 72
+
+Forks: 5
+
+License: MIT License
 
 A no-framework CSS library for vanilla rapid setup
 
@@ -5757,9 +8348,14 @@ A no-framework CSS library for vanilla rapid setup
 ## hyperhype/hyperscript
 
 Repository: [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript)
+
 Author: [hyperhype](https://github.com/hyperhype)
 
 Stars: 2361
+
+Forks: 111
+
+License: MIT License
 
 Create HyperText with JavaScript.
 
@@ -5767,9 +8363,14 @@ Create HyperText with JavaScript.
 ## leaningtech/webvm
 
 Repository: [leaningtech/webvm](https://github.com/leaningtech/webvm)
+
 Author: [leaningtech](https://github.com/leaningtech)
 
 Stars: 920
+
+Forks: 50
+
+License: Other
 
 Source code for the page webvm.io
 
@@ -5777,9 +8378,14 @@ Source code for the page webvm.io
 ## lemon-mint/clearblog
 
 Repository: [lemon-mint/clearblog](https://github.com/lemon-mint/clearblog)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: GNU General Public License v2.0
 
 
 
@@ -5787,9 +8393,14 @@ Stars: 1
 ## lemon-mint/flask-event-server
 
 Repository: [lemon-mint/flask-event-server](https://github.com/lemon-mint/flask-event-server)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: Mozilla Public License 2.0
 
 flask-event-server Is minimal and unoptimized Server-Sent Events Server
 
@@ -5797,9 +8408,14 @@ flask-event-server Is minimal and unoptimized Server-Sent Events Server
 ## pirogom/fun_stock
 
 Repository: [pirogom/fun_stock](https://github.com/pirogom/fun_stock)
+
 Author: [pirogom](https://github.com/pirogom)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 술김에 재미로 만들었던 .. 주식 매수매도 시뮬레이션???
 
@@ -5807,9 +8423,14 @@ Stars: 1
 ## purpleworks/delibird
 
 Repository: [purpleworks/delibird](https://github.com/purpleworks/delibird)
+
 Author: [purpleworks](https://github.com/purpleworks)
 
 Stars: 260
+
+Forks: 54
+
+License: MIT License
 
 Shipment tracking library for Golang.
 
@@ -5831,9 +8452,14 @@ Shipment tracking library for Golang.
 ## Konloch/bytecode-viewer
 
 Repository: [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
+
 Author: [Konloch](https://github.com/Konloch)
 
-Stars: 12881
+Stars: 12884
+
+Forks: 994
+
+License: GNU General Public License v3.0
 
 A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 
@@ -5841,9 +8467,14 @@ A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debug
 ## NationalSecurityAgency/ghidra
 
 Repository: [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
 Author: [NationalSecurityAgency](https://github.com/NationalSecurityAgency)
 
-Stars: 32033
+Stars: 32041
+
+Forks: 4199
+
+License: Apache License 2.0
 
 Ghidra is a software reverse engineering (SRE) framework
 
@@ -5851,9 +8482,14 @@ Ghidra is a software reverse engineering (SRE) framework
 ## Netflix/archaius
 
 Repository: [Netflix/archaius](https://github.com/Netflix/archaius)
+
 Author: [Netflix](https://github.com/Netflix)
 
 Stars: 2346
+
+Forks: 480
+
+License: Apache License 2.0
 
 Library for configuration management API
 
@@ -5861,9 +8497,14 @@ Library for configuration management API
 ## StrongKey/fido2
 
 Repository: [StrongKey/fido2](https://github.com/StrongKey/fido2)
+
 Author: [StrongKey](https://github.com/StrongKey)
 
 Stars: 138
+
+Forks: 52
+
+License: GNU Lesser General Public License v2.1
 
 Open-source FIDO server, featuring the FIDO2 standard. https://demo4.strongkey.com/getstarted/#/openapi/fido
 
@@ -5871,9 +8512,14 @@ Open-source FIDO server, featuring the FIDO2 standard. https://demo4.strongkey.c
 ## caoccao/Javet
 
 Repository: [caoccao/Javet](https://github.com/caoccao/Javet)
+
 Author: [caoccao](https://github.com/caoccao)
 
 Stars: 172
+
+Forks: 19
+
+License: Apache License 2.0
 
 Javet is Java + V8 (JAVa + V + EighT). It is an awesome way of embedding Node.js and V8 in Java.
 
@@ -5881,9 +8527,14 @@ Javet is Java + V8 (JAVa + V + EighT). It is an awesome way of embedding Node.js
 ## christophetd/log4shell-vulnerable-app
 
 Repository: [christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)
+
 Author: [christophetd](https://github.com/christophetd)
 
 Stars: 975
+
+Forks: 432
+
+License: Apache License 2.0
 
 Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).
 
@@ -5891,9 +8542,14 @@ Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).
 ## google/dagger
 
 Repository: [google/dagger](https://github.com/google/dagger)
+
 Author: [google](https://github.com/google)
 
-Stars: 16560
+Stars: 16562
+
+Forks: 1952
+
+License: Apache License 2.0
 
 A fast dependency injector for Android and Java.
 
@@ -5901,9 +8557,14 @@ A fast dependency injector for Android and Java.
 ## kestra-io/kestra
 
 Repository: [kestra-io/kestra](https://github.com/kestra-io/kestra)
+
 Author: [kestra-io](https://github.com/kestra-io)
 
-Stars: 2180
+Stars: 2185
+
+Forks: 91
+
+License: Apache License 2.0
 
 Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 
@@ -5911,9 +8572,14 @@ Kestra is an infinitely scalable orchestration and scheduling platform, creating
 ## reactor/reactor-core
 
 Repository: [reactor/reactor-core](https://github.com/reactor/reactor-core)
+
 Author: [reactor](https://github.com/reactor)
 
 Stars: 4053
+
+Forks: 988
+
+License: Apache License 2.0
 
 Non-Blocking Reactive Foundation for the JVM
 
@@ -5949,6 +8615,7 @@ Non-Blocking Reactive Foundation for the JVM
 * [conwnet/github1s](#conwnetgithub1s)
 * [denysdovhan/wtfjs](#denysdovhanwtfjs)
 * [developit/htm](#developithtm)
+* [digitalbazaar/forge](#digitalbazaarforge)
 * [dockersamples/docker-swarm-visualizer](#dockersamplesdocker-swarm-visualizer)
 * [galaxy4276/ReactRepo](#galaxy4276reactrepo)
 * [gdl-888/namufix-helper-classic-theseed](#gdl-888namufix-helper-classic-theseed)
@@ -5994,9 +8661,14 @@ Non-Blocking Reactive Foundation for the JVM
 ## 30-seconds/30-seconds-of-code
 
 Repository: [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+
 Author: [30-seconds](https://github.com/30-seconds)
 
-Stars: 93828
+Stars: 93834
+
+Forks: 9980
+
+License: Creative Commons Attribution 4.0 International
 
 Short JavaScript code snippets for all your development needs
 
@@ -6004,9 +8676,14 @@ Short JavaScript code snippets for all your development needs
 ## AsyncBanana/microdiff
 
 Repository: [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff)
+
 Author: [AsyncBanana](https://github.com/AsyncBanana)
 
-Stars: 2925
+Stars: 2924
+
+Forks: 56
+
+License: MIT License
 
 A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 
@@ -6014,9 +8691,14 @@ A fast, zero dependency object and array comparison library. Significantly faste
 ## DeadIntegral/stupidk-blog
 
 Repository: [DeadIntegral/stupidk-blog](https://github.com/DeadIntegral/stupidk-blog)
+
 Author: [DeadIntegral](https://github.com/DeadIntegral)
 
 Stars: 2
+
+Forks: 0
+
+License: BSD Zero Clause License
 
 stupidk blog
 
@@ -6024,9 +8706,14 @@ stupidk blog
 ## EFForg/https-everywhere
 
 Repository: [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere)
+
 Author: [EFForg](https://github.com/EFForg)
 
-Stars: 3299
+Stars: 3298
+
+Forks: 1188
+
+License: Other
 
 A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 
@@ -6034,9 +8721,14 @@ A browser extension that encrypts your communications with many websites that of
 ## GoogleChrome/workbox
 
 Repository: [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox)
+
 Author: [GoogleChrome](https://github.com/GoogleChrome)
 
-Stars: 10678
+Stars: 10679
+
+Forks: 742
+
+License: MIT License
 
 📦 Workbox: JavaScript libraries for Progressive Web Apps
 
@@ -6044,9 +8736,14 @@ Stars: 10678
 ## KaTeX/KaTeX
 
 Repository: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)
+
 Author: [KaTeX](https://github.com/KaTeX)
 
 Stars: 15021
+
+Forks: 1041
+
+License: MIT License
 
 Fast math typesetting for the web.
 
@@ -6054,9 +8751,14 @@ Fast math typesetting for the web.
 ## MaetDol/k-means-js
 
 Repository: [MaetDol/k-means-js](https://github.com/MaetDol/k-means-js)
+
 Author: [MaetDol](https://github.com/MaetDol)
 
 Stars: 5
+
+Forks: 0
+
+License: Apache License 2.0
 
 K-means for javascript
 
@@ -6064,9 +8766,14 @@ K-means for javascript
 ## Matt-Esch/virtual-dom
 
 Repository: [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+
 Author: [Matt-Esch](https://github.com/Matt-Esch)
 
 Stars: 11336
+
+Forks: 813
+
+License: MIT License
 
 A Virtual DOM and diffing algorithm
 
@@ -6074,9 +8781,14 @@ A Virtual DOM and diffing algorithm
 ## ProductiveAndEfficient/miniature-lamp
 
 Repository: [ProductiveAndEfficient/miniature-lamp](https://github.com/ProductiveAndEfficient/miniature-lamp)
+
 Author: []()
 
 Stars: 1
+
+Forks: 0
+
+License: Creative Commons Zero v1.0 Universal
 
 Minimal React js template
 
@@ -6084,9 +8796,14 @@ Minimal React js template
 ## Queue-ri/Shared-Piano-Playbot
 
 Repository: [Queue-ri/Shared-Piano-Playbot](https://github.com/Queue-ri/Shared-Piano-Playbot)
+
 Author: [Queue-ri](https://github.com/Queue-ri)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 🎵 Play MIDI files on Google Shared Piano 🎹 (WIP)
 
@@ -6094,9 +8811,14 @@ Stars: 1
 ## Sanix-Darker/tidi
 
 Repository: [Sanix-Darker/tidi](https://github.com/Sanix-Darker/tidi)
+
 Author: [Sanix-Darker](https://github.com/Sanix-Darker)
 
 Stars: 72
+
+Forks: 7
+
+License: MIT License
 
 The 2Kb smallest Chat component.
 
@@ -6104,9 +8826,14 @@ The 2Kb smallest Chat component.
 ## The-World-Space/the-world-engine.ts
 
 Repository: [The-World-Space/the-world-engine.ts](https://github.com/The-World-Space/the-world-engine.ts)
+
 Author: [The-World-Space](https://github.com/The-World-Space)
 
 Stars: 7
+
+Forks: 0
+
+License: MIT License
 
 three.js based, unity like game engine for browser
 
@@ -6114,9 +8841,14 @@ three.js based, unity like game engine for browser
 ## TheAlgorithms/Javascript
 
 Repository: [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 19362
+Stars: 19376
+
+Forks: 3364
+
+License: GNU General Public License v3.0
 
 Algorithms implemented in JavaScript for beginners, following best practices.
 
@@ -6124,9 +8856,14 @@ Algorithms implemented in JavaScript for beginners, following best practices.
 ## Unitech/pm2
 
 Repository: [Unitech/pm2](https://github.com/Unitech/pm2)
+
 Author: [Unitech](https://github.com/Unitech)
 
 Stars: 36762
+
+Forks: 2401
+
+License: Other
 
 Node.js Production Process Manager with a built-in Load Balancer.
 
@@ -6134,9 +8871,14 @@ Node.js Production Process Manager with a built-in Load Balancer.
 ## acornjs/acorn
 
 Repository: [acornjs/acorn](https://github.com/acornjs/acorn)
+
 Author: [acornjs](https://github.com/acornjs)
 
 Stars: 8209
+
+Forks: 758
+
+License: MIT License
 
 A small, fast, JavaScript-based JavaScript parser
 
@@ -6144,9 +8886,14 @@ A small, fast, JavaScript-based JavaScript parser
 ## alexKwonIsAwesome/react-learnit-s3
 
 Repository: [alexKwonIsAwesome/react-learnit-s3](https://github.com/alexKwonIsAwesome/react-learnit-s3)
+
 Author: [alexKwonIsAwesome](https://github.com/alexKwonIsAwesome)
 
 Stars: 11
+
+Forks: 6
+
+License: Other
 
 프로젝트로 배우는 React 웹 애플리케이션 개발 - 러닛 스터디
 
@@ -6154,9 +8901,14 @@ Stars: 11
 ## alphagov/govuk-frontend
 
 Repository: [alphagov/govuk-frontend](https://github.com/alphagov/govuk-frontend)
+
 Author: [alphagov](https://github.com/alphagov)
 
 Stars: 678
+
+Forks: 259
+
+License: MIT License
 
 GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
 
@@ -6164,9 +8916,14 @@ GOV.UK Frontend contains the code you need to start building a user interface fo
 ## ampproject/amphtml
 
 Repository: [ampproject/amphtml](https://github.com/ampproject/amphtml)
+
 Author: [ampproject](https://github.com/ampproject)
 
 Stars: 14838
+
+Forks: 3965
+
+License: Apache License 2.0
 
 The AMP web component framework.
 
@@ -6174,9 +8931,14 @@ The AMP web component framework.
 ## anuraghazra/github-readme-stats
 
 Repository: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
 Author: [anuraghazra](https://github.com/anuraghazra)
 
-Stars: 39783
+Stars: 39790
+
+Forks: 9295
+
+License: MIT License
 
 :zap: Dynamically generated stats for your github readmes
 
@@ -6184,9 +8946,14 @@ Stars: 39783
 ## apexcharts/apexcharts.js
 
 Repository: [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
+
 Author: [apexcharts](https://github.com/apexcharts)
 
-Stars: 11349
+Stars: 11350
+
+Forks: 926
+
+License: MIT License
 
 📊 Interactive JavaScript Charts built on SVG
 
@@ -6194,9 +8961,14 @@ Stars: 11349
 ## appwrite/appwrite
 
 Repository: [appwrite/appwrite](https://github.com/appwrite/appwrite)
+
 Author: [appwrite](https://github.com/appwrite)
 
-Stars: 20490
+Stars: 20496
+
+Forks: 1602
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
@@ -6204,9 +8976,14 @@ Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% ope
 ## awesome-selfhosted/awesome-selfhosted
 
 Repository: [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
 Author: [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
-Stars: 84358
+Stars: 84394
+
+Forks: 5683
+
+License: Other
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -6214,9 +8991,14 @@ A list of Free Software network services and web applications which can be hoste
 ## badges/shields
 
 Repository: [badges/shields](https://github.com/badges/shields)
+
 Author: [badges](https://github.com/badges)
 
-Stars: 16615
+Stars: 16617
+
+Forks: 4659
+
+License: Creative Commons Zero v1.0 Universal
 
 Concise, consistent, and legible badges in SVG and raster format
 
@@ -6224,9 +9006,14 @@ Concise, consistent, and legible badges in SVG and raster format
 ## blitz-js/blitz
 
 Repository: [blitz-js/blitz](https://github.com/blitz-js/blitz)
+
 Author: [blitz-js](https://github.com/blitz-js)
 
-Stars: 11175
+Stars: 11173
+
+Forks: 648
+
+License: MIT License
 
 ⚡️The Fullstack React Framework — built on Next.js
 
@@ -6234,9 +9021,14 @@ Stars: 11175
 ## cleanlock/VideoAdBlockForTwitch
 
 Repository: [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
+
 Author: [cleanlock](https://github.com/cleanlock)
 
-Stars: 697
+Stars: 699
+
+Forks: 75
+
+License: GNU General Public License v3.0
 
 Blocks Ads on Twitch.tv.
 
@@ -6244,9 +9036,14 @@ Blocks Ads on Twitch.tv.
 ## conwnet/github1s
 
 Repository: [conwnet/github1s](https://github.com/conwnet/github1s)
+
 Author: [conwnet](https://github.com/conwnet)
 
-Stars: 20816
+Stars: 20817
+
+Forks: 712
+
+License: MIT License
 
 One second to read GitHub code with VS Code.
 
@@ -6254,9 +9051,14 @@ One second to read GitHub code with VS Code.
 ## denysdovhan/wtfjs
 
 Repository: [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+
 Author: [denysdovhan](https://github.com/denysdovhan)
 
-Stars: 25936
+Stars: 25940
+
+Forks: 1830
+
+License: Do What The F*ck You Want To Public License
 
 🤪 A list of funny and tricky JavaScript examples
 
@@ -6264,19 +9066,44 @@ Stars: 25936
 ## developit/htm
 
 Repository: [developit/htm](https://github.com/developit/htm)
+
 Author: [developit](https://github.com/developit)
 
-Stars: 7507
+Stars: 7509
+
+Forks: 154
+
+License: Apache License 2.0
 
 Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
+
+<a name="repo-tlhgdar3drl2sdkd6wi7tk7g"></a>
+## digitalbazaar/forge
+
+Repository: [digitalbazaar/forge](https://github.com/digitalbazaar/forge)
+
+Author: [digitalbazaar](https://github.com/digitalbazaar)
+
+Stars: 4324
+
+Forks: 702
+
+License: Other
+
+A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 
 <a name="repo-ptp7ngngvn247xtcamv4alwp"></a>
 ## dockersamples/docker-swarm-visualizer
 
 Repository: [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer)
+
 Author: [dockersamples](https://github.com/dockersamples)
 
 Stars: 3032
+
+Forks: 521
+
+License: Apache License 2.0
 
 A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 
@@ -6284,9 +9111,14 @@ A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 ## galaxy4276/ReactRepo
 
 Repository: [galaxy4276/ReactRepo](https://github.com/galaxy4276/ReactRepo)
+
 Author: [galaxy4276](https://github.com/galaxy4276)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 리다기 학습코드
 
@@ -6294,9 +9126,14 @@ Stars: 1
 ## gdl-888/namufix-helper-classic-theseed
 
 Repository: [gdl-888/namufix-helper-classic-theseed](https://github.com/gdl-888/namufix-helper-classic-theseed)
+
 Author: [gdl-888](https://github.com/gdl-888)
 
 Stars: 3
+
+Forks: 0
+
+License: Other
 
 2021년 나무픽스 복구 및 기분으로나마 구 프론트엔드 느낌을 주는 유저 스크립트
 
@@ -6304,9 +9141,14 @@ Stars: 3
 ## getevo/evo
 
 Repository: [getevo/evo](https://github.com/getevo/evo)
+
 Author: [getevo](https://github.com/getevo)
 
 Stars: 24
+
+Forks: 5
+
+License: MIT License
 
 Evo is a powerful package for quickly writing modular web applications/services in Golang aimed both backend and frontend.
 
@@ -6314,9 +9156,14 @@ Evo is a powerful package for quickly writing modular web applications/services 
 ## ghdmsrkd/react-s3-cloudFront-serverless-template
 
 Repository: [ghdmsrkd/react-s3-cloudFront-serverless-template](https://github.com/ghdmsrkd/react-s3-cloudFront-serverless-template)
+
 Author: [ghdmsrkd](https://github.com/ghdmsrkd)
 
 Stars: 7
+
+Forks: 0
+
+License: MIT License
 
 This project show how fast we can deploy react app in s3 and cloudfront. Try it and make yours
 
@@ -6324,9 +9171,14 @@ This project show how fast we can deploy react app in s3 and cloudfront. Try it 
 ## gionkunz/chartist-js
 
 Repository: [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js)
+
 Author: [gionkunz](https://github.com/gionkunz)
 
-Stars: 12784
+Stars: 12783
+
+Forks: 2661
+
+License: Other
 
 Simple responsive charts
 
@@ -6334,9 +9186,14 @@ Simple responsive charts
 ## google/closure-library
 
 Repository: [google/closure-library](https://github.com/google/closure-library)
+
 Author: [google](https://github.com/google)
 
-Stars: 4375
+Stars: 4374
+
+Forks: 1023
+
+License: Apache License 2.0
 
 Google's common JavaScript library
 
@@ -6344,9 +9201,14 @@ Google's common JavaScript library
 ## httpcats/http.cat
 
 Repository: [httpcats/http.cat](https://github.com/httpcats/http.cat)
+
 Author: [httpcats](https://github.com/httpcats)
 
 Stars: 1524
+
+Forks: 81
+
+License: MIT License
 
 :cat: HTTP Cats API
 
@@ -6354,9 +9216,14 @@ Stars: 1524
 ## iamkun/dayjs
 
 Repository: [iamkun/dayjs](https://github.com/iamkun/dayjs)
+
 Author: [iamkun](https://github.com/iamkun)
 
-Stars: 38519
+Stars: 38523
+
+Forks: 1938
+
+License: MIT License
 
 ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 
@@ -6364,9 +9231,14 @@ Stars: 38519
 ## indutny/elliptic
 
 Repository: [indutny/elliptic](https://github.com/indutny/elliptic)
+
 Author: [indutny](https://github.com/indutny)
 
 Stars: 1395
+
+Forks: 337
+
+License: Other
 
 Fast Elliptic Curve Cryptography in plain javascript
 
@@ -6374,9 +9246,14 @@ Fast Elliptic Curve Cryptography in plain javascript
 ## jitbit/HtmlSanitizer
 
 Repository: [jitbit/HtmlSanitizer](https://github.com/jitbit/HtmlSanitizer)
+
 Author: [jitbit](https://github.com/jitbit)
 
 Stars: 79
+
+Forks: 29
+
+License: MIT License
 
 Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
 
@@ -6384,9 +9261,14 @@ Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in
 ## just-js/just
 
 Repository: [just-js/just](https://github.com/just-js/just)
+
 Author: [just-js](https://github.com/just-js)
 
 Stars: 1991
+
+Forks: 74
+
+License: MIT License
 
 a very small v8 javascript runtime for linux only
 
@@ -6394,9 +9276,14 @@ a very small v8 javascript runtime for linux only
 ## koreapyj/sip-mitm
 
 Repository: [koreapyj/sip-mitm](https://github.com/koreapyj/sip-mitm)
+
 Author: [koreapyj](https://github.com/koreapyj)
 
 Stars: 11
+
+Forks: 4
+
+License: GNU Affero General Public License v3.0
 
 SIP에 MITM을 가해 다운그레이드 어택을 하여 ID와 패스워드를 알아냅니다.
 
@@ -6404,9 +9291,14 @@ SIP에 MITM을 가해 다운그레이드 어택을 하여 ID와 패스워드를 
 ## lemon-mint/cfpjs
 
 Repository: [lemon-mint/cfpjs](https://github.com/lemon-mint/cfpjs)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: MIT License
 
 Canvas fingerprinting library
 
@@ -6414,9 +9306,14 @@ Canvas fingerprinting library
 ## lemon-mint/github-api-markdown-js
 
 Repository: [lemon-mint/github-api-markdown-js](https://github.com/lemon-mint/github-api-markdown-js)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: The Unlicense
 
 Render markdown using github's API
 
@@ -6424,9 +9321,14 @@ Render markdown using github's API
 ## lemon-mint/webauthn-demo-client
 
 Repository: [lemon-mint/webauthn-demo-client](https://github.com/lemon-mint/webauthn-demo-client)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 1
+
+License: MIT License
 
 
 
@@ -6434,9 +9336,14 @@ Stars: 2
 ## lukeed/rosetta
 
 Repository: [lukeed/rosetta](https://github.com/lukeed/rosetta)
+
 Author: [lukeed](https://github.com/lukeed)
 
 Stars: 661
+
+Forks: 11
+
+License: MIT License
 
 A general purpose internationalization library in 292 bytes
 
@@ -6444,9 +9351,14 @@ A general purpose internationalization library in 292 bytes
 ## mui/material-ui
 
 Repository: [mui/material-ui](https://github.com/mui/material-ui)
+
 Author: [mui](https://github.com/mui)
 
-Stars: 77346
+Stars: 77351
+
+Forks: 26740
+
+License: MIT License
 
 MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 
@@ -6454,9 +9366,14 @@ MUI Core (formerly Material-UI) is the React UI library you always wanted. Follo
 ## mvximenko/social-network
 
 Repository: [mvximenko/social-network](https://github.com/mvximenko/social-network)
+
 Author: [mvximenko](https://github.com/mvximenko)
 
 Stars: 37
+
+Forks: 1
+
+License: MIT License
 
 Social network for developers built on the MERN stack.
 
@@ -6464,9 +9381,14 @@ Social network for developers built on the MERN stack.
 ## niespodd/browser-fingerprinting
 
 Repository: [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
+
 Author: [niespodd](https://github.com/niespodd)
 
 Stars: 2827
+
+Forks: 137
+
+License: Other
 
 Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 
@@ -6474,9 +9396,14 @@ Analysis of Bot Protection systems with available countermeasures 🚿. How to d
 ## openpgpjs/openpgpjs
 
 Repository: [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs)
+
 Author: [openpgpjs](https://github.com/openpgpjs)
 
 Stars: 5080
+
+Forks: 771
+
+License: GNU Lesser General Public License v3.0
 
 OpenPGP implementation for JavaScript
 
@@ -6484,9 +9411,14 @@ OpenPGP implementation for JavaScript
 ## patriksimek/vm2
 
 Repository: [patriksimek/vm2](https://github.com/patriksimek/vm2)
+
 Author: [patriksimek](https://github.com/patriksimek)
 
-Stars: 2953
+Stars: 2952
+
+Forks: 212
+
+License: MIT License
 
 Advanced vm/sandbox for Node.js
 
@@ -6494,9 +9426,14 @@ Advanced vm/sandbox for Node.js
 ## paularmstrong/swig
 
 Repository: [paularmstrong/swig](https://github.com/paularmstrong/swig)
+
 Author: [paularmstrong](https://github.com/paularmstrong)
 
 Stars: 3125
+
+Forks: 461
+
+License: MIT License
 
 Take a swig of the best template engine for JavaScript.
 
@@ -6504,9 +9441,14 @@ Take a swig of the best template engine for JavaScript.
 ## peter-evans/commit-comment
 
 Repository: [peter-evans/commit-comment](https://github.com/peter-evans/commit-comment)
+
 Author: [peter-evans](https://github.com/peter-evans)
 
 Stars: 63
+
+Forks: 9
+
+License: MIT License
 
 A GitHub action to create a comment for a commit on GitHub
 
@@ -6514,9 +9456,14 @@ A GitHub action to create a comment for a commit on GitHub
 ## pikpokjeon/calendate-js
 
 Repository: [pikpokjeon/calendate-js](https://github.com/pikpokjeon/calendate-js)
+
 Author: [pikpokjeon](https://github.com/pikpokjeon)
 
 Stars: 6
+
+Forks: 0
+
+License: MIT License
 
 vanila js calendar-date related mini project
 
@@ -6524,9 +9471,14 @@ vanila js calendar-date related mini project
 ## postmanlabs/postman-code-generators
 
 Repository: [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
+
 Author: [postmanlabs](https://github.com/postmanlabs)
 
 Stars: 739
+
+Forks: 293
+
+License: Apache License 2.0
 
 Common repository for all code generators shipped with Postman
 
@@ -6534,9 +9486,14 @@ Common repository for all code generators shipped with Postman
 ## reactjs/react-magic
 
 Repository: [reactjs/react-magic](https://github.com/reactjs/react-magic)
+
 Author: [reactjs](https://github.com/reactjs)
 
 Stars: 893
+
+Forks: 100
+
+License: Other
 
 Automatically AJAXify plain HTML with the power of React. It's magic!
 
@@ -6544,9 +9501,14 @@ Automatically AJAXify plain HTML with the power of React. It's magic!
 ## responsively-org/responsively-app
 
 Repository: [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+
 Author: [responsively-org](https://github.com/responsively-org)
 
-Stars: 15840
+Stars: 15851
+
+Forks: 669
+
+License: GNU Affero General Public License v3.0
 
 A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
@@ -6554,9 +9516,14 @@ A modified web browser that helps in responsive web development. A web developer
 ## roxiness/tossr
 
 Repository: [roxiness/tossr](https://github.com/roxiness/tossr)
+
 Author: [roxiness](https://github.com/roxiness)
 
 Stars: 36
+
+Forks: 5
+
+License: Other
 
 Universal SSR renderer powered by JSDOM
 
@@ -6564,9 +9531,14 @@ Universal SSR renderer powered by JSDOM
 ## sindresorhus/pretty-bytes
 
 Repository: [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes)
+
 Author: [sindresorhus](https://github.com/sindresorhus)
 
 Stars: 834
+
+Forks: 78
+
+License: MIT License
 
 Convert bytes to a human readable string: 1337 → 1.34 kB
 
@@ -6574,9 +9546,14 @@ Convert bytes to a human readable string: 1337 → 1.34 kB
 ## svg/svgo
 
 Repository: [svg/svgo](https://github.com/svg/svgo)
+
 Author: [svg](https://github.com/svg)
 
-Stars: 17514
+Stars: 17513
+
+Forks: 1263
+
+License: MIT License
 
 ⚙️ Node.js tool for optimizing SVG files
 
@@ -6584,9 +9561,14 @@ Stars: 17514
 ## systemjs/systemjs
 
 Repository: [systemjs/systemjs](https://github.com/systemjs/systemjs)
+
 Author: [systemjs](https://github.com/systemjs)
 
 Stars: 12056
+
+Forks: 1091
+
+License: MIT License
 
 Dynamic ES module loader
 
@@ -6594,9 +9576,14 @@ Dynamic ES module loader
 ## testing-library/vue-testing-library
 
 Repository: [testing-library/vue-testing-library](https://github.com/testing-library/vue-testing-library)
+
 Author: [testing-library](https://github.com/testing-library)
 
 Stars: 814
+
+Forks: 85
+
+License: MIT License
 
 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices.
 
@@ -6604,9 +9591,14 @@ Stars: 814
 ## thelinuxlich/react-modern-starter
 
 Repository: [thelinuxlich/react-modern-starter](https://github.com/thelinuxlich/react-modern-starter)
+
 Author: [thelinuxlich](https://github.com/thelinuxlich)
 
 Stars: 49
+
+Forks: 7
+
+License: MIT License
 
 A starter app for your needs in 2021
 
@@ -6614,9 +9606,14 @@ A starter app for your needs in 2021
 ## vercel/pkg
 
 Repository: [vercel/pkg](https://github.com/vercel/pkg)
+
 Author: [vercel](https://github.com/vercel)
 
-Stars: 20535
+Stars: 20571
+
+Forks: 882
+
+License: MIT License
 
 Package your Node.js project into an executable
 
@@ -6624,9 +9621,14 @@ Package your Node.js project into an executable
 ## wcchoi/go-wasm-pdfcpu
 
 Repository: [wcchoi/go-wasm-pdfcpu](https://github.com/wcchoi/go-wasm-pdfcpu)
+
 Author: [wcchoi](https://github.com/wcchoi)
 
 Stars: 79
+
+Forks: 7
+
+License: MIT License
 
 Running a Command line tool written in Go on browser with WebAssembly
 
@@ -6634,9 +9636,14 @@ Running a Command line tool written in Go on browser with WebAssembly
 ## windowjs/windowjs
 
 Repository: [windowjs/windowjs](https://github.com/windowjs/windowjs)
+
 Author: [windowjs](https://github.com/windowjs)
 
 Stars: 2202
+
+Forks: 65
+
+License: MIT License
 
 Window.js is an open-source Javascript runtime for desktop graphics programming.
 
@@ -6644,9 +9651,14 @@ Window.js is an open-source Javascript runtime for desktop graphics programming.
 ## wizath/react-flask-auth
 
 Repository: [wizath/react-flask-auth](https://github.com/wizath/react-flask-auth)
+
 Author: [wizath](https://github.com/wizath)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 
 
@@ -6654,9 +9666,14 @@ Stars: 1
 ## xiam/go-playground
 
 Repository: [xiam/go-playground](https://github.com/xiam/go-playground)
+
 Author: [xiam](https://github.com/xiam)
 
 Stars: 240
+
+Forks: 42
+
+License: Other
 
 Your own Go Playground (for demos and workshops)
 
@@ -6664,9 +9681,14 @@ Your own Go Playground (for demos and workshops)
 ## zao95/react-cache-api
 
 Repository: [zao95/react-cache-api](https://github.com/zao95/react-cache-api)
+
 Author: [zao95](https://github.com/zao95)
 
 Stars: 12
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -6680,9 +9702,14 @@ Stars: 12
 ## JuliaLang/julia
 
 Repository: [JuliaLang/julia](https://github.com/JuliaLang/julia)
+
 Author: [JuliaLang](https://github.com/JuliaLang)
 
 Stars: 38843
+
+Forks: 4873
+
+License: MIT License
 
 The Julia Programming Language
 
@@ -6699,9 +9726,14 @@ The Julia Programming Language
 ## AI4Finance-Foundation/FinRL
 
 Repository: [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL)
+
 Author: [AI4Finance-Foundation](https://github.com/AI4Finance-Foundation)
 
-Stars: 4635
+Stars: 4640
+
+Forks: 1104
+
+License: MIT License
 
 FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥
 
@@ -6709,9 +9741,14 @@ FinRL: The first open-source project for financial reinforcement learning. Pleas
 ## deepmind/deepmind-research
 
 Repository: [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)
+
 Author: [deepmind](https://github.com/deepmind)
 
 Stars: 9979
+
+Forks: 2052
+
+License: Apache License 2.0
 
 This repository contains implementations and illustrative code to accompany DeepMind publications
 
@@ -6719,9 +9756,14 @@ This repository contains implementations and illustrative code to accompany Deep
 ## google-research/kubric
 
 Repository: [google-research/kubric](https://github.com/google-research/kubric)
+
 Author: [google-research](https://github.com/google-research)
 
-Stars: 1255
+Stars: 1259
+
+Forks: 82
+
+License: Apache License 2.0
 
 A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 
@@ -6729,9 +9771,14 @@ A data generation pipeline for creating semi-realistic synthetic multi-object vi
 ## saic-mdal/lama
 
 Repository: [saic-mdal/lama](https://github.com/saic-mdal/lama)
+
 Author: [saic-mdal](https://github.com/saic-mdal)
 
-Stars: 3494
+Stars: 3504
+
+Forks: 342
+
+License: Apache License 2.0
 
 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 
@@ -6745,9 +9792,14 @@ Stars: 3494
 ## pple-link/pple-assets
 
 Repository: [pple-link/pple-assets](https://github.com/pple-link/pple-assets)
+
 Author: [pple-link](https://github.com/pple-link)
 
 Stars: 10
+
+Forks: 0
+
+License: Other
 
 
 
@@ -6766,9 +9818,14 @@ Stars: 10
 ## BookStackApp/BookStack
 
 Repository: [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
+
 Author: [BookStackApp](https://github.com/BookStackApp)
 
-Stars: 9028
+Stars: 9031
+
+Forks: 1257
+
+License: Other
 
 A platform to create documentation/wiki content built with PHP & Laravel
 
@@ -6776,9 +9833,14 @@ A platform to create documentation/wiki content built with PHP & Laravel
 ## google/recaptcha
 
 Repository: [google/recaptcha](https://github.com/google/recaptcha)
+
 Author: [google](https://github.com/google)
 
 Stars: 3192
+
+Forks: 777
+
+License: BSD 3-Clause "New" or "Revised" License
 
 PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 
@@ -6786,9 +9848,14 @@ PHP client library for reCAPTCHA, a free service to protect your website from sp
 ## michaelfranzl/no.php
 
 Repository: [michaelfranzl/no.php](https://github.com/michaelfranzl/no.php)
+
 Author: [michaelfranzl](https://github.com/michaelfranzl)
 
 Stars: 109
+
+Forks: 43
+
+License: MIT License
 
 Transparent reverse proxy written in PHP
 
@@ -6796,9 +9863,14 @@ Transparent reverse proxy written in PHP
 ## phpython/phpython
 
 Repository: [phpython/phpython](https://github.com/phpython/phpython)
+
 Author: [phpython](https://github.com/phpython)
 
 Stars: 13
+
+Forks: 4
+
+License: MIT License
 
 Use phpython to write python code in your php projects without using WSGI, CGI or FastCGI.
 
@@ -6806,9 +9878,14 @@ Use phpython to write python code in your php projects without using WSGI, CGI o
 ## slince/spike
 
 Repository: [slince/spike](https://github.com/slince/spike)
+
 Author: [slince](https://github.com/slince)
 
 Stars: 622
+
+Forks: 111
+
+License: Other
 
 :mega: A fast reverse proxy written in PHP that helps to expose local services to the internet
 
@@ -6816,9 +9893,14 @@ Stars: 622
 ## the-benchmarker/web-frameworks
 
 Repository: [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks)
+
 Author: [the-benchmarker](https://github.com/the-benchmarker)
 
 Stars: 6262
+
+Forks: 555
+
+License: MIT License
 
 Which is the fastest web framework?
 
@@ -6883,9 +9965,14 @@ Which is the fastest web framework?
 ## 3b1b/manim
 
 Repository: [3b1b/manim](https://github.com/3b1b/manim)
+
 Author: [3b1b](https://github.com/3b1b)
 
-Stars: 43720
+Stars: 43729
+
+Forks: 4804
+
+License: MIT License
 
 Animation engine for explanatory math videos
 
@@ -6893,9 +9980,14 @@ Animation engine for explanatory math videos
 ## AcrylicShrimp/auto-encoder
 
 Repository: [AcrylicShrimp/auto-encoder](https://github.com/AcrylicShrimp/auto-encoder)
+
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
 
 Stars: 3
+
+Forks: 0
+
+License: Other
 
 A journey to implement auto encoder-based generative models for images.
 
@@ -6903,9 +9995,14 @@ A journey to implement auto encoder-based generative models for images.
 ## Clivern/Cattle
 
 Repository: [Clivern/Cattle](https://github.com/Clivern/Cattle)
+
 Author: [Clivern](https://github.com/Clivern)
 
 Stars: 48
+
+Forks: 5
+
+License: Apache License 2.0
 
 🐺 Platform to Run and Share Code. It Supports PHP, Python, Ruby, Java, Go, Rust, C and C++.
 
@@ -6913,9 +10010,14 @@ Stars: 48
 ## Crerty/Viento
 
 Repository: [Crerty/Viento](https://github.com/Crerty/Viento)
+
 Author: [Crerty](https://github.com/Crerty)
 
 Stars: 8
+
+Forks: 2
+
+License: BSD 3-Clause "New" or "Revised" License
 
 
 
@@ -6923,9 +10025,14 @@ Stars: 8
 ## DavidBuchanan314/ambiguous-png-packer
 
 Repository: [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer)
+
 Author: [DavidBuchanan314](https://github.com/DavidBuchanan314)
 
 Stars: 1009
+
+Forks: 37
+
+License: MIT License
 
 Craft PNG files that appear completely different in Apple software [NOW PATCHED]
 
@@ -6933,9 +10040,14 @@ Craft PNG files that appear completely different in Apple software [NOW PATCHED]
 ## DeltaLaboratory/OpenLibrary-Server
 
 Repository: [DeltaLaboratory/OpenLibrary-Server](https://github.com/DeltaLaboratory/OpenLibrary-Server)
+
 Author: [DeltaLaboratory](https://github.com/DeltaLaboratory)
 
 Stars: 5
+
+Forks: 1
+
+License: Other
 
 Opensource Library Management Service
 
@@ -6943,9 +10055,14 @@ Opensource Library Management Service
 ## EleutherAI/gpt-neo
 
 Repository: [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
+
 Author: [EleutherAI](https://github.com/EleutherAI)
 
-Stars: 6200
+Stars: 6201
+
+Forks: 510
+
+License: MIT License
 
 An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 
@@ -6953,9 +10070,14 @@ An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-
 ## JJChiDguez/sibc
 
 Repository: [JJChiDguez/sibc](https://github.com/JJChiDguez/sibc)
+
 Author: [JJChiDguez](https://github.com/JJChiDguez)
 
 Stars: 34
+
+Forks: 9
+
+License: GNU General Public License v3.0
 
 Supersingular Isogeny-Based Cryptography constructions (python-code library)
 
@@ -6963,9 +10085,14 @@ Supersingular Isogeny-Based Cryptography constructions (python-code library)
 ## LudovicRousseau/pyscard
 
 Repository: [LudovicRousseau/pyscard](https://github.com/LudovicRousseau/pyscard)
+
 Author: [LudovicRousseau](https://github.com/LudovicRousseau)
 
 Stars: 268
+
+Forks: 89
+
+License: GNU Lesser General Public License v2.1
 
 pyscard smartcard library for python
 
@@ -6973,9 +10100,14 @@ pyscard smartcard library for python
 ## PySimpleGUI/PySimpleGUI
 
 Repository: [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+
 Author: [PySimpleGUI](https://github.com/PySimpleGUI)
 
-Stars: 9766
+Stars: 9770
+
+Forks: 1473
+
+License: GNU Lesser General Public License v3.0
 
 Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.
 
@@ -6983,9 +10115,14 @@ Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. C
 ## Rayhane-mamah/Tacotron-2
 
 Repository: [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2)
+
 Author: [Rayhane-mamah](https://github.com/Rayhane-mamah)
 
 Stars: 1998
+
+Forks: 883
+
+License: MIT License
 
 DeepMind's Tacotron-2 Tensorflow implementation
 
@@ -6993,9 +10130,14 @@ DeepMind's Tacotron-2 Tensorflow implementation
 ## Stella-IT/XenXenXenSe
 
 Repository: [Stella-IT/XenXenXenSe](https://github.com/Stella-IT/XenXenXenSe)
+
 Author: [Stella-IT](https://github.com/Stella-IT)
 
 Stars: 20
+
+Forks: 4
+
+License: MIT License
 
 An easy-to-use HTTP API of XenAPI for Web Application Developers.
 
@@ -7003,9 +10145,14 @@ An easy-to-use HTTP API of XenAPI for Web Application Developers.
 ## TensorSpeech/TensorFlowTTS
 
 Repository: [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
+
 Author: [TensorSpeech](https://github.com/TensorSpeech)
 
-Stars: 2601
+Stars: 2603
+
+Forks: 586
+
+License: Apache License 2.0
 
 :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
 
@@ -7013,9 +10160,14 @@ Stars: 2601
 ## TheAlgorithms/Python
 
 Repository: [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 134333
+Stars: 134358
+
+Forks: 35234
+
+License: MIT License
 
 All Algorithms implemented in Python
 
@@ -7023,9 +10175,14 @@ All Algorithms implemented in Python
 ## WegraLee/deep-learning-from-scratch
 
 Repository: [WegraLee/deep-learning-from-scratch](https://github.com/WegraLee/deep-learning-from-scratch)
+
 Author: [WegraLee](https://github.com/WegraLee)
 
 Stars: 881
+
+Forks: 966
+
+License: MIT License
 
 『밑바닥부터 시작하는 딥러닝』(한빛미디어, 2017)
 
@@ -7033,9 +10190,14 @@ Stars: 881
 ## chenzhuoyu/asm2asm
 
 Repository: [chenzhuoyu/asm2asm](https://github.com/chenzhuoyu/asm2asm)
+
 Author: [chenzhuoyu](https://github.com/chenzhuoyu)
 
 Stars: 44
+
+Forks: 5
+
+License: Apache License 2.0
 
 
 
@@ -7043,9 +10205,14 @@ Stars: 44
 ## choyi0521/wavenet-pytorch
 
 Repository: [choyi0521/wavenet-pytorch](https://github.com/choyi0521/wavenet-pytorch)
+
 Author: [choyi0521](https://github.com/choyi0521)
 
 Stars: 4
+
+Forks: 4
+
+License: Other
 
 
 
@@ -7053,9 +10220,14 @@ Stars: 4
 ## cupy/cupy
 
 Repository: [cupy/cupy](https://github.com/cupy/cupy)
+
 Author: [cupy](https://github.com/cupy)
 
 Stars: 5921
+
+Forks: 585
+
+License: MIT License
 
 NumPy & SciPy for GPU
 
@@ -7063,9 +10235,14 @@ NumPy & SciPy for GPU
 ## davidhalter/jedi
 
 Repository: [davidhalter/jedi](https://github.com/davidhalter/jedi)
+
 Author: [davidhalter](https://github.com/davidhalter)
 
-Stars: 5117
+Stars: 5119
+
+Forks: 463
+
+License: Other
 
 Awesome autocompletion, static analysis and refactoring library for python
 
@@ -7073,9 +10250,14 @@ Awesome autocompletion, static analysis and refactoring library for python
 ## encode/httpx
 
 Repository: [encode/httpx](https://github.com/encode/httpx)
+
 Author: [encode](https://github.com/encode)
 
-Stars: 8549
+Stars: 8553
+
+Forks: 570
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A next generation HTTP client for Python. 🦋
 
@@ -7083,9 +10265,14 @@ A next generation HTTP client for Python. 🦋
 ## freqtrade/freqtrade
 
 Repository: [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+
 Author: [freqtrade](https://github.com/freqtrade)
 
-Stars: 16997
+Stars: 17001
+
+Forks: 3631
+
+License: GNU General Public License v3.0
 
 Free, open source crypto trading bot
 
@@ -7093,9 +10280,14 @@ Free, open source crypto trading bot
 ## google-research/bert
 
 Repository: [google-research/bert](https://github.com/google-research/bert)
+
 Author: [google-research](https://github.com/google-research)
 
-Stars: 30899
+Stars: 30902
+
+Forks: 8639
+
+License: Apache License 2.0
 
 TensorFlow code and pre-trained models for BERT
 
@@ -7103,9 +10295,14 @@ TensorFlow code and pre-trained models for BERT
 ## heuer/segno
 
 Repository: [heuer/segno](https://github.com/heuer/segno)
+
 Author: [heuer](https://github.com/heuer)
 
 Stars: 258
+
+Forks: 32
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Python QR Code and Micro QR Code encoder
 
@@ -7113,9 +10310,14 @@ Python QR Code and Micro QR Code encoder
 ## home-assistant/core
 
 Repository: [home-assistant/core](https://github.com/home-assistant/core)
+
 Author: [home-assistant](https://github.com/home-assistant)
 
-Stars: 51590
+Stars: 51603
+
+Forks: 17830
+
+License: Apache License 2.0
 
 :house_with_garden: Open source home automation that puts local control and privacy first.
 
@@ -7123,9 +10325,14 @@ Stars: 51590
 ## httplib2/httplib2
 
 Repository: [httplib2/httplib2](https://github.com/httplib2/httplib2)
+
 Author: [httplib2](https://github.com/httplib2)
 
 Stars: 437
+
+Forks: 169
+
+License: Other
 
 Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App Engine support. Originally written by Joe Gregorio, now supported by community.
 
@@ -7133,9 +10340,14 @@ Small, fast HTTP client library for Python. Features persistent connections, cac
 ## huggingface/datasets
 
 Repository: [huggingface/datasets](https://github.com/huggingface/datasets)
+
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 12977
+Stars: 12979
+
+Forks: 1614
+
+License: Apache License 2.0
 
 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 
@@ -7143,9 +10355,14 @@ Stars: 12977
 ## huggingface/transformers
 
 Repository: [huggingface/transformers](https://github.com/huggingface/transformers)
+
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 60766
+Stars: 60787
+
+Forks: 14438
+
+License: Apache License 2.0
 
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
@@ -7153,9 +10370,14 @@ Stars: 60766
 ## iperov/DeepFaceLab
 
 Repository: [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+
 Author: [iperov](https://github.com/iperov)
 
-Stars: 32066
+Stars: 32071
+
+Forks: 7325
+
+License: GNU General Public License v3.0
 
 DeepFaceLab is the leading software for creating deepfakes.
 
@@ -7163,9 +10385,14 @@ DeepFaceLab is the leading software for creating deepfakes.
 ## jamesroberts/fastwsgi
 
 Repository: [jamesroberts/fastwsgi](https://github.com/jamesroberts/fastwsgi)
+
 Author: [jamesroberts](https://github.com/jamesroberts)
 
 Stars: 326
+
+Forks: 9
+
+License: MIT License
 
 An ultra fast WSGI server for Python 3
 
@@ -7173,9 +10400,14 @@ An ultra fast WSGI server for Python 3
 ## jina-ai/jina
 
 Repository: [jina-ai/jina](https://github.com/jina-ai/jina)
+
 Author: [jina-ai](https://github.com/jina-ai)
 
-Stars: 14230
+Stars: 14235
+
+Forks: 1827
+
+License: Apache License 2.0
 
 Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 
@@ -7183,9 +10415,14 @@ Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 ## jonghwanhyeon/namu-wiki-extractor
 
 Repository: [jonghwanhyeon/namu-wiki-extractor](https://github.com/jonghwanhyeon/namu-wiki-extractor)
+
 Author: [jonghwanhyeon](https://github.com/jonghwanhyeon)
 
 Stars: 17
+
+Forks: 2
+
+License: MIT License
 
 A library to extract plaintexts from the JSON dump file of namu wiki
 
@@ -7193,9 +10430,14 @@ A library to extract plaintexts from the JSON dump file of namu wiki
 ## ksenginew/WSocket
 
 Repository: [ksenginew/WSocket](https://github.com/ksenginew/WSocket)
+
 Author: [ksenginew](https://github.com/ksenginew)
 
 Stars: 18
+
+Forks: 3
+
+License: MIT License
 
 Simple WSGI HTTP + Websocket Server, Framework, Middleware And App.
 
@@ -7203,9 +10445,14 @@ Simple WSGI HTTP + Websocket Server, Framework, Middleware And App.
 ## lemon-mint/file2archive
 
 Repository: [lemon-mint/file2archive](https://github.com/lemon-mint/file2archive)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 0
+
+License: Other
 
 For long-term backup of files, it converts files into multiple qr codes and makes them printable.
 
@@ -7213,9 +10460,14 @@ For long-term backup of files, it converts files into multiple qr codes and make
 ## lemon-mint/simplecompresser
 
 Repository: [lemon-mint/simplecompresser](https://github.com/lemon-mint/simplecompresser)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: Creative Commons Zero v1.0 Universal
 
 simple pythoncode compresser
 
@@ -7223,9 +10475,14 @@ simple pythoncode compresser
 ## luismartingarcia/protocol
 
 Repository: [luismartingarcia/protocol](https://github.com/luismartingarcia/protocol)
+
 Author: [luismartingarcia](https://github.com/luismartingarcia)
 
 Stars: 607
+
+Forks: 53
+
+License: GNU General Public License v3.0
 
 An ASCII Header Generator for Network Protocols
 
@@ -7233,9 +10490,14 @@ An ASCII Header Generator for Network Protocols
 ## mherrmann/fbs
 
 Repository: [mherrmann/fbs](https://github.com/mherrmann/fbs)
+
 Author: [mherrmann](https://github.com/mherrmann)
 
-Stars: 3367
+Stars: 3370
+
+Forks: 160
+
+License: GNU General Public License v3.0
 
 Create Python GUIs with Qt in minutes
 
@@ -7243,9 +10505,14 @@ Create Python GUIs with Qt in minutes
 ## mozilla/bleach
 
 Repository: [mozilla/bleach](https://github.com/mozilla/bleach)
+
 Author: [mozilla](https://github.com/mozilla)
 
 Stars: 2304
+
+Forks: 237
+
+License: Other
 
 Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 
@@ -7253,9 +10520,14 @@ Bleach is an allowed-list-based HTML sanitizing library that escapes or strips m
 ## mvt-project/mvt
 
 Repository: [mvt-project/mvt](https://github.com/mvt-project/mvt)
+
 Author: [mvt-project](https://github.com/mvt-project)
 
 Stars: 6878
+
+Forks: 604
+
+License: Other
 
 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 
@@ -7263,9 +10535,14 @@ MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi
 ## neuml/txtai
 
 Repository: [neuml/txtai](https://github.com/neuml/txtai)
+
 Author: [neuml](https://github.com/neuml)
 
-Stars: 2003
+Stars: 2005
+
+Forks: 195
+
+License: Apache License 2.0
 
 💡 Build AI-powered semantic search applications 
 
@@ -7273,9 +10550,14 @@ Stars: 2003
 ## pahkey/djangobook
 
 Repository: [pahkey/djangobook](https://github.com/pahkey/djangobook)
+
 Author: [pahkey](https://github.com/pahkey)
 
 Stars: 55
+
+Forks: 69
+
+License: Other
 
 점프 투 장고
 
@@ -7283,9 +10565,14 @@ Stars: 55
 ## pymedphys/pymedphys
 
 Repository: [pymedphys/pymedphys](https://github.com/pymedphys/pymedphys)
+
 Author: [pymedphys](https://github.com/pymedphys)
 
 Stars: 197
+
+Forks: 48
+
+License: Apache License 2.0
 
 A community effort to develop an open standard library for Medical Physics in Python. Building quality transparent software together via peer review and open source distribution. Open code is better science.
 
@@ -7293,9 +10580,14 @@ A community effort to develop an open standard library for Medical Physics in Py
 ## pyodide/pyodide
 
 Repository: [pyodide/pyodide](https://github.com/pyodide/pyodide)
+
 Author: [pyodide](https://github.com/pyodide)
 
-Stars: 7675
+Stars: 7678
+
+Forks: 476
+
+License: Mozilla Public License 2.0
 
 Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 
@@ -7303,9 +10595,14 @@ Pyodide is a Python distribution for the browser and Node.js based on WebAssembl
 ## python-trio/trio
 
 Repository: [python-trio/trio](https://github.com/python-trio/trio)
+
 Author: [python-trio](https://github.com/python-trio)
 
 Stars: 4606
+
+Forks: 268
+
+License: Other
 
 Trio – a friendly Python library for async concurrency and I/O
 
@@ -7313,9 +10610,14 @@ Trio – a friendly Python library for async concurrency and I/O
 ## pytorch/data
 
 Repository: [pytorch/data](https://github.com/pytorch/data)
+
 Author: [pytorch](https://github.com/pytorch)
 
 Stars: 646
+
+Forks: 40
+
+License: BSD 3-Clause "New" or "Revised" License
 
 A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
 
@@ -7323,9 +10625,14 @@ A PyTorch repo for data loading and utilities to be shared by the PyTorch domain
 ## r9y9/nnsvs
 
 Repository: [r9y9/nnsvs](https://github.com/r9y9/nnsvs)
+
 Author: [r9y9](https://github.com/r9y9)
 
 Stars: 366
+
+Forks: 38
+
+License: MIT License
 
 Neural network-based singing voice synthesis library for research
 
@@ -7333,9 +10640,14 @@ Neural network-based singing voice synthesis library for research
 ## src-d/sparkpickle
 
 Repository: [src-d/sparkpickle](https://github.com/src-d/sparkpickle)
+
 Author: [src-d](https://github.com/src-d)
 
 Stars: 25
+
+Forks: 4
+
+License: Apache License 2.0
 
 Pure Python implementation of reading SequenceFile-s with pickles written by Spark's saveAsPickleFile()
 
@@ -7343,9 +10655,14 @@ Pure Python implementation of reading SequenceFile-s with pickles written by Spa
 ## tkrajina/gpxpy
 
 Repository: [tkrajina/gpxpy](https://github.com/tkrajina/gpxpy)
+
 Author: [tkrajina](https://github.com/tkrajina)
 
 Stars: 787
+
+Forks: 200
+
+License: Apache License 2.0
 
 gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
 
@@ -7353,9 +10670,14 @@ gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file fo
 ## unit8co/darts
 
 Repository: [unit8co/darts](https://github.com/unit8co/darts)
+
 Author: [unit8co](https://github.com/unit8co)
 
 Stars: 3887
+
+Forks: 383
+
+License: Apache License 2.0
 
 A python library for easy manipulation and forecasting of time series.
 
@@ -7363,9 +10685,14 @@ A python library for easy manipulation and forecasting of time series.
 ## unitaryfund/mitiq
 
 Repository: [unitaryfund/mitiq](https://github.com/unitaryfund/mitiq)
+
 Author: [unitaryfund](https://github.com/unitaryfund)
 
 Stars: 193
+
+Forks: 78
+
+License: GNU General Public License v3.0
 
 Mitiq is an open source toolkit for implementing error mitigation techniques on most current intermediate-scale quantum computers.
 
@@ -7373,9 +10700,14 @@ Mitiq is an open source toolkit for implementing error mitigation techniques on 
 ## wealways/algorithm
 
 Repository: [wealways/algorithm](https://github.com/wealways/algorithm)
+
 Author: [wealways](https://github.com/wealways)
 
 Stars: 4
+
+Forks: 1
+
+License: Other
 
 👩‍💻코테 준비하기👨‍💻
 
@@ -7383,9 +10715,14 @@ Stars: 4
 ## xeruel/KBYD
 
 Repository: [xeruel/KBYD](https://github.com/xeruel/KBYD)
+
 Author: [xeruel](https://github.com/xeruel)
 
 Stars: 1
+
+Forks: 0
+
+License: GNU General Public License v2.0
 
 KBYD - Simple Bulls and Cows Game
 
@@ -7393,9 +10730,14 @@ KBYD - Simple Bulls and Cows Game
 ## zakizhou/CAPTCHA
 
 Repository: [zakizhou/CAPTCHA](https://github.com/zakizhou/CAPTCHA)
+
 Author: [zakizhou](https://github.com/zakizhou)
 
 Stars: 60
+
+Forks: 23
+
+License: Other
 
 implement classification for CAPTCHA in TensorFlow
 
@@ -7469,6 +10811,7 @@ implement classification for CAPTCHA in TensorFlow
 * [ry00001/inline-lua](#ry00001inline-lua)
 * [rycont/umjunsik-lang](#rycontumjunsik-lang)
 * [second-state/wasmedge-quickjs](#second-statewasmedge-quickjs)
+* [singularity-data/risingwave](#singularity-datarisingwave)
 * [smoltcp-rs/smoltcp](#smoltcp-rssmoltcp)
 * [spacejam/rio](#spacejamrio)
 * [starship/starship](#starshipstarship)
@@ -7484,9 +10827,14 @@ implement classification for CAPTCHA in TensorFlow
 ## AcrylicShrimp/clr-parser-generator
 
 Repository: [AcrylicShrimp/clr-parser-generator](https://github.com/AcrylicShrimp/clr-parser-generator)
+
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
 
 Stars: 5
+
+Forks: 0
+
+License: Other
 
 A CLR parser generator for Rust.
 
@@ -7494,9 +10842,14 @@ A CLR parser generator for Rust.
 ## AcrylicShrimp/testlang-rust
 
 Repository: [AcrylicShrimp/testlang-rust](https://github.com/AcrylicShrimp/testlang-rust)
+
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
 
 Stars: 7
+
+Forks: 0
+
+License: Other
 
 A rust implemented compiler front-end project includes CLR parser generator that uses LLVM as back-end.
 
@@ -7504,9 +10857,14 @@ A rust implemented compiler front-end project includes CLR parser generator that
 ## AcrylicShrimp/titi-lang
 
 Repository: [AcrylicShrimp/titi-lang](https://github.com/AcrylicShrimp/titi-lang)
+
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
 
 Stars: 7
+
+Forks: 0
+
+License: Other
 
 A tiny language with minimal features!
 
@@ -7514,9 +10872,14 @@ A tiny language with minimal features!
 ## ChillFish8/rewrk
 
 Repository: [ChillFish8/rewrk](https://github.com/ChillFish8/rewrk)
+
 Author: [ChillFish8](https://github.com/ChillFish8)
 
 Stars: 166
+
+Forks: 16
+
+License: MIT License
 
 A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.
 
@@ -7524,9 +10887,14 @@ A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks
 ## CosmWasm/cosmwasm
 
 Repository: [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm)
+
 Author: [CosmWasm](https://github.com/CosmWasm)
 
-Stars: 574
+Stars: 576
+
+Forks: 134
+
+License: Apache License 2.0
 
 Framework for building smart contracts in Wasm for the Cosmos SDK
 
@@ -7534,9 +10902,14 @@ Framework for building smart contracts in Wasm for the Cosmos SDK
 ## Doctave/doctave
 
 Repository: [Doctave/doctave](https://github.com/Doctave/doctave)
+
 Author: [Doctave](https://github.com/Doctave)
 
 Stars: 349
+
+Forks: 16
+
+License: MIT License
 
 A batteries-included developer documentation site generator
 
@@ -7544,9 +10917,14 @@ A batteries-included developer documentation site generator
 ## GREsau/okapi
 
 Repository: [GREsau/okapi](https://github.com/GREsau/okapi)
+
 Author: [GREsau](https://github.com/GREsau)
 
-Stars: 290
+Stars: 291
+
+Forks: 48
+
+License: MIT License
 
 OpenAPI (AKA Swagger) document generation for Rust projects
 
@@ -7554,9 +10932,14 @@ OpenAPI (AKA Swagger) document generation for Rust projects
 ## Gankra/thin-vec
 
 Repository: [Gankra/thin-vec](https://github.com/Gankra/thin-vec)
+
 Author: [Gankra](https://github.com/Gankra)
 
 Stars: 47
+
+Forks: 11
+
+License: Other
 
 A Vec That Has a Smaller size_of
 
@@ -7564,9 +10947,14 @@ A Vec That Has a Smaller size_of
 ## Manishearth/rust-gc
 
 Repository: [Manishearth/rust-gc](https://github.com/Manishearth/rust-gc)
+
 Author: [Manishearth](https://github.com/Manishearth)
 
 Stars: 667
+
+Forks: 39
+
+License: Mozilla Public License 2.0
 
 Simple tracing (mark and sweep) garbage collector for Rust
 
@@ -7574,9 +10962,14 @@ Simple tracing (mark and sweep) garbage collector for Rust
 ## MinusKelvin/cold-clear
 
 Repository: [MinusKelvin/cold-clear](https://github.com/MinusKelvin/cold-clear)
+
 Author: [MinusKelvin](https://github.com/MinusKelvin)
 
 Stars: 185
+
+Forks: 46
+
+License: Mozilla Public License 2.0
 
 Tetris Bot
 
@@ -7584,9 +10977,14 @@ Tetris Bot
 ## Nukleus-Language/nukleus
 
 Repository: [Nukleus-Language/nukleus](https://github.com/Nukleus-Language/nukleus)
+
 Author: [Nukleus-Language](https://github.com/Nukleus-Language)
 
 Stars: 3
+
+Forks: 1
+
+License: Apache License 2.0
 
 Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform Program Programming Language 
 
@@ -7594,9 +10992,14 @@ Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform Program 
 ## Riey/kime
 
 Repository: [Riey/kime](https://github.com/Riey/kime)
+
 Author: [Riey](https://github.com/Riey)
 
 Stars: 315
+
+Forks: 34
+
+License: GNU General Public License v3.0
 
 Korean IME
 
@@ -7604,9 +11007,14 @@ Korean IME
 ## SergioBenitez/Rocket
 
 Repository: [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
+
 Author: [SergioBenitez](https://github.com/SergioBenitez)
 
-Stars: 16947
+Stars: 16951
+
+Forks: 1190
+
+License: Other
 
 A web framework for Rust.
 
@@ -7614,9 +11022,14 @@ A web framework for Rust.
 ## TheAlgorithms/Rust
 
 Repository: [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 6797
+Stars: 6800
+
+Forks: 814
+
+License: MIT License
 
  All Algorithms implemented in Rust 
 
@@ -7624,9 +11037,14 @@ Stars: 6797
 ## Wilfred/difftastic
 
 Repository: [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
+
 Author: [Wilfred](https://github.com/Wilfred)
 
-Stars: 8803
+Stars: 8814
+
+Forks: 115
+
+License: MIT License
 
 a diff that understands syntax 🟥🟩
 
@@ -7634,9 +11052,14 @@ a diff that understands syntax 🟥🟩
 ## actix/actix
 
 Repository: [actix/actix](https://github.com/actix/actix)
+
 Author: [actix](https://github.com/actix)
 
 Stars: 7020
+
+Forks: 588
+
+License: Other
 
 Actor framework for Rust.
 
@@ -7644,9 +11067,14 @@ Actor framework for Rust.
 ## actix/actix-web
 
 Repository: [actix/actix-web](https://github.com/actix/actix-web)
+
 Author: [actix](https://github.com/actix)
 
-Stars: 13801
+Stars: 13803
+
+Forks: 1361
+
+License: Other
 
 Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
@@ -7654,9 +11082,14 @@ Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 ## alacritty/alacritty
 
 Repository: [alacritty/alacritty](https://github.com/alacritty/alacritty)
+
 Author: [alacritty](https://github.com/alacritty)
 
-Stars: 38522
+Stars: 38533
+
+Forks: 2213
+
+License: Apache License 2.0
 
 A cross-platform, OpenGL terminal emulator.
 
@@ -7664,9 +11097,14 @@ A cross-platform, OpenGL terminal emulator.
 ## alexheretic/ab-glyph
 
 Repository: [alexheretic/ab-glyph](https://github.com/alexheretic/ab-glyph)
+
 Author: [alexheretic](https://github.com/alexheretic)
 
 Stars: 168
+
+Forks: 11
+
+License: Apache License 2.0
 
 Rust API for loading, scaling, positioning and rasterizing OpenType font glyphs
 
@@ -7674,9 +11112,14 @@ Rust API for loading, scaling, positioning and rasterizing OpenType font glyphs
 ## aptos-labs/aptos-core
 
 Repository: [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
+
 Author: [aptos-labs](https://github.com/aptos-labs)
 
-Stars: 387
+Stars: 386
+
+Forks: 131
+
+License: Apache License 2.0
 
 A layer 1 for everyone!
 
@@ -7684,9 +11127,14 @@ A layer 1 for everyone!
 ## ben0x539/totally-safe-transmute
 
 Repository: [ben0x539/totally-safe-transmute](https://github.com/ben0x539/totally-safe-transmute)
+
 Author: [ben0x539](https://github.com/ben0x539)
 
 Stars: 201
+
+Forks: 10
+
+License: Other
 
 
 
@@ -7694,9 +11142,14 @@ Stars: 201
 ## boa-dev/boa
 
 Repository: [boa-dev/boa](https://github.com/boa-dev/boa)
+
 Author: [boa-dev](https://github.com/boa-dev)
 
 Stars: 2913
+
+Forks: 282
+
+License: Other
 
 Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 
@@ -7704,9 +11157,14 @@ Boa is an embeddable and experimental Javascript engine written in Rust. Current
 ## bytecodealliance/wizer
 
 Repository: [bytecodealliance/wizer](https://github.com/bytecodealliance/wizer)
+
 Author: [bytecodealliance](https://github.com/bytecodealliance)
 
 Stars: 485
+
+Forks: 25
+
+License: Apache License 2.0
 
 The WebAssembly Pre-Initializer
 
@@ -7714,9 +11172,14 @@ The WebAssembly Pre-Initializer
 ## bytedance/Elkeid
 
 Repository: [bytedance/Elkeid](https://github.com/bytedance/Elkeid)
+
 Author: [bytedance](https://github.com/bytedance)
 
-Stars: 1125
+Stars: 1127
+
+Forks: 252
+
+License: Other
 
 Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
 
@@ -7724,9 +11187,14 @@ Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to prov
 ## cloud-hypervisor/cloud-hypervisor
 
 Repository: [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
+
 Author: [cloud-hypervisor](https://github.com/cloud-hypervisor)
 
-Stars: 1778
+Stars: 1779
+
+Forks: 233
+
+License: Other
 
 A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 
@@ -7734,9 +11202,14 @@ A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memo
 ## cloudflare/boring
 
 Repository: [cloudflare/boring](https://github.com/cloudflare/boring)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
 Stars: 93
+
+Forks: 28
+
+License: Other
 
 BoringSSL bindings for the Rust programming language.
 
@@ -7744,9 +11217,14 @@ BoringSSL bindings for the Rust programming language.
 ## cloudflare/sliceslice-rs
 
 Repository: [cloudflare/sliceslice-rs](https://github.com/cloudflare/sliceslice-rs)
+
 Author: [cloudflare](https://github.com/cloudflare)
 
 Stars: 55
+
+Forks: 8
+
+License: MIT License
 
 A fast implementation of single-pattern substring search using SIMD acceleration.
 
@@ -7754,9 +11232,14 @@ A fast implementation of single-pattern substring search using SIMD acceleration
 ## codingskynet/concurrent-data-structure
 
 Repository: [codingskynet/concurrent-data-structure](https://github.com/codingskynet/concurrent-data-structure)
+
 Author: [codingskynet](https://github.com/codingskynet)
 
 Stars: 18
+
+Forks: 0
+
+License: Other
 
 Concurrent Data Structure for Rust
 
@@ -7764,9 +11247,14 @@ Concurrent Data Structure for Rust
 ## copy/v86
 
 Repository: [copy/v86](https://github.com/copy/v86)
+
 Author: [copy](https://github.com/copy)
 
-Stars: 13673
+Stars: 13672
+
+Forks: 1039
+
+License: BSD 2-Clause "Simplified" License
 
 x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
@@ -7774,9 +11262,14 @@ x86 virtualization in your browser, recompiling x86 to wasm on the fly
 ## cube-js/cube.js
 
 Repository: [cube-js/cube.js](https://github.com/cube-js/cube.js)
+
 Author: [cube-js](https://github.com/cube-js)
 
-Stars: 12721
+Stars: 12720
+
+Forks: 1257
+
+License: Other
 
 📊  Cube — Headless Business Intelligence for Building Data Applications
 
@@ -7784,9 +11277,14 @@ Stars: 12721
 ## denoland/deno
 
 Repository: [denoland/deno](https://github.com/denoland/deno)
+
 Author: [denoland](https://github.com/denoland)
 
-Stars: 81500
+Stars: 81501
+
+Forks: 4357
+
+License: MIT License
 
 A modern runtime for JavaScript and TypeScript.
 
@@ -7794,9 +11292,14 @@ A modern runtime for JavaScript and TypeScript.
 ## diesel-rs/diesel
 
 Repository: [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+
 Author: [diesel-rs](https://github.com/diesel-rs)
 
-Stars: 8205
+Stars: 8206
+
+Forks: 756
+
+License: Other
 
 A safe, extensible ORM and Query Builder for Rust
 
@@ -7804,9 +11307,14 @@ A safe, extensible ORM and Query Builder for Rust
 ## errantmind/faf
 
 Repository: [errantmind/faf](https://github.com/errantmind/faf)
+
 Author: [errantmind](https://github.com/errantmind)
 
 Stars: 16
+
+Forks: 2
+
+License: GNU Affero General Public License v3.0
 
 FaF Web Server
 
@@ -7814,9 +11322,14 @@ FaF Web Server
 ## facebook/relay
 
 Repository: [facebook/relay](https://github.com/facebook/relay)
+
 Author: [facebook](https://github.com/facebook)
 
 Stars: 16832
+
+Forks: 1686
+
+License: MIT License
 
 Relay is a JavaScript framework for building data-driven React applications.
 
@@ -7824,9 +11337,14 @@ Relay is a JavaScript framework for building data-driven React applications.
 ## fitzgen/bumpalo
 
 Repository: [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo)
+
 Author: [fitzgen](https://github.com/fitzgen)
 
-Stars: 723
+Stars: 724
+
+Forks: 65
+
+License: Other
 
 A fast bump allocation arena for Rust
 
@@ -7834,9 +11352,14 @@ A fast bump allocation arena for Rust
 ## flamegraph-rs/flamegraph
 
 Repository: [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph)
+
 Author: [flamegraph-rs](https://github.com/flamegraph-rs)
 
 Stars: 2430
+
+Forks: 97
+
+License: Other
 
 Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 
@@ -7844,9 +11367,14 @@ Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 ## gfx-rs/wgpu
 
 Repository: [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+
 Author: [gfx-rs](https://github.com/gfx-rs)
 
-Stars: 4373
+Stars: 4376
+
+Forks: 372
+
+License: Other
 
 Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 
@@ -7854,9 +11382,14 @@ Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 ## hskang9/RustGo
 
 Repository: [hskang9/RustGo](https://github.com/hskang9/RustGo)
+
 Author: [hskang9](https://github.com/hskang9)
 
 Stars: 13
+
+Forks: 2
+
+License: MIT License
 
 Golang compiler frontend with rust
 
@@ -7864,9 +11397,14 @@ Golang compiler frontend with rust
 ## icedland/iced
 
 Repository: [icedland/iced](https://github.com/icedland/iced)
+
 Author: [icedland](https://github.com/icedland)
 
-Stars: 1712
+Stars: 1713
+
+Forks: 185
+
+License: MIT License
 
 Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for .NET, Rust, Python, JavaScript
 
@@ -7874,9 +11412,14 @@ Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for .
 ## jeremiah-shaulov/lemon-mint
 
 Repository: [jeremiah-shaulov/lemon-mint](https://github.com/jeremiah-shaulov/lemon-mint)
+
 Author: [jeremiah-shaulov](https://github.com/jeremiah-shaulov)
 
 Stars: 3
+
+Forks: 0
+
+License: MIT License
 
 Famous Lemon Parser Generator implemented in rust as library with API.
 
@@ -7884,9 +11427,14 @@ Famous Lemon Parser Generator implemented in rust as library with API.
 ## jeremiah-shaulov/nop-json
 
 Repository: [jeremiah-shaulov/nop-json](https://github.com/jeremiah-shaulov/nop-json)
+
 Author: [jeremiah-shaulov](https://github.com/jeremiah-shaulov)
 
 Stars: 6
+
+Forks: 0
+
+License: MIT License
 
 JSON serialization/deserialization (full-featured, modern, streaming, direct into struct/enum)
 
@@ -7894,9 +11442,14 @@ JSON serialization/deserialization (full-featured, modern, streaming, direct int
 ## josephg/diamond-types
 
 Repository: [josephg/diamond-types](https://github.com/josephg/diamond-types)
+
 Author: [josephg](https://github.com/josephg)
 
-Stars: 585
+Stars: 590
+
+Forks: 11
+
+License: Other
 
 The world's fastest CRDT. WIP.
 
@@ -7904,9 +11457,14 @@ The world's fastest CRDT. WIP.
 ## kdy1/rweb
 
 Repository: [kdy1/rweb](https://github.com/kdy1/rweb)
+
 Author: [kdy1](https://github.com/kdy1)
 
 Stars: 326
+
+Forks: 25
+
+License: Apache License 2.0
 
 Yet another web server framework for rust
 
@@ -7914,9 +11472,14 @@ Yet another web server framework for rust
 ## kognise/arpchat
 
 Repository: [kognise/arpchat](https://github.com/kognise/arpchat)
+
 Author: [kognise](https://github.com/kognise)
 
-Stars: 1207
+Stars: 1206
+
+Forks: 25
+
+License: Other
 
 Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 
@@ -7924,9 +11487,14 @@ Answering the question nobody asked: what if you wanted to text your friends usi
 ## kornelski/rust-rgb
 
 Repository: [kornelski/rust-rgb](https://github.com/kornelski/rust-rgb)
+
 Author: [kornelski](https://github.com/kornelski)
 
 Stars: 67
+
+Forks: 13
+
+License: MIT License
 
 struct RGB for sharing pixels between crates
 
@@ -7934,9 +11502,14 @@ struct RGB for sharing pixels between crates
 ## krustlet/krustlet
 
 Repository: [krustlet/krustlet](https://github.com/krustlet/krustlet)
+
 Author: [krustlet](https://github.com/krustlet)
 
-Stars: 2808
+Stars: 2809
+
+Forks: 186
+
+License: Apache License 2.0
 
 Kubernetes Rust Kubelet
 
@@ -7944,9 +11517,14 @@ Kubernetes Rust Kubelet
 ## lapce/lapce
 
 Repository: [lapce/lapce](https://github.com/lapce/lapce)
+
 Author: [lapce](https://github.com/lapce)
 
-Stars: 9901
+Stars: 9920
+
+Forks: 243
+
+License: Apache License 2.0
 
 Lightning-fast and Powerful Code Editor written in Rust
 
@@ -7954,9 +11532,14 @@ Lightning-fast and Powerful Code Editor written in Rust
 ## lemon-mint/isfalse-rs
 
 Repository: [lemon-mint/isfalse-rs](https://github.com/lemon-mint/isfalse-rs)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 3
+
+Forks: 0
+
+License: GNU Affero General Public License v3.0
 
 A Rust library for checking if a value is false.
 
@@ -7964,9 +11547,14 @@ A Rust library for checking if a value is false.
 ## libkluid/evmdasm-rs
 
 Repository: [libkluid/evmdasm-rs](https://github.com/libkluid/evmdasm-rs)
+
 Author: [libkluid](https://github.com/libkluid)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 EVM bytecode disassembler written Rust
 
@@ -7974,9 +11562,14 @@ EVM bytecode disassembler written Rust
 ## matthieu-m/static-rc
 
 Repository: [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc)
+
 Author: [matthieu-m](https://github.com/matthieu-m)
 
 Stars: 329
+
+Forks: 8
+
+License: Other
 
 Compile-time reference counting
 
@@ -7984,9 +11577,14 @@ Compile-time reference counting
 ## mooman219/fontdue
 
 Repository: [mooman219/fontdue](https://github.com/mooman219/fontdue)
+
 Author: [mooman219](https://github.com/mooman219)
 
 Stars: 852
+
+Forks: 43
+
+License: MIT License
 
 The fastest font renderer in the world, written in pure rust.
 
@@ -7994,9 +11592,14 @@ The fastest font renderer in the world, written in pure rust.
 ## o2sh/onefetch
 
 Repository: [o2sh/onefetch](https://github.com/o2sh/onefetch)
+
 Author: [o2sh](https://github.com/o2sh)
 
-Stars: 5111
+Stars: 5112
+
+Forks: 186
+
+License: MIT License
 
 Git repository summary on your terminal
 
@@ -8004,9 +11607,14 @@ Git repository summary on your terminal
 ## oxidy-rs/oxidy
 
 Repository: [oxidy-rs/oxidy](https://github.com/oxidy-rs/oxidy)
+
 Author: [oxidy-rs](https://github.com/oxidy-rs)
 
 Stars: 3
+
+Forks: 1
+
+License: GNU General Public License v2.0
 
 Super Fast & High Performance minimalist web framework for rust
 
@@ -8014,9 +11622,14 @@ Super Fast & High Performance minimalist web framework for rust
 ## rkyv/rkyv
 
 Repository: [rkyv/rkyv](https://github.com/rkyv/rkyv)
+
 Author: [rkyv](https://github.com/rkyv)
 
-Stars: 1148
+Stars: 1150
+
+Forks: 51
+
+License: MIT License
 
 Zero-copy deserialization framework for Rust
 
@@ -8024,9 +11637,14 @@ Zero-copy deserialization framework for Rust
 ## roapi/roapi
 
 Repository: [roapi/roapi](https://github.com/roapi/roapi)
+
 Author: [roapi](https://github.com/roapi)
 
 Stars: 1260
+
+Forks: 93
+
+License: Apache License 2.0
 
 Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 
@@ -8034,9 +11652,14 @@ Create full-fledged APIs for slowly moving datasets without writing a single lin
 ## rochacbruno/rust_memes
 
 Repository: [rochacbruno/rust_memes](https://github.com/rochacbruno/rust_memes)
+
 Author: [rochacbruno](https://github.com/rochacbruno)
 
 Stars: 76
+
+Forks: 1
+
+License: Other
 
 The best memes and stickers about #rust #rustlang - listed here for easy use on talks and share
 
@@ -8044,9 +11667,14 @@ The best memes and stickers about #rust #rustlang - listed here for easy use on 
 ## rust-analyzer/rust-analyzer
 
 Repository: [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
+
 Author: [rust-analyzer](https://github.com/rust-analyzer)
 
-Stars: 9011
+Stars: 9014
+
+Forks: 910
+
+License: Other
 
 A Rust compiler front-end for IDEs
 
@@ -8054,9 +11682,14 @@ A Rust compiler front-end for IDEs
 ## rust-lang/hashbrown
 
 Repository: [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown)
+
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 1585
+Stars: 1586
+
+Forks: 178
+
+License: Other
 
 Rust port of Google's SwissTable hash map
 
@@ -8064,9 +11697,14 @@ Rust port of Google's SwissTable hash map
 ## rust-lang/mdBook
 
 Repository: [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
+
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 9152
+Stars: 9153
+
+Forks: 1025
+
+License: Mozilla Public License 2.0
 
 Create book from markdown files. Like Gitbook but implemented in Rust
 
@@ -8074,9 +11712,14 @@ Create book from markdown files. Like Gitbook but implemented in Rust
 ## rust-lang/rust
 
 Repository: [rust-lang/rust](https://github.com/rust-lang/rust)
+
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 65414
+Stars: 65425
+
+Forks: 9050
+
+License: Other
 
 Empowering everyone to build reliable and efficient software.
 
@@ -8084,9 +11727,14 @@ Empowering everyone to build reliable and efficient software.
 ## rust-lang/rustlings
 
 Repository: [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 23381
+Stars: 23385
+
+Forks: 3714
+
+License: MIT License
 
 :crab: Small exercises to get you used to reading and writing Rust code!
 
@@ -8094,9 +11742,14 @@ Stars: 23381
 ## rustdesk/rustdesk
 
 Repository: [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
 Author: [rustdesk](https://github.com/rustdesk)
 
-Stars: 16291
+Stars: 16297
+
+Forks: 1649
+
+License: GNU General Public License v3.0
 
 Yet another remote desktop software
 
@@ -8104,9 +11757,14 @@ Yet another remote desktop software
 ## rustwasm/twiggy
 
 Repository: [rustwasm/twiggy](https://github.com/rustwasm/twiggy)
+
 Author: [rustwasm](https://github.com/rustwasm)
 
 Stars: 838
+
+Forks: 49
+
+License: Other
 
 Twiggy🌱 is a code size profiler
 
@@ -8114,9 +11772,14 @@ Twiggy🌱 is a code size profiler
 ## ry00001/inline-lua
 
 Repository: [ry00001/inline-lua](https://github.com/ry00001/inline-lua)
+
 Author: [ry00001](https://github.com/ry00001)
 
 Stars: 55
+
+Forks: 0
+
+License: MIT License
 
 An absolutely horrible idea
 
@@ -8124,9 +11787,14 @@ An absolutely horrible idea
 ## rycont/umjunsik-lang
 
 Repository: [rycont/umjunsik-lang](https://github.com/rycont/umjunsik-lang)
+
 Author: [rycont](https://github.com/rycont)
 
-Stars: 453
+Stars: 452
+
+Forks: 35
+
+License: Other
 
 어떻게 엄준식이 언어이름이냐🤣
 
@@ -8134,19 +11802,44 @@ Stars: 453
 ## second-state/wasmedge-quickjs
 
 Repository: [second-state/wasmedge-quickjs](https://github.com/second-state/wasmedge-quickjs)
+
 Author: [second-state](https://github.com/second-state)
 
 Stars: 89
 
+Forks: 14
+
+License: Other
+
 A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.
+
+<a name="repo-4uriq2xy2remlxm5f766upda"></a>
+## singularity-data/risingwave
+
+Repository: [singularity-data/risingwave](https://github.com/singularity-data/risingwave)
+
+Author: [singularity-data](https://github.com/singularity-data)
+
+Stars: 835
+
+Forks: 58
+
+License: Apache License 2.0
+
+RisingWave: the next-generation streaming database in the cloud.
 
 <a name="repo-tsmqnzgst3ddbg7cw3cno7v4"></a>
 ## smoltcp-rs/smoltcp
 
 Repository: [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp)
+
 Author: [smoltcp-rs](https://github.com/smoltcp-rs)
 
 Stars: 2441
+
+Forks: 257
+
+License: Other
 
 a smol tcp/ip stack
 
@@ -8154,9 +11847,14 @@ a smol tcp/ip stack
 ## spacejam/rio
 
 Repository: [spacejam/rio](https://github.com/spacejam/rio)
+
 Author: [spacejam](https://github.com/spacejam)
 
 Stars: 735
+
+Forks: 33
+
+License: Other
 
 pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
 
@@ -8164,9 +11862,14 @@ pure rust io_uring library, built on libc, thread & async friendly, misuse resis
 ## starship/starship
 
 Repository: [starship/starship](https://github.com/starship/starship)
+
 Author: [starship](https://github.com/starship)
 
-Stars: 24459
+Stars: 24463
+
+Forks: 1019
+
+License: ISC License
 
 ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
@@ -8174,9 +11877,14 @@ Stars: 24459
 ## swc-project/swc
 
 Repository: [swc-project/swc](https://github.com/swc-project/swc)
+
 Author: [swc-project](https://github.com/swc-project)
 
-Stars: 21479
+Stars: 21486
+
+Forks: 679
+
+License: Apache License 2.0
 
 Rust-based platform for the Web
 
@@ -8184,9 +11892,14 @@ Rust-based platform for the Web
 ## tauri-apps/tauri
 
 Repository: [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+
 Author: [tauri-apps](https://github.com/tauri-apps)
 
-Stars: 36077
+Stars: 36096
+
+Forks: 901
+
+License: Other
 
 Build smaller, faster, and more secure desktop applications with a web frontend.
 
@@ -8194,9 +11907,14 @@ Build smaller, faster, and more secure desktop applications with a web frontend.
 ## tkaitchuck/aHash
 
 Repository: [tkaitchuck/aHash](https://github.com/tkaitchuck/aHash)
+
 Author: [tkaitchuck](https://github.com/tkaitchuck)
 
 Stars: 462
+
+Forks: 37
+
+License: Other
 
 aHash is a non-cryptographic hashing algorithm that uses the AES hardware instruction
 
@@ -8204,9 +11922,14 @@ aHash is a non-cryptographic hashing algorithm that uses the AES hardware instru
 ## tokio-rs/tokio
 
 Repository: [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+
 Author: [tokio-rs](https://github.com/tokio-rs)
 
-Stars: 15708
+Stars: 15710
+
+Forks: 1453
+
+License: MIT License
 
 A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
@@ -8214,9 +11937,14 @@ A runtime for writing reliable asynchronous applications with Rust. Provides I/O
 ## twilco/kosmonaut
 
 Repository: [twilco/kosmonaut](https://github.com/twilco/kosmonaut)
+
 Author: [twilco](https://github.com/twilco)
 
 Stars: 1549
+
+Forks: 23
+
+License: Mozilla Public License 2.0
 
 A web browser engine for the space age :rocket:
 
@@ -8224,9 +11952,14 @@ A web browser engine for the space age :rocket:
 ## wasmerio/wasmer
 
 Repository: [wasmerio/wasmer](https://github.com/wasmerio/wasmer)
+
 Author: [wasmerio](https://github.com/wasmerio)
 
-Stars: 11902
+Stars: 11903
+
+Forks: 497
+
+License: MIT License
 
 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
@@ -8234,9 +11967,14 @@ Stars: 11902
 ## zesterer/ariadne
 
 Repository: [zesterer/ariadne](https://github.com/zesterer/ariadne)
+
 Author: [zesterer](https://github.com/zesterer)
 
-Stars: 733
+Stars: 734
+
+Forks: 13
+
+License: Other
 
 A fancy diagnostics & error reporting crate
 
@@ -8251,9 +11989,14 @@ A fancy diagnostics & error reporting crate
 ## material-components/material-web
 
 Repository: [material-components/material-web](https://github.com/material-components/material-web)
+
 Author: [material-components](https://github.com/material-components)
 
-Stars: 3225
+Stars: 3227
+
+Forks: 442
+
+License: Apache License 2.0
 
 Material Design Web Components
 
@@ -8261,9 +12004,14 @@ Material Design Web Components
 ## uswds/uswds
 
 Repository: [uswds/uswds](https://github.com/uswds/uswds)
+
 Author: [uswds](https://github.com/uswds)
 
 Stars: 6098
+
+Forks: 909
+
+License: Other
 
 The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 
@@ -8277,9 +12025,14 @@ The U.S. Web Design System helps the federal government build fast, accessible, 
 ## lducas/SchnorrGate
 
 Repository: [lducas/SchnorrGate](https://github.com/lducas/SchnorrGate)
+
 Author: [lducas](https://github.com/lducas)
 
 Stars: 285
+
+Forks: 17
+
+License: Other
 
 Testing Schnorr's factorization claim in Sage
 
@@ -8293,9 +12046,14 @@ Testing Schnorr's factorization claim in Sage
 ## lichess-org/lila
 
 Repository: [lichess-org/lila](https://github.com/lichess-org/lila)
+
 Author: [lichess-org](https://github.com/lichess-org)
 
-Stars: 11390
+Stars: 11391
+
+Forks: 1633
+
+License: Other
 
 ♞ lichess.org: the forever free, adless and open source chess server ♞
 
@@ -8313,9 +12071,14 @@ Stars: 11390
 ## angristan/wireguard-install
 
 Repository: [angristan/wireguard-install](https://github.com/angristan/wireguard-install)
+
 Author: [angristan](https://github.com/angristan)
 
 Stars: 3177
+
+Forks: 671
+
+License: MIT License
 
 WireGuard VPN installer for Linux servers
 
@@ -8323,9 +12086,14 @@ WireGuard VPN installer for Linux servers
 ## orioncactus/pretendard
 
 Repository: [orioncactus/pretendard](https://github.com/orioncactus/pretendard)
+
 Author: [orioncactus](https://github.com/orioncactus)
 
-Stars: 1031
+Stars: 1032
+
+Forks: 45
+
+License: SIL Open Font License 1.1
 
 어느 플랫폼에서든 사용할 수 있는 system-ui 대체 글꼴
 
@@ -8333,9 +12101,14 @@ Stars: 1031
 ## seia-soto/libvirtd-scripts
 
 Repository: [seia-soto/libvirtd-scripts](https://github.com/seia-soto/libvirtd-scripts)
+
 Author: [seia-soto](https://github.com/seia-soto)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 A small set of simple scripts to manage virtual environment on *Alpine Linux* for light users.
 
@@ -8343,9 +12116,14 @@ A small set of simple scripts to manage virtual environment on *Alpine Linux* fo
 ## stefanzweifel/git-auto-commit-action
 
 Repository: [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
+
 Author: [stefanzweifel](https://github.com/stefanzweifel)
 
 Stars: 816
+
+Forks: 138
+
+License: MIT License
 
 Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 
@@ -8353,9 +12131,14 @@ Automatically Commit changed Files back to GitHub with GitHub Actions for the 80
 ## tj/n
 
 Repository: [tj/n](https://github.com/tj/n)
+
 Author: [tj](https://github.com/tj)
 
 Stars: 16124
+
+Forks: 712
+
+License: MIT License
 
 Node version management
 
@@ -8369,9 +12152,14 @@ Node version management
 ## googleapis/googleapis
 
 Repository: [googleapis/googleapis](https://github.com/googleapis/googleapis)
+
 Author: [googleapis](https://github.com/googleapis)
 
 Stars: 4520
+
+Forks: 1876
+
+License: Apache License 2.0
 
 Public interface definitions of Google APIs.
 
@@ -8433,9 +12221,14 @@ Public interface definitions of Google APIs.
 ## AcrylicShrimp/devlog-backend
 
 Repository: [AcrylicShrimp/devlog-backend](https://github.com/AcrylicShrimp/devlog-backend)
+
 Author: [AcrylicShrimp](https://github.com/AcrylicShrimp)
 
 Stars: 7
+
+Forks: 0
+
+License: MIT License
 
 A minimal devlog service.
 
@@ -8443,9 +12236,14 @@ A minimal devlog service.
 ## Alex4386/turnoff-namuwiki
 
 Repository: [Alex4386/turnoff-namuwiki](https://github.com/Alex4386/turnoff-namuwiki)
+
 Author: [Alex4386](https://github.com/Alex4386)
 
 Stars: 73
+
+Forks: 5
+
+License: MIT License
 
 조별과제 때마다 "나무위키 꺼라."라고 말하시는게 피곤하신 여러분을 위해 만들어진 Browser Extension, 나무위키를 꺼 드립니다.
 
@@ -8453,9 +12251,14 @@ Stars: 73
 ## JJoriping/Sorrygle
 
 Repository: [JJoriping/Sorrygle](https://github.com/JJoriping/Sorrygle)
+
 Author: [JJoriping](https://github.com/JJoriping)
 
 Stars: 54
+
+Forks: 3
+
+License: MIT License
 
 Text-based MIDI writing language and its compiler
 
@@ -8463,9 +12266,14 @@ Text-based MIDI writing language and its compiler
 ## James-Yu/LaTeX-Workshop
 
 Repository: [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+
 Author: [James-Yu](https://github.com/James-Yu)
 
-Stars: 8279
+Stars: 8280
+
+Forks: 426
+
+License: MIT License
 
 Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
@@ -8473,9 +12281,14 @@ Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize
 ## KiwiTalk/KiwiTalk
 
 Repository: [KiwiTalk/KiwiTalk](https://github.com/KiwiTalk/KiwiTalk)
+
 Author: [KiwiTalk](https://github.com/KiwiTalk)
 
 Stars: 200
+
+Forks: 18
+
+License: Apache License 2.0
 
 An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript (React)
 
@@ -8483,9 +12296,14 @@ An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript (React)
 ## Yeicor/static-go-playground
 
 Repository: [Yeicor/static-go-playground](https://github.com/Yeicor/static-go-playground)
+
 Author: [Yeicor](https://github.com/Yeicor)
 
 Stars: 22
+
+Forks: 1
+
+License: MIT License
 
 The full power of the Go Compiler directly in your browser, including a virtual file system implementation. Deployable as a static website.
 
@@ -8493,9 +12311,14 @@ The full power of the Go Compiler directly in your browser, including a virtual 
 ## YousefED/SyncedStore
 
 Repository: [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore)
+
 Author: [YousefED](https://github.com/YousefED)
 
 Stars: 808
+
+Forks: 27
+
+License: MIT License
 
 SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 
@@ -8503,9 +12326,14 @@ SyncedStore CRDT is an easy-to-use library for building live, collaborative appl
 ## aidenybai/lucia
 
 Repository: [aidenybai/lucia](https://github.com/aidenybai/lucia)
+
 Author: [aidenybai](https://github.com/aidenybai)
 
 Stars: 634
+
+Forks: 27
+
+License: MIT License
 
 🙋‍♀️ 3kb library for tiny web apps
 
@@ -8513,9 +12341,14 @@ Stars: 634
 ## aidenybai/million
 
 Repository: [aidenybai/million](https://github.com/aidenybai/million)
+
 Author: [aidenybai](https://github.com/aidenybai)
 
-Stars: 1902
+Stars: 1903
+
+Forks: 61
+
+License: MIT License
 
 Virtual DOM into the future! 💥🦁✨
 
@@ -8523,9 +12356,14 @@ Virtual DOM into the future! 💥🦁✨
 ## akasia-dev/polyger
 
 Repository: [akasia-dev/polyger](https://github.com/akasia-dev/polyger)
+
 Author: [akasia-dev](https://github.com/akasia-dev)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 🌸 Polyger is polyrepo management system. (for github projects, Similar to git submodules)
 
@@ -8533,9 +12371,14 @@ Stars: 1
 ## akasia-dev/prestart
 
 Repository: [akasia-dev/prestart](https://github.com/akasia-dev/prestart)
+
 Author: [akasia-dev](https://github.com/akasia-dev)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 🌸 Prevents forget to run "npm install"
 
@@ -8543,9 +12386,14 @@ Stars: 1
 ## aws/jsii
 
 Repository: [aws/jsii](https://github.com/aws/jsii)
+
 Author: [aws](https://github.com/aws)
 
 Stars: 1867
+
+Forks: 152
+
+License: Apache License 2.0
 
 jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 
@@ -8553,9 +12401,14 @@ jsii allows code in any language to naturally interact with JavaScript classes. 
 ## axe312ger/sqip
 
 Repository: [axe312ger/sqip](https://github.com/axe312ger/sqip)
+
 Author: [axe312ger](https://github.com/axe312ger)
 
 Stars: 3214
+
+Forks: 106
+
+License: The Unlicense
 
 "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
 
@@ -8563,9 +12416,14 @@ Stars: 3214
 ## chakra-ui/chakra-ui
 
 Repository: [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+
 Author: [chakra-ui](https://github.com/chakra-ui)
 
-Stars: 25104
+Stars: 25112
+
+Forks: 2202
+
+License: MIT License
 
 ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
@@ -8573,9 +12431,14 @@ Stars: 25104
 ## coder/code-server
 
 Repository: [coder/code-server](https://github.com/coder/code-server)
+
 Author: [coder](https://github.com/coder)
 
-Stars: 52796
+Stars: 52801
+
+Forks: 4418
+
+License: MIT License
 
 VS Code in the browser
 
@@ -8583,9 +12446,14 @@ VS Code in the browser
 ## common-voice/common-voice
 
 Repository: [common-voice/common-voice](https://github.com/common-voice/common-voice)
+
 Author: [common-voice](https://github.com/common-voice)
 
 Stars: 2975
+
+Forks: 725
+
+License: Mozilla Public License 2.0
 
 Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 
@@ -8593,9 +12461,14 @@ Common Voice is part of Mozilla's initiative to help teach machines how real peo
 ## eclipse-theia/theia
 
 Repository: [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+
 Author: [eclipse-theia](https://github.com/eclipse-theia)
 
-Stars: 16669
+Stars: 16671
+
+Forks: 2125
+
+License: Other
 
 Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
@@ -8603,9 +12476,14 @@ Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 ## facebook/docusaurus
 
 Repository: [facebook/docusaurus](https://github.com/facebook/docusaurus)
+
 Author: [facebook](https://github.com/facebook)
 
-Stars: 32226
+Stars: 32232
+
+Forks: 4601
+
+License: Other
 
 Easy to maintain open source documentation websites.
 
@@ -8613,9 +12491,14 @@ Easy to maintain open source documentation websites.
 ## felixrieseberg/windows95
 
 Repository: [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
+
 Author: [felixrieseberg](https://github.com/felixrieseberg)
 
 Stars: 19163
+
+Forks: 1173
+
+License: Other
 
 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 
@@ -8623,9 +12506,14 @@ Stars: 19163
 ## giscus/giscus
 
 Repository: [giscus/giscus](https://github.com/giscus/giscus)
+
 Author: [giscus](https://github.com/giscus)
 
-Stars: 1764
+Stars: 1769
+
+Forks: 82
+
+License: MIT License
 
 A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 
@@ -8633,9 +12521,14 @@ A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem
 ## github/webauthn-json
 
 Repository: [github/webauthn-json](https://github.com/github/webauthn-json)
+
 Author: [github](https://github.com/github)
 
 Stars: 457
+
+Forks: 56
+
+License: MIT License
 
 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.
 
@@ -8643,9 +12536,14 @@ Stars: 457
 ## hmmhmmhm/do-urgency
 
 Repository: [hmmhmmhm/do-urgency](https://github.com/hmmhmmhm/do-urgency)
+
 Author: [hmmhmmhm](https://github.com/hmmhmmhm)
 
 Stars: 27
+
+Forks: 1
+
+License: Other
 
 🚀  긴박한 이미지 생성기
 
@@ -8653,9 +12551,14 @@ Stars: 27
 ## hmmhmmhm/hangul-search-js
 
 Repository: [hmmhmmhm/hangul-search-js](https://github.com/hmmhmmhm/hangul-search-js)
+
 Author: [hmmhmmhm](https://github.com/hmmhmmhm)
 
 Stars: 22
+
+Forks: 2
+
+License: MIT License
 
 🇰🇷 Simple Korean text search module
 
@@ -8663,9 +12566,14 @@ Stars: 22
 ## ionic-team/stencil
 
 Repository: [ionic-team/stencil](https://github.com/ionic-team/stencil)
+
 Author: [ionic-team](https://github.com/ionic-team)
 
-Stars: 10564
+Stars: 10566
+
+Forks: 685
+
+License: Other
 
 A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 
@@ -8673,9 +12581,14 @@ A toolchain for building scalable, enterprise-ready component systems on top of 
 ## jedisct1/as-wasi
 
 Repository: [jedisct1/as-wasi](https://github.com/jedisct1/as-wasi)
+
 Author: [jedisct1](https://github.com/jedisct1)
 
 Stars: 186
+
+Forks: 14
+
+License: MIT License
 
 An AssemblyScript API layer for WASI system calls.
 
@@ -8683,9 +12596,14 @@ An AssemblyScript API layer for WASI system calls.
 ## kamranahmedse/developer-roadmap
 
 Repository: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 Author: [kamranahmedse](https://github.com/kamranahmedse)
 
-Stars: 191360
+Stars: 191403
+
+Forks: 27596
+
+License: Other
 
 Roadmap to becoming a developer in 2022
 
@@ -8693,9 +12611,14 @@ Roadmap to becoming a developer in 2022
 ## master-co/styles
 
 Repository: [master-co/styles](https://github.com/master-co/styles)
+
 Author: [master-co](https://github.com/master-co)
 
-Stars: 557
+Stars: 558
+
+Forks: 17
+
+License: MIT License
 
 A Virtual CSS language with enhanced syntax ( less than 13KB )
 
@@ -8703,9 +12626,14 @@ A Virtual CSS language with enhanced syntax ( less than 13KB )
 ## msanvarov/nest-rest-mongo-boilerplate
 
 Repository: [msanvarov/nest-rest-mongo-boilerplate](https://github.com/msanvarov/nest-rest-mongo-boilerplate)
+
 Author: [msanvarov](https://github.com/msanvarov)
 
 Stars: 167
+
+Forks: 39
+
+License: MIT License
 
 🍱 backend with nest (typescript), mongoose, and authentication
 
@@ -8713,9 +12641,14 @@ Stars: 167
 ## myyrakle/MOVED__rustywiki-front
 
 Repository: [myyrakle/MOVED__rustywiki-front](https://github.com/myyrakle/MOVED__rustywiki-front)
+
 Author: [myyrakle](https://github.com/myyrakle)
 
 Stars: 3
+
+Forks: 1
+
+License: Other
 
 
 
@@ -8723,9 +12656,14 @@ Stars: 3
 ## myyrakle/eojuk
 
 Repository: [myyrakle/eojuk](https://github.com/myyrakle/eojuk)
+
 Author: [myyrakle](https://github.com/myyrakle)
 
 Stars: 4
+
+Forks: 1
+
+License: MIT License
 
 
 
@@ -8733,9 +12671,14 @@ Stars: 4
 ## naver/billboard.js
 
 Repository: [naver/billboard.js](https://github.com/naver/billboard.js)
+
 Author: [naver](https://github.com/naver)
 
 Stars: 5120
+
+Forks: 332
+
+License: MIT License
 
 :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 
@@ -8743,9 +12686,14 @@ Stars: 5120
 ## nhn/tui.editor
 
 Repository: [nhn/tui.editor](https://github.com/nhn/tui.editor)
+
 Author: [nhn](https://github.com/nhn)
 
-Stars: 14491
+Stars: 14492
+
+Forks: 1406
+
+License: MIT License
 
 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
@@ -8753,9 +12701,14 @@ Stars: 14491
 ## peterthehan/discord-reaction-role-bot
 
 Repository: [peterthehan/discord-reaction-role-bot](https://github.com/peterthehan/discord-reaction-role-bot)
+
 Author: [peterthehan](https://github.com/peterthehan)
 
 Stars: 92
+
+Forks: 44
+
+License: MIT License
 
 A Discord bot that allows users to self-assign roles using reactions.
 
@@ -8763,9 +12716,14 @@ A Discord bot that allows users to self-assign roles using reactions.
 ## pple-link/pple-main
 
 Repository: [pple-link/pple-main](https://github.com/pple-link/pple-main)
+
 Author: [pple-link](https://github.com/pple-link)
 
 Stars: 1
+
+Forks: 1
+
+License: Other
 
 
 
@@ -8773,9 +12731,14 @@ Stars: 1
 ## puppeteer/puppeteer
 
 Repository: [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+
 Author: [puppeteer](https://github.com/puppeteer)
 
-Stars: 77248
+Stars: 77247
+
+Forks: 8271
+
+License: Apache License 2.0
 
 Headless Chrome Node.js API
 
@@ -8783,9 +12746,14 @@ Headless Chrome Node.js API
 ## react-auth-kit/react-auth-kit
 
 Repository: [react-auth-kit/react-auth-kit](https://github.com/react-auth-kit/react-auth-kit)
+
 Author: [react-auth-kit](https://github.com/react-auth-kit)
 
 Stars: 143
+
+Forks: 40
+
+License: Apache License 2.0
 
 Easily manage Authentication state of users in React-based Apps using Hooks and Higher-order components 
 
@@ -8793,9 +12761,14 @@ Easily manage Authentication state of users in React-based Apps using Hooks and 
 ## remix-run/remix
 
 Repository: [remix-run/remix](https://github.com/remix-run/remix)
+
 Author: [remix-run](https://github.com/remix-run)
 
-Stars: 15167
+Stars: 15179
+
+Forks: 1146
+
+License: MIT License
 
 Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
@@ -8803,9 +12776,14 @@ Build Better Websites. Create modern, resilient user experiences with web fundam
 ## ronami/typelang
 
 Repository: [ronami/typelang](https://github.com/ronami/typelang)
+
 Author: [ronami](https://github.com/ronami)
 
 Stars: 174
+
+Forks: 0
+
+License: MIT License
 
 🌳 A tiny language interpreter implemented purely in TypeScript's type-system
 
@@ -8813,9 +12791,14 @@ Stars: 174
 ## rusty-wiki/rustywiki-front
 
 Repository: [rusty-wiki/rustywiki-front](https://github.com/rusty-wiki/rustywiki-front)
+
 Author: [rusty-wiki](https://github.com/rusty-wiki)
 
 Stars: 2
+
+Forks: 1
+
+License: Other
 
 
 
@@ -8823,9 +12806,14 @@ Stars: 2
 ## samchon/backend
 
 Repository: [samchon/backend](https://github.com/samchon/backend)
+
 Author: [samchon](https://github.com/samchon)
 
 Stars: 458
+
+Forks: 60
+
+License: MIT License
 
 A template repository for TypeScript backend server
 
@@ -8833,9 +12821,14 @@ A template repository for TypeScript backend server
 ## solidjs/solid
 
 Repository: [solidjs/solid](https://github.com/solidjs/solid)
+
 Author: [solidjs](https://github.com/solidjs)
 
-Stars: 16505
+Stars: 16512
+
+Forks: 428
+
+License: MIT License
 
 A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
@@ -8843,9 +12836,14 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 ## supabase/supabase
 
 Repository: [supabase/supabase](https://github.com/supabase/supabase)
+
 Author: [supabase](https://github.com/supabase)
 
-Stars: 30874
+Stars: 30881
+
+Forks: 1799
+
+License: Apache License 2.0
 
 The open source Firebase alternative. Follow to stay updated about our public Beta.
 
@@ -8853,9 +12851,14 @@ The open source Firebase alternative. Follow to stay updated about our public Be
 ## theatre-js/theatre
 
 Repository: [theatre-js/theatre](https://github.com/theatre-js/theatre)
+
 Author: [theatre-js](https://github.com/theatre-js)
 
-Stars: 5635
+Stars: 5637
+
+Forks: 151
+
+License: Apache License 2.0
 
 Motion design editor for the web
 
@@ -8863,9 +12866,14 @@ Motion design editor for the web
 ## timc1/kbar
 
 Repository: [timc1/kbar](https://github.com/timc1/kbar)
+
 Author: [timc1](https://github.com/timc1)
 
 Stars: 2264
+
+Forks: 80
+
+License: MIT License
 
 fast, portable, and extensible cmd+k interface for your site
 
@@ -8873,9 +12881,14 @@ fast, portable, and extensible cmd+k interface for your site
 ## turbolinks/turbolinks
 
 Repository: [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks)
+
 Author: [turbolinks](https://github.com/turbolinks)
 
 Stars: 12738
+
+Forks: 643
+
+License: MIT License
 
 Turbolinks makes navigating your web application faster
 
@@ -8883,9 +12896,14 @@ Turbolinks makes navigating your web application faster
 ## unjs/h3
 
 Repository: [unjs/h3](https://github.com/unjs/h3)
+
 Author: [unjs](https://github.com/unjs)
 
-Stars: 685
+Stars: 686
+
+Forks: 29
+
+License: MIT License
 
 Minimal h(ttp) framework built for high performance and portability ⚡️
 
@@ -8893,9 +12911,14 @@ Minimal h(ttp) framework built for high performance and portability ⚡️
 ## vercel/vercel
 
 Repository: [vercel/vercel](https://github.com/vercel/vercel)
+
 Author: [vercel](https://github.com/vercel)
 
-Stars: 8566
+Stars: 8567
+
+Forks: 1228
+
+License: Apache License 2.0
 
 Develop. Preview. Ship.
 
@@ -8903,9 +12926,14 @@ Develop. Preview. Ship.
 ## withastro/astro
 
 Repository: [withastro/astro](https://github.com/withastro/astro)
+
 Author: [withastro](https://github.com/withastro)
 
-Stars: 11204
+Stars: 11214
+
+Forks: 561
+
+License: Other
 
 Build fast websites, faster. 🚀🧑‍🚀✨
 
@@ -8913,9 +12941,14 @@ Build fast websites, faster. 🚀🧑‍🚀✨
 ## xtermjs/xterm.js
 
 Repository: [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+
 Author: [xtermjs](https://github.com/xtermjs)
 
-Stars: 12649
+Stars: 12654
+
+Forks: 1254
+
+License: MIT License
 
 A terminal for the web
 
@@ -8930,9 +12963,14 @@ A terminal for the web
 ## vlang/go2v
 
 Repository: [vlang/go2v](https://github.com/vlang/go2v)
+
 Author: [vlang](https://github.com/vlang)
 
 Stars: 94
+
+Forks: 12
+
+License: GNU General Public License v2.0
 
 Go => V source code translator
 
@@ -8940,9 +12978,14 @@ Go => V source code translator
 ## vlang/v
 
 Repository: [vlang/v](https://github.com/vlang/v)
+
 Author: [vlang](https://github.com/vlang)
 
-Stars: 28008
+Stars: 28009
+
+Forks: 1731
+
+License: MIT License
 
 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 
@@ -8957,9 +13000,14 @@ Simple, fast, safe, compiled language for developing maintainable software. Comp
 ## Azabell1993/Linux_Setting
 
 Repository: [Azabell1993/Linux_Setting](https://github.com/Azabell1993/Linux_Setting)
+
 Author: [Azabell1993](https://github.com/Azabell1993)
 
 Stars: 1
+
+Forks: 0
+
+License: Other
 
 
 
@@ -8967,9 +13015,14 @@ Stars: 1
 ## farazdagi/vim-go-ide
 
 Repository: [farazdagi/vim-go-ide](https://github.com/farazdagi/vim-go-ide)
+
 Author: [farazdagi](https://github.com/farazdagi)
 
 Stars: 573
+
+Forks: 313
+
+License: Other
 
 Ready to use, fully configured for Go development.
 
@@ -8984,9 +13037,14 @@ Ready to use, fully configured for Go development.
 ## enqueuezero/site
 
 Repository: [enqueuezero/site](https://github.com/enqueuezero/site)
+
 Author: [enqueuezero](https://github.com/enqueuezero)
 
 Stars: 56
+
+Forks: 8
+
+License: Other
 
 Enqueue Zero is creating code principles.
 
@@ -8994,9 +13052,14 @@ Enqueue Zero is creating code principles.
 ## vuejs/blog
 
 Repository: [vuejs/blog](https://github.com/vuejs/blog)
+
 Author: [vuejs](https://github.com/vuejs)
 
 Stars: 143
+
+Forks: 34
+
+License: Other
 
 📝 The official Vue.js blog
 
@@ -9029,9 +13092,14 @@ Stars: 143
 ## Integerous/goQuality-dev-contents
 
 Repository: [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents)
+
 Author: [Integerous](https://github.com/Integerous)
 
-Stars: 5734
+Stars: 5735
+
+Forks: 972
+
+License: MIT License
 
 { 고퀄리티 :zap: 개발 컨텐츠 모음 }
 
@@ -9039,9 +13107,14 @@ Stars: 5734
 ## ShareX/CustomUploaders
 
 Repository: [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders)
+
 Author: [ShareX](https://github.com/ShareX)
 
 Stars: 353
+
+Forks: 227
+
+License: Other
 
 ShareX custom uploaders
 
@@ -9049,9 +13122,14 @@ ShareX custom uploaders
 ## YJSoft/openNAMU
 
 Repository: [YJSoft/openNAMU](https://github.com/YJSoft/openNAMU)
+
 Author: [YJSoft](https://github.com/YJSoft)
 
 Stars: 1
+
+Forks: 0
+
+License: BSD 3-Clause "New" or "Revised" License
 
 Python-based wiki engine. (파이썬 기반 위키 엔진)
 
@@ -9059,9 +13137,14 @@ Python-based wiki engine. (파이썬 기반 위키 엔진)
 ## bcko/bcko
 
 Repository: [bcko/bcko](https://github.com/bcko/bcko)
+
 Author: [bcko](https://github.com/bcko)
 
 Stars: 1
+
+Forks: 1
+
+License: Other
 
 profile README
 
@@ -9069,9 +13152,14 @@ profile README
 ## daangn/digital-garden
 
 Repository: [daangn/digital-garden](https://github.com/daangn/digital-garden)
+
 Author: [daangn](https://github.com/daangn)
 
-Stars: 289
+Stars: 290
+
+Forks: 9
+
+License: MIT License
 
 당근마켓 공개 지식 저장소
 
@@ -9079,9 +13167,14 @@ Stars: 289
 ## dgryski/go-perfbook
 
 Repository: [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook)
+
 Author: [dgryski](https://github.com/dgryski)
 
 Stars: 9754
+
+Forks: 543
+
+License: Other
 
 Thoughts on Go performance optimization
 
@@ -9089,9 +13182,14 @@ Thoughts on Go performance optimization
 ## firstcontributions/first-contributions
 
 Repository: [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+
 Author: [firstcontributions](https://github.com/firstcontributions)
 
-Stars: 22778
+Stars: 22780
+
+Forks: 43932
+
+License: MIT License
 
 🚀✨ Help beginners to contribute to open source projects
 
@@ -9099,9 +13197,14 @@ Stars: 22778
 ## herrjemand/awesome-webauthn
 
 Repository: [herrjemand/awesome-webauthn](https://github.com/herrjemand/awesome-webauthn)
+
 Author: [herrjemand](https://github.com/herrjemand)
 
 Stars: 574
+
+Forks: 63
+
+License: Creative Commons Zero v1.0 Universal
 
 A curated list of awesome WebAuthn/FIDO2 resources
 
@@ -9109,9 +13212,14 @@ A curated list of awesome WebAuthn/FIDO2 resources
 ## lemon-mint/Go-syscall-study
 
 Repository: [lemon-mint/Go-syscall-study](https://github.com/lemon-mint/Go-syscall-study)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -9119,9 +13227,14 @@ Stars: 1
 ## lemon-mint/lemon-mint
 
 Repository: [lemon-mint/lemon-mint](https://github.com/lemon-mint/lemon-mint)
+
 Author: [lemon-mint](https://github.com/lemon-mint)
 
 Stars: 2
+
+Forks: 1
+
+License: MIT License
 
 
 
@@ -9129,9 +13242,14 @@ Stars: 2
 ## lindelof/awesome-web-effect
 
 Repository: [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect)
+
 Author: [lindelof](https://github.com/lindelof)
 
 Stars: 2544
+
+Forks: 158
+
+License: Other
 
 A series of exquisite and compact web page cool effects
 
@@ -9139,9 +13257,14 @@ A series of exquisite and compact web page cool effects
 ## mkrl/misbrands
 
 Repository: [mkrl/misbrands](https://github.com/mkrl/misbrands)
+
 Author: [mkrl](https://github.com/mkrl)
 
-Stars: 6782
+Stars: 6781
+
+Forks: 238
+
+License: Creative Commons Zero v1.0 Universal
 
 The world's most hated IT stickers
 
@@ -9149,9 +13272,14 @@ The world's most hated IT stickers
 ## myyrakle/MOVED__rustywiki-editor
 
 Repository: [myyrakle/MOVED__rustywiki-editor](https://github.com/myyrakle/MOVED__rustywiki-editor)
+
 Author: [myyrakle](https://github.com/myyrakle)
 
 Stars: 1
+
+Forks: 1
+
+License: MIT License
 
 
 
@@ -9159,9 +13287,14 @@ Stars: 1
 ## nikolaydubina/go-recipes
 
 Repository: [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes)
+
 Author: [nikolaydubina](https://github.com/nikolaydubina)
 
 Stars: 1209
+
+Forks: 46
+
+License: MIT License
 
 🪄 Collection of handy tools for Go projects
 
@@ -9169,9 +13302,14 @@ Stars: 1209
 ## rheehot/react-learnit-s3
 
 Repository: [rheehot/react-learnit-s3](https://github.com/rheehot/react-learnit-s3)
+
 Author: [rheehot](https://github.com/rheehot)
 
 Stars: 3
+
+Forks: 1
+
+License: Other
 
 프로젝트로 배우는 React 웹 애플리케이션 개발 - 러닛 스터디
 
@@ -9179,9 +13317,14 @@ Stars: 3
 ## rheehot/webauthn-demo-client
 
 Repository: [rheehot/webauthn-demo-client](https://github.com/rheehot/webauthn-demo-client)
+
 Author: [rheehot](https://github.com/rheehot)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -9189,9 +13332,14 @@ Stars: 1
 ## rheehot/webauthn-demo-server
 
 Repository: [rheehot/webauthn-demo-server](https://github.com/rheehot/webauthn-demo-server)
+
 Author: [rheehot](https://github.com/rheehot)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -9199,9 +13347,14 @@ Stars: 1
 ## rusty-wiki/rustywiki-editor
 
 Repository: [rusty-wiki/rustywiki-editor](https://github.com/rusty-wiki/rustywiki-editor)
+
 Author: [rusty-wiki](https://github.com/rusty-wiki)
 
 Stars: 1
+
+Forks: 0
+
+License: MIT License
 
 
 
@@ -9209,9 +13362,14 @@ Stars: 1
 ## snowmerak/can-be-awesome-libs
 
 Repository: [snowmerak/can-be-awesome-libs](https://github.com/snowmerak/can-be-awesome-libs)
+
 Author: [snowmerak](https://github.com/snowmerak)
 
 Stars: 3
+
+Forks: 0
+
+License: MIT License
 
 여러 커뮤니티에서 모은 고 라이브러리
 
@@ -9219,9 +13377,14 @@ Stars: 3
 ## stackblitz/webcontainer-core
 
 Repository: [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
+
 Author: [stackblitz](https://github.com/stackblitz)
 
 Stars: 2034
+
+Forks: 77
+
+License: MIT License
 
 
 
