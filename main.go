@@ -224,7 +224,7 @@ func BuildMarkdown(stars []Star) string {
 			}
 			sb.WriteString(star.Description)
 			sb.WriteString("\n\n")
-			sb.WriteString(fmt.Sprintf("✅ Return to [%s](%s)\n\n", v.Key, langAnchorMap[v.Key]))
+			sb.WriteString(fmt.Sprintf("[✅ Return to %s](%s)\n\n", v.Key, langAnchorMap[v.Key]))
 		}
 		sb.WriteString("\n")
 	}
