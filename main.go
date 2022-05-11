@@ -180,13 +180,15 @@ func BuildMarkdown(stars []Star) string {
 	sb.WriteString("# Starred Repositories\n\n")
 	sb.WriteString(fmt.Sprintf("This is a list of repositories starred by [%s](https://github.com/%s).\n\n", username, username))
 	sb.WriteString("# Table of Contents\n\n")
+	var langAnchorMap map[string]string = make(map[string]string)
 	for _, v := range languages {
 		// Table of contents
 		//h := sha256.Sum256([]byte(v.Key))
 		//h32 := strings.ToLower(base32.StdEncoding.EncodeToString(h[:15]))
 		//sb.WriteString(fmt.Sprintf("* [%s](#v-%s)\n", v.Key, h32))
 
-		sb.WriteString(fmt.Sprintf("* [%s](%s)\n", v.Key, GetAnchorLink(v.Key)))
+		langAnchorMap[v.Key] = GetAnchorLink(v.Key)
+		sb.WriteString(fmt.Sprintf("* [%s](%s)\n", v.Key, langAnchorMap[v.Key]))
 	}
 	sb.WriteString("\n")
 
@@ -203,7 +205,7 @@ func BuildMarkdown(stars []Star) string {
 			//sb.WriteString(fmt.Sprintf("* [%s](#repo-%s)\n", star.FullName, h32))
 			sb.WriteString(fmt.Sprintf("* [%s](%s)\n", star.FullName, GetAnchorLink(star.FullName)))
 		}
-		sb.WriteString("\n")
+		sb.WriteString("\n[✅ Return to Table of Contents](#table-of-contents)\n\n")
 
 		for _, star := range v.Value {
 			h := sha256.Sum256([]byte(star.FullName))
@@ -222,6 +224,7 @@ func BuildMarkdown(stars []Star) string {
 			}
 			sb.WriteString(star.Description)
 			sb.WriteString("\n\n")
+			sb.WriteString(fmt.Sprintf("✅ Return to [%s](%s)\n\n", v.Key, langAnchorMap[v.Key]))
 		}
 		sb.WriteString("\n")
 	}
