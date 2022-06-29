@@ -182,7 +182,7 @@ Repository: [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-
 
 Author: [NVIDIA](https://github.com/NVIDIA)
 
-Stars: 12156
+Stars: 12164
 
 Forks: 828
 
@@ -199,7 +199,7 @@ Repository: [PQClean/PQClean](https://github.com/PQClean/PQClean)
 
 Author: [PQClean](https://github.com/PQClean)
 
-Stars: 272
+Stars: 273
 
 Forks: 53
 
@@ -250,7 +250,7 @@ Repository: [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 13823
+Stars: 13824
 
 Forks: 3521
 
@@ -267,7 +267,7 @@ Repository: [arendst/Tasmota](https://github.com/arendst/Tasmota)
 
 Author: [arendst](https://github.com/arendst)
 
-Stars: 17849
+Stars: 17851
 
 Forks: 3959
 
@@ -337,7 +337,7 @@ Author: [facebook](https://github.com/facebook)
 
 Stars: 17125
 
-Forks: 1658
+Forks: 1659
 
 License: Other
 
@@ -352,9 +352,9 @@ Repository: [glfw/glfw](https://github.com/glfw/glfw)
 
 Author: [glfw](https://github.com/glfw)
 
-Stars: 9223
+Stars: 9224
 
-Forks: 3660
+Forks: 3663
 
 License: zlib License
 
@@ -403,7 +403,7 @@ Repository: [h2o/picohttpparser](https://github.com/h2o/picohttpparser)
 
 Author: [h2o](https://github.com/h2o)
 
-Stars: 1514
+Stars: 1515
 
 Forks: 211
 
@@ -420,7 +420,7 @@ Repository: [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h)
 
 Author: [jeremycw](https://github.com/jeremycw)
 
-Stars: 1569
+Stars: 1570
 
 Forks: 112
 
@@ -454,7 +454,7 @@ Repository: [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
 
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 6810
+Stars: 6815
 
 Forks: 511
 
@@ -488,9 +488,9 @@ Repository: [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 Author: [obsproject](https://github.com/obsproject)
 
-Stars: 39271
+Stars: 39280
 
-Forks: 6008
+Forks: 6010
 
 License: GNU General Public License v2.0
 
@@ -505,7 +505,7 @@ Repository: [openwrt/openwrt](https://github.com/openwrt/openwrt)
 
 Author: [openwrt](https://github.com/openwrt)
 
-Stars: 11959
+Stars: 11962
 
 Forks: 7459
 
@@ -709,9 +709,9 @@ Repository: [yarrick/iodine](https://github.com/yarrick/iodine)
 
 Author: [yarrick](https://github.com/yarrick)
 
-Stars: 4340
+Stars: 4341
 
-Forks: 427
+Forks: 428
 
 License: ISC License
 
@@ -794,9 +794,9 @@ Repository: [dotnet/runtime](https://github.com/dotnet/runtime)
 
 Author: [dotnet](https://github.com/dotnet)
 
-Stars: 9343
+Stars: 9347
 
-Forks: 3210
+Forks: 3216
 
 License: MIT License
 
@@ -845,7 +845,7 @@ Repository: [microsoft/Oryx](https://github.com/microsoft/Oryx)
 
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 460
+Stars: 461
 
 Forks: 114
 
@@ -862,7 +862,7 @@ Repository: [neuecc/MessagePack-CSharp](https://github.com/neuecc/MessagePack-CS
 
 Author: [neuecc](https://github.com/neuecc)
 
-Stars: 3986
+Stars: 3988
 
 Forks: 553
 
@@ -944,9 +944,9 @@ Repository: [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
 
 Author: [ClickHouse](https://github.com/ClickHouse)
 
-Stars: 24302
+Stars: 24310
 
-Forks: 4862
+Forks: 4868
 
 License: Apache License 2.0
 
@@ -961,9 +961,9 @@ Repository: [NixOS/nix](https://github.com/NixOS/nix)
 
 Author: [NixOS](https://github.com/NixOS)
 
-Stars: 6410
+Stars: 6411
 
-Forks: 948
+Forks: 949
 
 License: GNU Lesser General Public License v2.1
 
@@ -1029,7 +1029,7 @@ Repository: [drogonframework/drogon](https://github.com/drogonframework/drogon)
 
 Author: [drogonframework](https://github.com/drogonframework)
 
-Stars: 7448
+Stars: 7453
 
 Forks: 725
 
@@ -1046,7 +1046,7 @@ Repository: [google/filament](https://github.com/google/filament)
 
 Author: [google](https://github.com/google)
 
-Stars: 14233
+Stars: 14236
 
 Forks: 1412
 
@@ -1063,7 +1063,7 @@ Repository: [google/glog](https://github.com/google/glog)
 
 Author: [google](https://github.com/google)
 
-Stars: 5397
+Stars: 5400
 
 Forks: 1866
 
@@ -1080,7 +1080,7 @@ Repository: [google/highway](https://github.com/google/highway)
 
 Author: [google](https://github.com/google)
 
-Stars: 1653
+Stars: 1658
 
 Forks: 108
 
@@ -1099,7 +1099,7 @@ Author: [google](https://github.com/google)
 
 Stars: 3033
 
-Forks: 279
+Forks: 280
 
 License: Apache License 2.0
 
@@ -1114,7 +1114,7 @@ Repository: [google/tcmalloc](https://github.com/google/tcmalloc)
 
 Author: [google](https://github.com/google)
 
-Stars: 2850
+Stars: 2851
 
 Forks: 304
 
@@ -1182,9 +1182,9 @@ Repository: [microsoft/calculator](https://github.com/microsoft/calculator)
 
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 25147
+Stars: 25149
 
-Forks: 4528
+Forks: 4529
 
 License: MIT License
 
@@ -1199,9 +1199,9 @@ Repository: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 
 Author: [microsoft](https://github.com/microsoft)
 
-Stars: 7059
+Stars: 7063
 
-Forks: 1643
+Forks: 1644
 
 License: MIT License
 
@@ -1250,9 +1250,9 @@ Repository: [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)
 
 Author: [redpanda-data](https://github.com/redpanda-data)
 
-Stars: 4376
+Stars: 4385
 
-Forks: 284
+Forks: 286
 
 License: Other
 
@@ -1267,9 +1267,9 @@ Repository: [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)
 
 Author: [rethinkdb](https://github.com/rethinkdb)
 
-Stars: 25510
+Stars: 25512
 
-Forks: 1863
+Forks: 1864
 
 License: Other
 
@@ -1301,9 +1301,9 @@ Repository: [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 
 Author: [topjohnwu](https://github.com/topjohnwu)
 
-Stars: 27224
+Stars: 27232
 
-Forks: 6827
+Forks: 6828
 
 License: GNU General Public License v3.0
 
@@ -1318,7 +1318,7 @@ Repository: [typesense/typesense](https://github.com/typesense/typesense)
 
 Author: [typesense](https://github.com/typesense)
 
-Stars: 10204
+Stars: 10206
 
 Forks: 290
 
@@ -1403,9 +1403,9 @@ Repository: [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)
 
 Author: [NVlabs](https://github.com/NVlabs)
 
-Stars: 7540
+Stars: 7544
 
-Forks: 764
+Forks: 763
 
 License: Other
 
@@ -1449,9 +1449,9 @@ Repository: [firebase/flutterfire](https://github.com/firebase/flutterfire)
 
 Author: [firebase](https://github.com/firebase)
 
-Stars: 6814
+Stars: 6816
 
-Forks: 3347
+Forks: 3346
 
 License: BSD 3-Clause "New" or "Revised" License
 
@@ -1466,7 +1466,7 @@ Repository: [flame-engine/flame](https://github.com/flame-engine/flame)
 
 Author: [flame-engine](https://github.com/flame-engine)
 
-Stars: 6597
+Stars: 6598
 
 Forks: 578
 
@@ -1485,7 +1485,7 @@ Author: [flutter](https://github.com/flutter)
 
 Stars: 1712
 
-Forks: 144
+Forks: 145
 
 License: MIT License
 
@@ -1597,6 +1597,7 @@ Docker image for easy cross compilation for pytorch library for Raspberry PI 3 S
 * [GavinClarke0/lockless-generic-ring-buffer](#gavinclarke0lockless-generic-ring-buffer)
 * [HyNetwork/hysteria](#hynetworkhysteria)
 * [IceWhaleTech/CasaOS](#icewhaletechcasaos)
+* [Ironpark/remotray](#ironparkremotray)
 * [Jigsaw-Code/outline-go-tun2socks](#jigsaw-codeoutline-go-tun2socks)
 * [JohannesKaufmann/html-to-markdown](#johanneskaufmannhtml-to-markdown)
 * [MrMarble/prism](#mrmarbleprism)
@@ -2311,7 +2312,7 @@ Repository: [AlexStocks/getty](https://github.com/AlexStocks/getty)
 
 Author: [AlexStocks](https://github.com/AlexStocks)
 
-Stars: 748
+Stars: 749
 
 Forks: 173
 
@@ -2413,7 +2414,7 @@ Repository: [CrunchyData/postgres-operator](https://github.com/CrunchyData/postg
 
 Author: [CrunchyData](https://github.com/CrunchyData)
 
-Stars: 2810
+Stars: 2815
 
 Forks: 438
 
@@ -2430,9 +2431,9 @@ Repository: [DarthPestilane/easytcp](https://github.com/DarthPestilane/easytcp)
 
 Author: [DarthPestilane](https://github.com/DarthPestilane)
 
-Stars: 394
+Stars: 396
 
-Forks: 24
+Forks: 25
 
 License: MIT License
 
@@ -2464,7 +2465,7 @@ Repository: [Dreamacro/clash](https://github.com/Dreamacro/clash)
 
 Author: [Dreamacro](https://github.com/Dreamacro)
 
-Stars: 28487
+Stars: 28492
 
 Forks: 3967
 
@@ -2498,7 +2499,7 @@ Repository: [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
 
 Author: [FiloSottile](https://github.com/FiloSottile)
 
-Stars: 35713
+Stars: 35720
 
 Forks: 1752
 
@@ -2515,7 +2516,7 @@ Repository: [FlowerWrong/tun2socks](https://github.com/FlowerWrong/tun2socks)
 
 Author: [FlowerWrong](https://github.com/FlowerWrong)
 
-Stars: 394
+Stars: 393
 
 Forks: 111
 
@@ -2549,9 +2550,9 @@ Repository: [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria)
 
 Author: [HyNetwork](https://github.com/HyNetwork)
 
-Stars: 2737
+Stars: 2739
 
-Forks: 396
+Forks: 398
 
 License: MIT License
 
@@ -2568,11 +2569,28 @@ Author: [IceWhaleTech](https://github.com/IceWhaleTech)
 
 Stars: 4070
 
-Forks: 261
+Forks: 262
 
 License: Apache License 2.0
 
 CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+
+[✅ Return to Go](#go)
+
+<a name="repo-ayikm4abk5vsrmoqvgpcitvg"></a>
+## Ironpark/remotray
+
+Repository: [Ironpark/remotray](https://github.com/Ironpark/remotray)
+
+Author: [Ironpark](https://github.com/Ironpark)
+
+Stars: 1
+
+Forks: 0
+
+License: Other
+
+
 
 [✅ Return to Go](#go)
 
@@ -2736,7 +2754,7 @@ Repository: [RussellLuo/slidingwindow](https://github.com/RussellLuo/slidingwind
 
 Author: [RussellLuo](https://github.com/RussellLuo)
 
-Stars: 312
+Stars: 313
 
 Forks: 30
 
@@ -2855,7 +2873,7 @@ Repository: [SnellerInc/sneller](https://github.com/SnellerInc/sneller)
 
 Author: [SnellerInc](https://github.com/SnellerInc)
 
-Stars: 589
+Stars: 590
 
 Forks: 24
 
@@ -2889,9 +2907,9 @@ Repository: [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 10167
+Stars: 10182
 
-Forks: 1826
+Forks: 1827
 
 License: MIT License
 
@@ -2906,9 +2924,9 @@ Repository: [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill
 
 Author: [ThreeDotsLabs](https://github.com/ThreeDotsLabs)
 
-Stars: 4521
+Stars: 4523
 
-Forks: 269
+Forks: 270
 
 License: MIT License
 
@@ -2923,7 +2941,7 @@ Repository: [TomWright/dasel](https://github.com/TomWright/dasel)
 
 Author: [TomWright](https://github.com/TomWright)
 
-Stars: 3390
+Stars: 3393
 
 Forks: 78
 
@@ -3008,9 +3026,9 @@ Repository: [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
 
 Author: [XTLS](https://github.com/XTLS)
 
-Stars: 9000
+Stars: 9003
 
-Forks: 1531
+Forks: 1530
 
 License: Mozilla Public License 2.0
 
@@ -3025,7 +3043,7 @@ Repository: [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls)
 
 Author: [Yash-Handa](https://github.com/Yash-Handa)
 
-Stars: 883
+Stars: 884
 
 Forks: 29
 
@@ -3059,7 +3077,7 @@ Repository: [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)
 
 Author: [aQuaYi](https://github.com/aQuaYi)
 
-Stars: 3024
+Stars: 3025
 
 Forks: 141
 
@@ -3076,9 +3094,9 @@ Repository: [abiosoft/colima](https://github.com/abiosoft/colima)
 
 Author: [abiosoft](https://github.com/abiosoft)
 
-Stars: 4936
+Stars: 4945
 
-Forks: 125
+Forks: 124
 
 License: MIT License
 
@@ -3110,7 +3128,7 @@ Repository: [actatum/stormrpc](https://github.com/actatum/stormrpc)
 
 Author: [actatum](https://github.com/actatum)
 
-Stars: 9
+Stars: 10
 
 Forks: 1
 
@@ -3178,7 +3196,7 @@ Repository: [alecthomas/chroma](https://github.com/alecthomas/chroma)
 
 Author: [alecthomas](https://github.com/alecthomas)
 
-Stars: 3317
+Stars: 3318
 
 Forks: 281
 
@@ -3280,7 +3298,7 @@ Repository: [alexliesenfeld/health](https://github.com/alexliesenfeld/health)
 
 Author: [alexliesenfeld](https://github.com/alexliesenfeld)
 
-Stars: 500
+Stars: 501
 
 Forks: 16
 
@@ -3535,7 +3553,7 @@ Repository: [asticode/go-astilectron](https://github.com/asticode/go-astilectron
 
 Author: [asticode](https://github.com/asticode)
 
-Stars: 4413
+Stars: 4412
 
 Forks: 315
 
@@ -3569,7 +3587,7 @@ Repository: [authzed/spicedb](https://github.com/authzed/spicedb)
 
 Author: [authzed](https://github.com/authzed)
 
-Stars: 2278
+Stars: 2279
 
 Forks: 110
 
@@ -3586,9 +3604,9 @@ Repository: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 
 Author: [avelino](https://github.com/avelino)
 
-Stars: 82976
+Stars: 83012
 
-Forks: 9976
+Forks: 9978
 
 License: MIT License
 
@@ -3637,7 +3655,7 @@ Repository: [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
 
 Author: [benbjohnson](https://github.com/benbjohnson)
 
-Stars: 6856
+Stars: 6859
 
 Forks: 134
 
@@ -3654,7 +3672,7 @@ Repository: [berty/berty](https://github.com/berty/berty)
 
 Author: [berty](https://github.com/berty)
 
-Stars: 5748
+Stars: 5751
 
 Forks: 253
 
@@ -3671,7 +3689,7 @@ Repository: [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 
 Author: [binwiederhier](https://github.com/binwiederhier)
 
-Stars: 2416
+Stars: 2420
 
 Forks: 88
 
@@ -3756,7 +3774,7 @@ Repository: [blugelabs/bluge](https://github.com/blugelabs/bluge)
 
 Author: [blugelabs](https://github.com/blugelabs)
 
-Stars: 1200
+Stars: 1204
 
 Forks: 62
 
@@ -3875,7 +3893,7 @@ Repository: [burrowers/garble](https://github.com/burrowers/garble)
 
 Author: [burrowers](https://github.com/burrowers)
 
-Stars: 1837
+Stars: 1840
 
 Forks: 129
 
@@ -3892,7 +3910,7 @@ Repository: [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/w
 
 Author: [bytecodealliance](https://github.com/bytecodealliance)
 
-Stars: 421
+Stars: 422
 
 Forks: 53
 
@@ -3926,7 +3944,7 @@ Repository: [bytedance/sonic](https://github.com/bytedance/sonic)
 
 Author: [bytedance](https://github.com/bytedance)
 
-Stars: 3034
+Stars: 3036
 
 Forks: 140
 
@@ -3960,7 +3978,7 @@ Repository: [casdoor/casdoor](https://github.com/casdoor/casdoor)
 
 Author: [casdoor](https://github.com/casdoor)
 
-Stars: 3463
+Stars: 3465
 
 Forks: 395
 
@@ -4028,7 +4046,7 @@ Repository: [cespare/reflex](https://github.com/cespare/reflex)
 
 Author: [cespare](https://github.com/cespare)
 
-Stars: 2668
+Stars: 2669
 
 Forks: 111
 
@@ -4062,7 +4080,7 @@ Repository: [chanify/chanify](https://github.com/chanify/chanify)
 
 Author: [chanify](https://github.com/chanify)
 
-Stars: 869
+Stars: 870
 
 Forks: 80
 
@@ -4096,7 +4114,7 @@ Repository: [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 1898
+Stars: 1900
 
 Forks: 62
 
@@ -4113,7 +4131,7 @@ Repository: [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 13466
+Stars: 13475
 
 Forks: 341
 
@@ -4130,7 +4148,7 @@ Repository: [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 1183
+Stars: 1184
 
 Forks: 79
 
@@ -4147,7 +4165,7 @@ Repository: [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 4355
+Stars: 4357
 
 Forks: 102
 
@@ -4164,7 +4182,7 @@ Repository: [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-ser
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 2132
+Stars: 2136
 
 Forks: 43
 
@@ -4181,7 +4199,7 @@ Repository: [charmbracelet/wish](https://github.com/charmbracelet/wish)
 
 Author: [charmbracelet](https://github.com/charmbracelet)
 
-Stars: 1326
+Stars: 1327
 
 Forks: 25
 
@@ -4232,7 +4250,7 @@ Repository: [cilium/cilium](https://github.com/cilium/cilium)
 
 Author: [cilium](https://github.com/cilium)
 
-Stars: 12292
+Stars: 12295
 
 Forks: 1640
 
@@ -4300,7 +4318,7 @@ Repository: [cloudflare/circl](https://github.com/cloudflare/circl)
 
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 651
+Stars: 654
 
 Forks: 74
 
@@ -4385,7 +4403,7 @@ Repository: [cloudflare/tableflip](https://github.com/cloudflare/tableflip)
 
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 2214
+Stars: 2215
 
 Forks: 118
 
@@ -4419,9 +4437,9 @@ Repository: [cloudwego/hertz](https://github.com/cloudwego/hertz)
 
 Author: [cloudwego](https://github.com/cloudwego)
 
-Stars: 1002
+Stars: 1017
 
-Forks: 80
+Forks: 81
 
 License: Apache License 2.0
 
@@ -4436,7 +4454,7 @@ Repository: [cloudwego/netpoll](https://github.com/cloudwego/netpoll)
 
 Author: [cloudwego](https://github.com/cloudwego)
 
-Stars: 2776
+Stars: 2778
 
 Forks: 291
 
@@ -4472,7 +4490,7 @@ Author: [cockroachdb](https://github.com/cockroachdb)
 
 Stars: 24981
 
-Forks: 3173
+Forks: 3175
 
 License: Other
 
@@ -4521,7 +4539,7 @@ Repository: [coocood/freecache](https://github.com/coocood/freecache)
 
 Author: [coocood](https://github.com/coocood)
 
-Stars: 4154
+Stars: 4155
 
 Forks: 338
 
@@ -4555,9 +4573,9 @@ Repository: [create-go-app/cli](https://github.com/create-go-app/cli)
 
 Author: [create-go-app](https://github.com/create-go-app)
 
-Stars: 1421
+Stars: 1422
 
-Forks: 171
+Forks: 172
 
 License: Apache License 2.0
 
@@ -4657,7 +4675,7 @@ Repository: [d5/tengo](https://github.com/d5/tengo)
 
 Author: [d5](https://github.com/d5)
 
-Stars: 2801
+Stars: 2804
 
 Forks: 185
 
@@ -4691,9 +4709,9 @@ Repository: [dapr/dapr](https://github.com/dapr/dapr)
 
 Author: [dapr](https://github.com/dapr)
 
-Stars: 18389
+Stars: 18395
 
-Forks: 1417
+Forks: 1418
 
 License: Apache License 2.0
 
@@ -4827,7 +4845,7 @@ Repository: [dghubble/trie](https://github.com/dghubble/trie)
 
 Author: [dghubble](https://github.com/dghubble)
 
-Stars: 286
+Stars: 287
 
 Forks: 44
 
@@ -4980,7 +4998,7 @@ Repository: [dtm-labs/dtm](https://github.com/dtm-labs/dtm)
 
 Author: [dtm-labs](https://github.com/dtm-labs)
 
-Stars: 6613
+Stars: 6626
 
 Forks: 727
 
@@ -5014,7 +5032,7 @@ Repository: [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz)
 
 Author: [dvyukov](https://github.com/dvyukov)
 
-Stars: 4433
+Stars: 4432
 
 Forks: 273
 
@@ -5031,7 +5049,7 @@ Repository: [earthly/earthly](https://github.com/earthly/earthly)
 
 Author: [earthly](https://github.com/earthly)
 
-Stars: 7234
+Stars: 7242
 
 Forks: 238
 
@@ -5116,7 +5134,7 @@ Repository: [elliotchance/c2go](https://github.com/elliotchance/c2go)
 
 Author: [elliotchance](https://github.com/elliotchance)
 
-Stars: 1835
+Stars: 1836
 
 Forks: 146
 
@@ -5235,9 +5253,9 @@ Repository: [etcd-io/etcd](https://github.com/etcd-io/etcd)
 
 Author: [etcd-io](https://github.com/etcd-io)
 
-Stars: 40356
+Stars: 40360
 
-Forks: 8666
+Forks: 8669
 
 License: Apache License 2.0
 
@@ -5286,9 +5304,9 @@ Repository: [evanw/esbuild](https://github.com/evanw/esbuild)
 
 Author: [evanw](https://github.com/evanw)
 
-Stars: 32238
+Stars: 32243
 
-Forks: 847
+Forks: 849
 
 License: MIT License
 
@@ -5405,7 +5423,7 @@ Repository: [foxcpp/maddy](https://github.com/foxcpp/maddy)
 
 Author: [foxcpp](https://github.com/foxcpp)
 
-Stars: 3115
+Stars: 3116
 
 Forks: 141
 
@@ -5456,7 +5474,7 @@ Repository: [fxamacker/cbor](https://github.com/fxamacker/cbor)
 
 Author: [fxamacker](https://github.com/fxamacker)
 
-Stars: 455
+Stars: 456
 
 Forks: 40
 
@@ -5507,7 +5525,7 @@ Repository: [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue)
 
 Author: [geohot](https://github.com/geohot)
 
-Stars: 2334
+Stars: 2335
 
 Forks: 189
 
@@ -5626,9 +5644,9 @@ Repository: [go-delve/delve](https://github.com/go-delve/delve)
 
 Author: [go-delve](https://github.com/go-delve)
 
-Stars: 18692
+Stars: 18696
 
-Forks: 1899
+Forks: 1900
 
 License: MIT License
 
@@ -5643,7 +5661,7 @@ Repository: [go-goyave/goyave](https://github.com/go-goyave/goyave)
 
 Author: [go-goyave](https://github.com/go-goyave)
 
-Stars: 1103
+Stars: 1104
 
 Forks: 44
 
@@ -5660,9 +5678,9 @@ Repository: [go-kratos/kratos](https://github.com/go-kratos/kratos)
 
 Author: [go-kratos](https://github.com/go-kratos)
 
-Stars: 18198
+Stars: 18201
 
-Forks: 3494
+Forks: 3498
 
 License: MIT License
 
@@ -5745,9 +5763,9 @@ Repository: [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
 
 Author: [go-sql-driver](https://github.com/go-sql-driver)
 
-Stars: 12370
+Stars: 12373
 
-Forks: 2126
+Forks: 2127
 
 License: Mozilla Public License 2.0
 
@@ -5900,7 +5918,7 @@ Author: [gobuffalo](https://github.com/gobuffalo)
 
 Stars: 6812
 
-Forks: 526
+Forks: 525
 
 License: MIT License
 
@@ -5983,7 +6001,7 @@ Repository: [goccy/go-json](https://github.com/goccy/go-json)
 
 Author: [goccy](https://github.com/goccy)
 
-Stars: 1576
+Stars: 1577
 
 Forks: 54
 
@@ -6051,9 +6069,9 @@ Repository: [gofiber/fiber](https://github.com/gofiber/fiber)
 
 Author: [gofiber](https://github.com/gofiber)
 
-Stars: 20669
+Stars: 20681
 
-Forks: 1049
+Forks: 1048
 
 License: MIT License
 
@@ -6119,7 +6137,7 @@ Repository: [golang-migrate/migrate](https://github.com/golang-migrate/migrate)
 
 Author: [golang-migrate](https://github.com/golang-migrate)
 
-Stars: 8984
+Stars: 8988
 
 Forks: 958
 
@@ -6189,7 +6207,7 @@ Author: [golang](https://github.com/golang)
 
 Stars: 3186
 
-Forks: 870
+Forks: 871
 
 License: Apache License 2.0
 
@@ -6204,9 +6222,9 @@ Repository: [golang/go](https://github.com/golang/go)
 
 Author: [golang](https://github.com/golang)
 
-Stars: 101083
+Stars: 101100
 
-Forks: 15038
+Forks: 15041
 
 License: BSD 3-Clause "New" or "Revised" License
 
@@ -6221,7 +6239,7 @@ Repository: [golang/gofrontend](https://github.com/golang/gofrontend)
 
 Author: [golang](https://github.com/golang)
 
-Stars: 682
+Stars: 683
 
 Forks: 117
 
@@ -6289,7 +6307,7 @@ Repository: [golang/pkgsite](https://github.com/golang/pkgsite)
 
 Author: [golang](https://github.com/golang)
 
-Stars: 929
+Stars: 930
 
 Forks: 129
 
@@ -6408,9 +6426,9 @@ Repository: [google/gopacket](https://github.com/google/gopacket)
 
 Author: [google](https://github.com/google)
 
-Stars: 4899
+Stars: 4901
 
-Forks: 940
+Forks: 941
 
 License: BSD 3-Clause "New" or "Revised" License
 
@@ -6442,7 +6460,7 @@ Repository: [google/gvisor](https://github.com/google/gvisor)
 
 Author: [google](https://github.com/google)
 
-Stars: 12829
+Stars: 12830
 
 Forks: 1076
 
@@ -6510,7 +6528,7 @@ Repository: [google/trillian](https://github.com/google/trillian)
 
 Author: [google](https://github.com/google)
 
-Stars: 3065
+Stars: 3067
 
 Forks: 340
 
@@ -6731,7 +6749,7 @@ Repository: [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten)
 
 Author: [hajimehoshi](https://github.com/hajimehoshi)
 
-Stars: 6693
+Stars: 6695
 
 Forks: 442
 
@@ -6765,7 +6783,7 @@ Repository: [hashicorp/hcl](https://github.com/hashicorp/hcl)
 
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 4123
+Stars: 4125
 
 Forks: 466
 
@@ -6782,9 +6800,9 @@ Repository: [hashicorp/nomad](https://github.com/hashicorp/nomad)
 
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 11697
+Stars: 11705
 
-Forks: 1595
+Forks: 1597
 
 License: Mozilla Public License 2.0
 
@@ -6816,7 +6834,7 @@ Repository: [hashicorp/raft](https://github.com/hashicorp/raft)
 
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 6160
+Stars: 6161
 
 Forks: 807
 
@@ -6850,7 +6868,7 @@ Repository: [hashicorp/vault](https://github.com/hashicorp/vault)
 
 Author: [hashicorp](https://github.com/hashicorp)
 
-Stars: 24345
+Stars: 24351
 
 Forks: 3401
 
@@ -6969,7 +6987,7 @@ Repository: [ignite/cli](https://github.com/ignite/cli)
 
 Author: [ignite](https://github.com/ignite)
 
-Stars: 823
+Stars: 825
 
 Forks: 369
 
@@ -7005,7 +7023,7 @@ Author: [inancgumus](https://github.com/inancgumus)
 
 Stars: 13471
 
-Forks: 1807
+Forks: 1806
 
 License: Other
 
@@ -7105,7 +7123,7 @@ Repository: [jackc/tern](https://github.com/jackc/tern)
 
 Author: [jackc](https://github.com/jackc)
 
-Stars: 448
+Stars: 449
 
 Forks: 46
 
@@ -7122,7 +7140,7 @@ Repository: [jaevor/go-nanoid](https://github.com/jaevor/go-nanoid)
 
 Author: [jaevor](https://github.com/jaevor)
 
-Stars: 25
+Stars: 26
 
 Forks: 2
 
@@ -7139,9 +7157,9 @@ Repository: [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 
 Author: [jesseduffield](https://github.com/jesseduffield)
 
-Stars: 28122
+Stars: 28133
 
-Forks: 1118
+Forks: 1117
 
 License: MIT License
 
@@ -7224,7 +7242,7 @@ Repository: [json-iterator/go](https://github.com/json-iterator/go)
 
 Author: [json-iterator](https://github.com/json-iterator)
 
-Stars: 10993
+Stars: 10995
 
 Forks: 886
 
@@ -7258,7 +7276,7 @@ Repository: [julienschmidt/httprouter](https://github.com/julienschmidt/httprout
 
 Author: [julienschmidt](https://github.com/julienschmidt)
 
-Stars: 14200
+Stars: 14201
 
 Forks: 1354
 
@@ -7275,9 +7293,9 @@ Repository: [junegunn/fzf](https://github.com/junegunn/fzf)
 
 Author: [junegunn](https://github.com/junegunn)
 
-Stars: 45268
+Stars: 45282
 
-Forks: 1950
+Forks: 1953
 
 License: MIT License
 
@@ -7309,7 +7327,7 @@ Repository: [kahing/goofys](https://github.com/kahing/goofys)
 
 Author: [kahing](https://github.com/kahing)
 
-Stars: 4200
+Stars: 4201
 
 Forks: 439
 
@@ -7326,9 +7344,9 @@ Repository: [karanpratapsingh/go-course](https://github.com/karanpratapsingh/go-
 
 Author: [karanpratapsingh](https://github.com/karanpratapsingh)
 
-Stars: 180
+Stars: 185
 
-Forks: 8
+Forks: 9
 
 License: GNU General Public License v3.0
 
@@ -7462,7 +7480,7 @@ Repository: [keybase/saltpack](https://github.com/keybase/saltpack)
 
 Author: [keybase](https://github.com/keybase)
 
-Stars: 936
+Stars: 937
 
 Forks: 62
 
@@ -7683,9 +7701,9 @@ Repository: [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
 Author: [kubernetes](https://github.com/kubernetes)
 
-Stars: 89678
+Stars: 89688
 
-Forks: 32872
+Forks: 32882
 
 License: Apache License 2.0
 
@@ -7734,7 +7752,7 @@ Repository: [kyroy/kdtree](https://github.com/kyroy/kdtree)
 
 Author: [kyroy](https://github.com/kyroy)
 
-Stars: 101
+Stars: 102
 
 Forks: 19
 
@@ -8601,7 +8619,7 @@ Repository: [liamg/traitor](https://github.com/liamg/traitor)
 
 Author: [liamg](https://github.com/liamg)
 
-Stars: 5233
+Stars: 5236
 
 Forks: 359
 
@@ -8637,7 +8655,7 @@ Author: [libp2p](https://github.com/libp2p)
 
 Stars: 4557
 
-Forks: 751
+Forks: 752
 
 License: MIT License
 
@@ -8669,7 +8687,7 @@ Repository: [lima-vm/lima](https://github.com/lima-vm/lima)
 
 Author: [lima-vm](https://github.com/lima-vm)
 
-Stars: 8445
+Stars: 8452
 
 Forks: 300
 
@@ -8754,7 +8772,7 @@ Repository: [loov/goda](https://github.com/loov/goda)
 
 Author: [loov](https://github.com/loov)
 
-Stars: 772
+Stars: 773
 
 Forks: 32
 
@@ -8788,7 +8806,7 @@ Repository: [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go)
 
 Author: [lucas-clemente](https://github.com/lucas-clemente)
 
-Stars: 6877
+Stars: 6878
 
 Forks: 930
 
@@ -8822,7 +8840,7 @@ Repository: [lxc/lxd](https://github.com/lxc/lxd)
 
 Author: [lxc](https://github.com/lxc)
 
-Stars: 3357
+Stars: 3358
 
 Forks: 770
 
@@ -8839,7 +8857,7 @@ Repository: [m1k1o/neko](https://github.com/m1k1o/neko)
 
 Author: [m1k1o](https://github.com/m1k1o)
 
-Stars: 1952
+Stars: 1953
 
 Forks: 148
 
@@ -8907,7 +8925,7 @@ Repository: [maruel/panicparse](https://github.com/maruel/panicparse)
 
 Author: [maruel](https://github.com/maruel)
 
-Stars: 3175
+Stars: 3179
 
 Forks: 93
 
@@ -9128,7 +9146,7 @@ Repository: [mickael-kerjean/filestash](https://github.com/mickael-kerjean/files
 
 Author: [mickael-kerjean](https://github.com/mickael-kerjean)
 
-Stars: 6495
+Stars: 6496
 
 Forks: 471
 
@@ -9162,9 +9180,9 @@ Repository: [milvus-io/milvus](https://github.com/milvus-io/milvus)
 
 Author: [milvus-io](https://github.com/milvus-io)
 
-Stars: 11112
+Stars: 11124
 
-Forks: 1586
+Forks: 1587
 
 License: Apache License 2.0
 
@@ -9196,9 +9214,9 @@ Repository: [minio/minio](https://github.com/minio/minio)
 
 Author: [minio](https://github.com/minio)
 
-Stars: 33835
+Stars: 33845
 
-Forks: 3977
+Forks: 3980
 
 License: GNU Affero General Public License v3.0
 
@@ -9213,7 +9231,7 @@ Repository: [minio/simdjson-go](https://github.com/minio/simdjson-go)
 
 Author: [minio](https://github.com/minio)
 
-Stars: 1342
+Stars: 1343
 
 Forks: 78
 
@@ -9400,7 +9418,7 @@ Repository: [nats-io/nats-server](https://github.com/nats-io/nats-server)
 
 Author: [nats-io](https://github.com/nats-io)
 
-Stars: 11057
+Stars: 11060
 
 Forks: 1084
 
@@ -9451,7 +9469,7 @@ Repository: [nektos/act](https://github.com/nektos/act)
 
 Author: [nektos](https://github.com/nektos)
 
-Stars: 25540
+Stars: 25553
 
 Forks: 670
 
@@ -9470,7 +9488,7 @@ Author: [neurosnap](https://github.com/neurosnap)
 
 Stars: 222
 
-Forks: 5
+Forks: 6
 
 License: MIT License
 
@@ -9553,9 +9571,9 @@ Repository: [nikoksr/notify](https://github.com/nikoksr/notify)
 
 Author: [nikoksr](https://github.com/nikoksr)
 
-Stars: 1160
+Stars: 1161
 
-Forks: 98
+Forks: 99
 
 License: MIT License
 
@@ -9672,9 +9690,9 @@ Repository: [opencontainers/runc](https://github.com/opencontainers/runc)
 
 Author: [opencontainers](https://github.com/opencontainers)
 
-Stars: 9331
+Stars: 9333
 
-Forks: 1755
+Forks: 1757
 
 License: Apache License 2.0
 
@@ -9689,7 +9707,7 @@ Repository: [osrg/gobgp](https://github.com/osrg/gobgp)
 
 Author: [osrg](https://github.com/osrg)
 
-Stars: 2890
+Stars: 2888
 
 Forks: 575
 
@@ -9740,7 +9758,7 @@ Repository: [panjf2000/gnet](https://github.com/panjf2000/gnet)
 
 Author: [panjf2000](https://github.com/panjf2000)
 
-Stars: 6624
+Stars: 6625
 
 Forks: 775
 
@@ -9808,9 +9826,9 @@ Repository: [photoprism/photoprism](https://github.com/photoprism/photoprism)
 
 Author: [photoprism](https://github.com/photoprism)
 
-Stars: 21092
+Stars: 21104
 
-Forks: 1165
+Forks: 1166
 
 License: Other
 
@@ -9842,9 +9860,9 @@ Repository: [pion/ion-sfu](https://github.com/pion/ion-sfu)
 
 Author: [pion](https://github.com/pion)
 
-Stars: 678
+Stars: 679
 
-Forks: 176
+Forks: 177
 
 License: MIT License
 
@@ -9859,7 +9877,7 @@ Repository: [pioz/god](https://github.com/pioz/god)
 
 Author: [pioz](https://github.com/pioz)
 
-Stars: 189
+Stars: 190
 
 Forks: 8
 
@@ -9944,7 +9962,7 @@ Repository: [pluveto/upgit](https://github.com/pluveto/upgit)
 
 Author: [pluveto](https://github.com/pluveto)
 
-Stars: 268
+Stars: 267
 
 Forks: 25
 
@@ -10063,7 +10081,7 @@ Repository: [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen
 
 Author: [pseudomuto](https://github.com/pseudomuto)
 
-Stars: 2016
+Stars: 2017
 
 Forks: 388
 
@@ -10080,7 +10098,7 @@ Repository: [pterm/pterm](https://github.com/pterm/pterm)
 
 Author: [pterm](https://github.com/pterm)
 
-Stars: 2790
+Stars: 2793
 
 Forks: 92
 
@@ -10097,9 +10115,9 @@ Repository: [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope)
 
 Author: [pyroscope-io](https://github.com/pyroscope-io)
 
-Stars: 6019
+Stars: 6024
 
-Forks: 330
+Forks: 331
 
 License: Apache License 2.0
 
@@ -10114,7 +10132,7 @@ Repository: [quackduck/devzat](https://github.com/quackduck/devzat)
 
 Author: [quackduck](https://github.com/quackduck)
 
-Stars: 1346
+Stars: 1347
 
 Forks: 75
 
@@ -10199,9 +10217,9 @@ Repository: [rclone/rclone](https://github.com/rclone/rclone)
 
 Author: [rclone](https://github.com/rclone)
 
-Stars: 33492
+Stars: 33502
 
-Forks: 3052
+Forks: 3053
 
 License: MIT License
 
@@ -10284,7 +10302,7 @@ Repository: [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog)
 
 Author: [reviewdog](https://github.com/reviewdog)
 
-Stars: 5208
+Stars: 5209
 
 Forks: 276
 
@@ -10318,7 +10336,7 @@ Repository: [rh12503/triangula](https://github.com/rh12503/triangula)
 
 Author: [rh12503](https://github.com/rh12503)
 
-Stars: 3737
+Stars: 3738
 
 Forks: 111
 
@@ -10386,7 +10404,7 @@ Repository: [roadrunner-server/roadrunner](https://github.com/roadrunner-server/
 
 Author: [roadrunner-server](https://github.com/roadrunner-server)
 
-Stars: 6533
+Stars: 6537
 
 Forks: 360
 
@@ -10454,7 +10472,7 @@ Repository: [rs/zerolog](https://github.com/rs/zerolog)
 
 Author: [rs](https://github.com/rs)
 
-Stars: 6479
+Stars: 6482
 
 Forks: 394
 
@@ -10522,9 +10540,9 @@ Repository: [sachaos/viddy](https://github.com/sachaos/viddy)
 
 Author: [sachaos](https://github.com/sachaos)
 
-Stars: 2872
+Stars: 2916
 
-Forks: 44
+Forks: 45
 
 License: MIT License
 
@@ -10539,7 +10557,7 @@ Repository: [samber/lo](https://github.com/samber/lo)
 
 Author: [samber](https://github.com/samber)
 
-Stars: 6406
+Stars: 6411
 
 Forks: 239
 
@@ -10556,7 +10574,7 @@ Repository: [savsgio/atreugo](https://github.com/savsgio/atreugo)
 
 Author: [savsgio](https://github.com/savsgio)
 
-Stars: 889
+Stars: 890
 
 Forks: 61
 
@@ -10607,7 +10625,7 @@ Repository: [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery)
 
 Author: [schollz](https://github.com/schollz)
 
-Stars: 546
+Stars: 547
 
 Forks: 46
 
@@ -10624,7 +10642,7 @@ Repository: [securego/gosec](https://github.com/securego/gosec)
 
 Author: [securego](https://github.com/securego)
 
-Stars: 6125
+Stars: 6127
 
 Forks: 470
 
@@ -10641,7 +10659,7 @@ Repository: [segmentio/asm](https://github.com/segmentio/asm)
 
 Author: [segmentio](https://github.com/segmentio)
 
-Stars: 744
+Stars: 745
 
 Forks: 27
 
@@ -10743,7 +10761,7 @@ Repository: [sheepla/pingu](https://github.com/sheepla/pingu)
 
 Author: [sheepla](https://github.com/sheepla)
 
-Stars: 1819
+Stars: 1820
 
 Forks: 50
 
@@ -10811,7 +10829,7 @@ Repository: [siderolabs/talos](https://github.com/siderolabs/talos)
 
 Author: [siderolabs](https://github.com/siderolabs)
 
-Stars: 3100
+Stars: 3102
 
 Forks: 239
 
@@ -10879,7 +10897,7 @@ Repository: [skip2/go-qrcode](https://github.com/skip2/go-qrcode)
 
 Author: [skip2](https://github.com/skip2)
 
-Stars: 1957
+Stars: 1959
 
 Forks: 264
 
@@ -10896,7 +10914,7 @@ Repository: [slackhq/nebula](https://github.com/slackhq/nebula)
 
 Author: [slackhq](https://github.com/slackhq)
 
-Stars: 9992
+Stars: 9994
 
 Forks: 677
 
@@ -11202,7 +11220,7 @@ Repository: [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph
 
 Author: [sourcegraph](https://github.com/sourcegraph)
 
-Stars: 6364
+Stars: 6366
 
 Forks: 790
 
@@ -11236,7 +11254,7 @@ Repository: [soypat/gopherlings](https://github.com/soypat/gopherlings)
 
 Author: [soypat](https://github.com/soypat)
 
-Stars: 386
+Stars: 396
 
 Forks: 15
 
@@ -11253,7 +11271,7 @@ Repository: [spf13/afero](https://github.com/spf13/afero)
 
 Author: [spf13](https://github.com/spf13)
 
-Stars: 4530
+Stars: 4531
 
 Forks: 422
 
@@ -11525,7 +11543,7 @@ Repository: [tdewolff/canvas](https://github.com/tdewolff/canvas)
 
 Author: [tdewolff](https://github.com/tdewolff)
 
-Stars: 989
+Stars: 990
 
 Forks: 65
 
@@ -11644,7 +11662,7 @@ Repository: [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
 
 Author: [tetratelabs](https://github.com/tetratelabs)
 
-Stars: 1656
+Stars: 1660
 
 Forks: 87
 
@@ -11661,9 +11679,9 @@ Repository: [thanos-io/thanos](https://github.com/thanos-io/thanos)
 
 Author: [thanos-io](https://github.com/thanos-io)
 
-Stars: 10666
+Stars: 10668
 
-Forks: 1610
+Forks: 1611
 
 License: Apache License 2.0
 
@@ -11695,7 +11713,7 @@ Repository: [tidwall/evio](https://github.com/tidwall/evio)
 
 Author: [tidwall](https://github.com/tidwall)
 
-Stars: 5382
+Stars: 5383
 
 Forks: 454
 
@@ -11712,7 +11730,7 @@ Repository: [tidwall/gjson](https://github.com/tidwall/gjson)
 
 Author: [tidwall](https://github.com/tidwall)
 
-Stars: 10498
+Stars: 10499
 
 Forks: 702
 
@@ -11763,7 +11781,7 @@ Repository: [tinode/chat](https://github.com/tinode/chat)
 
 Author: [tinode](https://github.com/tinode)
 
-Stars: 8927
+Stars: 8931
 
 Forks: 1370
 
@@ -11797,9 +11815,9 @@ Repository: [traefik/traefik](https://github.com/traefik/traefik)
 
 Author: [traefik](https://github.com/traefik)
 
-Stars: 38662
+Stars: 38675
 
-Forks: 4215
+Forks: 4217
 
 License: MIT License
 
@@ -11831,7 +11849,7 @@ Repository: [traefik/yaegi](https://github.com/traefik/yaegi)
 
 Author: [traefik](https://github.com/traefik)
 
-Stars: 4556
+Stars: 4557
 
 Forks: 236
 
@@ -11865,9 +11883,9 @@ Repository: [trufflesecurity/trufflehog](https://github.com/trufflesecurity/truf
 
 Author: [trufflesecurity](https://github.com/trufflesecurity)
 
-Stars: 8688
+Stars: 8695
 
-Forks: 1059
+Forks: 1058
 
 License: GNU Affero General Public License v3.0
 
@@ -11882,9 +11900,9 @@ Repository: [tsenart/vegeta](https://github.com/tsenart/vegeta)
 
 Author: [tsenart](https://github.com/tsenart)
 
-Stars: 19790
+Stars: 19794
 
-Forks: 1232
+Forks: 1233
 
 License: MIT License
 
@@ -11935,7 +11953,7 @@ Author: [uber-go](https://github.com/uber-go)
 
 Stars: 959
 
-Forks: 76
+Forks: 77
 
 License: MIT License
 
@@ -12105,7 +12123,7 @@ Author: [v2fly](https://github.com/v2fly)
 
 Stars: 1192
 
-Forks: 292
+Forks: 291
 
 License: MIT License
 
@@ -12120,9 +12138,9 @@ Repository: [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)
 
 Author: [v2fly](https://github.com/v2fly)
 
-Stars: 16975
+Stars: 16978
 
-Forks: 2884
+Forks: 2885
 
 License: MIT License
 
@@ -12154,7 +12172,7 @@ Repository: [valyala/fasthttp](https://github.com/valyala/fasthttp)
 
 Author: [valyala](https://github.com/valyala)
 
-Stars: 17925
+Stars: 17929
 
 Forks: 1506
 
@@ -12188,7 +12206,7 @@ Repository: [valyala/fasttemplate](https://github.com/valyala/fasttemplate)
 
 Author: [valyala](https://github.com/valyala)
 
-Stars: 607
+Stars: 608
 
 Forks: 69
 
@@ -12205,7 +12223,7 @@ Repository: [valyala/quicktemplate](https://github.com/valyala/quicktemplate)
 
 Author: [valyala](https://github.com/valyala)
 
-Stars: 2497
+Stars: 2499
 
 Forks: 131
 
@@ -12307,7 +12325,7 @@ Repository: [vugu/vugu](https://github.com/vugu/vugu)
 
 Author: [vugu](https://github.com/vugu)
 
-Stars: 4408
+Stars: 4411
 
 Forks: 169
 
@@ -12358,9 +12376,9 @@ Repository: [wagoodman/dive](https://github.com/wagoodman/dive)
 
 Author: [wagoodman](https://github.com/wagoodman)
 
-Stars: 32430
+Stars: 32437
 
-Forks: 1295
+Forks: 1294
 
 License: MIT License
 
@@ -12392,7 +12410,7 @@ Repository: [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go)
 
 Author: [wasmerio](https://github.com/wasmerio)
 
-Stars: 2063
+Stars: 2064
 
 Forks: 137
 
@@ -12460,7 +12478,7 @@ Repository: [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks)
 
 Author: [xjasonlyu](https://github.com/xjasonlyu)
 
-Stars: 888
+Stars: 889
 
 Forks: 159
 
@@ -12715,9 +12733,9 @@ Repository: [zeromicro/go-zero](https://github.com/zeromicro/go-zero)
 
 Author: [zeromicro](https://github.com/zeromicro)
 
-Stars: 18755
+Stars: 18764
 
-Forks: 2700
+Forks: 2701
 
 License: MIT License
 
@@ -12732,9 +12750,9 @@ Repository: [zinclabs/zinc](https://github.com/zinclabs/zinc)
 
 Author: [zinclabs](https://github.com/zinclabs)
 
-Stars: 9311
+Stars: 9416
 
-Forks: 407
+Forks: 408
 
 License: Other
 
@@ -12783,7 +12801,7 @@ Repository: [zyedidia/generic](https://github.com/zyedidia/generic)
 
 Author: [zyedidia](https://github.com/zyedidia)
 
-Stars: 824
+Stars: 826
 
 Forks: 43
 
@@ -12800,9 +12818,9 @@ Repository: [zyedidia/micro](https://github.com/zyedidia/micro)
 
 Author: [zyedidia](https://github.com/zyedidia)
 
-Stars: 19729
+Stars: 19727
 
-Forks: 1015
+Forks: 1016
 
 License: MIT License
 
@@ -12925,7 +12943,7 @@ Repository: [go101/go101](https://github.com/go101/go101)
 
 Author: [go101](https://github.com/go101)
 
-Stars: 4562
+Stars: 4564
 
 Forks: 335
 
@@ -13130,7 +13148,7 @@ Repository: [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer
 
 Author: [Konloch](https://github.com/Konloch)
 
-Stars: 13049
+Stars: 13050
 
 Forks: 1024
 
@@ -13147,9 +13165,9 @@ Repository: [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityA
 
 Author: [NationalSecurityAgency](https://github.com/NationalSecurityAgency)
 
-Stars: 33243
+Stars: 33246
 
-Forks: 4305
+Forks: 4306
 
 License: Apache License 2.0
 
@@ -13198,7 +13216,7 @@ Repository: [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
 Author: [TeamNewPipe](https://github.com/TeamNewPipe)
 
-Stars: 19594
+Stars: 19601
 
 Forks: 2315
 
@@ -13249,9 +13267,9 @@ Repository: [google/dagger](https://github.com/google/dagger)
 
 Author: [google](https://github.com/google)
 
-Stars: 16685
+Stars: 16688
 
-Forks: 1959
+Forks: 1958
 
 License: Apache License 2.0
 
@@ -13266,7 +13284,7 @@ Repository: [kestra-io/kestra](https://github.com/kestra-io/kestra)
 
 Author: [kestra-io](https://github.com/kestra-io)
 
-Stars: 2543
+Stars: 2544
 
 Forks: 132
 
@@ -13300,7 +13318,7 @@ Repository: [reactor/reactor-core](https://github.com/reactor/reactor-core)
 
 Author: [reactor](https://github.com/reactor)
 
-Stars: 4186
+Stars: 4187
 
 Forks: 1026
 
@@ -13401,9 +13419,9 @@ Repository: [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-sec
 
 Author: [30-seconds](https://github.com/30-seconds)
 
-Stars: 96975
+Stars: 96997
 
-Forks: 10248
+Forks: 10252
 
 License: Creative Commons Attribution 4.0 International
 
@@ -13418,7 +13436,7 @@ Repository: [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff)
 
 Author: [AsyncBanana](https://github.com/AsyncBanana)
 
-Stars: 2968
+Stars: 2969
 
 Forks: 58
 
@@ -13435,7 +13453,7 @@ Repository: [Budibase/budibase](https://github.com/Budibase/budibase)
 
 Author: [Budibase](https://github.com/Budibase)
 
-Stars: 13963
+Stars: 13967
 
 Forks: 757
 
@@ -13486,7 +13504,7 @@ Repository: [EmilTholin/svelte-routing](https://github.com/EmilTholin/svelte-rou
 
 Author: [EmilTholin](https://github.com/EmilTholin)
 
-Stars: 1665
+Stars: 1666
 
 Forks: 148
 
@@ -13503,7 +13521,7 @@ Repository: [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox)
 
 Author: [GoogleChrome](https://github.com/GoogleChrome)
 
-Stars: 10841
+Stars: 10842
 
 Forks: 765
 
@@ -13537,7 +13555,7 @@ Repository: [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
 
 Author: [LuanRT](https://github.com/LuanRT)
 
-Stars: 2205
+Stars: 2207
 
 Forks: 96
 
@@ -13588,9 +13606,9 @@ Repository: [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
 Author: [PipedreamHQ](https://github.com/PipedreamHQ)
 
-Stars: 3605
+Stars: 3610
 
-Forks: 2171
+Forks: 2177
 
 License: MIT License
 
@@ -13639,9 +13657,9 @@ Repository: [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScri
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 20333
+Stars: 20337
 
-Forks: 3575
+Forks: 3576
 
 License: GNU General Public License v3.0
 
@@ -13656,7 +13674,7 @@ Repository: [Unitech/pm2](https://github.com/Unitech/pm2)
 
 Author: [Unitech](https://github.com/Unitech)
 
-Stars: 37239
+Stars: 37243
 
 Forks: 2432
 
@@ -13690,7 +13708,7 @@ Repository: [acornjs/acorn](https://github.com/acornjs/acorn)
 
 Author: [acornjs](https://github.com/acornjs)
 
-Stars: 8449
+Stars: 8451
 
 Forks: 783
 
@@ -13741,7 +13759,7 @@ Repository: [ampproject/amphtml](https://github.com/ampproject/amphtml)
 
 Author: [ampproject](https://github.com/ampproject)
 
-Stars: 14864
+Stars: 14863
 
 Forks: 3994
 
@@ -13758,9 +13776,9 @@ Repository: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/git
 
 Author: [anuraghazra](https://github.com/anuraghazra)
 
-Stars: 42872
+Stars: 42891
 
-Forks: 10288
+Forks: 10291
 
 License: MIT License
 
@@ -13792,9 +13810,9 @@ Repository: [appwrite/appwrite](https://github.com/appwrite/appwrite)
 
 Author: [appwrite](https://github.com/appwrite)
 
-Stars: 23054
+Stars: 23099
 
-Forks: 1767
+Forks: 1768
 
 License: BSD 3-Clause "New" or "Revised" License
 
@@ -13809,9 +13827,9 @@ Repository: [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-s
 
 Author: [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
-Stars: 92847
+Stars: 92902
 
-Forks: 5975
+Forks: 5976
 
 License: Other
 
@@ -13826,9 +13844,9 @@ Repository: [badges/shields](https://github.com/badges/shields)
 
 Author: [badges](https://github.com/badges)
 
-Stars: 17275
+Stars: 17284
 
-Forks: 4802
+Forks: 4806
 
 License: Creative Commons Zero v1.0 Universal
 
@@ -13843,7 +13861,7 @@ Repository: [blitz-js/blitz](https://github.com/blitz-js/blitz)
 
 Author: [blitz-js](https://github.com/blitz-js)
 
-Stars: 11520
+Stars: 11522
 
 Forks: 669
 
@@ -13860,7 +13878,7 @@ Repository: [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/Video
 
 Author: [cleanlock](https://github.com/cleanlock)
 
-Stars: 909
+Stars: 911
 
 Forks: 90
 
@@ -13894,9 +13912,9 @@ Repository: [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
 
 Author: [denysdovhan](https://github.com/denysdovhan)
 
-Stars: 26848
+Stars: 26858
 
-Forks: 1924
+Forks: 1928
 
 License: Do What The F*ck You Want To Public License
 
@@ -13911,7 +13929,7 @@ Repository: [developit/htm](https://github.com/developit/htm)
 
 Author: [developit](https://github.com/developit)
 
-Stars: 7670
+Stars: 7686
 
 Forks: 160
 
@@ -13979,9 +13997,9 @@ Repository: [frappe/gantt](https://github.com/frappe/gantt)
 
 Author: [frappe](https://github.com/frappe)
 
-Stars: 3157
+Stars: 3158
 
-Forks: 710
+Forks: 711
 
 License: MIT License
 
@@ -14047,7 +14065,7 @@ Repository: [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js)
 
 Author: [gionkunz](https://github.com/gionkunz)
 
-Stars: 12832
+Stars: 12833
 
 Forks: 2654
 
@@ -14081,7 +14099,7 @@ Repository: [httpcats/http.cat](https://github.com/httpcats/http.cat)
 
 Author: [httpcats](https://github.com/httpcats)
 
-Stars: 1745
+Stars: 1747
 
 Forks: 90
 
@@ -14098,9 +14116,9 @@ Repository: [iamkun/dayjs](https://github.com/iamkun/dayjs)
 
 Author: [iamkun](https://github.com/iamkun)
 
-Stars: 39403
+Stars: 39409
 
-Forks: 1993
+Forks: 1994
 
 License: MIT License
 
@@ -14115,7 +14133,7 @@ Repository: [indutny/elliptic](https://github.com/indutny/elliptic)
 
 Author: [indutny](https://github.com/indutny)
 
-Stars: 1432
+Stars: 1433
 
 Forks: 339
 
@@ -14268,9 +14286,9 @@ Repository: [mui/material-ui](https://github.com/mui/material-ui)
 
 Author: [mui](https://github.com/mui)
 
-Stars: 79357
+Stars: 79363
 
-Forks: 27356
+Forks: 27355
 
 License: MIT License
 
@@ -14319,7 +14337,7 @@ Repository: [niespodd/browser-fingerprinting](https://github.com/niespodd/browse
 
 Author: [niespodd](https://github.com/niespodd)
 
-Stars: 2953
+Stars: 2952
 
 Forks: 144
 
@@ -14336,7 +14354,7 @@ Repository: [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs)
 
 Author: [openpgpjs](https://github.com/openpgpjs)
 
-Stars: 5138
+Stars: 5139
 
 Forks: 779
 
@@ -14421,7 +14439,7 @@ Repository: [postmanlabs/postman-code-generators](https://github.com/postmanlabs
 
 Author: [postmanlabs](https://github.com/postmanlabs)
 
-Stars: 777
+Stars: 778
 
 Forks: 309
 
@@ -14455,9 +14473,9 @@ Repository: [responsively-org/responsively-app](https://github.com/responsively-
 
 Author: [responsively-org](https://github.com/responsively-org)
 
-Stars: 16716
+Stars: 16723
 
-Forks: 699
+Forks: 700
 
 License: GNU Affero General Public License v3.0
 
@@ -14540,7 +14558,7 @@ Repository: [svg/svgo](https://github.com/svg/svgo)
 
 Author: [svg](https://github.com/svg)
 
-Stars: 17865
+Stars: 17867
 
 Forks: 1275
 
@@ -14557,7 +14575,7 @@ Repository: [systemjs/systemjs](https://github.com/systemjs/systemjs)
 
 Author: [systemjs](https://github.com/systemjs)
 
-Stars: 12182
+Stars: 12184
 
 Forks: 1104
 
@@ -14608,7 +14626,7 @@ Repository: [vercel/pkg](https://github.com/vercel/pkg)
 
 Author: [vercel](https://github.com/vercel)
 
-Stars: 21391
+Stars: 21395
 
 Forks: 916
 
@@ -14642,7 +14660,7 @@ Repository: [windowjs/windowjs](https://github.com/windowjs/windowjs)
 
 Author: [windowjs](https://github.com/windowjs)
 
-Stars: 2234
+Stars: 2233
 
 Forks: 64
 
@@ -14718,7 +14736,7 @@ Repository: [JuliaLang/julia](https://github.com/JuliaLang/julia)
 
 Author: [JuliaLang](https://github.com/JuliaLang)
 
-Stars: 39705
+Stars: 39709
 
 Forks: 4938
 
@@ -14748,9 +14766,9 @@ Repository: [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundati
 
 Author: [AI4Finance-Foundation](https://github.com/AI4Finance-Foundation)
 
-Stars: 5676
+Stars: 5679
 
-Forks: 1305
+Forks: 1306
 
 License: MIT License
 
@@ -14799,7 +14817,7 @@ Repository: [deepmind/deepmind-research](https://github.com/deepmind/deepmind-re
 
 Author: [deepmind](https://github.com/deepmind)
 
-Stars: 10401
+Stars: 10405
 
 Forks: 2146
 
@@ -14833,7 +14851,7 @@ Repository: [saic-mdal/lama](https://github.com/saic-mdal/lama)
 
 Author: [saic-mdal](https://github.com/saic-mdal)
 
-Stars: 3969
+Stars: 3973
 
 Forks: 417
 
@@ -14876,9 +14894,9 @@ Repository: [yairm210/Unciv](https://github.com/yairm210/Unciv)
 
 Author: [yairm210](https://github.com/yairm210)
 
-Stars: 3581
+Stars: 3583
 
-Forks: 944
+Forks: 945
 
 License: Mozilla Public License 2.0
 
@@ -14901,9 +14919,9 @@ Repository: [NvChad/NvChad](https://github.com/NvChad/NvChad)
 
 Author: [NvChad](https://github.com/NvChad)
 
-Stars: 10446
+Stars: 10453
 
-Forks: 683
+Forks: 682
 
 License: GNU General Public License v3.0
 
@@ -14926,9 +14944,9 @@ Repository: [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
 Author: [NixOS](https://github.com/NixOS)
 
-Stars: 9862
+Stars: 9865
 
-Forks: 8001
+Forks: 8005
 
 License: MIT License
 
@@ -14973,9 +14991,9 @@ Repository: [google/recaptcha](https://github.com/google/recaptcha)
 
 Author: [google](https://github.com/google)
 
-Stars: 3223
+Stars: 3224
 
-Forks: 776
+Forks: 775
 
 License: BSD 3-Clause "New" or "Revised" License
 
@@ -15041,9 +15059,9 @@ Repository: [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/
 
 Author: [the-benchmarker](https://github.com/the-benchmarker)
 
-Stars: 6355
+Stars: 6356
 
-Forks: 565
+Forks: 566
 
 License: MIT License
 
@@ -15130,9 +15148,9 @@ Repository: [3b1b/manim](https://github.com/3b1b/manim)
 
 Author: [3b1b](https://github.com/3b1b)
 
-Stars: 45482
+Stars: 45492
 
-Forks: 4918
+Forks: 4917
 
 License: MIT License
 
@@ -15232,7 +15250,7 @@ Repository: [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
 
 Author: [EleutherAI](https://github.com/EleutherAI)
 
-Stars: 6349
+Stars: 6350
 
 Forks: 537
 
@@ -15283,7 +15301,7 @@ Repository: [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI
 
 Author: [PySimpleGUI](https://github.com/PySimpleGUI)
 
-Stars: 10253
+Stars: 10256
 
 Forks: 1543
 
@@ -15334,9 +15352,9 @@ Repository: [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorF
 
 Author: [TensorSpeech](https://github.com/TensorSpeech)
 
-Stars: 2752
+Stars: 2753
 
-Forks: 613
+Forks: 614
 
 License: Apache License 2.0
 
@@ -15351,9 +15369,9 @@ Repository: [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 139248
+Stars: 139268
 
-Forks: 36040
+Forks: 36042
 
 License: MIT License
 
@@ -15370,7 +15388,7 @@ Author: [Ultimaker](https://github.com/Ultimaker)
 
 Stars: 3943
 
-Forks: 1634
+Forks: 1636
 
 License: GNU Lesser General Public License v3.0
 
@@ -15402,7 +15420,7 @@ Repository: [beartype/beartype](https://github.com/beartype/beartype)
 
 Author: [beartype](https://github.com/beartype)
 
-Stars: 1206
+Stars: 1207
 
 Forks: 22
 
@@ -15419,7 +15437,7 @@ Repository: [caronc/apprise](https://github.com/caronc/apprise)
 
 Author: [caronc](https://github.com/caronc)
 
-Stars: 5272
+Stars: 5274
 
 Forks: 193
 
@@ -15470,9 +15488,9 @@ Repository: [commaai/openpilot](https://github.com/commaai/openpilot)
 
 Author: [commaai](https://github.com/commaai)
 
-Stars: 35235
+Stars: 35239
 
-Forks: 6428
+Forks: 6426
 
 License: MIT License
 
@@ -15521,7 +15539,7 @@ Repository: [encode/httpx](https://github.com/encode/httpx)
 
 Author: [encode](https://github.com/encode)
 
-Stars: 8921
+Stars: 8923
 
 Forks: 596
 
@@ -15538,7 +15556,7 @@ Repository: [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 
 Author: [freqtrade](https://github.com/freqtrade)
 
-Stars: 18068
+Stars: 18070
 
 Forks: 3836
 
@@ -15555,9 +15573,9 @@ Repository: [google-research/bert](https://github.com/google-research/bert)
 
 Author: [google-research](https://github.com/google-research)
 
-Stars: 31548
+Stars: 31554
 
-Forks: 8758
+Forks: 8762
 
 License: Apache License 2.0
 
@@ -15589,9 +15607,9 @@ Repository: [home-assistant/core](https://github.com/home-assistant/core)
 
 Author: [home-assistant](https://github.com/home-assistant)
 
-Stars: 53652
+Stars: 53663
 
-Forks: 18633
+Forks: 18646
 
 License: Apache License 2.0
 
@@ -15606,7 +15624,7 @@ Repository: [httpie/httpie](https://github.com/httpie/httpie)
 
 Author: [httpie](https://github.com/httpie)
 
-Stars: 22252
+Stars: 22257
 
 Forks: 3683
 
@@ -15642,7 +15660,7 @@ Author: [huggingface](https://github.com/huggingface)
 
 Stars: 13711
 
-Forks: 1746
+Forks: 1748
 
 License: Apache License 2.0
 
@@ -15657,9 +15675,9 @@ Repository: [huggingface/transformers](https://github.com/huggingface/transforme
 
 Author: [huggingface](https://github.com/huggingface)
 
-Stars: 66017
+Stars: 66061
 
-Forks: 15363
+Forks: 15371
 
 License: Apache License 2.0
 
@@ -15674,9 +15692,9 @@ Repository: [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 
 Author: [iperov](https://github.com/iperov)
 
-Stars: 33509
+Stars: 33519
 
-Forks: 7629
+Forks: 7631
 
 License: GNU General Public License v3.0
 
@@ -15708,7 +15726,7 @@ Repository: [jina-ai/jina](https://github.com/jina-ai/jina)
 
 Author: [jina-ai](https://github.com/jina-ai)
 
-Stars: 14998
+Stars: 15003
 
 Forks: 1929
 
@@ -15793,9 +15811,9 @@ Repository: [localstack/localstack](https://github.com/localstack/localstack)
 
 Author: [localstack](https://github.com/localstack)
 
-Stars: 41817
+Stars: 41828
 
-Forks: 3109
+Forks: 3110
 
 License: Other
 
@@ -15810,9 +15828,9 @@ Repository: [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pyt
 
 Author: [lucidrains](https://github.com/lucidrains)
 
-Stars: 3660
+Stars: 3679
 
-Forks: 223
+Forks: 224
 
 License: MIT License
 
@@ -15827,7 +15845,7 @@ Repository: [luismartingarcia/protocol](https://github.com/luismartingarcia/prot
 
 Author: [luismartingarcia](https://github.com/luismartingarcia)
 
-Stars: 624
+Stars: 625
 
 Forks: 52
 
@@ -15846,7 +15864,7 @@ Author: [mherrmann](https://github.com/mherrmann)
 
 Stars: 3428
 
-Forks: 163
+Forks: 164
 
 License: GNU General Public License v3.0
 
@@ -15878,7 +15896,7 @@ Repository: [mvt-project/mvt](https://github.com/mvt-project/mvt)
 
 Author: [mvt-project](https://github.com/mvt-project)
 
-Stars: 7811
+Stars: 7812
 
 Forks: 693
 
@@ -15895,7 +15913,7 @@ Repository: [neuml/txtai](https://github.com/neuml/txtai)
 
 Author: [neuml](https://github.com/neuml)
 
-Stars: 2234
+Stars: 2236
 
 Forks: 214
 
@@ -15929,9 +15947,9 @@ Repository: [psf/requests](https://github.com/psf/requests)
 
 Author: [psf](https://github.com/psf)
 
-Stars: 47716
+Stars: 47721
 
-Forks: 8789
+Forks: 8792
 
 License: Apache License 2.0
 
@@ -15963,7 +15981,7 @@ Repository: [pyodide/pyodide](https://github.com/pyodide/pyodide)
 
 Author: [pyodide](https://github.com/pyodide)
 
-Stars: 8825
+Stars: 8829
 
 Forks: 551
 
@@ -15980,7 +15998,7 @@ Repository: [python-trio/trio](https://github.com/python-trio/trio)
 
 Author: [python-trio](https://github.com/python-trio)
 
-Stars: 4748
+Stars: 4749
 
 Forks: 269
 
@@ -15997,9 +16015,9 @@ Repository: [pytorch/data](https://github.com/pytorch/data)
 
 Author: [pytorch](https://github.com/pytorch)
 
-Stars: 746
+Stars: 748
 
-Forks: 61
+Forks: 62
 
 License: BSD 3-Clause "New" or "Revised" License
 
@@ -16014,9 +16032,9 @@ Repository: [pytube/pytube](https://github.com/pytube/pytube)
 
 Author: [pytube](https://github.com/pytube)
 
-Stars: 7340
+Stars: 7341
 
-Forks: 1524
+Forks: 1523
 
 License: The Unlicense
 
@@ -16116,9 +16134,9 @@ Repository: [unit8co/darts](https://github.com/unit8co/darts)
 
 Author: [unit8co](https://github.com/unit8co)
 
-Stars: 4291
+Stars: 4296
 
-Forks: 441
+Forks: 442
 
 License: Apache License 2.0
 
@@ -16201,9 +16219,9 @@ Repository: [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 Author: [yt-dlp](https://github.com/yt-dlp)
 
-Stars: 27578
+Stars: 27610
 
-Forks: 2169
+Forks: 2171
 
 License: The Unlicense
 
@@ -16268,7 +16286,7 @@ Repository: [revery-ui/revery](https://github.com/revery-ui/revery)
 
 Author: [revery-ui](https://github.com/revery-ui)
 
-Stars: 7920
+Stars: 7918
 
 Forks: 204
 
@@ -16455,7 +16473,7 @@ Repository: [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb)
 
 Author: [CeresDB](https://github.com/CeresDB)
 
-Stars: 1203
+Stars: 1206
 
 Forks: 69
 
@@ -16491,7 +16509,7 @@ Author: [CosmWasm](https://github.com/CosmWasm)
 
 Stars: 661
 
-Forks: 169
+Forks: 170
 
 License: Apache License 2.0
 
@@ -16523,7 +16541,7 @@ Repository: [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 
 Author: [DioxusLabs](https://github.com/DioxusLabs)
 
-Stars: 4230
+Stars: 4234
 
 Forks: 122
 
@@ -16557,7 +16575,7 @@ Repository: [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
 
 Author: [FyroxEngine](https://github.com/FyroxEngine)
 
-Stars: 4136
+Stars: 4137
 
 Forks: 166
 
@@ -16608,7 +16626,7 @@ Repository: [H-M-H/Weylus](https://github.com/H-M-H/Weylus)
 
 Author: [H-M-H](https://github.com/H-M-H)
 
-Stars: 3373
+Stars: 3374
 
 Forks: 132
 
@@ -16625,7 +16643,7 @@ Repository: [Manishearth/rust-gc](https://github.com/Manishearth/rust-gc)
 
 Author: [Manishearth](https://github.com/Manishearth)
 
-Stars: 694
+Stars: 695
 
 Forks: 42
 
@@ -16761,7 +16779,7 @@ Repository: [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 
 Author: [SeaQL](https://github.com/SeaQL)
 
-Stars: 2189
+Stars: 2192
 
 Forks: 171
 
@@ -16778,9 +16796,9 @@ Repository: [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
 
 Author: [SergioBenitez](https://github.com/SergioBenitez)
 
-Stars: 17682
+Stars: 17680
 
-Forks: 1251
+Forks: 1253
 
 License: Other
 
@@ -16795,9 +16813,9 @@ Repository: [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
 
 Author: [TheAlgorithms](https://github.com/TheAlgorithms)
 
-Stars: 7994
+Stars: 8086
 
-Forks: 935
+Forks: 939
 
 License: MIT License
 
@@ -16812,7 +16830,7 @@ Repository: [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
 
 Author: [Wilfred](https://github.com/Wilfred)
 
-Stars: 10219
+Stars: 10218
 
 Forks: 140
 
@@ -16829,7 +16847,7 @@ Repository: [actix/actix](https://github.com/actix/actix)
 
 Author: [actix](https://github.com/actix)
 
-Stars: 7207
+Stars: 7210
 
 Forks: 596
 
@@ -16846,9 +16864,9 @@ Repository: [actix/actix-web](https://github.com/actix/actix-web)
 
 Author: [actix](https://github.com/actix)
 
-Stars: 14428
+Stars: 14434
 
-Forks: 1392
+Forks: 1393
 
 License: Apache License 2.0
 
@@ -16863,9 +16881,9 @@ Repository: [alacritty/alacritty](https://github.com/alacritty/alacritty)
 
 Author: [alacritty](https://github.com/alacritty)
 
-Stars: 40028
+Stars: 40039
 
-Forks: 2319
+Forks: 2318
 
 License: Apache License 2.0
 
@@ -16897,9 +16915,9 @@ Repository: [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
 
 Author: [aptos-labs](https://github.com/aptos-labs)
 
-Stars: 2328
+Stars: 2325
 
-Forks: 1525
+Forks: 1526
 
 License: Apache License 2.0
 
@@ -16948,9 +16966,9 @@ Repository: [bevyengine/bevy](https://github.com/bevyengine/bevy)
 
 Author: [bevyengine](https://github.com/bevyengine)
 
-Stars: 16888
+Stars: 16899
 
-Forks: 1584
+Forks: 1586
 
 License: Apache License 2.0
 
@@ -16982,7 +17000,7 @@ Repository: [boa-dev/boa](https://github.com/boa-dev/boa)
 
 Author: [boa-dev](https://github.com/boa-dev)
 
-Stars: 3121
+Stars: 3122
 
 Forks: 291
 
@@ -16999,7 +17017,7 @@ Repository: [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bo
 
 Author: [bottlerocket-os](https://github.com/bottlerocket-os)
 
-Stars: 6513
+Stars: 6511
 
 Forks: 341
 
@@ -17050,9 +17068,9 @@ Repository: [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselst
 
 Author: [chiselstrike](https://github.com/chiselstrike)
 
-Stars: 291
+Stars: 293
 
-Forks: 14
+Forks: 16
 
 License: Apache License 2.0
 
@@ -17084,7 +17102,7 @@ Repository: [cloudflare/boring](https://github.com/cloudflare/boring)
 
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 105
+Stars: 106
 
 Forks: 37
 
@@ -17101,9 +17119,9 @@ Repository: [cloudflare/quiche](https://github.com/cloudflare/quiche)
 
 Author: [cloudflare](https://github.com/cloudflare)
 
-Stars: 6277
+Stars: 6289
 
-Forks: 438
+Forks: 439
 
 License: BSD 2-Clause "Simplified" License
 
@@ -17152,7 +17170,7 @@ Repository: [copy/v86](https://github.com/copy/v86)
 
 Author: [copy](https://github.com/copy)
 
-Stars: 15014
+Stars: 15020
 
 Forks: 1098
 
@@ -17169,9 +17187,9 @@ Repository: [cube-js/cube.js](https://github.com/cube-js/cube.js)
 
 Author: [cube-js](https://github.com/cube-js)
 
-Stars: 13239
+Stars: 13246
 
-Forks: 1326
+Forks: 1325
 
 License: Other
 
@@ -17186,9 +17204,9 @@ Repository: [denoland/deno](https://github.com/denoland/deno)
 
 Author: [denoland](https://github.com/denoland)
 
-Stars: 83276
+Stars: 83303
 
-Forks: 4479
+Forks: 4482
 
 License: MIT License
 
@@ -17203,9 +17221,9 @@ Repository: [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
 
 Author: [diesel-rs](https://github.com/diesel-rs)
 
-Stars: 8624
+Stars: 8625
 
-Forks: 779
+Forks: 780
 
 License: Apache License 2.0
 
@@ -17237,9 +17255,9 @@ Repository: [extrawurst/gitui](https://github.com/extrawurst/gitui)
 
 Author: [extrawurst](https://github.com/extrawurst)
 
-Stars: 8271
+Stars: 8275
 
-Forks: 296
+Forks: 295
 
 License: MIT License
 
@@ -17254,7 +17272,7 @@ Repository: [facebook/relay](https://github.com/facebook/relay)
 
 Author: [facebook](https://github.com/facebook)
 
-Stars: 17091
+Stars: 17093
 
 Forks: 1714
 
@@ -17271,7 +17289,7 @@ Repository: [fermyon/spin](https://github.com/fermyon/spin)
 
 Author: [fermyon](https://github.com/fermyon)
 
-Stars: 1330
+Stars: 1338
 
 Forks: 63
 
@@ -17322,7 +17340,7 @@ Repository: [fnapi/fnapi](https://github.com/fnapi/fnapi)
 
 Author: [fnapi](https://github.com/fnapi)
 
-Stars: 289
+Stars: 295
 
 Forks: 3
 
@@ -17356,9 +17374,9 @@ Repository: [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
 
 Author: [gfx-rs](https://github.com/gfx-rs)
 
-Stars: 4948
+Stars: 4950
 
-Forks: 416
+Forks: 417
 
 License: Apache License 2.0
 
@@ -17390,9 +17408,9 @@ Repository: [iced-rs/iced](https://github.com/iced-rs/iced)
 
 Author: [iced-rs](https://github.com/iced-rs)
 
-Stars: 14321
+Stars: 14324
 
-Forks: 621
+Forks: 620
 
 License: MIT License
 
@@ -17611,9 +17629,9 @@ Repository: [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)
 
 Author: [kube-rs](https://github.com/kube-rs)
 
-Stars: 1434
+Stars: 1435
 
-Forks: 174
+Forks: 175
 
 License: Apache License 2.0
 
@@ -17628,7 +17646,7 @@ Repository: [lapce/lapce](https://github.com/lapce/lapce)
 
 Author: [lapce](https://github.com/lapce)
 
-Stars: 12627
+Stars: 12643
 
 Forks: 325
 
@@ -17679,7 +17697,7 @@ Repository: [lnx-search/lnx](https://github.com/lnx-search/lnx)
 
 Author: [lnx-search](https://github.com/lnx-search)
 
-Stars: 525
+Stars: 526
 
 Forks: 19
 
@@ -17747,7 +17765,7 @@ Repository: [mooman219/fontdue](https://github.com/mooman219/fontdue)
 
 Author: [mooman219](https://github.com/mooman219)
 
-Stars: 911
+Stars: 912
 
 Forks: 46
 
@@ -17798,7 +17816,7 @@ Repository: [o2sh/onefetch](https://github.com/o2sh/onefetch)
 
 Author: [o2sh](https://github.com/o2sh)
 
-Stars: 5374
+Stars: 5375
 
 Forks: 192
 
@@ -17832,9 +17850,9 @@ Repository: [rkyv/rkyv](https://github.com/rkyv/rkyv)
 
 Author: [rkyv](https://github.com/rkyv)
 
-Stars: 1277
+Stars: 1279
 
-Forks: 58
+Forks: 59
 
 License: MIT License
 
@@ -17849,7 +17867,7 @@ Repository: [roapi/roapi](https://github.com/roapi/roapi)
 
 Author: [roapi](https://github.com/roapi)
 
-Stars: 1480
+Stars: 1481
 
 Forks: 104
 
@@ -17900,9 +17918,9 @@ Repository: [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 9960
+Stars: 9963
 
-Forks: 1096
+Forks: 1098
 
 License: Mozilla Public License 2.0
 
@@ -17917,9 +17935,9 @@ Repository: [rust-lang/rust](https://github.com/rust-lang/rust)
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 68172
+Stars: 68196
 
-Forks: 9396
+Forks: 9401
 
 License: Other
 
@@ -17934,9 +17952,9 @@ Repository: [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 9876
+Stars: 9879
 
-Forks: 1003
+Forks: 1004
 
 License: Apache License 2.0
 
@@ -17951,9 +17969,9 @@ Repository: [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 
 Author: [rust-lang](https://github.com/rust-lang)
 
-Stars: 25511
+Stars: 25540
 
-Forks: 4122
+Forks: 4127
 
 License: MIT License
 
@@ -17968,9 +17986,9 @@ Repository: [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
 Author: [rustdesk](https://github.com/rustdesk)
 
-Stars: 23181
+Stars: 23202
 
-Forks: 2107
+Forks: 2108
 
 License: GNU Affero General Public License v3.0
 
@@ -18036,7 +18054,7 @@ Repository: [sharkdp/bat](https://github.com/sharkdp/bat)
 
 Author: [sharkdp](https://github.com/sharkdp)
 
-Stars: 35330
+Stars: 35348
 
 Forks: 933
 
@@ -18053,7 +18071,7 @@ Repository: [singularity-data/risingwave](https://github.com/singularity-data/ri
 
 Author: [singularity-data](https://github.com/singularity-data)
 
-Stars: 2786
+Stars: 2791
 
 Forks: 203
 
@@ -18087,9 +18105,9 @@ Repository: [solana-labs/solana](https://github.com/solana-labs/solana)
 
 Author: [solana-labs](https://github.com/solana-labs)
 
-Stars: 8974
+Stars: 8978
 
-Forks: 2183
+Forks: 2187
 
 License: Other
 
@@ -18104,7 +18122,7 @@ Repository: [spacejam/rio](https://github.com/spacejam/rio)
 
 Author: [spacejam](https://github.com/spacejam)
 
-Stars: 757
+Stars: 758
 
 Forks: 36
 
@@ -18121,7 +18139,7 @@ Repository: [starship/starship](https://github.com/starship/starship)
 
 Author: [starship](https://github.com/starship)
 
-Stars: 27078
+Stars: 27089
 
 Forks: 1131
 
@@ -18138,9 +18156,9 @@ Repository: [swc-project/swc](https://github.com/swc-project/swc)
 
 Author: [swc-project](https://github.com/swc-project)
 
-Stars: 22691
+Stars: 22698
 
-Forks: 727
+Forks: 728
 
 License: Apache License 2.0
 
@@ -18155,9 +18173,9 @@ Repository: [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 
 Author: [tauri-apps](https://github.com/tauri-apps)
 
-Stars: 45244
+Stars: 45287
 
-Forks: 1117
+Forks: 1122
 
 License: Apache License 2.0
 
@@ -18206,9 +18224,9 @@ Repository: [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
 
 Author: [tokio-rs](https://github.com/tokio-rs)
 
-Stars: 16562
+Stars: 16572
 
-Forks: 1532
+Forks: 1534
 
 License: MIT License
 
@@ -18240,7 +18258,7 @@ Repository: [wasmerio/wasmer](https://github.com/wasmerio/wasmer)
 
 Author: [wasmerio](https://github.com/wasmerio)
 
-Stars: 12491
+Stars: 12495
 
 Forks: 540
 
@@ -18317,7 +18335,7 @@ Repository: [material-components/material-web](https://github.com/material-compo
 
 Author: [material-components](https://github.com/material-components)
 
-Stars: 3546
+Stars: 3551
 
 Forks: 460
 
@@ -18409,7 +18427,7 @@ Repository: [lichess-org/lila](https://github.com/lichess-org/lila)
 
 Author: [lichess-org](https://github.com/lichess-org)
 
-Stars: 11610
+Stars: 11612
 
 Forks: 1672
 
@@ -18440,7 +18458,7 @@ Author: [angristan](https://github.com/angristan)
 
 Stars: 3491
 
-Forks: 724
+Forks: 725
 
 License: MIT License
 
@@ -18506,7 +18524,7 @@ Repository: [tj/n](https://github.com/tj/n)
 
 Author: [tj](https://github.com/tj)
 
-Stars: 16461
+Stars: 16462
 
 Forks: 714
 
@@ -18556,7 +18574,7 @@ Repository: [avatsaev/touchbar_nyancat](https://github.com/avatsaev/touchbar_nya
 
 Author: [avatsaev](https://github.com/avatsaev)
 
-Stars: 2945
+Stars: 2944
 
 Forks: 154
 
@@ -18591,6 +18609,7 @@ Stupid nyancat animation on your +$2k MacBook Pro's Touchbar
 * [coder/code-server](#codercode-server)
 * [common-voice/common-voice](#common-voicecommon-voice)
 * [conwnet/github1s](#conwnetgithub1s)
+* [denoland/fresh](#denolandfresh)
 * [eclipse-theia/theia](#eclipse-theiatheia)
 * [electron-react-boilerplate/electron-react-boilerplate](#electron-react-boilerplateelectron-react-boilerplate)
 * [exhibitionist-digital/ultra](#exhibitionist-digitalultra)
@@ -18603,13 +18622,13 @@ Stupid nyancat animation on your +$2k MacBook Pro's Touchbar
 * [ionic-team/stencil](#ionic-teamstencil)
 * [jedisct1/as-wasi](#jedisct1as-wasi)
 * [kamranahmedse/developer-roadmap](#kamranahmedsedeveloper-roadmap)
-* [lucacasonato/fresh](#lucacasonatofresh)
 * [master-co/css](#master-cocss)
 * [msanvarov/nest-rest-mongo-boilerplate](#msanvarovnest-rest-mongo-boilerplate)
 * [myyrakle/MOVED__rustywiki-front](#myyraklemoved__rustywiki-front)
 * [myyrakle/eojuk](#myyrakleeojuk)
 * [naver/billboard.js](#naverbillboardjs)
 * [nhn/tui.editor](#nhntuieditor)
+* [opensumi/core](#opensumicore)
 * [peterthehan/discord-reaction-role-bot](#peterthehandiscord-reaction-role-bot)
 * [pmndrs/jotai](#pmndrsjotai)
 * [pmndrs/zustand](#pmndrszustand)
@@ -18676,9 +18695,9 @@ Repository: [Azure/Azurite](https://github.com/Azure/Azurite)
 
 Author: [Azure](https://github.com/Azure)
 
-Stars: 1209
+Stars: 1211
 
-Forks: 235
+Forks: 236
 
 License: MIT License
 
@@ -18710,7 +18729,7 @@ Repository: [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop
 
 Author: [James-Yu](https://github.com/James-Yu)
 
-Stars: 8518
+Stars: 8519
 
 Forks: 432
 
@@ -18812,9 +18831,9 @@ Repository: [aidenybai/million](https://github.com/aidenybai/million)
 
 Author: [aidenybai](https://github.com/aidenybai)
 
-Stars: 2577
+Stars: 2581
 
-Forks: 75
+Forks: 74
 
 License: MIT License
 
@@ -18863,9 +18882,9 @@ Repository: [angular/angular](https://github.com/angular/angular)
 
 Author: [angular](https://github.com/angular)
 
-Stars: 82241
+Stars: 82279
 
-Forks: 21729
+Forks: 21733
 
 License: MIT License
 
@@ -18880,9 +18899,9 @@ Repository: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 
 Author: [appsmithorg](https://github.com/appsmithorg)
 
-Stars: 19280
+Stars: 19289
 
-Forks: 1565
+Forks: 1569
 
 License: Apache License 2.0
 
@@ -18931,9 +18950,9 @@ Repository: [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 
 Author: [chakra-ui](https://github.com/chakra-ui)
 
-Stars: 27328
+Stars: 27339
 
-Forks: 2389
+Forks: 2391
 
 License: MIT License
 
@@ -18948,9 +18967,9 @@ Repository: [coder/code-server](https://github.com/coder/code-server)
 
 Author: [coder](https://github.com/coder)
 
-Stars: 54238
+Stars: 54250
 
-Forks: 4541
+Forks: 4542
 
 License: MIT License
 
@@ -18982,13 +19001,30 @@ Repository: [conwnet/github1s](https://github.com/conwnet/github1s)
 
 Author: [conwnet](https://github.com/conwnet)
 
-Stars: 21017
+Stars: 21018
 
-Forks: 723
+Forks: 724
 
 License: MIT License
 
 One second to read GitHub code with VS Code.
+
+[✅ Return to TypeScript](#typescript)
+
+<a name="repo-bx2be3uxu2nnrklipft3qyo4"></a>
+## denoland/fresh
+
+Repository: [denoland/fresh](https://github.com/denoland/fresh)
+
+Author: [denoland](https://github.com/denoland)
+
+Stars: 2930
+
+Forks: 95
+
+License: MIT License
+
+The next-gen web framework.
 
 [✅ Return to TypeScript](#typescript)
 
@@ -19018,7 +19054,7 @@ Author: [electron-react-boilerplate](https://github.com/electron-react-boilerpla
 
 Stars: 19801
 
-Forks: 3334
+Forks: 3333
 
 License: MIT License
 
@@ -19033,7 +19069,7 @@ Repository: [exhibitionist-digital/ultra](https://github.com/exhibitionist-digit
 
 Author: [exhibitionist-digital](https://github.com/exhibitionist-digital)
 
-Stars: 2369
+Stars: 2371
 
 Forks: 44
 
@@ -19050,9 +19086,9 @@ Repository: [facebook/docusaurus](https://github.com/facebook/docusaurus)
 
 Author: [facebook](https://github.com/facebook)
 
-Stars: 34417
+Stars: 34426
 
-Forks: 5111
+Forks: 5113
 
 License: MIT License
 
@@ -19067,7 +19103,7 @@ Repository: [felixrieseberg/windows95](https://github.com/felixrieseberg/windows
 
 Author: [felixrieseberg](https://github.com/felixrieseberg)
 
-Stars: 19445
+Stars: 19475
 
 Forks: 1175
 
@@ -19084,7 +19120,7 @@ Repository: [giscus/giscus](https://github.com/giscus/giscus)
 
 Author: [giscus](https://github.com/giscus)
 
-Stars: 2371
+Stars: 2377
 
 Forks: 106
 
@@ -19152,7 +19188,7 @@ Repository: [ionic-team/stencil](https://github.com/ionic-team/stencil)
 
 Author: [ionic-team](https://github.com/ionic-team)
 
-Stars: 10813
+Stars: 10816
 
 Forks: 699
 
@@ -19186,30 +19222,13 @@ Repository: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/d
 
 Author: [kamranahmedse](https://github.com/kamranahmedse)
 
-Stars: 198103
+Stars: 198172
 
-Forks: 28398
+Forks: 28401
 
 License: Other
 
 Roadmap to becoming a developer in 2022
-
-[✅ Return to TypeScript](#typescript)
-
-<a name="repo-7bmxh3pgqwfyqejurbvttlda"></a>
-## lucacasonato/fresh
-
-Repository: [lucacasonato/fresh](https://github.com/lucacasonato/fresh)
-
-Author: [lucacasonato](https://github.com/lucacasonato)
-
-Stars: 2643
-
-Forks: 85
-
-License: MIT License
-
-The next-gen web framework.
 
 [✅ Return to TypeScript](#typescript)
 
@@ -19220,7 +19239,7 @@ Repository: [master-co/css](https://github.com/master-co/css)
 
 Author: [master-co](https://github.com/master-co)
 
-Stars: 751
+Stars: 752
 
 Forks: 20
 
@@ -19288,7 +19307,7 @@ Repository: [naver/billboard.js](https://github.com/naver/billboard.js)
 
 Author: [naver](https://github.com/naver)
 
-Stars: 5198
+Stars: 5199
 
 Forks: 339
 
@@ -19305,13 +19324,30 @@ Repository: [nhn/tui.editor](https://github.com/nhn/tui.editor)
 
 Author: [nhn](https://github.com/nhn)
 
-Stars: 14813
+Stars: 14814
 
-Forks: 1452
+Forks: 1451
 
 License: MIT License
 
 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+
+[✅ Return to TypeScript](#typescript)
+
+<a name="repo-mpkwbiuw2unckpiy4ndfvrgm"></a>
+## opensumi/core
+
+Repository: [opensumi/core](https://github.com/opensumi/core)
+
+Author: [opensumi](https://github.com/opensumi)
+
+Stars: 1611
+
+Forks: 178
+
+License: MIT License
+
+🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 
 [✅ Return to TypeScript](#typescript)
 
@@ -19339,7 +19375,7 @@ Repository: [pmndrs/jotai](https://github.com/pmndrs/jotai)
 
 Author: [pmndrs](https://github.com/pmndrs)
 
-Stars: 8847
+Stars: 8853
 
 Forks: 266
 
@@ -19356,7 +19392,7 @@ Repository: [pmndrs/zustand](https://github.com/pmndrs/zustand)
 
 Author: [pmndrs](https://github.com/pmndrs)
 
-Stars: 18629
+Stars: 18650
 
 Forks: 533
 
@@ -19390,9 +19426,9 @@ Repository: [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 
 Author: [puppeteer](https://github.com/puppeteer)
 
-Stars: 78716
+Stars: 78723
 
-Forks: 8449
+Forks: 8446
 
 License: Apache License 2.0
 
@@ -19424,9 +19460,9 @@ Repository: [remix-run/remix](https://github.com/remix-run/remix)
 
 Author: [remix-run](https://github.com/remix-run)
 
-Stars: 17511
+Stars: 17521
 
-Forks: 1377
+Forks: 1381
 
 License: MIT License
 
@@ -19441,7 +19477,7 @@ Repository: [ronami/typelang](https://github.com/ronami/typelang)
 
 Author: [ronami](https://github.com/ronami)
 
-Stars: 182
+Stars: 183
 
 Forks: 0
 
@@ -19509,9 +19545,9 @@ Repository: [solidjs/solid](https://github.com/solidjs/solid)
 
 Author: [solidjs](https://github.com/solidjs)
 
-Stars: 19663
+Stars: 19674
 
-Forks: 495
+Forks: 496
 
 License: MIT License
 
@@ -19526,9 +19562,9 @@ Repository: [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedri
 
 Author: [spacedriveapp](https://github.com/spacedriveapp)
 
-Stars: 12969
+Stars: 12978
 
-Forks: 310
+Forks: 312
 
 License: GNU General Public License v3.0
 
@@ -19543,9 +19579,9 @@ Repository: [supabase/supabase](https://github.com/supabase/supabase)
 
 Author: [supabase](https://github.com/supabase)
 
-Stars: 34821
+Stars: 34838
 
-Forks: 2072
+Forks: 2074
 
 License: Apache License 2.0
 
@@ -19560,7 +19596,7 @@ Repository: [theatre-js/theatre](https://github.com/theatre-js/theatre)
 
 Author: [theatre-js](https://github.com/theatre-js)
 
-Stars: 5996
+Stars: 5997
 
 Forks: 165
 
@@ -19577,7 +19613,7 @@ Repository: [timc1/kbar](https://github.com/timc1/kbar)
 
 Author: [timc1](https://github.com/timc1)
 
-Stars: 2954
+Stars: 2955
 
 Forks: 104
 
@@ -19611,7 +19647,7 @@ Repository: [unjs/h3](https://github.com/unjs/h3)
 
 Author: [unjs](https://github.com/unjs)
 
-Stars: 915
+Stars: 920
 
 Forks: 40
 
@@ -19628,9 +19664,9 @@ Repository: [vercel/vercel](https://github.com/vercel/vercel)
 
 Author: [vercel](https://github.com/vercel)
 
-Stars: 8878
+Stars: 8884
 
-Forks: 1294
+Forks: 1295
 
 License: Apache License 2.0
 
@@ -19645,9 +19681,9 @@ Repository: [withastro/astro](https://github.com/withastro/astro)
 
 Author: [withastro](https://github.com/withastro)
 
-Stars: 12602
+Stars: 12624
 
-Forks: 657
+Forks: 659
 
 License: Other
 
@@ -19662,9 +19698,9 @@ Repository: [withfig/autocomplete](https://github.com/withfig/autocomplete)
 
 Author: [withfig](https://github.com/withfig)
 
-Stars: 18421
+Stars: 18432
 
-Forks: 4301
+Forks: 4311
 
 License: MIT License
 
@@ -19679,7 +19715,7 @@ Repository: [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
 
 Author: [xtermjs](https://github.com/xtermjs)
 
-Stars: 13197
+Stars: 13201
 
 Forks: 1298
 
@@ -19705,7 +19741,7 @@ Repository: [vlang/go2v](https://github.com/vlang/go2v)
 
 Author: [vlang](https://github.com/vlang)
 
-Stars: 116
+Stars: 115
 
 Forks: 13
 
@@ -19724,7 +19760,7 @@ Author: [vlang](https://github.com/vlang)
 
 Stars: 29444
 
-Forks: 1814
+Forks: 1815
 
 License: MIT License
 
@@ -19902,7 +19938,7 @@ Repository: [Integerous/goQuality-dev-contents](https://github.com/Integerous/go
 
 Author: [Integerous](https://github.com/Integerous)
 
-Stars: 6185
+Stars: 6187
 
 Forks: 1048
 
@@ -20004,7 +20040,7 @@ Repository: [daangn/digital-garden](https://github.com/daangn/digital-garden)
 
 Author: [daangn](https://github.com/daangn)
 
-Stars: 304
+Stars: 305
 
 Forks: 12
 
@@ -20021,7 +20057,7 @@ Repository: [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook)
 
 Author: [dgryski](https://github.com/dgryski)
 
-Stars: 9872
+Stars: 9873
 
 Forks: 550
 
@@ -20038,9 +20074,9 @@ Repository: [firstcontributions/first-contributions](https://github.com/firstcon
 
 Author: [firstcontributions](https://github.com/firstcontributions)
 
-Stars: 23631
+Stars: 23632
 
-Forks: 45602
+Forks: 45615
 
 License: MIT License
 
@@ -20055,9 +20091,9 @@ Repository: [github/gitignore](https://github.com/github/gitignore)
 
 Author: [github](https://github.com/github)
 
-Stars: 134632
+Stars: 134650
 
-Forks: 75687
+Forks: 75713
 
 License: Creative Commons Zero v1.0 Universal
 
@@ -20140,7 +20176,7 @@ Repository: [mkrl/misbrands](https://github.com/mkrl/misbrands)
 
 Author: [mkrl](https://github.com/mkrl)
 
-Stars: 6981
+Stars: 6982
 
 Forks: 239
 
@@ -20259,7 +20295,7 @@ Repository: [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengi
 
 Author: [sedyh](https://github.com/sedyh)
 
-Stars: 147
+Stars: 149
 
 Forks: 8
 
