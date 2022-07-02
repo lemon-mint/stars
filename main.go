@@ -238,6 +238,17 @@ func main() {
 		fmt.Println(err)
 		return
 	}
+	f, err := os.Create("stars.json")
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	defer f.Close()
+	err = json.NewEncoder(f).Encode(stars)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
 	fmt.Fprintf(os.Stderr, "Fetched %d stars\n", len(stars))
 	markdown := BuildMarkdown(stars)
 	fmt.Println(markdown)
